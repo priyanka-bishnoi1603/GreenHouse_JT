@@ -1,5 +1,6 @@
 """
 poller.py — Main Greenhouse job polling script.
+Scoring removed — alerts sent for ALL jobs passing location + title filters.
 """
 
 import sys
@@ -10,9 +11,8 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
 
-from filters import is_usa_location, is_software_role, is_entry_mid_level
+from filters import is_usa_location, is_software_role
 from state import load_state, save_state, is_seen, get_updated_at, record_job, was_alerted, mark_alerted
-from scorer import score_job, should_alert
 from notifier import send_slack_alert, send_run_summary
 
 COMPANIES_FILE = Path("companies.txt")
@@ -22,8 +22,6 @@ REQUEST_TIMEOUT = 15
 RETRY_ATTEMPTS = 2
 RETRY_DELAY = 3
 MAX_JOBS_PER_COMPANY = 500
-
-SKIP_SCORING_THRESHOLD = 30
 
 
 def load_companies() -> list[str]:
@@ -91,15 +89,13 @@ def format_job_entry(job: dict, tag: str = "NEW") -> str:
     job_id = job.get("id", "")
     updated_at = job.get("updated_at", "")
     department = job.get("_department", "")
-    score = job.get("_score")
 
     loc_display = f"📍 {location}" if location else "📍 Remote / Unspecified"
     dept_display = f" · {department}" if department else ""
-    score_display = f" · 🎯 {score}%" if score is not None else ""
 
     return (
         f"### {icon} {title}\n"
-        f"**{company}**{dept_display}{score_display}\n"
+        f"**{company}**{dept_display}\n"
         f"{loc_display} &nbsp;|&nbsp; 🔗 [Apply Here]({url})\n"
         f"🕐 Updated: `{updated_at}` &nbsp;|&nbsp; ID: `{job_id}`\n"
         f"\n---\n"
@@ -126,7 +122,7 @@ def write_output(new_jobs: list[dict], updated_jobs: list[dict]) -> None:
 
     page_header = (
         "# 🌿 Greenhouse Job Tracker\n"
-        "_Filtered: USA only · Cybersecurity & SOC · Entry & Mid Level_\n\n"
+        "_Filtered: USA/Remote · Cybersecurity & SOC roles only_\n\n"
     )
 
     if existing.startswith("# 🌿"):
@@ -136,17 +132,10 @@ def write_output(new_jobs: list[dict], updated_jobs: list[dict]) -> None:
 
 
 def _validate_env() -> None:
-    """Fail fast if required environment variables are missing."""
-    groq_key = os.environ.get("GROQ_GJT_API_KEY", "").strip()
-
-    if not groq_key:
-        print("[ERROR] Missing required env var: GROQ_GJT_API_KEY (Groq API key for resume scoring)")
-        sys.exit(1)
-
-    print("[info] Scorer: Groq llama-3.3-70b-versatile")
-
     if not os.environ.get("SLACK_WEBHOOK_URL", "").strip():
         print("[warn] SLACK_WEBHOOK_URL not set — Slack alerts will be skipped.")
+    else:
+        print("[info] Slack alerts: enabled")
 
 
 def main():
@@ -225,14 +214,7 @@ def main():
 
             title = job.get("title", "")
             department = extract_department(job)
-
-            # Filter 1: must be a cybersecurity role
             if not is_software_role(title, department):
-                stats["jobs_skipped_title"] += 1
-                continue
-
-            # Filter 2: must be entry or mid level
-            if not is_entry_mid_level(title):
                 stats["jobs_skipped_title"] += 1
                 continue
 
@@ -257,63 +239,27 @@ def main():
 
     save_state(state)
 
-    # --- Score & alert for NEW jobs only ---
-    jobs_to_score = [
+    # --- Alert for ALL new jobs that pass filters (no scoring) ---
+    jobs_to_alert = [
         job for job in new_jobs
         if not was_alerted(state, str(job.get("id", "")))
     ]
 
-    if jobs_to_score:
-        print(f"\n[scorer] {len(jobs_to_score)} new job(s) to score...")
-
-        if len(jobs_to_score) > SKIP_SCORING_THRESHOLD:
-            print(f"[scorer] Too many new jobs ({len(jobs_to_score)} > {SKIP_SCORING_THRESHOLD}).")
-            print(f"[scorer] Marking all as seen — next run will score only new arrivals.")
-            for job in jobs_to_score:
-                mark_alerted(state, str(job.get("id", "")))
-            save_state(state)
-            write_output(new_jobs, updated_jobs)
-            print(f"[output] Written to {OUTPUT_FILE}")
-            elapsed = (datetime.now(timezone.utc) - start).total_seconds()
-            print(f"\n{'='*60}")
-            print(f"SUMMARY — First-run protection triggered")
-            print(f"  Companies checked : {stats['companies_checked']} / {len(companies)}")
-            print(f"  Jobs fetched      : {stats['jobs_fetched']}")
-            print(f"  Skipped (seen)    : {stats['jobs_skipped_seen']}")
-            print(f"  Skipped (location): {stats['jobs_skipped_location']}")
-            print(f"  Skipped (title)   : {stats['jobs_skipped_title']}")
-            print(f"  New jobs found    : {stats['jobs_new']} 🆕")
-            print(f"  Scoring skipped   : first-run protection ({len(jobs_to_score)} jobs)")
-            print(f"  Elapsed           : {elapsed:.1f}s")
-            print(f"{'='*60}\n")
-            sys.exit(0)
-
-        print(f"[scorer] Scoring {len(jobs_to_score)} job(s) against resume...")
-        for job in jobs_to_score:
+    if jobs_to_alert:
+        print(f"\n[alert] Sending alerts for {len(jobs_to_alert)} new job(s)...")
+        for job in jobs_to_alert:
             job_id = str(job.get("id", ""))
             job_label = f"{job.get('title', '?')} @ {job.get('company', '?')}"
             print(f"  → {job_label} ...", end=" ", flush=True)
 
-            score = score_job(job)
-            if score is None:
-                print("scoring failed — marking to avoid infinite retry.")
-                mark_alerted(state, job_id)
-                stats["alerts_skipped"] += 1
-                continue
-
-            print(f"score={score}%")
-            job["_score"] = score
-
+            sent = send_slack_alert(job, score=None)
             mark_alerted(state, job_id)
 
-            if should_alert(score):
-                sent = send_slack_alert(job, score)
-                if sent:
-                    stats["alerts_sent"] += 1
-                else:
-                    stats["alerts_skipped"] += 1
+            if sent:
+                print("✅ Alert sent!")
+                stats["alerts_sent"] += 1
             else:
-                print(f"  [scorer] Below threshold ({score}%) — no alert.")
+                print("❌ Alert failed.")
                 stats["alerts_skipped"] += 1
 
         save_state(state)
@@ -340,7 +286,7 @@ def main():
     print(f"  New jobs found    : {stats['jobs_new']} 🆕")
     print(f"  Updated jobs      : {stats['jobs_updated']} 🔄")
     print(f"  Slack alerts sent : {stats['alerts_sent']} 🔔")
-    print(f"  Below threshold   : {stats['alerts_skipped']}")
+    print(f"  Alerts failed     : {stats['alerts_skipped']}")
     print(f"  Elapsed           : {elapsed:.1f}s")
     print(f"{'='*60}\n")
 
