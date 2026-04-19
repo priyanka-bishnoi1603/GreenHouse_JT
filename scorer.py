@@ -84,7 +84,7 @@ def _score_with_groq(prompt: str) -> Optional[int]:
         "temperature": 0,
     }
 
-     time.sleep(5)  # avoid Groq free tier rate limits
+    time.sleep(5)  # avoid Groq free tier rate limits
     for attempt in range(1, MAX_RETRIES + 1):
         try:
             resp = requests.post(GROQ_API_URL, headers=headers, json=payload, timeout=30)
