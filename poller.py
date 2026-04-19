@@ -245,15 +245,30 @@ def main():
         if not was_alerted(state, str(job.get("id", "")))
     ]
 
-    if jobs_to_alert:
-        print(f"\n[alert] Sending alerts for {len(jobs_to_alert)} new job(s)...")
-        for job in jobs_to_alert:
-            job_id = str(job.get("id", ""))
-            job_label = f"{job.get('title', '?')} @ {job.get('company', '?')}"
-            print(f"  → {job_label} ...", end=" ", flush=True)
+     if jobs_to_alert:
+        # Check how many alerts already sent today
+        today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+        daily_count = state.get("__daily_alerts__", {})
+        alerts_today = daily_count.get(today, 0)
+        remaining = max(0, MAX_DAILY_ALERTS - alerts_today)
 
-            sent = send_slack_alert(job, score=None)
-            mark_alerted(state, job_id)
+        print(f"\n[alert] {len(jobs_to_alert)} new job(s) to alert | {alerts_today}/{MAX_DAILY_ALERTS} alerts sent today | {remaining} remaining")
+
+        if remaining == 0:
+            print(f"[alert] Daily limit of {MAX_DAILY_ALERTS} reached — skipping alerts for this run.")
+            for job in jobs_to_alert:
+                mark_alerted(state, str(job.get("id", "")))
+            save_state(state)
+        else:
+            jobs_to_alert = jobs_to_alert[:remaining]  # cap to remaining quota
+            print(f"[alert] Sending {len(jobs_to_alert)} alert(s)...")
+            for job in jobs_to_alert:
+                job_id = str(job.get("id", ""))
+                job_label = f"{job.get('title', '?')} @ {job.get('company', '?')}"
+                print(f"  → {job_label} ...", end=" ", flush=True)
+
+                sent = send_slack_alert(job, score=None)
+                mark_alerted(state, job_id)
 
             if sent:
                 print("✅ Alert sent!")
