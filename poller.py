@@ -23,6 +23,10 @@ RETRY_ATTEMPTS = 2
 RETRY_DELAY = 3
 MAX_JOBS_PER_COMPANY = 500
 
+# First-run protection: if more than this many new jobs found, skip scoring
+# and just mark them all as seen. Next run will only score genuinely new jobs.
+SKIP_SCORING_THRESHOLD = 30
+
 
 def load_companies() -> list[str]:
     if not COMPANIES_FILE.exists():
@@ -124,7 +128,7 @@ def write_output(new_jobs: list[dict], updated_jobs: list[dict]) -> None:
 
     page_header = (
         "# 🌿 Greenhouse Job Tracker\n"
-        "_Filtered: USA/Remote · Software & IT roles only_\n\n"
+        "_Filtered: USA/Remote · Cybersecurity & SOC roles only_\n\n"
     )
 
     if existing.startswith("# 🌿"):
@@ -133,21 +137,19 @@ def write_output(new_jobs: list[dict], updated_jobs: list[dict]) -> None:
     OUTPUT_FILE.write_text(page_header + header + entries + existing, encoding="utf-8")
 
 
-
 def _validate_env() -> None:
     """Fail fast if required environment variables are missing."""
     groq_key = os.environ.get("GROQ_GJT_API_KEY", "").strip()
-    cl_key = os.environ.get("CL_API_KEY", "").strip()
 
-    if not groq_key and not cl_key:
-        print("[ERROR] No API key found. Set GROQ_GJT_API_KEY (Groq) or CL_API_KEY (Anthropic).")
+    if not groq_key:
+        print("[ERROR] Missing required env var: GROQ_GJT_API_KEY (Groq API key for resume scoring)")
         sys.exit(1)
-    if groq_key:
-        print("[info] Scorer: Groq (primary)")
-    if cl_key:
-        print("[info] Scorer: Anthropic (fallback)" if groq_key else "[info] Scorer: Anthropic (primary)")
+
+    print("[info] Scorer: Groq (primary)")
+
     if not os.environ.get("SLACK_WEBHOOK_URL", "").strip():
         print("[warn] SLACK_WEBHOOK_URL not set — Slack alerts will be skipped.")
+
 
 def main():
     start = datetime.now(timezone.utc)
@@ -229,7 +231,6 @@ def main():
             if not is_software_role(title, department):
                 stats["jobs_skipped_title"] += 1
                 continue
-                   
 
             enriched = {
                 **job,
@@ -253,14 +254,42 @@ def main():
     save_state(state)
 
     # --- Score & alert for NEW jobs only ---
-    # Skip any job already alerted (safety net against duplicates)
     jobs_to_score = [
         job for job in new_jobs
         if not was_alerted(state, str(job.get("id", "")))
     ]
 
     if jobs_to_score:
-        print(f"\n[scorer] Scoring {len(jobs_to_score)} new job(s) against resume...")
+        print(f"\n[scorer] {len(jobs_to_score)} new job(s) to score...")
+
+        # ── First-run protection ──────────────────────────────────────────
+        # If too many new jobs, mark all as seen without scoring.
+        # This prevents Groq rate limit timeouts on the first run.
+        # Next run will only have genuinely new jobs (2-5) to score.
+        if len(jobs_to_score) > SKIP_SCORING_THRESHOLD:
+            print(f"[scorer] Too many new jobs ({len(jobs_to_score)} > {SKIP_SCORING_THRESHOLD}).")
+            print(f"[scorer] Marking all as seen without scoring — next run will score only new arrivals.")
+            for job in jobs_to_score:
+                mark_alerted(state, str(job.get("id", "")))
+            save_state(state)
+            write_output(new_jobs, updated_jobs)
+            print(f"[output] Written to {OUTPUT_FILE}")
+            elapsed = (datetime.now(timezone.utc) - start).total_seconds()
+            print(f"\n{'='*60}")
+            print(f"SUMMARY")
+            print(f"  Companies checked : {stats['companies_checked']} / {len(companies)}")
+            print(f"  Jobs fetched      : {stats['jobs_fetched']}")
+            print(f"  Skipped (seen)    : {stats['jobs_skipped_seen']}")
+            print(f"  Skipped (location): {stats['jobs_skipped_location']}")
+            print(f"  Skipped (title)   : {stats['jobs_skipped_title']}")
+            print(f"  New jobs found    : {stats['jobs_new']} 🆕")
+            print(f"  Scoring skipped   : first-run protection ({len(jobs_to_score)} jobs)")
+            print(f"  Elapsed           : {elapsed:.1f}s")
+            print(f"{'='*60}\n")
+            sys.exit(0)
+        # ─────────────────────────────────────────────────────────────────
+
+        print(f"[scorer] Scoring {len(jobs_to_score)} job(s) against resume...")
         for job in jobs_to_score:
             job_id = str(job.get("id", ""))
             job_label = f"{job.get('title', '?')} @ {job.get('company', '?')}"
@@ -269,14 +298,13 @@ def main():
             score = score_job(job)  # returns int or None
             if score is None:
                 print("scoring failed — marking to avoid infinite retry.")
-                mark_alerted(state, job_id)   # Bug fix: prevent re-scoring every run
+                mark_alerted(state, job_id)
                 stats["alerts_skipped"] += 1
                 continue
 
             print(f"score={score}%")
-            job["_score"] = score  # attach score to job for output/md display
+            job["_score"] = score
 
-            # Mark as scored — never score this job again regardless of outcome
             mark_alerted(state, job_id)
 
             if should_alert(score):
@@ -289,10 +317,8 @@ def main():
                 print(f"  [scorer] Below threshold ({score}% < 65%) — no alert.")
                 stats["alerts_skipped"] += 1
 
-        # Save state again to persist alerted flags
         save_state(state)
 
-        # Send summary when any new jobs were found, not just when alerts fired
         if stats["jobs_new"] > 0 or stats["alerts_sent"] > 0:
             send_run_summary(stats)
 
