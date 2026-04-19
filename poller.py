@@ -1,6 +1,7 @@
 """
 poller.py — Main Greenhouse job polling script.
 Scoring removed — alerts sent for ALL jobs passing location + title filters.
+Daily alert cap: MAX_DAILY_ALERTS per day.
 """
 
 import sys
@@ -22,6 +23,7 @@ REQUEST_TIMEOUT = 15
 RETRY_ATTEMPTS = 2
 RETRY_DELAY = 3
 MAX_JOBS_PER_COMPANY = 500
+MAX_DAILY_ALERTS = 50
 
 
 def load_companies() -> list[str]:
@@ -245,14 +247,13 @@ def main():
         if not was_alerted(state, str(job.get("id", "")))
     ]
 
-     if jobs_to_alert:
-        # Check how many alerts already sent today
+    if jobs_to_alert:
         today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
         daily_count = state.get("__daily_alerts__", {})
         alerts_today = daily_count.get(today, 0)
         remaining = max(0, MAX_DAILY_ALERTS - alerts_today)
 
-        print(f"\n[alert] {len(jobs_to_alert)} new job(s) to alert | {alerts_today}/{MAX_DAILY_ALERTS} alerts sent today | {remaining} remaining")
+        print(f"\n[alert] {len(jobs_to_alert)} new job(s) to alert | {alerts_today}/{MAX_DAILY_ALERTS} sent today | {remaining} remaining")
 
         if remaining == 0:
             print(f"[alert] Daily limit of {MAX_DAILY_ALERTS} reached — skipping alerts for this run.")
@@ -260,8 +261,9 @@ def main():
                 mark_alerted(state, str(job.get("id", "")))
             save_state(state)
         else:
-            jobs_to_alert = jobs_to_alert[:remaining]  # cap to remaining quota
+            jobs_to_alert = jobs_to_alert[:remaining]
             print(f"[alert] Sending {len(jobs_to_alert)} alert(s)...")
+
             for job in jobs_to_alert:
                 job_id = str(job.get("id", ""))
                 job_label = f"{job.get('title', '?')} @ {job.get('company', '?')}"
@@ -270,17 +272,19 @@ def main():
                 sent = send_slack_alert(job, score=None)
                 mark_alerted(state, job_id)
 
-            if sent:
-                print("✅ Alert sent!")
-                stats["alerts_sent"] += 1
-            else:
-                print("❌ Alert failed.")
-                stats["alerts_skipped"] += 1
+                if sent:
+                    print("✅ Alert sent!")
+                    stats["alerts_sent"] += 1
+                    alerts_today += 1
+                else:
+                    print("❌ Alert failed.")
+                    stats["alerts_skipped"] += 1
 
-        save_state(state)
+            state["__daily_alerts__"] = {today: alerts_today}
+            save_state(state)
 
-        if stats["jobs_new"] > 0 or stats["alerts_sent"] > 0:
-            send_run_summary(stats)
+            if stats["jobs_new"] > 0 or stats["alerts_sent"] > 0:
+                send_run_summary(stats)
 
     if new_jobs or updated_jobs:
         write_output(new_jobs, updated_jobs)
