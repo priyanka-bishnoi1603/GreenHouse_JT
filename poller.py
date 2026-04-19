@@ -10,7 +10,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
 
-from filters import is_usa_location, is_software_role
+from filters import is_usa_location, is_software_role, is_entry_mid_level
 from state import load_state, save_state, is_seen, get_updated_at, record_job, was_alerted, mark_alerted
 from scorer import score_job, should_alert
 from notifier import send_slack_alert, send_run_summary
@@ -23,8 +23,6 @@ RETRY_ATTEMPTS = 2
 RETRY_DELAY = 3
 MAX_JOBS_PER_COMPANY = 500
 
-# First-run protection: if more than this many new jobs found, skip scoring
-# and just mark them all as seen. Next run will only score genuinely new jobs.
 SKIP_SCORING_THRESHOLD = 30
 
 
@@ -128,7 +126,7 @@ def write_output(new_jobs: list[dict], updated_jobs: list[dict]) -> None:
 
     page_header = (
         "# 🌿 Greenhouse Job Tracker\n"
-        "_Filtered: USA/Remote · Cybersecurity & SOC roles only_\n\n"
+        "_Filtered: USA only · Cybersecurity & SOC · Entry & Mid Level_\n\n"
     )
 
     if existing.startswith("# 🌿"):
@@ -145,7 +143,7 @@ def _validate_env() -> None:
         print("[ERROR] Missing required env var: GROQ_GJT_API_KEY (Groq API key for resume scoring)")
         sys.exit(1)
 
-    print("[info] Scorer: Groq (primary)")
+    print("[info] Scorer: Groq llama-3.3-70b-versatile")
 
     if not os.environ.get("SLACK_WEBHOOK_URL", "").strip():
         print("[warn] SLACK_WEBHOOK_URL not set — Slack alerts will be skipped.")
@@ -202,7 +200,6 @@ def main():
                 if prev_updated == updated_at:
                     stats["jobs_skipped_seen"] += 1
                     continue
-                # updated_at changed — update state, add to output, but never re-score
                 record_job(state, {
                     "id": job_id,
                     "updated_at": updated_at,
@@ -228,7 +225,14 @@ def main():
 
             title = job.get("title", "")
             department = extract_department(job)
+
+            # Filter 1: must be a cybersecurity role
             if not is_software_role(title, department):
+                stats["jobs_skipped_title"] += 1
+                continue
+
+            # Filter 2: must be entry or mid level
+            if not is_entry_mid_level(title):
                 stats["jobs_skipped_title"] += 1
                 continue
 
@@ -262,13 +266,9 @@ def main():
     if jobs_to_score:
         print(f"\n[scorer] {len(jobs_to_score)} new job(s) to score...")
 
-        # ── First-run protection ──────────────────────────────────────────
-        # If too many new jobs, mark all as seen without scoring.
-        # This prevents Groq rate limit timeouts on the first run.
-        # Next run will only have genuinely new jobs (2-5) to score.
         if len(jobs_to_score) > SKIP_SCORING_THRESHOLD:
             print(f"[scorer] Too many new jobs ({len(jobs_to_score)} > {SKIP_SCORING_THRESHOLD}).")
-            print(f"[scorer] Marking all as seen without scoring — next run will score only new arrivals.")
+            print(f"[scorer] Marking all as seen — next run will score only new arrivals.")
             for job in jobs_to_score:
                 mark_alerted(state, str(job.get("id", "")))
             save_state(state)
@@ -276,7 +276,7 @@ def main():
             print(f"[output] Written to {OUTPUT_FILE}")
             elapsed = (datetime.now(timezone.utc) - start).total_seconds()
             print(f"\n{'='*60}")
-            print(f"SUMMARY")
+            print(f"SUMMARY — First-run protection triggered")
             print(f"  Companies checked : {stats['companies_checked']} / {len(companies)}")
             print(f"  Jobs fetched      : {stats['jobs_fetched']}")
             print(f"  Skipped (seen)    : {stats['jobs_skipped_seen']}")
@@ -287,7 +287,6 @@ def main():
             print(f"  Elapsed           : {elapsed:.1f}s")
             print(f"{'='*60}\n")
             sys.exit(0)
-        # ─────────────────────────────────────────────────────────────────
 
         print(f"[scorer] Scoring {len(jobs_to_score)} job(s) against resume...")
         for job in jobs_to_score:
@@ -295,7 +294,7 @@ def main():
             job_label = f"{job.get('title', '?')} @ {job.get('company', '?')}"
             print(f"  → {job_label} ...", end=" ", flush=True)
 
-            score = score_job(job)  # returns int or None
+            score = score_job(job)
             if score is None:
                 print("scoring failed — marking to avoid infinite retry.")
                 mark_alerted(state, job_id)
@@ -314,7 +313,7 @@ def main():
                 else:
                     stats["alerts_skipped"] += 1
             else:
-                print(f"  [scorer] Below threshold ({score}% < 65%) — no alert.")
+                print(f"  [scorer] Below threshold ({score}%) — no alert.")
                 stats["alerts_skipped"] += 1
 
         save_state(state)
