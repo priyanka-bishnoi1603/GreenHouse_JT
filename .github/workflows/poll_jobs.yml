@@ -13,7 +13,7 @@ jobs:
   poll:
     name: Poll & Filter Jobs
     runs-on: ubuntu-latest
-    timeout-minutes: 45  # hard cap — should finish in ~2-3 min normally
+    timeout-minutes: 10  # hard cap — should finish in ~2-3 min normally
 
     steps:
       # -----------------------------------------------------------------------
