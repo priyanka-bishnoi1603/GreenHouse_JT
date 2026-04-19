@@ -1,7 +1,6 @@
 """
-scorer.py — Resume match scoring.
-Primary: Groq API (free tier) — llama-3.3-70b-versatile
-Fallback: Anthropic Claude Haiku (if Groq fails or key missing)
+scorer.py — Resume match scoring using Groq API (free tier).
+Model: llama-3.3-70b-versatile
 """
 
 import os
@@ -15,11 +14,7 @@ from typing import Optional
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 GROQ_MODEL = "llama-3.3-70b-versatile"
 
-# --- Anthropic config ---
-ANTHROPIC_API_URL = "https://api.anthropic.com/v1/messages"
-ANTHROPIC_MODEL = "claude-haiku-4-5-20251001"
-
-SCORE_THRESHOLD = 65
+SCORE_THRESHOLD = 60  # lowered slightly to catch more cybersecurity matches
 MAX_RETRIES = 3
 RETRY_DELAY = 15
 
@@ -38,16 +33,16 @@ def _load_resume() -> str:
 
 def _build_prompt(job_title: str, company: str, description: str) -> str:
     resume = _load_resume()
-    return f"""You are a strict technical recruiter evaluating resume-to-job fit.
+    return f"""You are a strict technical recruiter evaluating resume-to-job fit for a cybersecurity role.
 
 Score this resume against the job using the 4 criteria below.
 Internally evaluate each criterion, then output ONLY a single integer from 0 to 100 as your final weighted score.
 Do not output anything else — no explanation, no breakdown, just the integer.
 
 SCORING CRITERIA (evaluate internally before giving final score):
-1. Technical skills match — languages, frameworks, tools, cloud (weight: 40%)
-2. Domain and industry fit — fintech, banking, distributed systems, microservices (weight: 25%)
-3. Seniority level match — junior/mid/senior/staff alignment (weight: 20%)
+1. Cybersecurity skills match — SIEM, EDR, SOC, IAM, cloud security, incident response, tools (weight: 40%)
+2. Domain fit — SOC operations, cloud security, IAM, GRC, threat detection (weight: 25%)
+3. Seniority level match — entry/mid level alignment (weight: 20%)
 4. Years of experience alignment — required vs actual (weight: 15%)
 
 RESUME:
@@ -71,7 +66,8 @@ def _parse_score(raw_text: str) -> Optional[int]:
 def _score_with_groq(prompt: str) -> Optional[int]:
     key = os.environ.get("GROQ_GJT_API_KEY", "").strip()
     if not key:
-        return None  # Groq not available, skip to fallback
+        print("  [groq] GROQ_GJT_API_KEY not set — skipping.")
+        return None
 
     headers = {
         "Authorization": f"Bearer {key}",
@@ -85,6 +81,7 @@ def _score_with_groq(prompt: str) -> Optional[int]:
     }
 
     time.sleep(5)  # avoid Groq free tier rate limits
+
     for attempt in range(1, MAX_RETRIES + 1):
         try:
             resp = requests.post(GROQ_API_URL, headers=headers, json=payload, timeout=30)
@@ -117,55 +114,8 @@ def _score_with_groq(prompt: str) -> Optional[int]:
     return None
 
 
-def _score_with_anthropic(prompt: str) -> Optional[int]:
-    key = os.environ.get("CL_API_KEY", "").strip()
-    if not key:
-        return None  # Anthropic not available
-
-    headers = {
-        "x-api-key": key,
-        "anthropic-version": "2023-06-01",
-        "Content-Type": "application/json",
-    }
-    payload = {
-        "model": ANTHROPIC_MODEL,
-        "max_tokens": 20,
-        "messages": [{"role": "user", "content": prompt}],
-    }
-
-    for attempt in range(1, MAX_RETRIES + 1):
-        try:
-            resp = requests.post(ANTHROPIC_API_URL, headers=headers, json=payload, timeout=30)
-
-            if resp.status_code == 200:
-                data = resp.json()
-                raw_text = data["content"][0]["text"].strip()
-                print(f"  [anthropic] response received")
-                return _parse_score(raw_text)
-
-            elif resp.status_code == 429:
-                wait = RETRY_DELAY * 2
-                print(f"  [anthropic] Rate limited (attempt {attempt}), waiting {wait}s...")
-                time.sleep(wait)
-
-            elif resp.status_code in (500, 503):
-                print(f"  [anthropic] Overloaded (attempt {attempt}), waiting {RETRY_DELAY}s...")
-                time.sleep(RETRY_DELAY)
-
-            else:
-                print(f"  [anthropic] Error {resp.status_code}: {resp.text[:200]}")
-                return None
-
-        except requests.exceptions.RequestException as e:
-            print(f"  [anthropic] Request error (attempt {attempt}): {e}")
-            if attempt < MAX_RETRIES:
-                time.sleep(RETRY_DELAY)
-
-    return None
-
-
 def score_job(job: dict) -> Optional[int]:
-    """Score a job against resume. Tries Groq first, falls back to Anthropic."""
+    """Score a job against resume using Groq."""
     title = job.get("title", "")
     company = job.get("company", "")
     content = job.get("content", "") or ""
@@ -176,21 +126,14 @@ def score_job(job: dict) -> Optional[int]:
 
     prompt = _build_prompt(title, company, description)
 
-    # Try Groq first
-    print(f"  [scorer] Trying Groq...", end=" ", flush=True)
+    print(f"  [scorer] Scoring with Groq...", end=" ", flush=True)
     score = _score_with_groq(prompt)
+
     if score is not None:
-        print(f"✅ Groq scored: {score}")
+        print(f"✅ score: {score}")
         return score
 
-    # Fall back to Anthropic
-    print(f"  [scorer] Groq failed, trying Anthropic...", end=" ", flush=True)
-    score = _score_with_anthropic(prompt)
-    if score is not None:
-        print(f"✅ Anthropic scored: {score}")
-        return score
-
-    print(f"  [scorer] Both scorers failed.")
+    print(f"  [scorer] Groq scoring failed.")
     return None
 
 
