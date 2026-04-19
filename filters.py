@@ -8,8 +8,6 @@ Everything is done client-side here.
 import re
 
 
-# Patterns that confirm a job is USA-based or USA-remote.
-# Checked case-insensitively against the location string.
 # ---------------------------------------------------------------------------
 # Location filtering
 # ---------------------------------------------------------------------------
@@ -100,162 +98,180 @@ _NON_USA_RE = re.compile("|".join(NON_USA_PATTERNS), re.IGNORECASE)
 def is_usa_location(location: str) -> bool:
     """
     Returns True ONLY if the job is confirmed USA-based or USA-remote.
-    Any non-USA country/region mentioned = rejected immediately, no exceptions.
+    Any non-USA country/region mentioned = rejected immediately.
     """
     if not location or location.strip() == "":
         return True  # blank = assume remote/unspecified → include
 
     loc = location.strip()
 
-    # ANY non-USA signal → reject immediately, no exceptions
     if _NON_USA_RE.search(loc):
         return False
 
-    # Must have a positive USA signal to pass
     if _USA_RE.search(loc):
         return True
 
-    # Unknown location → exclude
     return False
 
+
 # ---------------------------------------------------------------------------
-# Title / department filtering — SOFTWARE & IT INCLUSION
+# Title / department filtering — CYBERSECURITY & SOC ROLES ONLY
 # ---------------------------------------------------------------------------
 
-# Broad allowlist: any job whose title OR department matches any of these
-# passes through. Deliberately generous to avoid missing edge-case postings.
-
+# These keywords MUST match for a job to be included
 INCLUDE_KEYWORDS = [
-  
- # ── SOC & Incident Response ──────────────────────────────────────
-    "soc analyst", "soc engineer",
-    "security operations",
-    "incident response", "incident investigation",
-    "alert triage", "threat detection",
+
+    # ── SOC & Incident Response ──────────────────────────────────────
+    "soc analyst",
+    "soc engineer",
+    "security operations center",
+    "security operations analyst",
+    "security operations engineer",
+    "incident response",
+    "incident responder",
+    "incident investigation",
+    "alert triage",
+    "threat detection",
     "threat intelligence",
+    "threat analyst",
+    "threat hunter",
     "ioc analysis",
     "log correlation",
-    "case management",
-    "mitre", "att&ck",
+    "mitre att&ck",
     "playbook",
 
-    # ── SIEM & EDR ───────────────────────────────────────────────────
+    # ── SIEM & EDR Tools ─────────────────────────────────────────────
     "splunk",
     "siem",
     "edr",
-    "crowdstrike",
-    "sentinelone",
-    "microsoft defender",
-    "rapid7",
     "soar",
-    "wireshark",
     "ids", "ips",
 
-    # ── Cloud Security ───────────────────────────────────────────────
-    "cloud security",
-    "aws security",
-    "cloudtrail",
-    "guardduty",
-    "cloud security analyst",
-    "cloud security engineer",
-
-    # ── IAM ──────────────────────────────────────────────────────────
-    "identity and access",
-    "iam",
-    "active directory",
-    "privileged access",
-    "least privilege",
-    "role-based access", "rbac",
-    "access control",
-    "identity governance",
-
-    # ── Broad Security (catch-all) ────────────────────────────────────
-    "security",           # ← ADDED — catches "Security Analyst", "Security Engineer" etc.
+    # ── Core Security Roles ───────────────────────────────────────────
     "security analyst",
     "security engineer",
-    "security operations analyst",
-    "cybersecurity", "cyber security",
+    "security researcher",
     "cybersecurity analyst",
     "cybersecurity engineer",
-    "infosec",
-    "information security",
-    "appsec", "application security",
+    "cyber security analyst",
+    "cyber security engineer",
+    "infosec analyst",
+    "infosec engineer",
+    "information security analyst",
+    "information security engineer",
+
+    # ── Cloud Security ────────────────────────────────────────────────
+    "cloud security analyst",
+    "cloud security engineer",
+    "cloud security",
+
+    # ── AppSec / Vulnerability ────────────────────────────────────────
+    "appsec",
+    "application security",
     "vulnerability",
-    "malware",
-    "phishing",
-    "threat",
-    "forensics", "digital forensics",
-    "compliance",
-    "risk analyst",
-    "grc",
-    "zero trust",
-    "nist",
+    "penetration",
+    "pentesting",
+    "red team",
+    "blue team",
     "devsecops",
-    "penetration", "pentesting",
-    "red team", "blue team",
-    "sast", "dast",
+
+    # ── Malware / Forensics ───────────────────────────────────────────
+    "malware analyst",
+    "malware researcher",
+    "digital forensics",
+    "forensics analyst",
+    "phishing analyst",
+
+    # ── GRC / Compliance ──────────────────────────────────────────────
+    "grc analyst",
+    "grc engineer",
+    "compliance analyst",
+    "risk analyst",
+    "security compliance",
+    "security risk",
+
+    # ── Network / Endpoint Security ───────────────────────────────────
     "network security",
     "endpoint security",
+    "zero trust",
 
-    # ── Cloud Platforms (keep — security roles mention these) ─────────
-    "aws", "gcp", "azure",
+    # ── IAM / Identity Security ───────────────────────────────────────
+    "identity security",
+    "identity and access",
+    "iam analyst",
+    "iam engineer",
 
-    # ── Technical Leadership (optional — remove if too noisy) ─────────
-    "technical program",
-    "technical lead",
-    "tech lead",
-
-    # ── IT (keep — covers IT Security, IT Analyst roles) ─────────────
-    "information technology",
-    
 ]
 
-# Compile once — match against title + department combined
+# These title patterns are EXCLUDED even if include keywords match
+# Removes senior leadership, non-technical, and physical security roles
+EXCLUDE_TITLE_PATTERNS = [
+    "physical security",
+    "campus security",
+    "corporate security",
+    "security counsel",
+    "security attorney",
+    "security sales",
+    "security marketing",
+    "security program manager",
+    "security project manager",
+    "director",
+    "vp ",
+    "vice president",
+    "head of",
+    "chief",
+    "cto", "ciso", "coo", "ceo",
+    "principal",
+    "staff ",
+    "senior manager",
+    "sr. manager",
+    "sr manager",
+    "senior director",
+    "sr. director",
+    "sr director",
+    "associate director",
+    "managing director",
+    "executive director",
+    "president",
+    "partner",
+]
+
 _INCLUDE_RE = re.compile(
     "|".join(re.escape(k) for k in INCLUDE_KEYWORDS),
     re.IGNORECASE,
 )
 
-# Separate word-boundary pattern for standalone "IT" — re.escape blocks \b
-_IT_RE = re.compile(r"\bIT\b", re.IGNORECASE)
+_EXCLUDE_RE = re.compile(
+    "|".join(re.escape(k) for k in EXCLUDE_TITLE_PATTERNS),
+    re.IGNORECASE,
+)
 
 
 def is_software_role(title: str, department: str = "") -> bool:
     """
-    Returns True if the job title or department suggests a software/IT role.
+    Returns True if the job is a cybersecurity/SOC role.
+    Excludes leadership, physical security, and non-technical roles.
     """
     combined = f"{title} {department}"
-    return bool(_INCLUDE_RE.search(combined) or _IT_RE.search(combined))
+
+    # Must match an include keyword
+    if not _INCLUDE_RE.search(combined):
+        return False
+
+    # Must NOT match an exclude pattern
+    if _EXCLUDE_RE.search(title):
+        return False
+
+    return True
 
 
 # ---------------------------------------------------------------------------
-# Seniority filtering — ENTRY & MID LEVEL ONLY
+# Seniority filtering — kept for reference but applied inside is_software_role
 # ---------------------------------------------------------------------------
-
-EXCLUDE_SENIORITY = [
-    "director", "vp ", "vice president",
-    "head of", "chief", "cto", "ciso", "coo", "ceo",
-    "principal",
-    "staff ",
-    "senior manager", "sr. manager", "sr manager",
-    "senior director", "sr. director", "sr director",
-    "associate director",
-    "managing director",
-    "executive",
-    "president",
-    "partner",
-    "fellow",
-]
-
-_EXCLUDE_SENIORITY_RE = re.compile(
-    "|".join(re.escape(k) for k in EXCLUDE_SENIORITY),
-    re.IGNORECASE,
-)
 
 def is_entry_mid_level(title: str) -> bool:
     """
-    Returns True if the job title is entry or mid level.
-    Filters out Director, VP, Head, Principal, Staff, Senior Manager etc.
-    Note: 'Senior Engineer/Analyst' alone is kept — that's still mid-level.
+    Returns True if the job is entry or mid level.
+    Senior Engineer/Analyst is kept — that's still mid-level.
     """
-    return not bool(_EXCLUDE_SENIORITY_RE.search(title))
+    return not bool(_EXCLUDE_RE.search(title))
