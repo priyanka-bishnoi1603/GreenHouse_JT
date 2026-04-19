@@ -136,9 +136,16 @@ def write_output(new_jobs: list[dict], updated_jobs: list[dict]) -> None:
 
 def _validate_env() -> None:
     """Fail fast if required environment variables are missing."""
-    if not os.environ.get("CL_API_KEY", "").strip():
-        print("[ERROR] Missing required env var: CL_API_KEY (Anthropic API key for resume scoring)")
+    groq_key = os.environ.get("GROQ_GJT_API_KEY", "").strip()
+    cl_key = os.environ.get("CL_API_KEY", "").strip()
+
+    if not groq_key and not cl_key:
+        print("[ERROR] No API key found. Set GROQ_GJT_API_KEY (Groq) or CL_API_KEY (Anthropic).")
         sys.exit(1)
+    if groq_key:
+        print("[info] Scorer: Groq (primary)")
+    if cl_key:
+        print("[info] Scorer: Anthropic (fallback)" if groq_key else "[info] Scorer: Anthropic (primary)")
     if not os.environ.get("SLACK_WEBHOOK_URL", "").strip():
         print("[warn] SLACK_WEBHOOK_URL not set — Slack alerts will be skipped.")
 
