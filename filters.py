@@ -144,7 +144,7 @@ INCLUDE_KEYWORDS = [
     "splunk",
     "siem",
     "edr",
-    "soar",
+    "soar", "crowdstrike", 
     "ids", "ips",
 
     # ── Core Security Roles ───────────────────────────────────────────
@@ -156,24 +156,17 @@ INCLUDE_KEYWORDS = [
     "cyber security analyst",
     "cyber security engineer",
     "infosec analyst",
-    "infosec engineer",
     "information security analyst",
-    "information security engineer",
 
     # ── Cloud Security ────────────────────────────────────────────────
     "cloud security analyst",
-    "cloud security engineer",
     "cloud security",
 
     # ── AppSec / Vulnerability ────────────────────────────────────────
-    "appsec",
-    "application security",
+    
     "vulnerability",
-    "penetration",
-    "pentesting",
-    "red team",
-    "blue team",
-    "devsecops",
+     "blue team",
+    
 
     # ── Malware / Forensics ───────────────────────────────────────────
     "malware analyst",
