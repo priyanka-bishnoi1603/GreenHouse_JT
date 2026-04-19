@@ -166,7 +166,6 @@ INCLUDE_KEYWORDS = [
     "cloud security",
 
     # AppSec / Vulnerability
-    "application security analyst",
     "vulnerability analyst",
     "vulnerability management",
     "blue team analyst",
@@ -230,7 +229,7 @@ EXCLUDE_SENIORITY_PATTERNS = [
     "fellow",
     "lead ",
     " lead",
-    "manager",
+    "manager", "senior", "sr", "architect", 
 ]
 
 # ---------------------------------------------------------------------------
