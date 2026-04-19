@@ -20,8 +20,8 @@ ANTHROPIC_API_URL = "https://api.anthropic.com/v1/messages"
 ANTHROPIC_MODEL = "claude-haiku-4-5-20251001"
 
 SCORE_THRESHOLD = 65
-MAX_RETRIES = 2
-RETRY_DELAY = 5
+MAX_RETRIES = 3
+RETRY_DELAY = 15
 
 RESUME_FILE = Path("resume.txt")
 _resume_cache: Optional[str] = None
@@ -84,6 +84,7 @@ def _score_with_groq(prompt: str) -> Optional[int]:
         "temperature": 0,
     }
 
+     time.sleep(5)  # avoid Groq free tier rate limits
     for attempt in range(1, MAX_RETRIES + 1):
         try:
             resp = requests.post(GROQ_API_URL, headers=headers, json=payload, timeout=30)
