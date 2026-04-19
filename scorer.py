@@ -1,10 +1,7 @@
 """
-scorer.py — Resume match scoring using Groq API (free tier).
-
-Model: llama-3.3-70b-versatile
-Full resume + full JD sent — no truncation.
-Structured 4-criteria prompt for accurate, consistent scoring.
-Cost: $0.00 (free tier)
+scorer.py — Resume match scoring.
+Primary: Groq API (free tier) — llama-3.3-70b-versatile
+Fallback: Anthropic Claude Haiku (if Groq fails or key missing)
 """
 
 import os
@@ -14,8 +11,14 @@ import requests
 from pathlib import Path
 from typing import Optional
 
+# --- Groq config ---
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
-MODEL = "llama-3.3-70b-versatile"
+GROQ_MODEL = "llama-3.3-70b-versatile"
+
+# --- Anthropic config ---
+ANTHROPIC_API_URL = "https://api.anthropic.com/v1/messages"
+ANTHROPIC_MODEL = "claude-haiku-4-5-20251001"
+
 SCORE_THRESHOLD = 65
 MAX_RETRIES = 2
 RETRY_DELAY = 5
@@ -33,16 +36,8 @@ def _load_resume() -> str:
     return _resume_cache
 
 
-def _get_api_key() -> str:
-    key = os.environ.get("GROQ_API_KEY", "").strip()
-    if not key:
-        raise EnvironmentError("GROQ_API_KEY environment variable is not set.")
-    return key
-
-
 def _build_prompt(job_title: str, company: str, description: str) -> str:
     resume = _load_resume()
-
     return f"""You are a strict technical recruiter evaluating resume-to-job fit.
 
 Score this resume against the job using the 4 criteria below.
@@ -66,8 +61,110 @@ JOB DESCRIPTION:
 Final score (0-100 integer only):"""
 
 
+def _parse_score(raw_text: str) -> Optional[int]:
+    match = re.search(r'\b(\d{1,3})\b', raw_text)
+    if match:
+        return max(0, min(100, int(match.group(1))))
+    return None
+
+
+def _score_with_groq(prompt: str) -> Optional[int]:
+    key = os.environ.get("GROQ_GJT_API_KEY", "").strip()
+    if not key:
+        return None  # Groq not available, skip to fallback
+
+    headers = {
+        "Authorization": f"Bearer {key}",
+        "Content-Type": "application/json",
+    }
+    payload = {
+        "model": GROQ_MODEL,
+        "messages": [{"role": "user", "content": prompt}],
+        "max_tokens": 20,
+        "temperature": 0,
+    }
+
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            resp = requests.post(GROQ_API_URL, headers=headers, json=payload, timeout=30)
+
+            if resp.status_code == 200:
+                data = resp.json()
+                raw_text = data["choices"][0]["message"]["content"].strip()
+                usage = data.get("usage", {})
+                print(f"  [groq] tokens: {usage.get('prompt_tokens','?')} in / {usage.get('completion_tokens','?')} out")
+                return _parse_score(raw_text)
+
+            elif resp.status_code == 429:
+                wait = RETRY_DELAY * 2
+                print(f"  [groq] Rate limited (attempt {attempt}), waiting {wait}s...")
+                time.sleep(wait)
+
+            elif resp.status_code in (500, 503):
+                print(f"  [groq] Overloaded (attempt {attempt}), waiting {RETRY_DELAY}s...")
+                time.sleep(RETRY_DELAY)
+
+            else:
+                print(f"  [groq] Error {resp.status_code}: {resp.text[:200]}")
+                return None
+
+        except requests.exceptions.RequestException as e:
+            print(f"  [groq] Request error (attempt {attempt}): {e}")
+            if attempt < MAX_RETRIES:
+                time.sleep(RETRY_DELAY)
+
+    return None
+
+
+def _score_with_anthropic(prompt: str) -> Optional[int]:
+    key = os.environ.get("CL_API_KEY", "").strip()
+    if not key:
+        return None  # Anthropic not available
+
+    headers = {
+        "x-api-key": key,
+        "anthropic-version": "2023-06-01",
+        "Content-Type": "application/json",
+    }
+    payload = {
+        "model": ANTHROPIC_MODEL,
+        "max_tokens": 20,
+        "messages": [{"role": "user", "content": prompt}],
+    }
+
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            resp = requests.post(ANTHROPIC_API_URL, headers=headers, json=payload, timeout=30)
+
+            if resp.status_code == 200:
+                data = resp.json()
+                raw_text = data["content"][0]["text"].strip()
+                print(f"  [anthropic] response received")
+                return _parse_score(raw_text)
+
+            elif resp.status_code == 429:
+                wait = RETRY_DELAY * 2
+                print(f"  [anthropic] Rate limited (attempt {attempt}), waiting {wait}s...")
+                time.sleep(wait)
+
+            elif resp.status_code in (500, 503):
+                print(f"  [anthropic] Overloaded (attempt {attempt}), waiting {RETRY_DELAY}s...")
+                time.sleep(RETRY_DELAY)
+
+            else:
+                print(f"  [anthropic] Error {resp.status_code}: {resp.text[:200]}")
+                return None
+
+        except requests.exceptions.RequestException as e:
+            print(f"  [anthropic] Request error (attempt {attempt}): {e}")
+            if attempt < MAX_RETRIES:
+                time.sleep(RETRY_DELAY)
+
+    return None
+
+
 def score_job(job: dict) -> Optional[int]:
-    """Returns a score (0-100) or None on failure."""
+    """Score a job against resume. Tries Groq first, falls back to Anthropic."""
     title = job.get("title", "")
     company = job.get("company", "")
     content = job.get("content", "") or ""
@@ -78,59 +175,21 @@ def score_job(job: dict) -> Optional[int]:
 
     prompt = _build_prompt(title, company, description)
 
-    headers = {
-        "Authorization": f"Bearer {_get_api_key()}",
-        "Content-Type": "application/json",
-    }
+    # Try Groq first
+    print(f"  [scorer] Trying Groq...", end=" ", flush=True)
+    score = _score_with_groq(prompt)
+    if score is not None:
+        print(f"✅ Groq scored: {score}")
+        return score
 
-    payload = {
-        "model": MODEL,
-        "messages": [{"role": "user", "content": prompt}],
-        "max_tokens": 20,       # enough for the number + any edge case whitespace
-        "temperature": 0,       # fully deterministic — same job always gets same score
-    }
+    # Fall back to Anthropic
+    print(f"  [scorer] Groq failed, trying Anthropic...", end=" ", flush=True)
+    score = _score_with_anthropic(prompt)
+    if score is not None:
+        print(f"✅ Anthropic scored: {score}")
+        return score
 
-    for attempt in range(1, MAX_RETRIES + 1):
-        try:
-            resp = requests.post(
-                GROQ_API_URL,
-                headers=headers,
-                json=payload,
-                timeout=30,
-            )
-
-            if resp.status_code == 200:
-                data = resp.json()
-                raw_text = data["choices"][0]["message"]["content"].strip()
-                usage = data.get("usage", {})
-                print(f"  [scorer] tokens: {usage.get('prompt_tokens','?')} in / {usage.get('completion_tokens','?')} out")
-
-                match = re.search(r'\b(\d{1,3})\b', raw_text)
-                if match:
-                    score = max(0, min(100, int(match.group(1))))
-                    return score
-                else:
-                    print(f"  [scorer] Unexpected response: {raw_text[:50]}")
-                    return None
-
-            elif resp.status_code == 429:
-                wait = RETRY_DELAY * 2
-                print(f"  [scorer] Rate limited (attempt {attempt}), waiting {wait}s...")
-                time.sleep(wait)
-
-            elif resp.status_code in (500, 503):
-                print(f"  [scorer] API overloaded (attempt {attempt}), waiting {RETRY_DELAY}s...")
-                time.sleep(RETRY_DELAY)
-
-            else:
-                print(f"  [scorer] API error {resp.status_code}: {resp.text[:200]}")
-                return None
-
-        except requests.exceptions.RequestException as e:
-            print(f"  [scorer] Request error (attempt {attempt}): {e}")
-            if attempt < MAX_RETRIES:
-                time.sleep(RETRY_DELAY)
-
+    print(f"  [scorer] Both scorers failed.")
     return None
 
 
