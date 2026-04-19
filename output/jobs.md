@@ -1,2 +1,2 @@
 # 🌿 Greenhouse Job Tracker
-_Filtered: USA/Remote · Software & IT roles only_
+_Filtered: USA/Remote · Cybersecurity & SOC roles only_
