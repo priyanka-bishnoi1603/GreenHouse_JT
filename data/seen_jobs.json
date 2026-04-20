@@ -294,6 +294,13 @@
     "alerted": true
   },
   "__daily_alerts__": {
-    "2026-04-20": 42
+    "2026-04-20": 43
+  },
+  "7833761": {
+    "first_seen": "2026-04-20T20:41:17.410929+00:00",
+    "updated_at": "2026-04-20T15:49:41-04:00",
+    "title": "Delivery Engineer | Splunk (W2PE)",
+    "company": "trace3",
+    "alerted": true
   }
 }
