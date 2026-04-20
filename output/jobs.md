@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-04-20 17:35 UTC
+
+### 🔄 CSOC Analyst
+**fastly** · Customer Security - CSOC
+📍 Denver, CO; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7798149)
+🕐 Updated: `2026-04-20T13:25:05-04:00` &nbsp;|&nbsp; ID: `7798149`
+
+---
+### 🔄 Corporate Security Engineer
+**asana** · Infrastructure Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7441441?gh_jid=7441441)
+🕐 Updated: `2026-04-20T12:42:26-04:00` &nbsp;|&nbsp; ID: `7441441`
+
+---
+
 ## 📅 Run: 2026-04-20 16:22 UTC
 
 ### 🔄 Global Security Operations Center Operator
