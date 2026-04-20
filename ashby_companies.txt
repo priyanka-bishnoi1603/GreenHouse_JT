@@ -1,0 +1,18 @@
+# Cybersecurity companies on Ashby
+# ------------------------------------
+
+# === PURE CYBERSECURITY ===
+abnormal-security
+huntress
+expel
+
+# === TECH WITH SECURITY TEAMS ===
+cursor
+greptile
+linear
+vercel
+liveblocks
+dagger
+render
+fly
+netlify
