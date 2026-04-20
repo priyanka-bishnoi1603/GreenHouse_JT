@@ -296,7 +296,11 @@ EXCLUDE_ROLE_PATTERNS = [
     "research engineer",
     "data scientist",
     "data analyst",
-    "data engineer",
+    "data engineer", "blockchain security",
+"corporate security",
+"sap ",
+"machine learning",
+"phd",
 
     # Business / support roles
     "account executive",
