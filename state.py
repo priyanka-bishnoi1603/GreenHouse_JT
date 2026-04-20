@@ -1,8 +1,6 @@
 """
 state.py — Persistent state management for seen jobs.
-
 Stores job metadata in data/seen_jobs.json with a 7-day TTL.
-Thread-safe enough for a single-process workflow runner.
 """
 
 import json
@@ -58,7 +56,6 @@ def save_state(state: dict) -> None:
 
 
 def _parse_dt(value: Optional[str]) -> datetime:
-    """Parse ISO datetime string; return epoch if invalid (so it gets pruned)."""
     if not value:
         return datetime.fromtimestamp(0, tz=timezone.utc)
     try:
@@ -72,7 +69,7 @@ def is_seen(state: dict, job_id: str) -> bool:
 
 
 def was_alerted(state: dict, job_id: str) -> bool:
-    """Returns True if this job was already scored and alerted — never repeat."""
+    """Returns True if this job was already alerted — never repeat."""
     return state.get(str(job_id), {}).get("alerted", False)
 
 
@@ -95,7 +92,19 @@ def record_job(state: dict, job: dict) -> None:
 
 
 def mark_alerted(state: dict, job_id: str) -> None:
-    """Mark a job as scored — prevents re-scoring even if updated_at changes."""
+    """
+    Mark a job as alerted — prevents re-alerting even if updated_at changes.
+    Creates entry if it doesn't exist yet.
+    """
     job_id = str(job_id)
     if job_id in state:
         state[job_id]["alerted"] = True
+    else:
+        # Job not in state yet — create minimal entry with alerted=True
+        state[job_id] = {
+            "first_seen": _now().isoformat(),
+            "updated_at": "",
+            "title": "",
+            "company": "",
+            "alerted": True,  # ← key fix
+        }
