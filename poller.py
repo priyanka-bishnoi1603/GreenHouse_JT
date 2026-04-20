@@ -169,6 +169,7 @@ def main():
 
     new_jobs = []
     updated_jobs = []
+    seen_titles = {}  # for deduplication within same run
 
     for board in companies:
         print(f"\n[fetch] {board} ...", end=" ", flush=True)
@@ -235,9 +236,16 @@ def main():
                 "title": title,
                 "company": enriched["company"],
             })
+            
+            # Deduplicate same title+company within same run
+            dedup_key = f"{title.lower().strip()}_{enriched['company'].lower()}"
+            if dedup_key not in seen_titles:
+                seen_titles[dedup_key] = True
+                new_jobs.append(enriched)
+                stats["jobs_new"] += 1
+            else:
+                stats["jobs_skipped_seen"] += 1
 
-            new_jobs.append(enriched)
-            stats["jobs_new"] += 1
 
     save_state(state)
 
