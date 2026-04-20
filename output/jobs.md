@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-04-20 18:41 UTC
+
+### 🔄 Corporate Security Engineer
+**asana** · Infrastructure Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7441441?gh_jid=7441441)
+🕐 Updated: `2026-04-20T14:35:41-04:00` &nbsp;|&nbsp; ID: `7441441`
+
+---
+
 ## 📅 Run: 2026-04-20 17:35 UTC
 
 ### 🔄 CSOC Analyst
