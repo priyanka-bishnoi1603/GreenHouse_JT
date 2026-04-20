@@ -1,0 +1,49 @@
+# Cybersecurity companies on Lever
+# SOC/Security roles focused
+# ------------------------------------
+
+# === PURE CYBERSECURITY ===
+crowdstrike
+sentinelone
+paloaltonetworks
+lacework
+snyk
+drata
+wiz
+
+# === TECH WITH SECURITY TEAMS ===
+notion
+figma
+vercel
+netlify
+linear
+zapier
+retool
+miro
+clickup
+grammarly
+rippling
+deel
+ramp
+lemonade
+dave
+acorns
+angellist
+braintrust
+fullstory
+freshpaint
+airbyte
+prefect
+hex
+cockroachdb
+redis
+grafana
+sentry
+confluent
+snowflake
+digitalocean
+segment
+moderntreasury
+remitly
+wise
+paylocity
