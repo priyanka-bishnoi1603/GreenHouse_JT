@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-04-21 16:11 UTC
+
+### 🔄 PhD Machine Learning Engineer, New Grad
+**stripe** · 5112 General University
+📍 San Francisco, New York City, Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7216668)
+🕐 Updated: `2026-04-21T11:42:55-04:00` &nbsp;|&nbsp; ID: `7216668`
+
+---
+### 🔄 Security Engineer, Bridge
+**stripe** · 8504 Bridge - R&D
+📍 San Francisco, New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7657732)
+🕐 Updated: `2026-04-21T11:42:55-04:00` &nbsp;|&nbsp; ID: `7657732`
+
+---
+### 🔄 Security Engineer, New Grad 
+**stripe** · 5112 General University
+📍 Seattle, WA; San Francisco, CA; Toronto, CAN &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7477571)
+🕐 Updated: `2026-04-21T11:42:55-04:00` &nbsp;|&nbsp; ID: `7477571`
+
+---
+### 🔄 Incident Response Engineer (Pacific time)
+**fireblocks** · R&D
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fireblocks.com/careers/position/4664533006?gh_jid=4664533006)
+🕐 Updated: `2026-04-21T12:00:12-04:00` &nbsp;|&nbsp; ID: `4664533006`
+
+---
+
 ## 📅 Run: 2026-04-21 03:24 UTC
 
 ### 🔄 Security Engineer, Cloud Security
