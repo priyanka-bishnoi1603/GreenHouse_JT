@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-04-21 19:49 UTC
+
+### 🔄 Incident Response Engineer (Pacific time)
+**fireblocks** · R&D
+📍 Los Angeles, California, United States; Portland, Oregon, United States; San Francisco, California, United States; Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fireblocks.com/careers/position/4664533006?gh_jid=4664533006)
+🕐 Updated: `2026-04-21T15:30:35-04:00` &nbsp;|&nbsp; ID: `4664533006`
+
+---
+### 🔄 Information Security Analyst
+**betterment** · Risk
+📍 Betterment HQ - New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.betterment.com/careers/current-openings/job?gh_jid=7797421&gh_jid=7797421)
+🕐 Updated: `2026-04-21T15:05:27-04:00` &nbsp;|&nbsp; ID: `7797421`
+
+---
+
 ## 📅 Run: 2026-04-21 16:11 UTC
 
 ### 🔄 PhD Machine Learning Engineer, New Grad
