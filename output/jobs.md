@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-04-21 03:24 UTC
+
+### 🔄 Security Engineer, Cloud Security
+**gleanwork** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4650994005)
+🕐 Updated: `2026-04-20T21:34:42-04:00` &nbsp;|&nbsp; ID: `4650994005`
+
+---
+
 ## 📅 Run: 2026-04-20 20:41 UTC
 
 ### 🆕 Delivery Engineer | Splunk (W2PE)
