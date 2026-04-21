@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-04-21 20:48 UTC
+
+### 🔄 SAP Application Security Analyst
+**accenturefederalservices** · 58239872 - AFS SAP Development
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4665620006?gh_jid=4665620006)
+🕐 Updated: `2026-04-21T16:02:59-04:00` &nbsp;|&nbsp; ID: `4665620006`
+
+---
+### 🔄 Security Engineer, Application Security
+**gleanwork** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4529774005)
+🕐 Updated: `2026-04-21T16:30:50-04:00` &nbsp;|&nbsp; ID: `4529774005`
+
+---
+
 ## 📅 Run: 2026-04-21 19:49 UTC
 
 ### 🔄 Incident Response Engineer (Pacific time)
