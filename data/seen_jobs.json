@@ -1,7 +1,7 @@
 {
   "7665691": {
     "first_seen": "2026-04-20T04:27:08.138759+00:00",
-    "updated_at": "2026-04-07T17:11:10-04:00",
+    "updated_at": "2026-04-22T00:59:24-04:00",
     "title": "Threat Hunter",
     "company": "tanium",
     "alerted": true
@@ -294,13 +294,20 @@
     "alerted": true
   },
   "__daily_alerts__": {
-    "2026-04-20": 43
+    "2026-04-22": 1
   },
   "7833761": {
     "first_seen": "2026-04-20T20:41:17.410929+00:00",
     "updated_at": "2026-04-20T15:49:41-04:00",
     "title": "Delivery Engineer | Splunk (W2PE)",
     "company": "trace3",
+    "alerted": true
+  },
+  "5195705008": {
+    "first_seen": "2026-04-22T05:07:52.424976+00:00",
+    "updated_at": "2026-04-21T23:31:46-04:00",
+    "title": "Security Engineer - Threat Intel",
+    "company": "anthropic",
     "alerted": true
   }
 }

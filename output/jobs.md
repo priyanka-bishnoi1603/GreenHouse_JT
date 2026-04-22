@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-04-22 05:08 UTC
+
+### 🆕 Security Engineer - Threat Intel
+**anthropic** · Security
+📍 New York City, NY; Remote-Friendly (Travel-Required) | San Francisco, CA | Washington, DC; San Francisco, CA | New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5195705008)
+🕐 Updated: `2026-04-21T23:31:46-04:00` &nbsp;|&nbsp; ID: `5195705008`
+
+---
+### 🔄 Threat Hunter
+**tanium** · Threat Hunters
+📍 Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid); Reston, VA (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/tanium/jobs/7665691)
+🕐 Updated: `2026-04-22T00:59:24-04:00` &nbsp;|&nbsp; ID: `7665691`
+
+---
+
 ## 📅 Run: 2026-04-21 23:51 UTC
 
 ### 🔄 Product Security Engineer
