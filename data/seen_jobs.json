@@ -113,14 +113,14 @@
   },
   "4529774005": {
     "first_seen": "2026-04-20T04:27:10.758881+00:00",
-    "updated_at": "2026-04-21T16:30:50-04:00",
+    "updated_at": "2026-04-22T10:29:42-04:00",
     "title": "Security Engineer, Application Security",
     "company": "gleanwork",
     "alerted": true
   },
   "4650994005": {
     "first_seen": "2026-04-20T04:27:10.758940+00:00",
-    "updated_at": "2026-04-20T21:34:42-04:00",
+    "updated_at": "2026-04-22T10:29:42-04:00",
     "title": "Security Engineer, Cloud Security",
     "company": "gleanwork",
     "alerted": true
@@ -294,7 +294,7 @@
     "alerted": true
   },
   "__daily_alerts__": {
-    "2026-04-22": 1
+    "2026-04-22": 2
   },
   "7833761": {
     "first_seen": "2026-04-20T20:41:17.410929+00:00",
@@ -308,6 +308,13 @@
     "updated_at": "2026-04-21T23:31:46-04:00",
     "title": "Security Engineer - Threat Intel",
     "company": "anthropic",
+    "alerted": true
+  },
+  "4675283006": {
+    "first_seen": "2026-04-22T15:49:19.542746+00:00",
+    "updated_at": "2026-04-22T10:35:43-04:00",
+    "title": "Audit & Information System Security Officer (ISSO) ",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }

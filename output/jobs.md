@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-04-22 15:49 UTC
+
+### 🆕 Audit & Information System Security Officer (ISSO) 
+**accenturefederalservices** · 58275363 - AFS Secure Cloud & FedRAMP/3PAO
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4675283006?gh_jid=4675283006)
+🕐 Updated: `2026-04-22T10:35:43-04:00` &nbsp;|&nbsp; ID: `4675283006`
+
+---
+### 🔄 Security Engineer, Application Security
+**gleanwork** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4529774005)
+🕐 Updated: `2026-04-22T10:29:42-04:00` &nbsp;|&nbsp; ID: `4529774005`
+
+---
+### 🔄 Security Engineer, Cloud Security
+**gleanwork** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4650994005)
+🕐 Updated: `2026-04-22T10:29:42-04:00` &nbsp;|&nbsp; ID: `4650994005`
+
+---
+
 ## 📅 Run: 2026-04-22 05:08 UTC
 
 ### 🆕 Security Engineer - Threat Intel
