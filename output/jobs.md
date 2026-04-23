@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-04-23 23:06 UTC
+
+### 🔄 Product Security Engineer
+**chime** · Security
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8141068002?gh_jid=8141068002)
+🕐 Updated: `2026-04-23T18:50:17-04:00` &nbsp;|&nbsp; ID: `8141068002`
+
+---
+
 ## 📅 Run: 2026-04-22 19:38 UTC
 
 ### 🔄 Security Engineer (Application Security)
