@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-04-24 15:46 UTC
+
+### 🔄 Infrastructure Security Engineer (USA)
+**gitlab** · Product Security
+📍 Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8459132002)
+🕐 Updated: `2026-04-24T11:28:23-04:00` &nbsp;|&nbsp; ID: `8459132002`
+
+---
+### 🔄 Global Security Operations Center Operator
+**twilio** · Security
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7808464)
+🕐 Updated: `2026-04-24T10:40:01-04:00` &nbsp;|&nbsp; ID: `7808464`
+
+---
+
 ## 📅 Run: 2026-04-24 14:20 UTC
 
 ### 🔄 Audit & Information System Security Officer (ISSO) 
