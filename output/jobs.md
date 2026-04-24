@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-04-24 20:29 UTC
+
+### 🆕 Information System Security Engineer (ISSE)
+**accenturefederalservices** · 56846838 - AFS Cyber/Security Service Ops
+📍 Los Angeles, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4671899006?gh_jid=4671899006)
+🕐 Updated: `2026-04-24T15:40:55-04:00` &nbsp;|&nbsp; ID: `4671899006`
+
+---
+
 ## 📅 Run: 2026-04-24 17:47 UTC
 
 ### 🔄 Security Engineer, Detection & Response
