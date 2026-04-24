@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-04-24 21:26 UTC
+
+### 🔄 PhD Machine Learning Engineer, New Grad
+**stripe** · 5112 General University
+📍 San Francisco, New York City, Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7216668)
+🕐 Updated: `2026-04-24T17:24:31-04:00` &nbsp;|&nbsp; ID: `7216668`
+
+---
+### 🔄 Security Engineer, Bridge
+**stripe** · 8504 Bridge - R&D
+📍 San Francisco, New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7657732)
+🕐 Updated: `2026-04-24T17:24:35-04:00` &nbsp;|&nbsp; ID: `7657732`
+
+---
+
 ## 📅 Run: 2026-04-24 20:29 UTC
 
 ### 🆕 Information System Security Engineer (ISSE)
