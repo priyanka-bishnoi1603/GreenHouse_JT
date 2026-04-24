@@ -294,7 +294,7 @@
     "alerted": true
   },
   "__daily_alerts__": {
-    "2026-04-22": 2
+    "2026-04-24": 1
   },
   "7833761": {
     "first_seen": "2026-04-20T20:41:17.410929+00:00",
@@ -314,6 +314,13 @@
     "first_seen": "2026-04-22T15:49:19.542746+00:00",
     "updated_at": "2026-04-24T09:47:09-04:00",
     "title": "Audit & Information System Security Officer (ISSO) ",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4671881006": {
+    "first_seen": "2026-04-24T16:51:57.153694+00:00",
+    "updated_at": "2026-04-24T12:41:06-04:00",
+    "title": "Cybersecurity Engineer",
     "company": "accenturefederalservices",
     "alerted": true
   }
