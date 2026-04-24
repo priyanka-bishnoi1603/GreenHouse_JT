@@ -2,6 +2,63 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-04-24 14:20 UTC
+
+### 🔄 Audit & Information System Security Officer (ISSO) 
+**accenturefederalservices** · 58275363 - AFS Secure Cloud & FedRAMP/3PAO
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4675283006?gh_jid=4675283006)
+🕐 Updated: `2026-04-24T09:47:09-04:00` &nbsp;|&nbsp; ID: `4675283006`
+
+---
+### 🔄 Information Security Compliance Support
+**accenturefederalservices** · 58283426 - AFS IT Security
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4651852006?gh_jid=4651852006)
+🕐 Updated: `2026-04-24T09:47:09-04:00` &nbsp;|&nbsp; ID: `4651852006`
+
+---
+### 🔄 Information System Security Engineer (ISSE) 
+**accenturefederalservices** · 58209312 - AFS Security Operations
+📍 Tampa, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4655498006?gh_jid=4655498006)
+🕐 Updated: `2026-04-24T09:47:09-04:00` &nbsp;|&nbsp; ID: `4655498006`
+
+---
+### 🔄 Information Systems Security Engineer
+**accenturefederalservices** · 58209312 - AFS Security Operations
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4669324006?gh_jid=4669324006)
+🕐 Updated: `2026-04-24T09:47:09-04:00` &nbsp;|&nbsp; ID: `4669324006`
+
+---
+### 🔄 Network Security Engineer
+**accenturefederalservices** · 56219053 - AFS Cloud Security
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4660738006?gh_jid=4660738006)
+🕐 Updated: `2026-04-24T09:47:09-04:00` &nbsp;|&nbsp; ID: `4660738006`
+
+---
+### 🔄 SAP Application Security Analyst
+**accenturefederalservices** · 58239872 - AFS SAP Development
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4665620006?gh_jid=4665620006)
+🕐 Updated: `2026-04-24T09:47:09-04:00` &nbsp;|&nbsp; ID: `4665620006`
+
+---
+### 🔄 Security Engineer
+**accenturefederalservices** · 58209312 - AFS Security Operations
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4619940006?gh_jid=4619940006)
+🕐 Updated: `2026-04-24T09:47:09-04:00` &nbsp;|&nbsp; ID: `4619940006`
+
+---
+### 🔄 Security Engineer
+**accenturefederalservices** · 58209311 - AFS Zero Trust
+📍 Chantilly, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4669275006?gh_jid=4669275006)
+🕐 Updated: `2026-04-24T09:47:09-04:00` &nbsp;|&nbsp; ID: `4669275006`
+
+---
+### 🔄 Software Security Engineer
+**accenturefederalservices** · 60004433 - AFS DevSecOps
+📍 Quantico, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4672336006?gh_jid=4672336006)
+🕐 Updated: `2026-04-24T09:47:09-04:00` &nbsp;|&nbsp; ID: `4672336006`
+
+---
+
 ## 📅 Run: 2026-04-24 08:22 UTC
 
 ### 🔄 Security Engineer, Detection & Response
