@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-04-27 14:21 UTC
+
+### 🔄 Infrastructure Security Engineer (USA)
+**gitlab** · Product Security
+📍 Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8459132002)
+🕐 Updated: `2026-04-27T09:46:44-04:00` &nbsp;|&nbsp; ID: `8459132002`
+
+---
+
 ## 📅 Run: 2026-04-27 05:39 UTC
 
 ### 🆕 Threat Hunter
