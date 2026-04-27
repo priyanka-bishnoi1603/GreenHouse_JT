@@ -2,6 +2,177 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-04-27 05:39 UTC
+
+### 🆕 Threat Hunter
+**tanium** · Threat Hunters
+📍 Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid); Reston, VA (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/tanium/jobs/7665691)
+🕐 Updated: `2026-04-22T00:59:24-04:00` &nbsp;|&nbsp; ID: `7665691`
+
+---
+### 🆕 CSOC Analyst
+**fastly** · Customer Security - CSOC
+📍 Denver, CO; San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fastly.com/about/jobs/apply?gh_jid=7798149)
+🕐 Updated: `2026-04-20T13:25:05-04:00` &nbsp;|&nbsp; ID: `7798149`
+
+---
+### 🆕 Information Security Compliance Support
+**accenturefederalservices** · 58283426 - AFS IT Security
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4651852006?gh_jid=4651852006)
+🕐 Updated: `2026-04-24T09:47:09-04:00` &nbsp;|&nbsp; ID: `4651852006`
+
+---
+### 🆕 Information System Security Engineer (ISSE) 
+**accenturefederalservices** · 58209312 - AFS Security Operations
+📍 Tampa, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4655498006?gh_jid=4655498006)
+🕐 Updated: `2026-04-24T09:47:09-04:00` &nbsp;|&nbsp; ID: `4655498006`
+
+---
+### 🆕 Information Systems Security Engineer
+**accenturefederalservices** · 58209312 - AFS Security Operations
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4669324006?gh_jid=4669324006)
+🕐 Updated: `2026-04-24T09:47:09-04:00` &nbsp;|&nbsp; ID: `4669324006`
+
+---
+### 🆕 Network Security Engineer
+**accenturefederalservices** · 56219053 - AFS Cloud Security
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4660738006?gh_jid=4660738006)
+🕐 Updated: `2026-04-24T09:47:09-04:00` &nbsp;|&nbsp; ID: `4660738006`
+
+---
+### 🆕 Security Engineer
+**accenturefederalservices** · 58209311 - AFS Zero Trust
+📍 Chantilly, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4669275006?gh_jid=4669275006)
+🕐 Updated: `2026-04-24T09:47:09-04:00` &nbsp;|&nbsp; ID: `4669275006`
+
+---
+### 🆕 Application Security Engineer
+**anthropic** · Security
+📍 Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/4502508008)
+🕐 Updated: `2026-04-01T10:49:08-04:00` &nbsp;|&nbsp; ID: `4502508008`
+
+---
+### 🆕 Security Engineer, Detection & Response
+**anthropic** · Security
+📍 San Francisco, CA | New York City, NY | Seattle, WA; Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/4982193008)
+🕐 Updated: `2026-04-01T10:49:08-04:00` &nbsp;|&nbsp; ID: `4982193008`
+
+---
+### 🆕 Security Engineer, Offensive Security
+**anthropic** · Security
+📍 Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5105509008)
+🕐 Updated: `2026-04-01T10:49:08-04:00` &nbsp;|&nbsp; ID: `5105509008`
+
+---
+### 🆕 Security Engineer, Application Security
+**gleanwork** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4529774005)
+🕐 Updated: `2026-04-22T10:29:42-04:00` &nbsp;|&nbsp; ID: `4529774005`
+
+---
+### 🆕 Security Engineer, Cloud Security
+**gleanwork** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4650994005)
+🕐 Updated: `2026-04-22T10:29:42-04:00` &nbsp;|&nbsp; ID: `4650994005`
+
+---
+### 🆕 Product Security Engineer
+**databricks** · Security
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8026646002)
+🕐 Updated: `2026-04-09T16:51:14-04:00` &nbsp;|&nbsp; ID: `8026646002`
+
+---
+### 🆕 IAM Security Engineer 3
+**mongodb** · Enterprise Security 
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7656724)
+🕐 Updated: `2026-04-21T17:41:57-04:00` &nbsp;|&nbsp; ID: `7656724`
+
+---
+### 🆕 Infrastructure Security Engineer (USA)
+**gitlab** · Product Security
+📍 Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8459132002)
+🕐 Updated: `2026-04-24T11:28:23-04:00` &nbsp;|&nbsp; ID: `8459132002`
+
+---
+### 🆕 Security Engineer, Bridge
+**stripe** · 8504 Bridge - R&D
+📍 San Francisco, New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7657732)
+🕐 Updated: `2026-04-24T17:24:35-04:00` &nbsp;|&nbsp; ID: `7657732`
+
+---
+### 🆕 Security Engineer, CorpSec
+**coinbase** · Engineering - Mobile
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7611268?gh_jid=7611268)
+🕐 Updated: `2026-04-10T00:41:31-04:00` &nbsp;|&nbsp; ID: `7611268`
+
+---
+### 🆕 Security Engineer, Detection & Response
+**robinhood** · Security Division
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7697725?t=gh_src=&gh_jid=7697725)
+🕐 Updated: `2026-04-24T13:21:07-04:00` &nbsp;|&nbsp; ID: `7697725`
+
+---
+### 🆕 Product Security Engineer
+**chime** · Security
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8141068002?gh_jid=8141068002)
+🕐 Updated: `2026-04-23T18:50:17-04:00` &nbsp;|&nbsp; ID: `8141068002`
+
+---
+### 🆕 Incident Response Engineer (Pacific time)
+**fireblocks** · R&D
+📍 Los Angeles, California, United States; Portland, Oregon, United States; San Francisco, California, United States; Seattle, Washington, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.fireblocks.com/careers/position/4664533006?gh_jid=4664533006)
+🕐 Updated: `2026-04-21T15:30:35-04:00` &nbsp;|&nbsp; ID: `4664533006`
+
+---
+### 🆕 Information Security Analyst
+**betterment** · Risk
+📍 Betterment HQ - New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.betterment.com/careers/current-openings/job?gh_jid=7797421&gh_jid=7797421)
+🕐 Updated: `2026-04-21T15:05:27-04:00` &nbsp;|&nbsp; ID: `7797421`
+
+---
+### 🆕 Security Engineer II
+**humaninterest** · Engineering
+📍 United States, Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/humaninterest/jobs/7565471)
+🕐 Updated: `2026-02-10T18:15:12-05:00` &nbsp;|&nbsp; ID: `7565471`
+
+---
+### 🆕 Global Security Operations Center Operator
+**twilio** · Security
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7808464)
+🕐 Updated: `2026-04-24T10:40:01-04:00` &nbsp;|&nbsp; ID: `7808464`
+
+---
+### 🆕 Enterprise Security Engineer
+**sendbird** · Security and IT
+📍 San Mateo, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://sendbird.com/careers?gh_jid=8487754002)
+🕐 Updated: `2026-04-16T16:51:16-04:00` &nbsp;|&nbsp; ID: `8487754002`
+
+---
+### 🆕 Security Engineer (Application Security)
+**contentful** · Security
+📍 Atlanta, Georgia, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/7782195)
+🕐 Updated: `2026-04-06T12:28:29-04:00` &nbsp;|&nbsp; ID: `7782195`
+
+---
+### 🆕 Product Security Engineer
+**airtable** · Security
+📍 San Francisco, CA; New York, NY; Remote (Seattle, WA only) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/airtable/jobs/8194662002)
+🕐 Updated: `2026-04-21T19:46:01-04:00` &nbsp;|&nbsp; ID: `8194662002`
+
+---
+### 🆕 Security Automation Engineer
+**calendly** · Security
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/calendly/jobs/8506905002)
+🕐 Updated: `2026-04-14T16:48:48-04:00` &nbsp;|&nbsp; ID: `8506905002`
+
+---
+### 🔄 Security Engineer - Threat Intel
+**anthropic** · Security
+📍 New York City, NY; Remote-Friendly (Travel-Required) | San Francisco, CA | Washington, DC; San Francisco, CA | New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5195705008)
+🕐 Updated: `2026-04-27T00:47:58-04:00` &nbsp;|&nbsp; ID: `5195705008`
+
+---
+
 ## 📅 Run: 2026-04-24 21:26 UTC
 
 ### 🔄 PhD Machine Learning Engineer, New Grad
