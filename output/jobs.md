@@ -2,6 +2,45 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-04-28 17:20 UTC
+
+### 🆕 Cybersecurity Incident Response Triage Analyst
+**accenturefederalservices** · 58283426 - AFS IT Security
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4671028006?gh_jid=4671028006)
+🕐 Updated: `2026-04-28T12:24:55-04:00` &nbsp;|&nbsp; ID: `4671028006`
+
+---
+### 🆕 Network Security Monitoring Analyst 
+**accenturefederalservices** · 60038767 - AFS Digital Forensics/Incident Response
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4671998006?gh_jid=4671998006)
+🕐 Updated: `2026-04-28T12:02:31-04:00` &nbsp;|&nbsp; ID: `4671998006`
+
+---
+### 🔄 Information System Security Engineer (ISSE) 
+**accenturefederalservices** · 58209312 - AFS Security Operations
+📍 Cocoa Beach, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4655498006?gh_jid=4655498006)
+🕐 Updated: `2026-04-28T13:04:36-04:00` &nbsp;|&nbsp; ID: `4655498006`
+
+---
+### 🔄 Application Security Engineer
+**gleanwork** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4529774005)
+🕐 Updated: `2026-04-28T12:22:18-04:00` &nbsp;|&nbsp; ID: `4529774005`
+
+---
+### 🔄 Cloud Security Engineer
+**gleanwork** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4650994005)
+🕐 Updated: `2026-04-28T12:29:28-04:00` &nbsp;|&nbsp; ID: `4650994005`
+
+---
+### 🔄 Global Security Operations Center Operator
+**twilio** · Security
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7808464)
+🕐 Updated: `2026-04-28T12:23:08-04:00` &nbsp;|&nbsp; ID: `7808464`
+
+---
+
 ## 📅 Run: 2026-04-28 15:37 UTC
 
 ### 🔄 IAM Security Engineer 3

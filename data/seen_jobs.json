@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-04-27": 28
+    "2026-04-28": 2
   },
   "5195705008": {
     "first_seen": "2026-04-22T05:07:52.424976+00:00",
@@ -53,7 +53,7 @@
   },
   "4655498006": {
     "first_seen": "2026-04-27T05:39:10.253823+00:00",
-    "updated_at": "2026-04-24T09:47:09-04:00",
+    "updated_at": "2026-04-28T13:04:36-04:00",
     "title": "Information System Security Engineer (ISSE) ",
     "company": "accenturefederalservices",
     "alerted": true
@@ -109,15 +109,15 @@
   },
   "4529774005": {
     "first_seen": "2026-04-27T05:39:10.702735+00:00",
-    "updated_at": "2026-04-22T10:29:42-04:00",
-    "title": "Security Engineer, Application Security",
+    "updated_at": "2026-04-28T12:22:18-04:00",
+    "title": "Application Security Engineer",
     "company": "gleanwork",
     "alerted": true
   },
   "4650994005": {
     "first_seen": "2026-04-27T05:39:10.702799+00:00",
-    "updated_at": "2026-04-22T10:29:42-04:00",
-    "title": "Security Engineer, Cloud Security",
+    "updated_at": "2026-04-28T12:29:28-04:00",
+    "title": "Cloud Security Engineer",
     "company": "gleanwork",
     "alerted": true
   },
@@ -193,7 +193,7 @@
   },
   "7808464": {
     "first_seen": "2026-04-27T05:39:13.885787+00:00",
-    "updated_at": "2026-04-24T10:40:01-04:00",
+    "updated_at": "2026-04-28T12:23:08-04:00",
     "title": "Global Security Operations Center Operator",
     "company": "twilio",
     "alerted": true
@@ -266,6 +266,20 @@
     "updated_at": "2026-04-20T15:49:41-04:00",
     "title": "Delivery Engineer | Splunk (W2PE)",
     "company": "trace3",
+    "alerted": true
+  },
+  "4671028006": {
+    "first_seen": "2026-04-28T17:20:26.641212+00:00",
+    "updated_at": "2026-04-28T12:24:55-04:00",
+    "title": "Cybersecurity Incident Response Triage Analyst",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4671998006": {
+    "first_seen": "2026-04-28T17:20:26.652081+00:00",
+    "updated_at": "2026-04-28T12:02:31-04:00",
+    "title": "Network Security Monitoring Analyst ",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }
