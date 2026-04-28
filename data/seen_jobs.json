@@ -144,7 +144,7 @@
   },
   "7657732": {
     "first_seen": "2026-04-27T05:39:11.683988+00:00",
-    "updated_at": "2026-04-24T17:24:35-04:00",
+    "updated_at": "2026-04-28T17:40:23-04:00",
     "title": "Security Engineer, Bridge",
     "company": "stripe",
     "alerted": true
@@ -158,7 +158,7 @@
   },
   "7697725": {
     "first_seen": "2026-04-27T05:39:12.178171+00:00",
-    "updated_at": "2026-04-24T13:21:07-04:00",
+    "updated_at": "2026-04-28T17:26:40-04:00",
     "title": "Security Engineer, Detection & Response",
     "company": "robinhood",
     "alerted": true
