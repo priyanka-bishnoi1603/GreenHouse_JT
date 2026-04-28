@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-04-28 19:05 UTC
+
+### 🆕 Security Analyst
+**abnormalsecurity** · CSI
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7611937003?gh_jid=7611937003)
+🕐 Updated: `2026-04-28T14:29:28-04:00` &nbsp;|&nbsp; ID: `7611937003`
+
+---
+
 ## 📅 Run: 2026-04-28 17:20 UTC
 
 ### 🆕 Cybersecurity Incident Response Triage Analyst
