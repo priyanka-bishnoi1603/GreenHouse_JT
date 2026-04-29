@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-04-29 21:18 UTC
+
+### 🆕 Security Engineer, Threat Detection & Response
+**airbnb** · Software Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.airbnb.com/positions/7867679?gh_jid=7867679)
+🕐 Updated: `2026-04-29T16:46:25-04:00` &nbsp;|&nbsp; ID: `7867679`
+
+---
+
 ## 📅 Run: 2026-04-29 20:08 UTC
 
 ### 🆕 Information Security Analyst II
