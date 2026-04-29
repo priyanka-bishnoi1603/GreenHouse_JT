@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-04-29 18:47 UTC
+
+### 🔄 SOC Analyst
+**accenturefederalservices** · 60038767 - AFS Digital Forensics/Incident Response
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4671998006?gh_jid=4671998006)
+🕐 Updated: `2026-04-29T13:32:18-04:00` &nbsp;|&nbsp; ID: `4671998006`
+
+---
+
 ## 📅 Run: 2026-04-29 17:02 UTC
 
 ### 🆕 Audit & Information System Security Officer (ISSO) 
