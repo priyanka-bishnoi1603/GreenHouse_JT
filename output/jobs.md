@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-04-29 15:27 UTC
+
+### 🆕 Security Engineer II - Vulnerability Lifecycle
+**datadog** · Security
+📍 New York, New York, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7851502/?gh_jid=7851502)
+🕐 Updated: `2026-04-29T09:37:20-04:00` &nbsp;|&nbsp; ID: `7851502`
+
+---
+
 ## 📅 Run: 2026-04-29 07:21 UTC
 
 ### 🆕 Security Engineer - Threat Intel
