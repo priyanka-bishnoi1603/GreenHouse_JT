@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-04-29": 3
+    "2026-04-29": 4
   },
   "4671881006": {
     "first_seen": "2026-04-24T16:51:57.153694+00:00",
@@ -270,7 +270,7 @@
   },
   "7611937003": {
     "first_seen": "2026-04-28T19:05:20.555875+00:00",
-    "updated_at": "2026-04-28T14:29:28-04:00",
+    "updated_at": "2026-04-29T15:33:02-04:00",
     "title": "Security Analyst",
     "company": "abnormalsecurity",
     "alerted": true
@@ -294,6 +294,13 @@
     "updated_at": "2026-04-24T09:47:09-04:00",
     "title": "Audit & Information System Security Officer (ISSO) ",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "7867762": {
+    "first_seen": "2026-04-29T20:08:13.624636+00:00",
+    "updated_at": "2026-04-29T14:47:47-04:00",
+    "title": "Information Security Analyst II",
+    "company": "datadog",
     "alerted": true
   }
 }

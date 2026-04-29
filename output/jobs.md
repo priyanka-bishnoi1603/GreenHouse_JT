@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-04-29 20:08 UTC
+
+### 🆕 Information Security Analyst II
+**datadog** · Security
+📍 New York, New York, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7867762/?gh_jid=7867762)
+🕐 Updated: `2026-04-29T14:47:47-04:00` &nbsp;|&nbsp; ID: `7867762`
+
+---
+### 🔄 Security Analyst
+**abnormalsecurity** · CSI
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7611937003?gh_jid=7611937003)
+🕐 Updated: `2026-04-29T15:33:02-04:00` &nbsp;|&nbsp; ID: `7611937003`
+
+---
+
 ## 📅 Run: 2026-04-29 18:47 UTC
 
 ### 🔄 SOC Analyst
