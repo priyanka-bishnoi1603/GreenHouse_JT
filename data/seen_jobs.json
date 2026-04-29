@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-04-28": 3
-  },
-  "5195705008": {
-    "first_seen": "2026-04-22T05:07:52.424976+00:00",
-    "updated_at": "2026-04-27T00:47:58-04:00",
-    "title": "Security Engineer - Threat Intel",
-    "company": "anthropic",
-    "alerted": true
+    "2026-04-29": 1
   },
   "4675283006": {
     "first_seen": "2026-04-22T15:49:19.542746+00:00",
@@ -287,6 +280,13 @@
     "updated_at": "2026-04-28T14:29:28-04:00",
     "title": "Security Analyst",
     "company": "abnormalsecurity",
+    "alerted": true
+  },
+  "5195705008": {
+    "first_seen": "2026-04-29T07:21:08.091555+00:00",
+    "updated_at": "2026-04-27T00:47:58-04:00",
+    "title": "Security Engineer - Threat Intel",
+    "company": "anthropic",
     "alerted": true
   }
 }
