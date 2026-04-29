@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-04-29 17:02 UTC
+
+### 🆕 Audit & Information System Security Officer (ISSO) 
+**accenturefederalservices** · 58275363 - AFS Secure Cloud & FedRAMP/3PAO
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4675283006?gh_jid=4675283006)
+🕐 Updated: `2026-04-24T09:47:09-04:00` &nbsp;|&nbsp; ID: `4675283006`
+
+---
+
 ## 📅 Run: 2026-04-29 15:27 UTC
 
 ### 🆕 Security Engineer II - Vulnerability Lifecycle
