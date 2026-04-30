@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-04-30 16:55 UTC
+
+### 🔄 Security Engineer II
+**humaninterest** · Engineering
+📍 United States, Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/humaninterest/jobs/7565471)
+🕐 Updated: `2026-04-30T12:39:01-04:00` &nbsp;|&nbsp; ID: `7565471`
+
+---
+
 ## 📅 Run: 2026-04-30 15:22 UTC
 
 ### 🆕 Information Systems Security Engineer III 
