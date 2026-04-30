@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-04-30 15:22 UTC
+
+### 🆕 Information Systems Security Engineer III 
+**trace3** · T3 Government
+📍 Colorado Springs, CO &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/trace3/jobs/7871083)
+🕐 Updated: `2026-04-30T10:36:08-04:00` &nbsp;|&nbsp; ID: `7871083`
+
+---
+### 🔄 IAM Security Engineer 3
+**mongodb** · Enterprise Security 
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7656724)
+🕐 Updated: `2026-04-30T10:10:37-04:00` &nbsp;|&nbsp; ID: `7656724`
+
+---
+
 ## 📅 Run: 2026-04-30 09:34 UTC
 
 ### 🔄 Global Security Operations Center Operator
