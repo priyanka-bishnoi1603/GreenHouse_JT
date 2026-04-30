@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-04-30 19:49 UTC
+
+### 🔄 Software Engineer - Security
+**calendly** · Security
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/calendly/jobs/8506905002)
+🕐 Updated: `2026-04-30T14:32:50-04:00` &nbsp;|&nbsp; ID: `8506905002`
+
+---
+
 ## 📅 Run: 2026-04-30 18:08 UTC
 
 ### 🔄 IAM Security Engineer 3
