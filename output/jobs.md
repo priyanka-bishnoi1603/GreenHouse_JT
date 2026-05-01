@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-05-01 19:12 UTC
+
+### 🆕 A&A Specialist
+**accenturefederalservices** · 58275363 - AFS Secure Cloud & FedRAMP/3PAO
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4657876006?gh_jid=4657876006)
+🕐 Updated: `2026-05-01T14:11:09-04:00` &nbsp;|&nbsp; ID: `4657876006`
+
+---
+
 ## 📅 Run: 2026-05-01 17:56 UTC
 
 ### 🔄 Delivery Engineer | Splunk (W2PE)
