@@ -2,13 +2,6 @@
   "__daily_alerts__": {
     "2026-04-30": 1
   },
-  "4671881006": {
-    "first_seen": "2026-04-24T16:51:57.153694+00:00",
-    "updated_at": "2026-04-24T12:41:06-04:00",
-    "title": "Cybersecurity Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
   "4671899006": {
     "first_seen": "2026-04-24T20:29:13.358821+00:00",
     "updated_at": "2026-04-24T15:40:55-04:00",
@@ -116,7 +109,7 @@
   },
   "7656724": {
     "first_seen": "2026-04-27T05:39:11.217572+00:00",
-    "updated_at": "2026-05-01T11:11:35-04:00",
+    "updated_at": "2026-05-01T12:25:56-04:00",
     "title": "IAM Security Engineer 3",
     "company": "mongodb",
     "alerted": true
