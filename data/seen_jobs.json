@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-05-04": 22
+    "2026-05-04": 23
   },
   "7833761": {
     "first_seen": "2026-04-27T21:16:29.931701+00:00",
@@ -281,5 +281,12 @@
     "title": "Security Engineer (Application Security)",
     "company": "contentful",
     "alerted": false
+  },
+  "7749135": {
+    "first_seen": "2026-05-04T16:20:05.284930+00:00",
+    "updated_at": "2026-05-04T11:50:51-04:00",
+    "title": "Infrastructure Security Engineer",
+    "company": "upstart",
+    "alerted": true
   }
 }
