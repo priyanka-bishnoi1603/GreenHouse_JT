@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-05-04": 23
+    "2026-05-04": 25
   },
   "7833761": {
     "first_seen": "2026-04-27T21:16:29.931701+00:00",
@@ -288,5 +288,40 @@
     "title": "Infrastructure Security Engineer",
     "company": "upstart",
     "alerted": true
+  },
+  "4677515006": {
+    "first_seen": "2026-05-04T21:04:52.325712+00:00",
+    "updated_at": "2026-05-04T16:19:28-04:00",
+    "title": "Cybersecurity Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4677559006": {
+    "first_seen": "2026-05-04T21:04:52.325788+00:00",
+    "updated_at": "2026-05-04T16:20:52-04:00",
+    "title": "Cybersecurity Engineer",
+    "company": "accenturefederalservices",
+    "alerted": false
+  },
+  "4678524006": {
+    "first_seen": "2026-05-04T21:04:52.331924+00:00",
+    "updated_at": "2026-05-04T16:29:05-04:00",
+    "title": "Incident Response Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4676530006": {
+    "first_seen": "2026-05-04T21:04:52.331979+00:00",
+    "updated_at": "2026-05-04T17:00:48-04:00",
+    "title": "Incident Response Engineer",
+    "company": "accenturefederalservices",
+    "alerted": false
+  },
+  "4676209006": {
+    "first_seen": "2026-05-04T21:04:52.332032+00:00",
+    "updated_at": "2026-05-04T17:02:22-04:00",
+    "title": "Incident Response Engineer",
+    "company": "accenturefederalservices",
+    "alerted": false
   }
 }
