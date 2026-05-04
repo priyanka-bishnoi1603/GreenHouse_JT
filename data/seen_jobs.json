@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-05-04": 26
+    "2026-05-04": 27
   },
   "4671028006": {
     "first_seen": "2026-04-28T17:20:26.641212+00:00",
@@ -322,6 +322,13 @@
     "updated_at": "2026-05-01T13:07:32-04:00",
     "title": "Delivery Engineer | Splunk (W2PE)",
     "company": "trace3",
+    "alerted": true
+  },
+  "7867389": {
+    "first_seen": "2026-05-04T23:11:38.082921+00:00",
+    "updated_at": "2026-05-04T19:01:23-04:00",
+    "title": "Cloud Security Engineer",
+    "company": "stripe",
     "alerted": true
   }
 }
