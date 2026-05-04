@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-05-04 22:14 UTC
+
+### 🆕 Delivery Engineer | Splunk (W2PE)
+**trace3** · Data & Analytics
+📍 Denver, Colorado, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/trace3/jobs/7833761)
+🕐 Updated: `2026-05-01T13:07:32-04:00` &nbsp;|&nbsp; ID: `7833761`
+
+---
+### 🔄 IAM Security Engineer 3
+**mongodb** · Enterprise Security 
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7656724)
+🕐 Updated: `2026-05-04T17:10:11-04:00` &nbsp;|&nbsp; ID: `7656724`
+
+---
+
 ## 📅 Run: 2026-05-04 21:05 UTC
 
 ### 🆕 Cybersecurity Engineer
