@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-05-04 14:30 UTC
+
+### 🔄 Security Engineer
+**accenturefederalservices** · 58209311 - AFS Zero Trust
+📍 Chantilly, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4669275006?gh_jid=4669275006)
+🕐 Updated: `2026-05-04T09:26:48-04:00` &nbsp;|&nbsp; ID: `4669275006`
+
+---
+
 ## 📅 Run: 2026-05-04 07:48 UTC
 
 ### 🆕 CSOC Analyst
