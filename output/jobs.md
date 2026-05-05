@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-05-05 17:21 UTC
+
+### 🆕 Cybersecurity Incident Response Triage Analyst
+**accenturefederalservices** · 58283426 - AFS IT Security
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4671028006?gh_jid=4671028006)
+🕐 Updated: `2026-04-28T12:24:55-04:00` &nbsp;|&nbsp; ID: `4671028006`
+
+---
+### 🔄 Security Engineer
+**accenturefederalservices** · 58209311 - AFS Zero Trust
+📍 Chantilly, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4669275006?gh_jid=4669275006)
+🕐 Updated: `2026-05-05T12:13:20-04:00` &nbsp;|&nbsp; ID: `4669275006`
+
+---
+### 🔄 IAM Security Engineer 3
+**mongodb** · Enterprise Security 
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7656724)
+🕐 Updated: `2026-05-05T12:47:59-04:00` &nbsp;|&nbsp; ID: `7656724`
+
+---
+
 ## 📅 Run: 2026-05-05 15:51 UTC
 
 ### 🆕 Cybersecurity Engineer-II

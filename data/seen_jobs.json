@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-05-05": 1
-  },
-  "4671028006": {
-    "first_seen": "2026-04-28T17:20:26.641212+00:00",
-    "updated_at": "2026-04-28T12:24:55-04:00",
-    "title": "Cybersecurity Incident Response Triage Analyst",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "4671998006": {
-    "first_seen": "2026-04-28T17:20:26.652081+00:00",
-    "updated_at": "2026-04-29T13:32:18-04:00",
-    "title": "SOC Analyst",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-05-05": 2
   },
   "7611937003": {
     "first_seen": "2026-04-28T19:05:20.555875+00:00",
@@ -123,7 +109,7 @@
   },
   "4669275006": {
     "first_seen": "2026-05-04T07:48:08.834345+00:00",
-    "updated_at": "2026-05-04T09:26:48-04:00",
+    "updated_at": "2026-05-05T12:13:20-04:00",
     "title": "Security Engineer",
     "company": "accenturefederalservices",
     "alerted": false
@@ -172,7 +158,7 @@
   },
   "7656724": {
     "first_seen": "2026-05-04T07:48:09.962703+00:00",
-    "updated_at": "2026-05-05T09:52:44-04:00",
+    "updated_at": "2026-05-05T12:47:59-04:00",
     "title": "IAM Security Engineer 3",
     "company": "mongodb",
     "alerted": true
@@ -335,6 +321,13 @@
     "first_seen": "2026-05-05T15:51:09.798919+00:00",
     "updated_at": "2026-05-05T10:35:18-04:00",
     "title": "Cybersecurity Engineer-II",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4671028006": {
+    "first_seen": "2026-05-05T17:20:45.044407+00:00",
+    "updated_at": "2026-04-28T12:24:55-04:00",
+    "title": "Cybersecurity Incident Response Triage Analyst",
     "company": "accenturefederalservices",
     "alerted": true
   }
