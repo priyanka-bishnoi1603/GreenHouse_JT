@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-05-05": 4
+    "2026-05-05": 5
   },
   "5195705008": {
     "first_seen": "2026-04-29T07:21:08.091555+00:00",
@@ -336,6 +336,13 @@
     "updated_at": "2026-05-05T15:13:47-04:00",
     "title": " Information System Security Engineer (ISSE)",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4679241006": {
+    "first_seen": "2026-05-05T22:14:18.651550+00:00",
+    "updated_at": "2026-05-05T18:08:01-04:00",
+    "title": "Security Engineer (Security Operations) ",
+    "company": "everlaw",
     "alerted": true
   }
 }
