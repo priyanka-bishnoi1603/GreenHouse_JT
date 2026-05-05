@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-05-04": 27
+    "2026-05-05": 1
   },
   "4671028006": {
     "first_seen": "2026-04-28T17:20:26.641212+00:00",
@@ -172,7 +172,7 @@
   },
   "7656724": {
     "first_seen": "2026-05-04T07:48:09.962703+00:00",
-    "updated_at": "2026-05-04T20:08:42-04:00",
+    "updated_at": "2026-05-05T09:52:44-04:00",
     "title": "IAM Security Engineer 3",
     "company": "mongodb",
     "alerted": true
@@ -326,9 +326,16 @@
   },
   "7867389": {
     "first_seen": "2026-05-04T23:11:38.082921+00:00",
-    "updated_at": "2026-05-04T19:12:32-04:00",
+    "updated_at": "2026-05-05T10:32:15-04:00",
     "title": "Cloud Security Engineer",
     "company": "stripe",
+    "alerted": true
+  },
+  "4679031006": {
+    "first_seen": "2026-05-05T15:51:09.798919+00:00",
+    "updated_at": "2026-05-05T10:35:18-04:00",
+    "title": "Cybersecurity Engineer-II",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }
