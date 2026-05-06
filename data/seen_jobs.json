@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-05-05": 5
-  },
-  "5195705008": {
-    "first_seen": "2026-04-29T07:21:08.091555+00:00",
-    "updated_at": "2026-04-27T00:47:58-04:00",
-    "title": "Security Engineer - Threat Intel",
-    "company": "anthropic",
-    "alerted": true
+    "2026-05-06": 1
   },
   "7851502": {
     "first_seen": "2026-04-29T15:26:54.554811+00:00",
@@ -343,6 +336,13 @@
     "updated_at": "2026-05-05T18:08:01-04:00",
     "title": "Security Engineer (Security Operations) ",
     "company": "everlaw",
+    "alerted": true
+  },
+  "5195705008": {
+    "first_seen": "2026-05-06T09:11:18.639576+00:00",
+    "updated_at": "2026-04-27T00:47:58-04:00",
+    "title": "Security Engineer - Threat Intel",
+    "company": "anthropic",
     "alerted": true
   }
 }
