@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-05-06 15:34 UTC
+
+### 🆕 Security Engineer II - Vulnerability Lifecycle
+**datadog** · Security
+📍 New York, New York, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7851502/?gh_jid=7851502)
+🕐 Updated: `2026-05-05T16:22:59-04:00` &nbsp;|&nbsp; ID: `7851502`
+
+---
+### 🔄 Cloud Security Engineer
+**stripe** · 8614 Office of the CISO & Partnership
+📍 Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7867389)
+🕐 Updated: `2026-05-06T09:15:44-04:00` &nbsp;|&nbsp; ID: `7867389`
+
+---
+
 ## 📅 Run: 2026-05-06 09:11 UTC
 
 ### 🆕 Security Engineer - Threat Intel

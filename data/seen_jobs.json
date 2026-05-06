@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-05-06": 1
-  },
-  "7851502": {
-    "first_seen": "2026-04-29T15:26:54.554811+00:00",
-    "updated_at": "2026-05-05T16:22:59-04:00",
-    "title": "Security Engineer II - Vulnerability Lifecycle",
-    "company": "datadog",
-    "alerted": true
+    "2026-05-06": 2
   },
   "4675283006": {
     "first_seen": "2026-04-29T17:02:24.533232+00:00",
@@ -298,7 +291,7 @@
   },
   "7867389": {
     "first_seen": "2026-05-04T23:11:38.082921+00:00",
-    "updated_at": "2026-05-05T10:32:15-04:00",
+    "updated_at": "2026-05-06T09:15:44-04:00",
     "title": "Cloud Security Engineer",
     "company": "stripe",
     "alerted": true
@@ -343,6 +336,13 @@
     "updated_at": "2026-04-27T00:47:58-04:00",
     "title": "Security Engineer - Threat Intel",
     "company": "anthropic",
+    "alerted": true
+  },
+  "7851502": {
+    "first_seen": "2026-05-06T15:34:30.637112+00:00",
+    "updated_at": "2026-05-05T16:22:59-04:00",
+    "title": "Security Engineer II - Vulnerability Lifecycle",
+    "company": "datadog",
     "alerted": true
   }
 }
