@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-05-07 17:04 UTC
+
+### 🆕 Information Systems Security Engineer III - (W2PE)
+**trace3** · T3 Government
+📍 Colorado Springs, CO &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/trace3/jobs/7871083)
+🕐 Updated: `2026-05-01T13:09:17-04:00` &nbsp;|&nbsp; ID: `7871083`
+
+---
+### 🔄 Security Engineer
+**automox** · IT Operations
+📍 Remote - Austin, TX - Denver, CO - Tampa, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/automox/jobs/5145654008)
+🕐 Updated: `2026-05-07T12:31:39-04:00` &nbsp;|&nbsp; ID: `5145654008`
+
+---
+
 ## 📅 Run: 2026-05-07 10:40 UTC
 
 ### 🆕 Product Security Engineer
