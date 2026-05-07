@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-05-07 10:40 UTC
+
+### 🆕 Product Security Engineer
+**lattice** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://lattice.com/job?gh_jid=8538998002)
+🕐 Updated: `2026-05-07T04:37:05-04:00` &nbsp;|&nbsp; ID: `8538998002`
+
+---
+
 ## 📅 Run: 2026-05-06 22:47 UTC
 
 ### 🔄 Security Engineer (Application Security)

@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-05-06": 4
+    "2026-05-07": 1
   },
   "7871083": {
     "first_seen": "2026-04-30T15:22:18.204112+00:00",
@@ -336,6 +336,13 @@
     "updated_at": "2026-04-29T16:46:25-04:00",
     "title": "Security Engineer, Threat Detection & Response",
     "company": "airbnb",
+    "alerted": true
+  },
+  "8538998002": {
+    "first_seen": "2026-05-07T10:40:33.592216+00:00",
+    "updated_at": "2026-05-07T04:37:05-04:00",
+    "title": "Product Security Engineer",
+    "company": "lattice",
     "alerted": true
   }
 }
