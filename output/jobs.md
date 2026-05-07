@@ -2,6 +2,51 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-05-07 23:35 UTC
+
+### 🔄 Product Security Engineer
+**chime** · Security
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8141068002?gh_jid=8141068002)
+🕐 Updated: `2026-05-07T18:47:18-04:00` &nbsp;|&nbsp; ID: `8141068002`
+
+---
+### 🔄 Security Engineer (Application Security)
+**contentful** · Security
+📍 Atlanta, Georgia, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/7782195)
+🕐 Updated: `2026-05-07T18:57:45-04:00` &nbsp;|&nbsp; ID: `7782195`
+
+---
+### 🔄 Security Engineer (Application Security)
+**contentful** · Security
+📍 Orlando, Florida, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/7782161)
+🕐 Updated: `2026-05-07T18:57:45-04:00` &nbsp;|&nbsp; ID: `7782161`
+
+---
+### 🔄 Security Engineer (Application Security)
+**contentful** · Security
+📍 Tampa, Florida, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/7782181)
+🕐 Updated: `2026-05-07T18:57:45-04:00` &nbsp;|&nbsp; ID: `7782181`
+
+---
+### 🔄 Security Engineer (Application Security)
+**contentful** · Security
+📍 Philadelphia, Pennsylvania, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/7782199)
+🕐 Updated: `2026-05-07T18:57:45-04:00` &nbsp;|&nbsp; ID: `7782199`
+
+---
+### 🔄 Security Engineer (Application Security)
+**contentful** · Security
+📍 Raleigh, North Carolina, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/7782201)
+🕐 Updated: `2026-05-07T18:57:45-04:00` &nbsp;|&nbsp; ID: `7782201`
+
+---
+### 🔄 Security Engineer (Application Security)
+**contentful** · Security
+📍 New York City, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/7774018)
+🕐 Updated: `2026-05-07T18:57:45-04:00` &nbsp;|&nbsp; ID: `7774018`
+
+---
+
 ## 📅 Run: 2026-05-07 18:58 UTC
 
 ### 🔄 IAM Security Engineer 3
