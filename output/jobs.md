@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-05-08 22:29 UTC
+
+### 🆕 Security Analyst
+**abnormalsecurity** · CSI
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7611937003?gh_jid=7611937003)
+🕐 Updated: `2026-05-08T18:06:29-04:00` &nbsp;|&nbsp; ID: `7611937003`
+
+---
+### 🔄 Cloud Security Engineer
+**stripe** · 8614 Office of the CISO & Partnership
+📍 Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7867389)
+🕐 Updated: `2026-05-08T17:59:17-04:00` &nbsp;|&nbsp; ID: `7867389`
+
+---
+### 🔄 Enterprise Security Engineer
+**sendbird** · Security and IT
+📍 San Mateo, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://sendbird.com/careers?gh_jid=8487754002)
+🕐 Updated: `2026-05-08T18:22:41-04:00` &nbsp;|&nbsp; ID: `8487754002`
+
+---
+
 ## 📅 Run: 2026-05-08 21:15 UTC
 
 ### 🆕 Information System Security Engineer (ISSE)

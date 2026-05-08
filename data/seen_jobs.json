@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-05-08": 4
+    "2026-05-08": 5
   },
   "7798149": {
     "first_seen": "2026-05-04T07:48:08.335918+00:00",
@@ -151,7 +151,7 @@
   },
   "8487754002": {
     "first_seen": "2026-05-04T07:48:13.198226+00:00",
-    "updated_at": "2026-04-16T16:51:16-04:00",
+    "updated_at": "2026-05-08T18:22:41-04:00",
     "title": "Enterprise Security Engineer",
     "company": "sendbird",
     "alerted": true
@@ -249,7 +249,7 @@
   },
   "7867389": {
     "first_seen": "2026-05-04T23:11:38.082921+00:00",
-    "updated_at": "2026-05-06T09:15:44-04:00",
+    "updated_at": "2026-05-08T17:59:17-04:00",
     "title": "Cloud Security Engineer",
     "company": "stripe",
     "alerted": true
@@ -364,6 +364,13 @@
     "updated_at": "2026-05-08T16:40:45-04:00",
     "title": "Product Security Engineer",
     "company": "airtable",
+    "alerted": true
+  },
+  "7611937003": {
+    "first_seen": "2026-05-08T22:29:15.440115+00:00",
+    "updated_at": "2026-05-08T18:06:29-04:00",
+    "title": "Security Analyst",
+    "company": "abnormalsecurity",
     "alerted": true
   }
 }
