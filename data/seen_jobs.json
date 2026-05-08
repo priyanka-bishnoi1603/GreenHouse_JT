@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-05-07": 2
+    "2026-05-08": 1
   },
   "4657876006": {
     "first_seen": "2026-05-01T19:11:59.859142+00:00",
@@ -343,6 +343,13 @@
     "updated_at": "2026-05-01T13:09:17-04:00",
     "title": "Information Systems Security Engineer III - (W2PE)",
     "company": "trace3",
+    "alerted": true
+  },
+  "4680135006": {
+    "first_seen": "2026-05-08T01:24:25.305657+00:00",
+    "updated_at": "2026-05-07T19:40:44-04:00",
+    "title": "Incident Response Engineer",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }
