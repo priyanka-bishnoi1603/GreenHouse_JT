@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-05-08": 1
+    "2026-05-08": 2
   },
   "4657876006": {
     "first_seen": "2026-05-01T19:11:59.859142+00:00",
@@ -109,7 +109,7 @@
   },
   "7656724": {
     "first_seen": "2026-05-04T07:48:09.962703+00:00",
-    "updated_at": "2026-05-07T13:27:04-04:00",
+    "updated_at": "2026-05-08T10:27:40-04:00",
     "title": "IAM Security Engineer 3",
     "company": "mongodb",
     "alerted": true
@@ -351,5 +351,19 @@
     "title": "Incident Response Engineer",
     "company": "accenturefederalservices",
     "alerted": true
+  },
+  "7600882002": {
+    "first_seen": "2026-05-08T15:58:11.299654+00:00",
+    "updated_at": "2026-05-08T11:52:18-04:00",
+    "title": "SOC Analyst",
+    "company": "bitgo",
+    "alerted": true
+  },
+  "8541106002": {
+    "first_seen": "2026-05-08T15:58:11.299724+00:00",
+    "updated_at": "2026-05-08T11:54:18-04:00",
+    "title": "SOC Analyst",
+    "company": "bitgo",
+    "alerted": false
   }
 }

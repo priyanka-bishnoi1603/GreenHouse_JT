@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-05-08 15:58 UTC
+
+### 🆕 SOC Analyst
+**bitgo** · Security
+📍 Palo Alto, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/7600882002)
+🕐 Updated: `2026-05-08T11:52:18-04:00` &nbsp;|&nbsp; ID: `7600882002`
+
+---
+### 🔄 IAM Security Engineer 3
+**mongodb** · Enterprise Security 
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7656724)
+🕐 Updated: `2026-05-08T10:27:40-04:00` &nbsp;|&nbsp; ID: `7656724`
+
+---
+
 ## 📅 Run: 2026-05-08 14:22 UTC
 
 ### 🔄 Security Engineer (Application Security)
