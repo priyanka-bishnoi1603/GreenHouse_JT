@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-05-08 17:23 UTC
+
+### 🔄 Audit & Information System Security Officer (ISSO) 
+**accenturefederalservices** · 58209318 - AFS Assessment and Authorization
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4675283006?gh_jid=4675283006)
+🕐 Updated: `2026-05-08T12:21:43-04:00` &nbsp;|&nbsp; ID: `4675283006`
+
+---
+### 🔄  Information System Security Engineer (ISSE)
+**accenturefederalservices** · 58209318 - AFS Assessment and Authorization
+📍 Chantilly, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4679230006?gh_jid=4679230006)
+🕐 Updated: `2026-05-08T13:03:11-04:00` &nbsp;|&nbsp; ID: `4679230006`
+
+---
+
 ## 📅 Run: 2026-05-08 15:58 UTC
 
 ### 🆕 SOC Analyst
