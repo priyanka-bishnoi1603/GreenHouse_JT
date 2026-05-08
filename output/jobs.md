@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-05-08 14:22 UTC
+
+### 🔄 Security Engineer (Application Security)
+**contentful** · Security
+📍 New York City, New York, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/contentful/jobs/7774018)
+🕐 Updated: `2026-05-08T08:41:26-04:00` &nbsp;|&nbsp; ID: `7774018`
+
+---
+
 ## 📅 Run: 2026-05-08 01:24 UTC
 
 ### 🆕 Incident Response Engineer
