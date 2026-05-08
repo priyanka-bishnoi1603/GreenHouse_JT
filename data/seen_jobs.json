@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-05-08": 2
-  },
-  "4671899006": {
-    "first_seen": "2026-05-01T21:08:11.249772+00:00",
-    "updated_at": "2026-04-24T15:40:55-04:00",
-    "title": "Information System Security Engineer (ISSE)",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-05-08": 4
   },
   "7798149": {
     "first_seen": "2026-05-04T07:48:08.335918+00:00",
@@ -340,7 +333,7 @@
   },
   "4680135006": {
     "first_seen": "2026-05-08T01:24:25.305657+00:00",
-    "updated_at": "2026-05-07T19:40:44-04:00",
+    "updated_at": "2026-05-08T17:02:37-04:00",
     "title": "Incident Response Engineer",
     "company": "accenturefederalservices",
     "alerted": true
@@ -358,5 +351,19 @@
     "title": "SOC Analyst",
     "company": "bitgo",
     "alerted": false
+  },
+  "4671899006": {
+    "first_seen": "2026-05-08T21:15:31.407225+00:00",
+    "updated_at": "2026-04-24T15:40:55-04:00",
+    "title": "Information System Security Engineer (ISSE)",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "8533547002": {
+    "first_seen": "2026-05-08T21:15:40.879823+00:00",
+    "updated_at": "2026-05-08T16:40:45-04:00",
+    "title": "Product Security Engineer",
+    "company": "airtable",
+    "alerted": true
   }
 }

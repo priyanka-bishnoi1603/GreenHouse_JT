@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-05-08 21:15 UTC
+
+### 🆕 Information System Security Engineer (ISSE)
+**accenturefederalservices** · 56846838 - AFS Cyber/Security Service Ops
+📍 Los Angeles, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4671899006?gh_jid=4671899006)
+🕐 Updated: `2026-04-24T15:40:55-04:00` &nbsp;|&nbsp; ID: `4671899006`
+
+---
+### 🆕 Product Security Engineer
+**airtable** · Engineering
+📍 San Francisco, CA; New York, NY; Remote (Seattle, WA only) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/airtable/jobs/8533547002)
+🕐 Updated: `2026-05-08T16:40:45-04:00` &nbsp;|&nbsp; ID: `8533547002`
+
+---
+### 🔄 Incident Response Engineer
+**accenturefederalservices** · 56846838 - AFS Cyber/Security Service Ops
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4680135006?gh_jid=4680135006)
+🕐 Updated: `2026-05-08T17:02:37-04:00` &nbsp;|&nbsp; ID: `4680135006`
+
+---
+
 ## 📅 Run: 2026-05-08 17:23 UTC
 
 ### 🔄 Audit & Information System Security Officer (ISSO) 
