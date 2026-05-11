@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-05-11 22:12 UTC
+
+### 🆕 Security Operations Center (SOC) Analyst (Remote)
+**trace3** · Managed Services
+📍 New Orleans, LA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/trace3/jobs/7913897)
+🕐 Updated: `2026-05-11T17:07:29-04:00` &nbsp;|&nbsp; ID: `7913897`
+
+---
+### 🆕 Cybersecurity Engineer
+**accenturefederalservices** · 58239869 - AFS Vulnerability Management
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4677559006?gh_jid=4677559006)
+🕐 Updated: `2026-05-04T16:20:52-04:00` &nbsp;|&nbsp; ID: `4677559006`
+
+---
+### 🆕 Incident Response Engineer
+**accenturefederalservices** · 58239869 - AFS Vulnerability Management
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4678524006?gh_jid=4678524006)
+🕐 Updated: `2026-05-04T16:29:05-04:00` &nbsp;|&nbsp; ID: `4678524006`
+
+---
+
 ## 📅 Run: 2026-05-11 19:19 UTC
 
 ### 🆕 SOC Analyst
