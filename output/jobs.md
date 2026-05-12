@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-05-12 16:00 UTC
+
+### 🆕 Cybersecurity Engineer-II
+**accenturefederalservices** · 60038769 - AFS Cyber Resilience
+📍 Tyson's Corner, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4679031006?gh_jid=4679031006)
+🕐 Updated: `2026-05-05T10:35:18-04:00` &nbsp;|&nbsp; ID: `4679031006`
+
+---
+### 🔄 Information Systems Security Engineer III - (W2PE)
+**trace3** · T3 Government
+📍 Colorado Springs, CO &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/trace3/jobs/7871083)
+🕐 Updated: `2026-05-12T11:56:41-04:00` &nbsp;|&nbsp; ID: `7871083`
+
+---
+
 ## 📅 Run: 2026-05-11 23:12 UTC
 
 ### 🆕 Delivery Engineer | Splunk (W2PE)

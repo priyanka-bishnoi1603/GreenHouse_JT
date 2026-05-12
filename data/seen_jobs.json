@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-05-11": 28
-  },
-  "4679031006": {
-    "first_seen": "2026-05-05T15:51:09.798919+00:00",
-    "updated_at": "2026-05-05T10:35:18-04:00",
-    "title": "Cybersecurity Engineer-II",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-05-12": 1
   },
   "4671028006": {
     "first_seen": "2026-05-05T17:20:45.044407+00:00",
@@ -74,7 +67,7 @@
   },
   "7871083": {
     "first_seen": "2026-05-07T17:03:54.073393+00:00",
-    "updated_at": "2026-05-01T13:09:17-04:00",
+    "updated_at": "2026-05-12T11:56:41-04:00",
     "title": "Information Systems Security Engineer III - (W2PE)",
     "company": "trace3",
     "alerted": true
@@ -385,6 +378,13 @@
     "updated_at": "2026-05-08T17:59:17-04:00",
     "title": "Cloud Security Engineer",
     "company": "stripe",
+    "alerted": true
+  },
+  "4679031006": {
+    "first_seen": "2026-05-12T15:59:47.640537+00:00",
+    "updated_at": "2026-05-05T10:35:18-04:00",
+    "title": "Cybersecurity Engineer-II",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }
