@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-05-12": 1
-  },
-  "4671028006": {
-    "first_seen": "2026-05-05T17:20:45.044407+00:00",
-    "updated_at": "2026-04-28T12:24:55-04:00",
-    "title": "Cybersecurity Incident Response Triage Analyst",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-05-12": 2
   },
   "5145654008": {
     "first_seen": "2026-05-05T20:04:33.202040+00:00",
@@ -326,7 +319,7 @@
   },
   "7913897": {
     "first_seen": "2026-05-11T22:12:38.114729+00:00",
-    "updated_at": "2026-05-11T17:07:29-04:00",
+    "updated_at": "2026-05-12T12:25:40-04:00",
     "title": "Security Operations Center (SOC) Analyst (Remote)",
     "company": "trace3",
     "alerted": true
@@ -384,6 +377,13 @@
     "first_seen": "2026-05-12T15:59:47.640537+00:00",
     "updated_at": "2026-05-05T10:35:18-04:00",
     "title": "Cybersecurity Engineer-II",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4671028006": {
+    "first_seen": "2026-05-12T18:07:41.124971+00:00",
+    "updated_at": "2026-04-28T12:24:55-04:00",
+    "title": "Cybersecurity Incident Response Triage Analyst",
     "company": "accenturefederalservices",
     "alerted": true
   }

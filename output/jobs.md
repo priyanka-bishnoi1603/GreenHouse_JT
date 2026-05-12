@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-05-12 18:07 UTC
+
+### 🆕 Cybersecurity Incident Response Triage Analyst
+**accenturefederalservices** · 58283426 - AFS IT Security
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4671028006?gh_jid=4671028006)
+🕐 Updated: `2026-04-28T12:24:55-04:00` &nbsp;|&nbsp; ID: `4671028006`
+
+---
+### 🔄 Security Operations Center (SOC) Analyst (Remote)
+**trace3** · Managed Services
+📍 New Orleans, LA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/trace3/jobs/7913897)
+🕐 Updated: `2026-05-12T12:25:40-04:00` &nbsp;|&nbsp; ID: `7913897`
+
+---
+
 ## 📅 Run: 2026-05-12 16:00 UTC
 
 ### 🆕 Cybersecurity Engineer-II
