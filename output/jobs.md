@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-05-12 20:07 UTC
+
+### 🆕 Security Engineer
+**automox** · IT Operations
+📍 Remote - Austin, TX - Denver, CO - Tampa, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/automox/jobs/5145654008)
+🕐 Updated: `2026-05-07T12:31:39-04:00` &nbsp;|&nbsp; ID: `5145654008`
+
+---
+### 🆕  Information System Security Engineer (ISSE)
+**accenturefederalservices** · 58209318 - AFS Assessment and Authorization
+📍 Chantilly, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4679230006?gh_jid=4679230006)
+🕐 Updated: `2026-05-08T13:03:11-04:00` &nbsp;|&nbsp; ID: `4679230006`
+
+---
+
 ## 📅 Run: 2026-05-12 18:07 UTC
 
 ### 🆕 Cybersecurity Incident Response Triage Analyst
