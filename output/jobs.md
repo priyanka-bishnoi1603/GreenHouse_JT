@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-05-12 22:44 UTC
+
+### 🆕 Security Engineer (Security Operations) 
+**everlaw** · Engineering
+📍 Oakland, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/everlaw/jobs/4679241006)
+🕐 Updated: `2026-05-05T18:08:01-04:00` &nbsp;|&nbsp; ID: `4679241006`
+
+---
+### 🔄 Application Security Engineer
+**gleanwork** · Engineering
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4529774005)
+🕐 Updated: `2026-05-12T18:15:39-04:00` &nbsp;|&nbsp; ID: `4529774005`
+
+---
+### 🔄 Cloud Security Engineer
+**gleanwork** · Engineering
+📍 Mountain View, California &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4650994005)
+🕐 Updated: `2026-05-12T18:16:12-04:00` &nbsp;|&nbsp; ID: `4650994005`
+
+---
+
 ## 📅 Run: 2026-05-12 20:07 UTC
 
 ### 🆕 Security Engineer

@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-05-12": 4
-  },
-  "4679241006": {
-    "first_seen": "2026-05-05T22:14:18.651550+00:00",
-    "updated_at": "2026-05-05T18:08:01-04:00",
-    "title": "Security Engineer (Security Operations) ",
-    "company": "everlaw",
-    "alerted": true
+    "2026-05-12": 5
   },
   "5195705008": {
     "first_seen": "2026-05-06T09:11:18.639576+00:00",
@@ -165,14 +158,14 @@
   },
   "4529774005": {
     "first_seen": "2026-05-11T08:46:18.666072+00:00",
-    "updated_at": "2026-04-28T12:22:18-04:00",
+    "updated_at": "2026-05-12T18:15:39-04:00",
     "title": "Application Security Engineer",
     "company": "gleanwork",
     "alerted": true
   },
   "4650994005": {
     "first_seen": "2026-05-11T08:46:18.666153+00:00",
-    "updated_at": "2026-04-28T12:29:28-04:00",
+    "updated_at": "2026-05-12T18:16:12-04:00",
     "title": "Cloud Security Engineer",
     "company": "gleanwork",
     "alerted": true
@@ -385,6 +378,13 @@
     "updated_at": "2026-05-08T13:03:11-04:00",
     "title": " Information System Security Engineer (ISSE)",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4679241006": {
+    "first_seen": "2026-05-12T22:44:37.480743+00:00",
+    "updated_at": "2026-05-05T18:08:01-04:00",
+    "title": "Security Engineer (Security Operations) ",
+    "company": "everlaw",
     "alerted": true
   }
 }
