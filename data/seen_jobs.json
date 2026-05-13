@@ -2,13 +2,6 @@
   "__daily_alerts__": {
     "2026-05-13": 3
   },
-  "4675283006": {
-    "first_seen": "2026-05-06T17:13:28.741385+00:00",
-    "updated_at": "2026-05-08T12:21:43-04:00",
-    "title": "Audit & Information System Security Officer (ISSO) ",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
   "7867679": {
     "first_seen": "2026-05-06T21:53:30.328510+00:00",
     "updated_at": "2026-04-29T16:46:25-04:00",
@@ -221,42 +214,42 @@
   },
   "7782199": {
     "first_seen": "2026-05-11T08:46:23.219093+00:00",
-    "updated_at": "2026-05-07T18:57:45-04:00",
+    "updated_at": "2026-05-13T12:13:03-04:00",
     "title": "Security Engineer (Application Security)",
     "company": "contentful",
     "alerted": true
   },
   "7774018": {
     "first_seen": "2026-05-11T08:46:23.219200+00:00",
-    "updated_at": "2026-05-08T08:41:26-04:00",
+    "updated_at": "2026-05-13T12:13:03-04:00",
     "title": "Security Engineer (Application Security)",
     "company": "contentful",
     "alerted": false
   },
   "7782161": {
     "first_seen": "2026-05-11T08:46:23.219281+00:00",
-    "updated_at": "2026-05-07T18:57:45-04:00",
+    "updated_at": "2026-05-13T12:13:03-04:00",
     "title": "Security Engineer (Application Security)",
     "company": "contentful",
     "alerted": false
   },
   "7782181": {
     "first_seen": "2026-05-11T08:46:23.219364+00:00",
-    "updated_at": "2026-05-07T18:57:45-04:00",
+    "updated_at": "2026-05-13T12:13:03-04:00",
     "title": "Security Engineer (Application Security)",
     "company": "contentful",
     "alerted": false
   },
   "7782195": {
     "first_seen": "2026-05-11T08:46:23.219437+00:00",
-    "updated_at": "2026-05-07T18:57:45-04:00",
+    "updated_at": "2026-05-13T12:13:03-04:00",
     "title": "Security Engineer (Application Security)",
     "company": "contentful",
     "alerted": false
   },
   "7782201": {
     "first_seen": "2026-05-11T08:46:23.219522+00:00",
-    "updated_at": "2026-05-07T18:57:45-04:00",
+    "updated_at": "2026-05-13T12:13:03-04:00",
     "title": "Security Engineer (Application Security)",
     "company": "contentful",
     "alerted": false
