@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-05-13 20:13 UTC
+
+### 🆕 Security Engineer
+**tanium** · IT Security
+📍 Addison, TX (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/tanium/jobs/7922497)
+🕐 Updated: `2026-05-13T14:54:58-04:00` &nbsp;|&nbsp; ID: `7922497`
+
+---
+
 ## 📅 Run: 2026-05-13 18:15 UTC
 
 ### 🔄 Security Engineer (Application Security)
