@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-05-13 16:03 UTC
+
+### 🆕 IT Security Engineer
+**tanium** · IT Security
+📍 Durham, NC (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/tanium/jobs/7874958)
+🕐 Updated: `2026-05-13T11:25:48-04:00` &nbsp;|&nbsp; ID: `7874958`
+
+---
+### 🆕 Security Engineer II - Vulnerability Lifecycle
+**datadog** · Security
+📍 New York, New York, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7851502/?gh_jid=7851502)
+🕐 Updated: `2026-05-05T16:22:59-04:00` &nbsp;|&nbsp; ID: `7851502`
+
+---
+### 🔄 Security Operations Center (SOC) Analyst (Remote)
+**trace3** · Managed Services
+📍 New Orleans, LA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/trace3/jobs/7913897)
+🕐 Updated: `2026-05-13T11:39:59-04:00` &nbsp;|&nbsp; ID: `7913897`
+
+---
+
 ## 📅 Run: 2026-05-13 11:04 UTC
 
 ### 🆕 Security Engineer - Threat Intel

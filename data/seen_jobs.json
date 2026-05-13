@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-05-13": 1
-  },
-  "7851502": {
-    "first_seen": "2026-05-06T15:34:30.637112+00:00",
-    "updated_at": "2026-05-05T16:22:59-04:00",
-    "title": "Security Engineer II - Vulnerability Lifecycle",
-    "company": "datadog",
-    "alerted": true
+    "2026-05-13": 3
   },
   "4675283006": {
     "first_seen": "2026-05-06T17:13:28.741385+00:00",
@@ -291,7 +284,7 @@
   },
   "7913897": {
     "first_seen": "2026-05-11T22:12:38.114729+00:00",
-    "updated_at": "2026-05-12T12:25:40-04:00",
+    "updated_at": "2026-05-13T11:39:59-04:00",
     "title": "Security Operations Center (SOC) Analyst (Remote)",
     "company": "trace3",
     "alerted": true
@@ -399,6 +392,20 @@
     "updated_at": "2026-04-27T00:47:58-04:00",
     "title": "Security Engineer - Threat Intel",
     "company": "anthropic",
+    "alerted": true
+  },
+  "7874958": {
+    "first_seen": "2026-05-13T16:03:30.350391+00:00",
+    "updated_at": "2026-05-13T11:25:48-04:00",
+    "title": "IT Security Engineer",
+    "company": "tanium",
+    "alerted": true
+  },
+  "7851502": {
+    "first_seen": "2026-05-13T16:03:31.076422+00:00",
+    "updated_at": "2026-05-05T16:22:59-04:00",
+    "title": "Security Engineer II - Vulnerability Lifecycle",
+    "company": "datadog",
     "alerted": true
   }
 }
