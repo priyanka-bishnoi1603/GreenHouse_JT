@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-05-12": 7
-  },
-  "5195705008": {
-    "first_seen": "2026-05-06T09:11:18.639576+00:00",
-    "updated_at": "2026-04-27T00:47:58-04:00",
-    "title": "Security Engineer - Threat Intel",
-    "company": "anthropic",
-    "alerted": true
+    "2026-05-13": 1
   },
   "7851502": {
     "first_seen": "2026-05-06T15:34:30.637112+00:00",
@@ -399,6 +392,13 @@
     "updated_at": "2026-05-12T19:29:51-04:00",
     "title": "Cloud Security Engineer",
     "company": "gleanwork",
+    "alerted": true
+  },
+  "5195705008": {
+    "first_seen": "2026-05-13T11:04:25.945744+00:00",
+    "updated_at": "2026-04-27T00:47:58-04:00",
+    "title": "Security Engineer - Threat Intel",
+    "company": "anthropic",
     "alerted": true
   }
 }
