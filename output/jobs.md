@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-05-14 20:52 UTC
+
+### 🔄 Application Security Engineer
+**gleanwork** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4694831005)
+🕐 Updated: `2026-05-14T15:35:24-04:00` &nbsp;|&nbsp; ID: `4694831005`
+
+---
+### 🔄 Application Security Engineer
+**gleanwork** · Engineering
+📍 Mountain View, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4529774005)
+🕐 Updated: `2026-05-14T15:35:24-04:00` &nbsp;|&nbsp; ID: `4529774005`
+
+---
+### 🔄 Cloud Security Engineer
+**gleanwork** · Engineering
+📍 Mountain View, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4650994005)
+🕐 Updated: `2026-05-14T15:35:24-04:00` &nbsp;|&nbsp; ID: `4650994005`
+
+---
+### 🔄 Cloud Security Engineer
+**gleanwork** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4694835005)
+🕐 Updated: `2026-05-14T15:35:24-04:00` &nbsp;|&nbsp; ID: `4694835005`
+
+---
+
 ## 📅 Run: 2026-05-14 19:17 UTC
 
 ### 🔄 Product Security Engineer

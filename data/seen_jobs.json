@@ -116,14 +116,14 @@
   },
   "4529774005": {
     "first_seen": "2026-05-11T08:46:18.666072+00:00",
-    "updated_at": "2026-05-12T19:07:30-04:00",
+    "updated_at": "2026-05-14T15:35:24-04:00",
     "title": "Application Security Engineer",
     "company": "gleanwork",
     "alerted": true
   },
   "4650994005": {
     "first_seen": "2026-05-11T08:46:18.666153+00:00",
-    "updated_at": "2026-05-12T19:29:29-04:00",
+    "updated_at": "2026-05-14T15:35:24-04:00",
     "title": "Cloud Security Engineer",
     "company": "gleanwork",
     "alerted": true
@@ -347,14 +347,14 @@
   },
   "4694831005": {
     "first_seen": "2026-05-12T23:43:57.412608+00:00",
-    "updated_at": "2026-05-12T19:03:45-04:00",
+    "updated_at": "2026-05-14T15:35:24-04:00",
     "title": "Application Security Engineer",
     "company": "gleanwork",
     "alerted": true
   },
   "4694835005": {
     "first_seen": "2026-05-12T23:43:57.412866+00:00",
-    "updated_at": "2026-05-12T19:29:51-04:00",
+    "updated_at": "2026-05-14T15:35:24-04:00",
     "title": "Cloud Security Engineer",
     "company": "gleanwork",
     "alerted": true
