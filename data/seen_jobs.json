@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-05-14": 1
-  },
-  "7871083": {
-    "first_seen": "2026-05-07T17:03:54.073393+00:00",
-    "updated_at": "2026-05-12T11:56:41-04:00",
-    "title": "Information Systems Security Engineer III - (W2PE)",
-    "company": "trace3",
-    "alerted": true
+    "2026-05-14": 2
   },
   "4680135006": {
     "first_seen": "2026-05-08T01:24:25.305657+00:00",
@@ -312,7 +305,7 @@
   },
   "7867389": {
     "first_seen": "2026-05-11T23:12:28.945844+00:00",
-    "updated_at": "2026-05-08T17:59:17-04:00",
+    "updated_at": "2026-05-14T13:08:51-04:00",
     "title": "Cloud Security Engineer",
     "company": "stripe",
     "alerted": true
@@ -413,6 +406,13 @@
     "updated_at": "2026-05-07T04:37:05-04:00",
     "title": "Product Security Engineer",
     "company": "lattice",
+    "alerted": true
+  },
+  "7871083": {
+    "first_seen": "2026-05-14T17:26:12.155097+00:00",
+    "updated_at": "2026-05-12T11:56:41-04:00",
+    "title": "Information Systems Security Engineer III - (W2PE)",
+    "company": "trace3",
     "alerted": true
   }
 }
