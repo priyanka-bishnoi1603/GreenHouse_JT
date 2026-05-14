@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-05-13": 4
-  },
-  "8538998002": {
-    "first_seen": "2026-05-07T10:40:33.592216+00:00",
-    "updated_at": "2026-05-07T04:37:05-04:00",
-    "title": "Product Security Engineer",
-    "company": "lattice",
-    "alerted": true
+    "2026-05-14": 1
   },
   "7871083": {
     "first_seen": "2026-05-07T17:03:54.073393+00:00",
@@ -414,5 +407,12 @@
     "title": "Security Engineer",
     "company": "tanium",
     "alerted": false
+  },
+  "8538998002": {
+    "first_seen": "2026-05-14T11:29:38.221344+00:00",
+    "updated_at": "2026-05-07T04:37:05-04:00",
+    "title": "Product Security Engineer",
+    "company": "lattice",
+    "alerted": true
   }
 }
