@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-05-15": 2
-  },
-  "4671899006": {
-    "first_seen": "2026-05-08T21:15:31.407225+00:00",
-    "updated_at": "2026-04-24T15:40:55-04:00",
-    "title": "Information System Security Engineer (ISSE)",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "8533547002": {
-    "first_seen": "2026-05-08T21:15:40.879823+00:00",
-    "updated_at": "2026-05-14T13:26:28-04:00",
-    "title": "Product Security Engineer",
-    "company": "airtable",
-    "alerted": true
+    "2026-05-15": 4
   },
   "7611937003": {
     "first_seen": "2026-05-08T22:29:15.440115+00:00",
@@ -319,7 +305,7 @@
   },
   "4679241006": {
     "first_seen": "2026-05-12T22:44:37.480743+00:00",
-    "updated_at": "2026-05-05T18:08:01-04:00",
+    "updated_at": "2026-05-15T17:34:45-04:00",
     "title": "Security Engineer (Security Operations) ",
     "company": "everlaw",
     "alerted": true
@@ -406,6 +392,20 @@
     "updated_at": "2026-05-15T14:15:02-04:00",
     "title": "Executive Assistant",
     "company": "okta",
+    "alerted": true
+  },
+  "4671899006": {
+    "first_seen": "2026-05-15T21:59:40.234532+00:00",
+    "updated_at": "2026-04-24T15:40:55-04:00",
+    "title": "Information System Security Engineer (ISSE)",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "8533547002": {
+    "first_seen": "2026-05-15T21:59:47.198704+00:00",
+    "updated_at": "2026-05-14T13:26:28-04:00",
+    "title": "Product Security Engineer",
+    "company": "airtable",
     "alerted": true
   }
 }
