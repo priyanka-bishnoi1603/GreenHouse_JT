@@ -2,13 +2,6 @@
   "__daily_alerts__": {
     "2026-05-15": 4
   },
-  "7611937003": {
-    "first_seen": "2026-05-08T22:29:15.440115+00:00",
-    "updated_at": "2026-05-08T18:06:29-04:00",
-    "title": "Security Analyst",
-    "company": "abnormalsecurity",
-    "alerted": true
-  },
   "7798149": {
     "first_seen": "2026-05-11T08:46:17.656800+00:00",
     "updated_at": "2026-04-20T13:25:05-04:00",
