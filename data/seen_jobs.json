@@ -2,20 +2,6 @@
   "__daily_alerts__": {
     "2026-05-15": 1
   },
-  "7600882002": {
-    "first_seen": "2026-05-08T15:58:11.299654+00:00",
-    "updated_at": "2026-05-08T11:52:18-04:00",
-    "title": "SOC Analyst",
-    "company": "bitgo",
-    "alerted": true
-  },
-  "8541106002": {
-    "first_seen": "2026-05-08T15:58:11.299724+00:00",
-    "updated_at": "2026-05-08T11:54:18-04:00",
-    "title": "SOC Analyst",
-    "company": "bitgo",
-    "alerted": false
-  },
   "4671899006": {
     "first_seen": "2026-05-08T21:15:31.407225+00:00",
     "updated_at": "2026-04-24T15:40:55-04:00",
