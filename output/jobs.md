@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-05-18 19:01 UTC
+
+### 🆕 Information Security Analyst II
+**datadog** · Security
+📍 New York, New York, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7867762/?gh_jid=7867762)
+🕐 Updated: `2026-05-18T14:02:23-04:00` &nbsp;|&nbsp; ID: `7867762`
+
+---
+### 🆕 Infrastructure Security Engineer
+**upstart** · InfoSec
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7749135)
+🕐 Updated: `2026-05-04T11:50:51-04:00` &nbsp;|&nbsp; ID: `7749135`
+
+---
+
 ## 📅 Run: 2026-05-18 17:11 UTC
 
 ### 🔄 Cybersecurity Engineer
