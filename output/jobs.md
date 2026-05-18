@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-05-18 20:44 UTC
+
+### 🆕 SOC Analyst
+**bitgo** · Security
+📍 Palo Alto, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/8531792002)
+🕐 Updated: `2026-05-11T14:46:38-04:00` &nbsp;|&nbsp; ID: `8531792002`
+
+---
+
 ## 📅 Run: 2026-05-18 19:01 UTC
 
 ### 🆕 Information Security Analyst II
