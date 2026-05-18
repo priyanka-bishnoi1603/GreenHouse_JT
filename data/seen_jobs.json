@@ -1,48 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-05-18": 23
-  },
-  "7913897": {
-    "first_seen": "2026-05-11T22:12:38.114729+00:00",
-    "updated_at": "2026-05-13T11:39:59-04:00",
-    "title": "Security Operations Center (SOC) Analyst (Remote)",
-    "company": "trace3",
-    "alerted": true
-  },
-  "4677559006": {
-    "first_seen": "2026-05-11T22:12:38.763739+00:00",
-    "updated_at": "2026-05-18T12:11:52-04:00",
-    "title": "Cybersecurity Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "4677515006": {
-    "first_seen": "2026-05-11T22:12:38.763807+00:00",
-    "updated_at": "2026-05-18T12:11:52-04:00",
-    "title": "Cybersecurity Engineer",
-    "company": "accenturefederalservices",
-    "alerted": false
-  },
-  "4678524006": {
-    "first_seen": "2026-05-11T22:12:38.769847+00:00",
-    "updated_at": "2026-05-18T12:11:52-04:00",
-    "title": "Incident Response Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "4676209006": {
-    "first_seen": "2026-05-11T22:12:38.769905+00:00",
-    "updated_at": "2026-05-18T12:11:52-04:00",
-    "title": "Incident Response Engineer",
-    "company": "accenturefederalservices",
-    "alerted": false
-  },
-  "4676530006": {
-    "first_seen": "2026-05-11T22:12:38.769961+00:00",
-    "updated_at": "2026-05-18T12:11:52-04:00",
-    "title": "Incident Response Engineer",
-    "company": "accenturefederalservices",
-    "alerted": false
+    "2026-05-18": 25
   },
   "7833761": {
     "first_seen": "2026-05-11T23:12:26.654601+00:00",
@@ -364,6 +322,41 @@
     "updated_at": "2026-05-11T14:46:48-04:00",
     "title": "SOC Analyst",
     "company": "bitgo",
+    "alerted": false
+  },
+  "4677515006": {
+    "first_seen": "2026-05-18T22:57:27.556010+00:00",
+    "updated_at": "2026-05-18T12:11:52-04:00",
+    "title": "Cybersecurity Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4677559006": {
+    "first_seen": "2026-05-18T22:57:27.556080+00:00",
+    "updated_at": "2026-05-18T12:11:52-04:00",
+    "title": "Cybersecurity Engineer",
+    "company": "accenturefederalservices",
+    "alerted": false
+  },
+  "4676530006": {
+    "first_seen": "2026-05-18T22:57:27.561569+00:00",
+    "updated_at": "2026-05-18T12:11:52-04:00",
+    "title": "Incident Response Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4676209006": {
+    "first_seen": "2026-05-18T22:57:27.561625+00:00",
+    "updated_at": "2026-05-18T12:11:52-04:00",
+    "title": "Incident Response Engineer",
+    "company": "accenturefederalservices",
+    "alerted": false
+  },
+  "4678524006": {
+    "first_seen": "2026-05-18T22:57:27.561676+00:00",
+    "updated_at": "2026-05-18T12:11:52-04:00",
+    "title": "Incident Response Engineer",
+    "company": "accenturefederalservices",
     "alerted": false
   }
 }
