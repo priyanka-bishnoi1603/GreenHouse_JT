@@ -2,20 +2,6 @@
   "__daily_alerts__": {
     "2026-05-19": 4
   },
-  "5145654008": {
-    "first_seen": "2026-05-12T20:07:01.799072+00:00",
-    "updated_at": "2026-05-07T12:31:39-04:00",
-    "title": "Security Engineer",
-    "company": "automox",
-    "alerted": true
-  },
-  "4679230006": {
-    "first_seen": "2026-05-12T20:07:03.993908+00:00",
-    "updated_at": "2026-05-08T13:03:11-04:00",
-    "title": " Information System Security Engineer (ISSE)",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
   "4679241006": {
     "first_seen": "2026-05-12T22:44:37.480743+00:00",
     "updated_at": "2026-05-15T17:34:45-04:00",
