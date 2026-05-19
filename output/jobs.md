@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-05-19 17:17 UTC
+
+### 🆕 Cybersecurity Engineer-II
+**accenturefederalservices** · 60038769 - AFS Cyber Resilience
+📍 Tyson's Corner, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4679031006?gh_jid=4679031006)
+🕐 Updated: `2026-05-18T12:11:52-04:00` &nbsp;|&nbsp; ID: `4679031006`
+
+---
+
 ## 📅 Run: 2026-05-19 08:05 UTC
 
 ### 🔄 IT Security Engineer
