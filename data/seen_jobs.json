@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-05-20": 5
-  },
-  "7871083": {
-    "first_seen": "2026-05-14T17:26:12.155097+00:00",
-    "updated_at": "2026-05-12T11:56:41-04:00",
-    "title": "Information Systems Security Engineer III - (W2PE)",
-    "company": "trace3",
-    "alerted": true
+    "2026-05-21": 2
   },
   "4680135006": {
     "first_seen": "2026-05-15T04:16:53.965572+00:00",
@@ -315,6 +308,20 @@
     "updated_at": "2026-05-15T08:44:57-04:00",
     "title": "Security Engineer II - Vulnerability Lifecycle",
     "company": "datadog",
+    "alerted": true
+  },
+  "7871083": {
+    "first_seen": "2026-05-21T18:12:08.099817+00:00",
+    "updated_at": "2026-05-12T11:56:41-04:00",
+    "title": "Information Systems Security Engineer III - (W2PE)",
+    "company": "trace3",
+    "alerted": true
+  },
+  "8538998002": {
+    "first_seen": "2026-05-21T18:12:24.949181+00:00",
+    "updated_at": "2026-05-21T13:25:42-04:00",
+    "title": "Product Security Engineer",
+    "company": "lattice",
     "alerted": true
   }
 }
