@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-05-21 05:53 UTC
+
+### 🔄 Executive Assistant
+**okta** · Security Engineering-695
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7862411?gh_jid=7862411)
+🕐 Updated: `2026-05-20T21:58:07-04:00` &nbsp;|&nbsp; ID: `7862411`
+
+---
+
 ## 📅 Run: 2026-05-20 22:15 UTC
 
 ### 🔄 Cloud Security Engineer
