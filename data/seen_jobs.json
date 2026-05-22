@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-05-22": 2
+    "2026-05-22": 3
   },
   "7862411": {
     "first_seen": "2026-05-15T19:49:15.761441+00:00",
@@ -158,7 +158,7 @@
   },
   "7808464": {
     "first_seen": "2026-05-18T10:10:52.349188+00:00",
-    "updated_at": "2026-05-20T11:02:07-04:00",
+    "updated_at": "2026-05-22T11:33:44-04:00",
     "title": "Global Security Operations Center Operator",
     "company": "twilio",
     "alerted": true
@@ -329,6 +329,13 @@
     "updated_at": "2026-05-18T12:11:52-04:00",
     "title": "Incident Response Engineer",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "7939818": {
+    "first_seen": "2026-05-22T16:06:58.791214+00:00",
+    "updated_at": "2026-05-22T09:43:54-04:00",
+    "title": "Security Engineer, AI Vulnerability Management",
+    "company": "robinhood",
     "alerted": true
   }
 }
