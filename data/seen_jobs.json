@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-05-22": 3
-  },
-  "7862411": {
-    "first_seen": "2026-05-15T19:49:15.761441+00:00",
-    "updated_at": "2026-05-20T21:58:07-04:00",
-    "title": "Executive Assistant",
-    "company": "okta",
-    "alerted": true
+    "2026-05-22": 4
   },
   "4671899006": {
     "first_seen": "2026-05-15T21:59:40.234532+00:00",
@@ -291,7 +284,7 @@
   },
   "7874958": {
     "first_seen": "2026-05-20T18:13:13.919734+00:00",
-    "updated_at": "2026-05-19T01:13:58-04:00",
+    "updated_at": "2026-05-22T15:13:02-04:00",
     "title": "IT Security Engineer",
     "company": "tanium",
     "alerted": true
@@ -336,6 +329,13 @@
     "updated_at": "2026-05-22T12:11:47-04:00",
     "title": "Security Engineer, AI Vulnerability Management",
     "company": "robinhood",
+    "alerted": true
+  },
+  "7862411": {
+    "first_seen": "2026-05-22T20:09:17.097366+00:00",
+    "updated_at": "2026-05-20T21:58:07-04:00",
+    "title": "Executive Assistant",
+    "company": "okta",
     "alerted": true
   }
 }

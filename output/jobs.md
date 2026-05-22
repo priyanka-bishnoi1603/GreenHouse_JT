@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-05-22 20:09 UTC
+
+### 🆕 Executive Assistant
+**okta** · Security Engineering-695
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7862411?gh_jid=7862411)
+🕐 Updated: `2026-05-20T21:58:07-04:00` &nbsp;|&nbsp; ID: `7862411`
+
+---
+### 🔄 IT Security Engineer
+**tanium** · IT Security
+📍 Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/tanium/jobs/7874958)
+🕐 Updated: `2026-05-22T15:13:02-04:00` &nbsp;|&nbsp; ID: `7874958`
+
+---
+
 ## 📅 Run: 2026-05-22 18:03 UTC
 
 ### 🔄 Security Engineer, AI Vulnerability Management
