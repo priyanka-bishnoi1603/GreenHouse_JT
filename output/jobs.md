@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-05-22 00:12 UTC
+
+### 🆕 Application Security Engineer II
+**abnormalsecurity** · Security
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7504595003?gh_jid=7504595003)
+🕐 Updated: `2026-05-21T19:20:43-04:00` &nbsp;|&nbsp; ID: `7504595003`
+
+---
+
 ## 📅 Run: 2026-05-21 20:10 UTC
 
 ### 🔄 Incident Response Engineer

@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-05-21": 2
+    "2026-05-22": 1
   },
   "4680135006": {
     "first_seen": "2026-05-15T04:16:53.965572+00:00",
@@ -322,6 +322,13 @@
     "updated_at": "2026-05-21T13:25:42-04:00",
     "title": "Product Security Engineer",
     "company": "lattice",
+    "alerted": true
+  },
+  "7504595003": {
+    "first_seen": "2026-05-22T00:11:26.523993+00:00",
+    "updated_at": "2026-05-21T19:20:43-04:00",
+    "title": "Application Security Engineer II",
+    "company": "abnormalsecurity",
     "alerted": true
   }
 }
