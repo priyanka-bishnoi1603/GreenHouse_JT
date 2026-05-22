@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-05-22 04:35 UTC
+
+### 🆕 Incident Response Engineer
+**accenturefederalservices** · 56846838 - AFS Cyber/Security Service Ops
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4680135006?gh_jid=4680135006)
+🕐 Updated: `2026-05-18T12:11:52-04:00` &nbsp;|&nbsp; ID: `4680135006`
+
+---
+### 🔄 Incident Response Engineer
+**accenturefederalservices** · 58239869 - AFS Vulnerability Management
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4676530006?gh_jid=4676530006)
+🕐 Updated: `2026-05-21T21:22:10-04:00` &nbsp;|&nbsp; ID: `4676530006`
+
+---
+
 ## 📅 Run: 2026-05-22 00:12 UTC
 
 ### 🆕 Application Security Engineer II
