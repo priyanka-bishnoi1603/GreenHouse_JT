@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-05-25": 20
-  },
-  "8531792002": {
-    "first_seen": "2026-05-18T20:44:24.904108+00:00",
-    "updated_at": "2026-05-11T14:46:38-04:00",
-    "title": "SOC Analyst",
-    "company": "bitgo",
-    "alerted": true
-  },
-  "8531833002": {
-    "first_seen": "2026-05-18T20:44:24.904181+00:00",
-    "updated_at": "2026-05-11T14:46:48-04:00",
-    "title": "SOC Analyst",
-    "company": "bitgo",
-    "alerted": false
+    "2026-05-25": 21
   },
   "4677515006": {
     "first_seen": "2026-05-18T22:57:27.556010+00:00",
@@ -323,5 +309,19 @@
     "title": "Infrastructure Security Engineer",
     "company": "upstart",
     "alerted": true
+  },
+  "8531792002": {
+    "first_seen": "2026-05-25T21:13:20.039504+00:00",
+    "updated_at": "2026-05-11T14:46:38-04:00",
+    "title": "SOC Analyst",
+    "company": "bitgo",
+    "alerted": true
+  },
+  "8531833002": {
+    "first_seen": "2026-05-25T21:13:20.039575+00:00",
+    "updated_at": "2026-05-11T14:46:48-04:00",
+    "title": "SOC Analyst",
+    "company": "bitgo",
+    "alerted": false
   }
 }
