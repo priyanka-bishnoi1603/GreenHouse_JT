@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-05-26": 5
-  },
-  "4679241006": {
-    "first_seen": "2026-05-19T23:38:56.447167+00:00",
-    "updated_at": "2026-05-15T17:34:45-04:00",
-    "title": "Security Engineer (Security Operations) ",
-    "company": "everlaw",
-    "alerted": true
+    "2026-05-26": 6
   },
   "4694831005": {
     "first_seen": "2026-05-20T01:35:10.307348+00:00",
@@ -329,6 +322,13 @@
     "updated_at": "2026-05-18T12:11:52-04:00",
     "title": "Cybersecurity Incident Response Triage Analyst",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4679241006": {
+    "first_seen": "2026-05-26T23:39:12.398458+00:00",
+    "updated_at": "2026-05-15T17:34:45-04:00",
+    "title": "Security Engineer (Security Operations) ",
+    "company": "everlaw",
     "alerted": true
   }
 }
