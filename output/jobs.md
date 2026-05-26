@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-05-26 16:30 UTC
+
+### 🆕 Enterprise AI Security Engineer (ISSE)
+**accenturefederalservices** · 58209318 - AFS Assessment and Authorization
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4683272006?gh_jid=4683272006)
+🕐 Updated: `2026-05-26T11:04:45-04:00` &nbsp;|&nbsp; ID: `4683272006`
+
+---
+
 ## 📅 Run: 2026-05-26 01:29 UTC
 
 ### 🆕 Delivery Engineer | Splunk (W2PE)
