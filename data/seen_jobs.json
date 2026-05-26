@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-05-25": 23
-  },
-  "7833761": {
-    "first_seen": "2026-05-19T00:09:25.656786+00:00",
-    "updated_at": "2026-05-01T13:07:32-04:00",
-    "title": "Delivery Engineer | Splunk (W2PE)",
-    "company": "trace3",
-    "alerted": true
-  },
-  "7867389": {
-    "first_seen": "2026-05-19T00:09:28.194676+00:00",
-    "updated_at": "2026-05-20T16:58:18-04:00",
-    "title": "Cloud Security Engineer",
-    "company": "stripe",
-    "alerted": true
+    "2026-05-26": 2
   },
   "4679031006": {
     "first_seen": "2026-05-19T17:17:20.248245+00:00",
@@ -323,5 +309,19 @@
     "title": "Incident Response Engineer",
     "company": "accenturefederalservices",
     "alerted": false
+  },
+  "7833761": {
+    "first_seen": "2026-05-26T01:29:30.821752+00:00",
+    "updated_at": "2026-05-01T13:07:32-04:00",
+    "title": "Delivery Engineer | Splunk (W2PE)",
+    "company": "trace3",
+    "alerted": true
+  },
+  "7867389": {
+    "first_seen": "2026-05-26T01:29:33.363339+00:00",
+    "updated_at": "2026-05-20T16:58:18-04:00",
+    "title": "Cloud Security Engineer",
+    "company": "stripe",
+    "alerted": true
   }
 }
