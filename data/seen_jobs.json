@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-05-27": 5
-  },
-  "7874958": {
-    "first_seen": "2026-05-20T18:13:13.919734+00:00",
-    "updated_at": "2026-05-22T15:13:02-04:00",
-    "title": "IT Security Engineer",
-    "company": "tanium",
-    "alerted": true
-  },
-  "7851502": {
-    "first_seen": "2026-05-20T18:13:15.047985+00:00",
-    "updated_at": "2026-05-15T08:44:57-04:00",
-    "title": "Security Engineer II - Vulnerability Lifecycle",
-    "company": "datadog",
-    "alerted": true
+    "2026-05-27": 6
   },
   "7871083": {
     "first_seen": "2026-05-21T18:12:08.099817+00:00",
@@ -200,7 +186,7 @@
   },
   "7808464": {
     "first_seen": "2026-05-25T10:55:35.277855+00:00",
-    "updated_at": "2026-05-22T11:33:44-04:00",
+    "updated_at": "2026-05-27T13:37:15-04:00",
     "title": "Global Security Operations Center Operator",
     "company": "twilio",
     "alerted": true
@@ -343,6 +329,13 @@
     "updated_at": "2026-05-27T11:59:53-04:00",
     "title": " Information Systems Security Engineer",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "7874958": {
+    "first_seen": "2026-05-27T19:48:27.272406+00:00",
+    "updated_at": "2026-05-22T15:13:02-04:00",
+    "title": "IT Security Engineer",
+    "company": "tanium",
     "alerted": true
   }
 }
