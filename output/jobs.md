@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-05-27 06:17 UTC
+
+### 🔄 Staff+ Application Security Engineer
+**anthropic** · Security
+📍 Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/4502508008)
+🕐 Updated: `2026-05-26T22:45:13-04:00` &nbsp;|&nbsp; ID: `4502508008`
+
+---
+
 ## 📅 Run: 2026-05-27 01:51 UTC
 
 ### 🆕 Application Security Engineer
