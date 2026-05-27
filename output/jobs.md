@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-05-27 17:33 UTC
+
+### 🆕 Security Analyst
+**abnormalsecurity** · CSI
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7611937003?gh_jid=7611937003)
+🕐 Updated: `2026-05-27T12:51:46-04:00` &nbsp;|&nbsp; ID: `7611937003`
+
+---
+### 🆕  Information Systems Security Engineer
+**accenturefederalservices** · 58209318 - AFS Assessment and Authorization
+📍 Herndon, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4682863006?gh_jid=4682863006)
+🕐 Updated: `2026-05-27T11:59:53-04:00` &nbsp;|&nbsp; ID: `4682863006`
+
+---
+
 ## 📅 Run: 2026-05-27 14:03 UTC
 
 ### 🆕 Security Engineer - Threat Intel
