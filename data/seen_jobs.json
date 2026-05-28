@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-05-27": 6
-  },
-  "7871083": {
-    "first_seen": "2026-05-21T18:12:08.099817+00:00",
-    "updated_at": "2026-05-12T11:56:41-04:00",
-    "title": "Information Systems Security Engineer III - (W2PE)",
-    "company": "trace3",
-    "alerted": true
-  },
-  "8538998002": {
-    "first_seen": "2026-05-21T18:12:24.949181+00:00",
-    "updated_at": "2026-05-21T13:25:42-04:00",
-    "title": "Product Security Engineer",
-    "company": "lattice",
-    "alerted": true
+    "2026-05-28": 2
   },
   "7504595003": {
     "first_seen": "2026-05-22T00:11:26.523993+00:00",
@@ -336,6 +322,20 @@
     "updated_at": "2026-05-22T15:13:02-04:00",
     "title": "IT Security Engineer",
     "company": "tanium",
+    "alerted": true
+  },
+  "7871083": {
+    "first_seen": "2026-05-28T19:20:32.448695+00:00",
+    "updated_at": "2026-05-12T11:56:41-04:00",
+    "title": "Information Systems Security Engineer III - (W2PE)",
+    "company": "trace3",
+    "alerted": true
+  },
+  "8538998002": {
+    "first_seen": "2026-05-28T19:20:40.234745+00:00",
+    "updated_at": "2026-05-21T13:25:42-04:00",
+    "title": "Product Security Engineer",
+    "company": "lattice",
     "alerted": true
   }
 }
