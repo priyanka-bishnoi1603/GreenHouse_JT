@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-05-28 22:54 UTC
+
+### 🔄 IT Security Engineer
+**tanium** · IT Security
+📍 Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/tanium/jobs/7874958)
+🕐 Updated: `2026-05-28T17:41:13-04:00` &nbsp;|&nbsp; ID: `7874958`
+
+---
+
 ## 📅 Run: 2026-05-28 21:30 UTC
 
 ### 🆕 Security Engineer, Threat Response
