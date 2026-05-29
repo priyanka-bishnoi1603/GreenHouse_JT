@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-05-29 04:41 UTC
+
+### 🆕 Application Security Engineer II
+**abnormalsecurity** · Security
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7504595003?gh_jid=7504595003)
+🕐 Updated: `2026-05-24T23:59:55-04:00` &nbsp;|&nbsp; ID: `7504595003`
+
+---
+### 🆕 Incident Response Engineer
+**accenturefederalservices** · 56846838 - AFS Cyber/Security Service Ops
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4680135006?gh_jid=4680135006)
+🕐 Updated: `2026-05-18T12:11:52-04:00` &nbsp;|&nbsp; ID: `4680135006`
+
+---
+
 ## 📅 Run: 2026-05-28 22:54 UTC
 
 ### 🔄 IT Security Engineer

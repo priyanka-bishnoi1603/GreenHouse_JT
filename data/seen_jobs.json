@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-05-28": 3
-  },
-  "7504595003": {
-    "first_seen": "2026-05-22T00:11:26.523993+00:00",
-    "updated_at": "2026-05-24T23:59:55-04:00",
-    "title": "Application Security Engineer II",
-    "company": "abnormalsecurity",
-    "alerted": true
-  },
-  "4680135006": {
-    "first_seen": "2026-05-22T04:35:29.869074+00:00",
-    "updated_at": "2026-05-18T12:11:52-04:00",
-    "title": "Incident Response Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-05-29": 2
   },
   "7939818": {
     "first_seen": "2026-05-22T16:06:58.791214+00:00",
@@ -351,5 +337,19 @@
     "title": "Security Engineer, Threat Response",
     "company": "asana",
     "alerted": false
+  },
+  "7504595003": {
+    "first_seen": "2026-05-29T04:41:46.489945+00:00",
+    "updated_at": "2026-05-24T23:59:55-04:00",
+    "title": "Application Security Engineer II",
+    "company": "abnormalsecurity",
+    "alerted": true
+  },
+  "4680135006": {
+    "first_seen": "2026-05-29T04:41:48.430176+00:00",
+    "updated_at": "2026-05-18T12:11:52-04:00",
+    "title": "Incident Response Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
   }
 }
