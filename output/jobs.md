@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-05-29 18:12 UTC
+
+### 🆕 Security Engineer, AI Vulnerability Management
+**robinhood** · Security Division
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7939818?t=gh_src=&gh_jid=7939818)
+🕐 Updated: `2026-05-26T15:36:36-04:00` &nbsp;|&nbsp; ID: `7939818`
+
+---
+### 🔄 Executive Assistant
+**okta** · Security Engineering-695
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7862411?gh_jid=7862411)
+🕐 Updated: `2026-05-29T12:04:30-04:00` &nbsp;|&nbsp; ID: `7862411`
+
+---
+
 ## 📅 Run: 2026-05-29 04:41 UTC
 
 ### 🆕 Application Security Engineer II
