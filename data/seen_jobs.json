@@ -1,27 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-06-01": 14
-  },
-  "7749135": {
-    "first_seen": "2026-05-25T19:58:12.444428+00:00",
-    "updated_at": "2026-05-04T11:50:51-04:00",
-    "title": "Infrastructure Security Engineer",
-    "company": "upstart",
-    "alerted": true
-  },
-  "8531792002": {
-    "first_seen": "2026-05-25T21:13:20.039504+00:00",
-    "updated_at": "2026-05-11T14:46:38-04:00",
-    "title": "SOC Analyst",
-    "company": "bitgo",
-    "alerted": true
-  },
-  "8531833002": {
-    "first_seen": "2026-05-25T21:13:20.039575+00:00",
-    "updated_at": "2026-05-11T14:46:48-04:00",
-    "title": "SOC Analyst",
-    "company": "bitgo",
-    "alerted": false
+    "2026-06-01": 16
   },
   "4677515006": {
     "first_seen": "2026-05-25T23:37:40.827032+00:00",
@@ -158,14 +137,14 @@
   },
   "7696209": {
     "first_seen": "2026-05-28T21:30:19.859158+00:00",
-    "updated_at": "2026-06-01T13:51:56-04:00",
+    "updated_at": "2026-06-01T15:50:48-04:00",
     "title": "Security Engineer, Threat Response",
     "company": "asana",
     "alerted": true
   },
   "7964363": {
     "first_seen": "2026-05-28T21:30:19.859234+00:00",
-    "updated_at": "2026-06-01T13:51:56-04:00",
+    "updated_at": "2026-06-01T15:50:53-04:00",
     "title": "Security Engineer, Threat Response",
     "company": "asana",
     "alerted": false
@@ -315,6 +294,27 @@
     "updated_at": "2026-05-08T18:22:41-04:00",
     "title": "Enterprise Security Engineer",
     "company": "sendbird",
+    "alerted": true
+  },
+  "8531792002": {
+    "first_seen": "2026-06-01T21:57:08.545253+00:00",
+    "updated_at": "2026-05-11T14:46:38-04:00",
+    "title": "SOC Analyst",
+    "company": "bitgo",
+    "alerted": true
+  },
+  "8531833002": {
+    "first_seen": "2026-06-01T21:57:08.545325+00:00",
+    "updated_at": "2026-05-11T14:46:48-04:00",
+    "title": "SOC Analyst",
+    "company": "bitgo",
+    "alerted": false
+  },
+  "7749135": {
+    "first_seen": "2026-06-01T21:57:14.832327+00:00",
+    "updated_at": "2026-05-04T11:50:51-04:00",
+    "title": "Infrastructure Security Engineer",
+    "company": "upstart",
     "alerted": true
   }
 }

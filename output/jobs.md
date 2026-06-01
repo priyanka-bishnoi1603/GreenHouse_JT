@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-06-01 21:57 UTC
+
+### 🆕 SOC Analyst
+**bitgo** · Security
+📍 Palo Alto, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/8531792002)
+🕐 Updated: `2026-05-11T14:46:38-04:00` &nbsp;|&nbsp; ID: `8531792002`
+
+---
+### 🆕 Infrastructure Security Engineer
+**upstart** · InfoSec
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7749135)
+🕐 Updated: `2026-05-04T11:50:51-04:00` &nbsp;|&nbsp; ID: `7749135`
+
+---
+### 🔄 Security Engineer, Threat Response
+**asana** · Infrastructure Engineering
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7964363?gh_jid=7964363)
+🕐 Updated: `2026-06-01T15:50:53-04:00` &nbsp;|&nbsp; ID: `7964363`
+
+---
+### 🔄 Security Engineer, Threat Response
+**asana** · Infrastructure Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7696209?gh_jid=7696209)
+🕐 Updated: `2026-06-01T15:50:48-04:00` &nbsp;|&nbsp; ID: `7696209`
+
+---
+
 ## 📅 Run: 2026-06-01 18:35 UTC
 
 ### 🔄 Executive Assistant
