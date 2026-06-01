@@ -2,6 +2,93 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-06-01 12:49 UTC
+
+### 🆕 Information Security Compliance Support
+**accenturefederalservices** · 58283426 - AFS IT Security
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4651852006?gh_jid=4651852006)
+🕐 Updated: `2026-05-18T12:11:52-04:00` &nbsp;|&nbsp; ID: `4651852006`
+
+---
+### 🆕 Information System Security Engineer (ISSE) 
+**accenturefederalservices** · 58209312 - AFS Security Operations
+📍 Cocoa Beach, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4655498006?gh_jid=4655498006)
+🕐 Updated: `2026-05-18T12:11:52-04:00` &nbsp;|&nbsp; ID: `4655498006`
+
+---
+### 🆕 Network Security Engineer
+**accenturefederalservices** · 56219053 - AFS Cloud Security
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4660738006?gh_jid=4660738006)
+🕐 Updated: `2026-05-18T12:11:52-04:00` &nbsp;|&nbsp; ID: `4660738006`
+
+---
+### 🆕 Security Engineer
+**accenturefederalservices** · 58209311 - AFS Zero Trust
+📍 Chantilly, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4669275006?gh_jid=4669275006)
+🕐 Updated: `2026-05-18T12:11:52-04:00` &nbsp;|&nbsp; ID: `4669275006`
+
+---
+### 🆕 Application Security Engineer
+**gleanwork** · Engineering
+📍 Mountain View, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4529774005)
+🕐 Updated: `2026-05-14T15:35:24-04:00` &nbsp;|&nbsp; ID: `4529774005`
+
+---
+### 🆕 Cloud Security Engineer
+**gleanwork** · Engineering
+📍 Mountain View, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4650994005)
+🕐 Updated: `2026-05-14T15:35:24-04:00` &nbsp;|&nbsp; ID: `4650994005`
+
+---
+### 🆕 Product Security Engineer
+**databricks** · Security
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8026646002)
+🕐 Updated: `2026-04-09T16:51:14-04:00` &nbsp;|&nbsp; ID: `8026646002`
+
+---
+### 🆕 IAM Security Engineer 3
+**mongodb** · Enterprise Security 
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7656724)
+🕐 Updated: `2026-05-31T18:51:52-04:00` &nbsp;|&nbsp; ID: `7656724`
+
+---
+### 🆕 Security Engineer, Detection & Response
+**robinhood** · Security Division
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7697725?t=gh_src=&gh_jid=7697725)
+🕐 Updated: `2026-05-26T15:35:44-04:00` &nbsp;|&nbsp; ID: `7697725`
+
+---
+### 🆕 Product Security Engineer
+**chime** · Security
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8141068002?gh_jid=8141068002)
+🕐 Updated: `2026-05-07T18:47:18-04:00` &nbsp;|&nbsp; ID: `8141068002`
+
+---
+### 🆕 Information Security Analyst
+**betterment** · Risk
+📍 Betterment HQ - New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.betterment.com/careers/current-openings/job?gh_jid=7797421&gh_jid=7797421)
+🕐 Updated: `2026-05-26T16:02:12-04:00` &nbsp;|&nbsp; ID: `7797421`
+
+---
+### 🆕 Security Engineer II
+**humaninterest** · Engineering
+📍 United States, Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/humaninterest/jobs/7565471)
+🕐 Updated: `2026-04-30T12:39:01-04:00` &nbsp;|&nbsp; ID: `7565471`
+
+---
+### 🆕 Global Security Operations Center Operator
+**twilio** · Security
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7808464)
+🕐 Updated: `2026-05-30T03:55:03-04:00` &nbsp;|&nbsp; ID: `7808464`
+
+---
+### 🆕 Enterprise Security Engineer
+**sendbird** · Security and IT
+📍 San Mateo, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://sendbird.com/careers?gh_jid=8487754002)
+🕐 Updated: `2026-05-08T18:22:41-04:00` &nbsp;|&nbsp; ID: `8487754002`
+
+---
+
 ## 📅 Run: 2026-05-31 23:36 UTC
 
 ### 🔄 IAM Security Engineer 3
