@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-06-02 01:59 UTC
+
+### 🆕 Delivery Engineer | Splunk (W2PE)
+**trace3** · Data & Analytics
+📍 Denver, Colorado, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/trace3/jobs/7833761)
+🕐 Updated: `2026-05-01T13:07:32-04:00` &nbsp;|&nbsp; ID: `7833761`
+
+---
+### 🆕 Cybersecurity Engineer
+**accenturefederalservices** · 58239869 - AFS Vulnerability Management
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4677515006?gh_jid=4677515006)
+🕐 Updated: `2026-05-22T08:55:59-04:00` &nbsp;|&nbsp; ID: `4677515006`
+
+---
+### 🆕 Incident Response Engineer
+**accenturefederalservices** · 58239869 - AFS Vulnerability Management
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4676530006?gh_jid=4676530006)
+🕐 Updated: `2026-05-23T15:50:16-04:00` &nbsp;|&nbsp; ID: `4676530006`
+
+---
+### 🆕 Cloud Security Engineer
+**stripe** · 8614 Office of the CISO & Partnership
+📍 Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7867389)
+🕐 Updated: `2026-05-20T16:58:18-04:00` &nbsp;|&nbsp; ID: `7867389`
+
+---
+
 ## 📅 Run: 2026-06-01 21:57 UTC
 
 ### 🆕 SOC Analyst
