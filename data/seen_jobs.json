@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-06-02": 4
-  },
-  "4683272006": {
-    "first_seen": "2026-05-26T16:30:48.171301+00:00",
-    "updated_at": "2026-06-01T14:10:01-04:00",
-    "title": "Security Engineer (ISSE)",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-06-02": 5
   },
   "4679031006": {
     "first_seen": "2026-05-26T19:08:09.801526+00:00",
@@ -315,6 +308,13 @@
     "updated_at": "2026-05-20T16:58:18-04:00",
     "title": "Cloud Security Engineer",
     "company": "stripe",
+    "alerted": true
+  },
+  "4683272006": {
+    "first_seen": "2026-06-02T18:55:16.629255+00:00",
+    "updated_at": "2026-06-01T14:10:01-04:00",
+    "title": "Security Engineer (ISSE)",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }

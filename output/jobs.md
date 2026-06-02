@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-06-02 18:55 UTC
+
+### 🆕 Security Engineer (ISSE)
+**accenturefederalservices** · 58209318 - AFS Assessment and Authorization
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4683272006?gh_jid=4683272006)
+🕐 Updated: `2026-06-01T14:10:01-04:00` &nbsp;|&nbsp; ID: `4683272006`
+
+---
+
 ## 📅 Run: 2026-06-02 15:13 UTC
 
 ### 🔄 IAM Security Engineer 3
