@@ -2,6 +2,39 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-06-02 21:45 UTC
+
+### 🆕 A&A Specialist
+**accenturefederalservices** · 58275363 - AFS Secure Cloud & FedRAMP/3PAO
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4657876006?gh_jid=4657876006)
+🕐 Updated: `2026-06-02T15:42:45-04:00` &nbsp;|&nbsp; ID: `4657876006`
+
+---
+### 🆕 Cybersecurity Engineer-II
+**accenturefederalservices** · 60038769 - AFS Cyber Resilience
+📍 Tyson's Corner, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4679031006?gh_jid=4679031006)
+🕐 Updated: `2026-05-18T12:11:52-04:00` &nbsp;|&nbsp; ID: `4679031006`
+
+---
+### 🆕 Security Engineer IC-02
+**stripe** · Global Operations
+📍 Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7923209)
+🕐 Updated: `2026-06-02T16:37:59-04:00` &nbsp;|&nbsp; ID: `7923209`
+
+---
+### 🆕 Security Engineer IC-03
+**stripe** · Global Operations
+📍 South San Francisco, CA and US-Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7923191)
+🕐 Updated: `2026-06-02T16:40:20-04:00` &nbsp;|&nbsp; ID: `7923191`
+
+---
+### 🔄 Global Security Operations Center Operator
+**twilio** · Security
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7808464)
+🕐 Updated: `2026-06-02T17:04:08-04:00` &nbsp;|&nbsp; ID: `7808464`
+
+---
+
 ## 📅 Run: 2026-06-02 18:55 UTC
 
 ### 🆕 Security Engineer (ISSE)

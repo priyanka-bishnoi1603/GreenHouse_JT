@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-06-02": 5
-  },
-  "4679031006": {
-    "first_seen": "2026-05-26T19:08:09.801526+00:00",
-    "updated_at": "2026-05-18T12:11:52-04:00",
-    "title": "Cybersecurity Engineer-II",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "4671028006": {
-    "first_seen": "2026-05-26T20:59:42.493455+00:00",
-    "updated_at": "2026-05-18T12:11:52-04:00",
-    "title": "Cybersecurity Incident Response Triage Analyst",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-06-02": 9
   },
   "4679241006": {
     "first_seen": "2026-05-26T23:39:12.398458+00:00",
@@ -228,7 +214,7 @@
   },
   "7808464": {
     "first_seen": "2026-06-01T12:49:03.213216+00:00",
-    "updated_at": "2026-05-30T03:55:03-04:00",
+    "updated_at": "2026-06-02T17:04:08-04:00",
     "title": "Global Security Operations Center Operator",
     "company": "twilio",
     "alerted": true
@@ -315,6 +301,34 @@
     "updated_at": "2026-06-01T14:10:01-04:00",
     "title": "Security Engineer (ISSE)",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4657876006": {
+    "first_seen": "2026-06-02T21:45:07.856147+00:00",
+    "updated_at": "2026-06-02T15:42:45-04:00",
+    "title": "A&A Specialist",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4679031006": {
+    "first_seen": "2026-06-02T21:45:07.865148+00:00",
+    "updated_at": "2026-05-18T12:11:52-04:00",
+    "title": "Cybersecurity Engineer-II",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "7923209": {
+    "first_seen": "2026-06-02T21:45:12.788366+00:00",
+    "updated_at": "2026-06-02T16:37:59-04:00",
+    "title": "Security Engineer IC-02",
+    "company": "stripe",
+    "alerted": true
+  },
+  "7923191": {
+    "first_seen": "2026-06-02T21:45:12.788464+00:00",
+    "updated_at": "2026-06-02T16:40:20-04:00",
+    "title": "Security Engineer IC-03",
+    "company": "stripe",
     "alerted": true
   }
 }
