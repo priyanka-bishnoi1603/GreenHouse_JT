@@ -1,27 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-06-03": 2
-  },
-  "7611937003": {
-    "first_seen": "2026-05-27T17:33:43.054390+00:00",
-    "updated_at": "2026-05-27T12:51:46-04:00",
-    "title": "Security Analyst",
-    "company": "abnormalsecurity",
-    "alerted": true
-  },
-  "4682863006": {
-    "first_seen": "2026-05-27T17:33:45.110230+00:00",
-    "updated_at": "2026-05-27T11:59:53-04:00",
-    "title": " Information Systems Security Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "7874958": {
-    "first_seen": "2026-05-27T19:48:27.272406+00:00",
-    "updated_at": "2026-05-28T17:41:13-04:00",
-    "title": "IT Security Engineer",
-    "company": "tanium",
-    "alerted": true
+    "2026-06-03": 5
   },
   "7871083": {
     "first_seen": "2026-05-28T19:20:32.448695+00:00",
@@ -151,7 +130,7 @@
   },
   "7656724": {
     "first_seen": "2026-06-01T12:49:00.587800+00:00",
-    "updated_at": "2026-06-03T11:15:47-04:00",
+    "updated_at": "2026-06-03T13:27:12-04:00",
     "title": "IAM Security Engineer 3",
     "company": "mongodb",
     "alerted": true
@@ -193,7 +172,7 @@
   },
   "8487754002": {
     "first_seen": "2026-06-01T12:49:03.729160+00:00",
-    "updated_at": "2026-05-08T18:22:41-04:00",
+    "updated_at": "2026-06-03T13:58:49-04:00",
     "title": "Enterprise Security Engineer",
     "company": "sendbird",
     "alerted": true
@@ -242,7 +221,7 @@
   },
   "4676530006": {
     "first_seen": "2026-06-02T01:59:01.462829+00:00",
-    "updated_at": "2026-05-23T15:50:16-04:00",
+    "updated_at": "2026-06-03T16:18:18-04:00",
     "title": "Incident Response Engineer",
     "company": "accenturefederalservices",
     "alerted": true
@@ -315,6 +294,27 @@
     "updated_at": "2026-04-27T00:47:58-04:00",
     "title": "Security Engineer - Threat Intel",
     "company": "anthropic",
+    "alerted": true
+  },
+  "7611937003": {
+    "first_seen": "2026-06-03T20:35:42.312305+00:00",
+    "updated_at": "2026-05-27T12:51:46-04:00",
+    "title": "Security Analyst",
+    "company": "abnormalsecurity",
+    "alerted": true
+  },
+  "7874958": {
+    "first_seen": "2026-06-03T20:35:42.403725+00:00",
+    "updated_at": "2026-05-28T17:41:13-04:00",
+    "title": "IT Security Engineer",
+    "company": "tanium",
+    "alerted": true
+  },
+  "4682863006": {
+    "first_seen": "2026-06-03T20:35:45.991890+00:00",
+    "updated_at": "2026-05-27T11:59:53-04:00",
+    "title": " Information Systems Security Engineer",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }

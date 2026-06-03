@@ -2,6 +2,45 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-06-03 20:35 UTC
+
+### 🆕 Security Analyst
+**abnormalsecurity** · CSI
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7611937003?gh_jid=7611937003)
+🕐 Updated: `2026-05-27T12:51:46-04:00` &nbsp;|&nbsp; ID: `7611937003`
+
+---
+### 🆕 IT Security Engineer
+**tanium** · IT Security
+📍 Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/tanium/jobs/7874958)
+🕐 Updated: `2026-05-28T17:41:13-04:00` &nbsp;|&nbsp; ID: `7874958`
+
+---
+### 🆕  Information Systems Security Engineer
+**accenturefederalservices** · 58209318 - AFS Assessment and Authorization
+📍 Herndon, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4682863006?gh_jid=4682863006)
+🕐 Updated: `2026-05-27T11:59:53-04:00` &nbsp;|&nbsp; ID: `4682863006`
+
+---
+### 🔄 Incident Response Engineer
+**accenturefederalservices** · 58239869 - AFS Vulnerability Management
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4676530006?gh_jid=4676530006)
+🕐 Updated: `2026-06-03T16:18:18-04:00` &nbsp;|&nbsp; ID: `4676530006`
+
+---
+### 🔄 IAM Security Engineer 3
+**mongodb** · Enterprise Security 
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7656724)
+🕐 Updated: `2026-06-03T13:27:12-04:00` &nbsp;|&nbsp; ID: `7656724`
+
+---
+### 🔄 Enterprise Security Engineer
+**sendbird** · Security and IT
+📍 San Mateo, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://sendbird.com/careers?gh_jid=8487754002)
+🕐 Updated: `2026-06-03T13:58:49-04:00` &nbsp;|&nbsp; ID: `8487754002`
+
+---
+
 ## 📅 Run: 2026-06-03 17:16 UTC
 
 ### 🆕 Security Engineer - Threat Intel
