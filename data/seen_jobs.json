@@ -1,27 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-06-02": 9
-  },
-  "4679241006": {
-    "first_seen": "2026-05-26T23:39:12.398458+00:00",
-    "updated_at": "2026-05-15T17:34:45-04:00",
-    "title": "Security Engineer (Security Operations) ",
-    "company": "everlaw",
-    "alerted": true
-  },
-  "4694831005": {
-    "first_seen": "2026-05-27T01:51:15.758779+00:00",
-    "updated_at": "2026-05-14T15:35:24-04:00",
-    "title": "Application Security Engineer",
-    "company": "gleanwork",
-    "alerted": true
-  },
-  "4694835005": {
-    "first_seen": "2026-05-27T01:51:15.759051+00:00",
-    "updated_at": "2026-05-14T15:35:24-04:00",
-    "title": "Cloud Security Engineer",
-    "company": "gleanwork",
-    "alerted": true
+    "2026-06-03": 1
   },
   "5195705008": {
     "first_seen": "2026-05-27T14:02:44.921411+00:00",
@@ -329,6 +308,13 @@
     "updated_at": "2026-06-02T16:40:20-04:00",
     "title": "Security Engineer IC-03",
     "company": "stripe",
+    "alerted": true
+  },
+  "4679241006": {
+    "first_seen": "2026-06-03T02:07:08.756426+00:00",
+    "updated_at": "2026-05-15T17:34:45-04:00",
+    "title": "Security Engineer (Security Operations) ",
+    "company": "everlaw",
     "alerted": true
   }
 }
