@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-06-03 17:16 UTC
+
+### 🆕 Security Engineer - Threat Intel
+**anthropic** · Security
+📍 New York City, NY; Remote-Friendly (Travel-Required) | San Francisco, CA | Washington, DC; San Francisco, CA | New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5195705008)
+🕐 Updated: `2026-04-27T00:47:58-04:00` &nbsp;|&nbsp; ID: `5195705008`
+
+---
+### 🔄 Information System Security Engineer (ISSE)
+**accenturefederalservices** · 56846838 - AFS Cyber/Security Service Ops
+📍 Los Angeles, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4671899006?gh_jid=4671899006)
+🕐 Updated: `2026-06-03T09:55:51-04:00` &nbsp;|&nbsp; ID: `4671899006`
+
+---
+### 🔄 IAM Security Engineer 3
+**mongodb** · Enterprise Security 
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7656724)
+🕐 Updated: `2026-06-03T11:15:47-04:00` &nbsp;|&nbsp; ID: `7656724`
+
+---
+### 🔄 Information Security Analyst
+**betterment** · Risk
+📍 Betterment HQ - New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.betterment.com/careers/current-openings/job?gh_jid=7797421&gh_jid=7797421)
+🕐 Updated: `2026-06-03T11:20:50-04:00` &nbsp;|&nbsp; ID: `7797421`
+
+---
+
 ## 📅 Run: 2026-06-03 02:07 UTC
 
 ### 🆕 Security Engineer (Security Operations) 

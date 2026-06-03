@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-06-03": 1
-  },
-  "5195705008": {
-    "first_seen": "2026-05-27T14:02:44.921411+00:00",
-    "updated_at": "2026-04-27T00:47:58-04:00",
-    "title": "Security Engineer - Threat Intel",
-    "company": "anthropic",
-    "alerted": true
+    "2026-06-03": 2
   },
   "7611937003": {
     "first_seen": "2026-05-27T17:33:43.054390+00:00",
@@ -88,7 +81,7 @@
   },
   "4671899006": {
     "first_seen": "2026-05-29T23:48:01.685735+00:00",
-    "updated_at": "2026-05-18T12:11:52-04:00",
+    "updated_at": "2026-06-03T09:55:51-04:00",
     "title": "Information System Security Engineer (ISSE)",
     "company": "accenturefederalservices",
     "alerted": true
@@ -158,7 +151,7 @@
   },
   "7656724": {
     "first_seen": "2026-06-01T12:49:00.587800+00:00",
-    "updated_at": "2026-06-02T09:49:45-04:00",
+    "updated_at": "2026-06-03T11:15:47-04:00",
     "title": "IAM Security Engineer 3",
     "company": "mongodb",
     "alerted": true
@@ -179,7 +172,7 @@
   },
   "7797421": {
     "first_seen": "2026-06-01T12:49:02.696918+00:00",
-    "updated_at": "2026-05-26T16:02:12-04:00",
+    "updated_at": "2026-06-03T11:20:50-04:00",
     "title": "Information Security Analyst",
     "company": "betterment",
     "alerted": true
@@ -315,6 +308,13 @@
     "updated_at": "2026-05-15T17:34:45-04:00",
     "title": "Security Engineer (Security Operations) ",
     "company": "everlaw",
+    "alerted": true
+  },
+  "5195705008": {
+    "first_seen": "2026-06-03T17:16:41.143610+00:00",
+    "updated_at": "2026-04-27T00:47:58-04:00",
+    "title": "Security Engineer - Threat Intel",
+    "company": "anthropic",
     "alerted": true
   }
 }
