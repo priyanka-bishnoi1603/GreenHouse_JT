@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-06-04": 2
-  },
-  "7696209": {
-    "first_seen": "2026-05-28T21:30:19.859158+00:00",
-    "updated_at": "2026-06-04T12:53:39-04:00",
-    "title": "Security Engineer, Threat Response",
-    "company": "asana",
-    "alerted": true
-  },
-  "7964363": {
-    "first_seen": "2026-05-28T21:30:19.859234+00:00",
-    "updated_at": "2026-06-04T12:53:39-04:00",
-    "title": "Security Engineer, Threat Response",
-    "company": "asana",
-    "alerted": false
+    "2026-06-04": 3
   },
   "7504595003": {
     "first_seen": "2026-05-29T04:41:46.489945+00:00",
@@ -316,5 +302,19 @@
     "title": "Product Security Engineer",
     "company": "lattice",
     "alerted": true
+  },
+  "7696209": {
+    "first_seen": "2026-06-04T22:11:16.782477+00:00",
+    "updated_at": "2026-06-04T12:53:39-04:00",
+    "title": "Security Engineer, Threat Response",
+    "company": "asana",
+    "alerted": true
+  },
+  "7964363": {
+    "first_seen": "2026-06-04T22:11:16.782544+00:00",
+    "updated_at": "2026-06-04T12:53:39-04:00",
+    "title": "Security Engineer, Threat Response",
+    "company": "asana",
+    "alerted": false
   }
 }
