@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-06-03": 5
-  },
-  "7871083": {
-    "first_seen": "2026-05-28T19:20:32.448695+00:00",
-    "updated_at": "2026-05-12T11:56:41-04:00",
-    "title": "Information Systems Security Engineer III - (W2PE)",
-    "company": "trace3",
-    "alerted": true
-  },
-  "8538998002": {
-    "first_seen": "2026-05-28T19:20:40.234745+00:00",
-    "updated_at": "2026-05-21T13:25:42-04:00",
-    "title": "Product Security Engineer",
-    "company": "lattice",
-    "alerted": true
+    "2026-06-04": 2
   },
   "7696209": {
     "first_seen": "2026-05-28T21:30:19.859158+00:00",
@@ -130,7 +116,7 @@
   },
   "7656724": {
     "first_seen": "2026-06-01T12:49:00.587800+00:00",
-    "updated_at": "2026-06-03T16:56:26-04:00",
+    "updated_at": "2026-06-04T14:30:04-04:00",
     "title": "IAM Security Engineer 3",
     "company": "mongodb",
     "alerted": true
@@ -165,7 +151,7 @@
   },
   "7808464": {
     "first_seen": "2026-06-01T12:49:03.213216+00:00",
-    "updated_at": "2026-06-02T17:04:08-04:00",
+    "updated_at": "2026-06-04T15:32:54-04:00",
     "title": "Global Security Operations Center Operator",
     "company": "twilio",
     "alerted": true
@@ -315,6 +301,20 @@
     "updated_at": "2026-05-27T11:59:53-04:00",
     "title": " Information Systems Security Engineer",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "7982345": {
+    "first_seen": "2026-06-04T20:30:56.431355+00:00",
+    "updated_at": "2026-06-04T15:13:05-04:00",
+    "title": "Security Engineer 2 - Cyber Threat Intelligence",
+    "company": "datadog",
+    "alerted": true
+  },
+  "8538998002": {
+    "first_seen": "2026-06-04T20:31:09.995583+00:00",
+    "updated_at": "2026-05-21T13:25:42-04:00",
+    "title": "Product Security Engineer",
+    "company": "lattice",
     "alerted": true
   }
 }

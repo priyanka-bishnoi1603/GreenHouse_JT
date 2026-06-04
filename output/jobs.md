@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-06-04 20:31 UTC
+
+### 🆕 Security Engineer 2 - Cyber Threat Intelligence
+**datadog** · Security
+📍 New York, New York, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7982345/?gh_jid=7982345)
+🕐 Updated: `2026-06-04T15:13:05-04:00` &nbsp;|&nbsp; ID: `7982345`
+
+---
+### 🆕 Product Security Engineer
+**lattice** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://lattice.com/job?gh_jid=8538998002)
+🕐 Updated: `2026-05-21T13:25:42-04:00` &nbsp;|&nbsp; ID: `8538998002`
+
+---
+### 🔄 IAM Security Engineer 3
+**mongodb** · Enterprise Security 
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7656724)
+🕐 Updated: `2026-06-04T14:30:04-04:00` &nbsp;|&nbsp; ID: `7656724`
+
+---
+### 🔄 Global Security Operations Center Operator
+**twilio** · Security
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7808464)
+🕐 Updated: `2026-06-04T15:32:54-04:00` &nbsp;|&nbsp; ID: `7808464`
+
+---
+
 ## 📅 Run: 2026-06-04 18:19 UTC
 
 ### 🔄 Security Engineer, Threat Response
