@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-06-05 23:04 UTC
+
+### 🔄 Senior Product Security Engineer
+**databricks** · Security
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8026646002)
+🕐 Updated: `2026-06-05T18:33:38-04:00` &nbsp;|&nbsp; ID: `8026646002`
+
+---
+
 ## 📅 Run: 2026-06-05 21:55 UTC
 
 ### 🆕 Executive Assistant
