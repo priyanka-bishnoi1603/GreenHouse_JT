@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-06-05 16:18 UTC
+
+### 🔄 Security Engineer
+**stripe** · Global Operations
+📍 Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7923209)
+🕐 Updated: `2026-06-05T11:07:13-04:00` &nbsp;|&nbsp; ID: `7923209`
+
+---
+### 🔄 Security Engineer
+**stripe** · Global Operations
+📍 South San Francisco, CA and US-Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7923191)
+🕐 Updated: `2026-06-05T11:30:39-04:00` &nbsp;|&nbsp; ID: `7923191`
+
+---
+
 ## 📅 Run: 2026-06-05 06:19 UTC
 
 ### 🆕 Incident Response Engineer

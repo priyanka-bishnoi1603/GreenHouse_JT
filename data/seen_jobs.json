@@ -228,15 +228,15 @@
   },
   "7923209": {
     "first_seen": "2026-06-02T21:45:12.788366+00:00",
-    "updated_at": "2026-06-02T16:37:59-04:00",
-    "title": "Security Engineer IC-02",
+    "updated_at": "2026-06-05T11:07:13-04:00",
+    "title": "Security Engineer",
     "company": "stripe",
     "alerted": true
   },
   "7923191": {
     "first_seen": "2026-06-02T21:45:12.788464+00:00",
-    "updated_at": "2026-06-02T16:40:20-04:00",
-    "title": "Security Engineer IC-03",
+    "updated_at": "2026-06-05T11:30:39-04:00",
+    "title": "Security Engineer",
     "company": "stripe",
     "alerted": true
   },
