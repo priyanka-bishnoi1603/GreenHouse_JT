@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-06-05 21:55 UTC
+
+### 🆕 Executive Assistant
+**okta** · Security Engineering-695
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7862411?gh_jid=7862411)
+🕐 Updated: `2026-06-01T14:11:58-04:00` &nbsp;|&nbsp; ID: `7862411`
+
+---
+### 🆕 Security Operations Analyst - West Coast 
+**huntress** · Security
+📍 Remote US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7743188003)
+🕐 Updated: `2026-06-05T16:23:40-04:00` &nbsp;|&nbsp; ID: `7743188003`
+
+---
+### 🔄 Senior Product Security Engineer
+**databricks** · Security
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8026646002)
+🕐 Updated: `2026-06-05T16:47:50-04:00` &nbsp;|&nbsp; ID: `8026646002`
+
+---
+
 ## 📅 Run: 2026-06-05 18:21 UTC
 
 ### 🆕 Security Engineer, AI Vulnerability Management
