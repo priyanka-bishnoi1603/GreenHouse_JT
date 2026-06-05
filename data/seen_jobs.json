@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-06-05": 1
-  },
-  "7939818": {
-    "first_seen": "2026-05-29T18:12:07.844650+00:00",
-    "updated_at": "2026-05-26T15:36:36-04:00",
-    "title": "Security Engineer, AI Vulnerability Management",
-    "company": "robinhood",
-    "alerted": true
+    "2026-06-05": 2
   },
   "7862411": {
     "first_seen": "2026-05-29T20:38:24.073766+00:00",
@@ -200,7 +193,7 @@
   },
   "7867389": {
     "first_seen": "2026-06-02T01:59:03.472841+00:00",
-    "updated_at": "2026-05-20T16:58:18-04:00",
+    "updated_at": "2026-06-05T13:03:58-04:00",
     "title": "Cloud Security Engineer",
     "company": "stripe",
     "alerted": true
@@ -228,14 +221,14 @@
   },
   "7923209": {
     "first_seen": "2026-06-02T21:45:12.788366+00:00",
-    "updated_at": "2026-06-05T11:07:13-04:00",
+    "updated_at": "2026-06-05T14:00:21-04:00",
     "title": "Security Engineer",
     "company": "stripe",
     "alerted": true
   },
   "7923191": {
     "first_seen": "2026-06-02T21:45:12.788464+00:00",
-    "updated_at": "2026-06-05T11:30:39-04:00",
+    "updated_at": "2026-06-05T13:59:38-04:00",
     "title": "Security Engineer",
     "company": "stripe",
     "alerted": true
@@ -308,6 +301,13 @@
     "updated_at": "2026-05-18T12:11:52-04:00",
     "title": "Incident Response Engineer",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "7939818": {
+    "first_seen": "2026-06-05T18:21:29.846115+00:00",
+    "updated_at": "2026-05-26T15:36:36-04:00",
+    "title": "Security Engineer, AI Vulnerability Management",
+    "company": "robinhood",
     "alerted": true
   }
 }

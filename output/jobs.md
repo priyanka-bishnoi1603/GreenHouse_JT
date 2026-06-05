@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-06-05 18:21 UTC
+
+### 🆕 Security Engineer, AI Vulnerability Management
+**robinhood** · Security Division
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7939818?t=gh_src=&gh_jid=7939818)
+🕐 Updated: `2026-05-26T15:36:36-04:00` &nbsp;|&nbsp; ID: `7939818`
+
+---
+### 🔄 Cloud Security Engineer
+**stripe** · 8614 Office of the CISO & Partnership
+📍 Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7867389)
+🕐 Updated: `2026-06-05T13:03:58-04:00` &nbsp;|&nbsp; ID: `7867389`
+
+---
+### 🔄 Security Engineer
+**stripe** · Global Operations
+📍 Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7923209)
+🕐 Updated: `2026-06-05T14:00:21-04:00` &nbsp;|&nbsp; ID: `7923209`
+
+---
+### 🔄 Security Engineer
+**stripe** · Global Operations
+📍 South San Francisco, CA and US-Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7923191)
+🕐 Updated: `2026-06-05T13:59:38-04:00` &nbsp;|&nbsp; ID: `7923191`
+
+---
+
 ## 📅 Run: 2026-06-05 16:18 UTC
 
 ### 🔄 Security Engineer
