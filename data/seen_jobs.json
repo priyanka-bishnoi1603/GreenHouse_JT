@@ -1,111 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-06-06": 2
-  },
-  "4651852006": {
-    "first_seen": "2026-06-01T12:48:59.393366+00:00",
-    "updated_at": "2026-05-18T12:11:52-04:00",
-    "title": "Information Security Compliance Support",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "4655498006": {
-    "first_seen": "2026-06-01T12:48:59.393507+00:00",
-    "updated_at": "2026-05-18T12:11:52-04:00",
-    "title": "Information System Security Engineer (ISSE) ",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "4660738006": {
-    "first_seen": "2026-06-01T12:48:59.397499+00:00",
-    "updated_at": "2026-05-18T12:11:52-04:00",
-    "title": "Network Security Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "4669275006": {
-    "first_seen": "2026-06-01T12:48:59.404056+00:00",
-    "updated_at": "2026-05-18T12:11:52-04:00",
-    "title": "Security Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "4619940006": {
-    "first_seen": "2026-06-01T12:48:59.404094+00:00",
-    "updated_at": "2026-05-18T12:11:52-04:00",
-    "title": "Security Engineer",
-    "company": "accenturefederalservices",
-    "alerted": false
-  },
-  "4529774005": {
-    "first_seen": "2026-06-01T12:49:00.087749+00:00",
-    "updated_at": "2026-05-14T15:35:24-04:00",
-    "title": "Application Security Engineer",
-    "company": "gleanwork",
-    "alerted": true
-  },
-  "4650994005": {
-    "first_seen": "2026-06-01T12:49:00.088013+00:00",
-    "updated_at": "2026-05-14T15:35:24-04:00",
-    "title": "Cloud Security Engineer",
-    "company": "gleanwork",
-    "alerted": true
-  },
-  "8026646002": {
-    "first_seen": "2026-06-01T12:49:00.372695+00:00",
-    "updated_at": "2026-06-05T18:33:38-04:00",
-    "title": "Senior Product Security Engineer",
-    "company": "databricks",
-    "alerted": true
-  },
-  "7656724": {
-    "first_seen": "2026-06-01T12:49:00.587800+00:00",
-    "updated_at": "2026-06-04T14:30:04-04:00",
-    "title": "IAM Security Engineer 3",
-    "company": "mongodb",
-    "alerted": true
-  },
-  "7697725": {
-    "first_seen": "2026-06-01T12:49:01.525167+00:00",
-    "updated_at": "2026-05-26T15:35:44-04:00",
-    "title": "Security Engineer, Detection & Response",
-    "company": "robinhood",
-    "alerted": true
-  },
-  "8141068002": {
-    "first_seen": "2026-06-01T12:49:01.630495+00:00",
-    "updated_at": "2026-05-07T18:47:18-04:00",
-    "title": "Product Security Engineer",
-    "company": "chime",
-    "alerted": true
-  },
-  "7797421": {
-    "first_seen": "2026-06-01T12:49:02.696918+00:00",
-    "updated_at": "2026-06-03T11:20:50-04:00",
-    "title": "Information Security Analyst",
-    "company": "betterment",
-    "alerted": true
-  },
-  "7565471": {
-    "first_seen": "2026-06-01T12:49:02.890648+00:00",
-    "updated_at": "2026-04-30T12:39:01-04:00",
-    "title": "Security Engineer II",
-    "company": "humaninterest",
-    "alerted": true
-  },
-  "7808464": {
-    "first_seen": "2026-06-01T12:49:03.213216+00:00",
-    "updated_at": "2026-06-04T15:32:54-04:00",
-    "title": "Global Security Operations Center Operator",
-    "company": "twilio",
-    "alerted": true
-  },
-  "8487754002": {
-    "first_seen": "2026-06-01T12:49:03.729160+00:00",
-    "updated_at": "2026-06-03T13:58:49-04:00",
-    "title": "Enterprise Security Engineer",
-    "company": "sendbird",
-    "alerted": true
+    "2026-06-08": 9
   },
   "8531792002": {
     "first_seen": "2026-06-01T21:57:08.545253+00:00",
@@ -315,6 +210,69 @@
     "updated_at": "2026-05-14T13:26:28-04:00",
     "title": "Product Security Engineer",
     "company": "airtable",
+    "alerted": true
+  },
+  "4655498006": {
+    "first_seen": "2026-06-08T14:03:06.673453+00:00",
+    "updated_at": "2026-05-18T12:11:52-04:00",
+    "title": "Information System Security Engineer (ISSE) ",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4660738006": {
+    "first_seen": "2026-06-08T14:03:06.677592+00:00",
+    "updated_at": "2026-05-18T12:11:52-04:00",
+    "title": "Network Security Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4619940006": {
+    "first_seen": "2026-06-08T14:03:06.684677+00:00",
+    "updated_at": "2026-05-18T12:11:52-04:00",
+    "title": "Security Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "7656724": {
+    "first_seen": "2026-06-08T14:03:09.285636+00:00",
+    "updated_at": "2026-06-04T14:30:04-04:00",
+    "title": "IAM Security Engineer 3",
+    "company": "mongodb",
+    "alerted": true
+  },
+  "7697725": {
+    "first_seen": "2026-06-08T14:03:10.473567+00:00",
+    "updated_at": "2026-05-26T15:35:44-04:00",
+    "title": "Security Engineer, Detection & Response",
+    "company": "robinhood",
+    "alerted": true
+  },
+  "8141068002": {
+    "first_seen": "2026-06-08T14:03:10.556344+00:00",
+    "updated_at": "2026-05-07T18:47:18-04:00",
+    "title": "Product Security Engineer",
+    "company": "chime",
+    "alerted": true
+  },
+  "7797421": {
+    "first_seen": "2026-06-08T14:03:11.550212+00:00",
+    "updated_at": "2026-06-03T11:20:50-04:00",
+    "title": "Information Security Analyst",
+    "company": "betterment",
+    "alerted": true
+  },
+  "7565471": {
+    "first_seen": "2026-06-08T14:03:11.729874+00:00",
+    "updated_at": "2026-04-30T12:39:01-04:00",
+    "title": "Security Engineer II",
+    "company": "humaninterest",
+    "alerted": true
+  },
+  "8487754002": {
+    "first_seen": "2026-06-08T14:03:12.616307+00:00",
+    "updated_at": "2026-06-03T13:58:49-04:00",
+    "title": "Enterprise Security Engineer",
+    "company": "sendbird",
     "alerted": true
   }
 }
