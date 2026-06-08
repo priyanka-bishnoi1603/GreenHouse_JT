@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-06-08 22:56 UTC
+
+### 🆕 SOC Analyst
+**bitgo** · Security
+📍 San Francisco, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/bitgo/jobs/8531833002)
+🕐 Updated: `2026-05-11T14:46:48-04:00` &nbsp;|&nbsp; ID: `8531833002`
+
+---
+### 🆕 Infrastructure Security Engineer
+**upstart** · InfoSec
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7749135)
+🕐 Updated: `2026-05-04T11:50:51-04:00` &nbsp;|&nbsp; ID: `7749135`
+
+---
+
 ## 📅 Run: 2026-06-08 21:27 UTC
 
 ### 🔄 A&A Specialist
