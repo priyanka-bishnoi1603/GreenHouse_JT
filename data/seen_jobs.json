@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-06-09": 4
-  },
-  "4683272006": {
-    "first_seen": "2026-06-02T18:55:16.629255+00:00",
-    "updated_at": "2026-06-08T15:47:46-04:00",
-    "title": "Security Engineer (ISSE)",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-06-09": 5
   },
   "4657876006": {
     "first_seen": "2026-06-02T21:45:07.856147+00:00",
@@ -165,7 +158,7 @@
   },
   "7656724": {
     "first_seen": "2026-06-08T14:03:09.285636+00:00",
-    "updated_at": "2026-06-04T14:30:04-04:00",
+    "updated_at": "2026-06-09T13:00:17-04:00",
     "title": "IAM Security Engineer 3",
     "company": "mongodb",
     "alerted": true
@@ -273,6 +266,13 @@
     "updated_at": "2026-06-05T13:03:58-04:00",
     "title": "Cloud Security Engineer",
     "company": "stripe",
+    "alerted": true
+  },
+  "4683272006": {
+    "first_seen": "2026-06-09T19:10:52.859038+00:00",
+    "updated_at": "2026-06-08T15:47:46-04:00",
+    "title": "Security Engineer (ISSE)",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }
