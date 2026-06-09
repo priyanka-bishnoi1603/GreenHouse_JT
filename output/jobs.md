@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-06-09 21:10 UTC
+
+### 🆕 Insider Threat Analyst
+**coinbase** · Security & Privacy
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7967336?gh_jid=7967336)
+🕐 Updated: `2026-06-09T16:54:15-04:00` &nbsp;|&nbsp; ID: `7967336`
+
+---
+### 🔄 IAM Security Engineer 3
+**mongodb** · Enterprise Security 
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=7656724)
+🕐 Updated: `2026-06-09T15:53:08-04:00` &nbsp;|&nbsp; ID: `7656724`
+
+---
+
 ## 📅 Run: 2026-06-09 19:11 UTC
 
 ### 🆕 Security Engineer (ISSE)
