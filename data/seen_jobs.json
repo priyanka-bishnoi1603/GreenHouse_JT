@@ -1,55 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-06-08": 11
-  },
-  "7833761": {
-    "first_seen": "2026-06-02T01:59:00.930341+00:00",
-    "updated_at": "2026-05-01T13:07:32-04:00",
-    "title": "Delivery Engineer | Splunk (W2PE)",
-    "company": "trace3",
-    "alerted": true
-  },
-  "4677515006": {
-    "first_seen": "2026-06-02T01:59:01.456325+00:00",
-    "updated_at": "2026-06-08T15:47:46-04:00",
-    "title": "Cybersecurity Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "4677559006": {
-    "first_seen": "2026-06-02T01:59:01.456407+00:00",
-    "updated_at": "2026-06-08T15:47:46-04:00",
-    "title": "Cybersecurity Engineer",
-    "company": "accenturefederalservices",
-    "alerted": false
-  },
-  "4676530006": {
-    "first_seen": "2026-06-02T01:59:01.462829+00:00",
-    "updated_at": "2026-06-08T15:47:46-04:00",
-    "title": "Incident Response Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "4678524006": {
-    "first_seen": "2026-06-02T01:59:01.462887+00:00",
-    "updated_at": "2026-06-08T15:47:46-04:00",
-    "title": "Incident Response Engineer",
-    "company": "accenturefederalservices",
-    "alerted": false
-  },
-  "4676209006": {
-    "first_seen": "2026-06-02T01:59:01.462941+00:00",
-    "updated_at": "2026-06-08T15:47:46-04:00",
-    "title": "Incident Response Engineer",
-    "company": "accenturefederalservices",
-    "alerted": false
-  },
-  "7867389": {
-    "first_seen": "2026-06-02T01:59:03.472841+00:00",
-    "updated_at": "2026-06-05T13:03:58-04:00",
-    "title": "Cloud Security Engineer",
-    "company": "stripe",
-    "alerted": true
+    "2026-06-09": 4
   },
   "4683272006": {
     "first_seen": "2026-06-02T18:55:16.629255+00:00",
@@ -273,6 +224,55 @@
     "updated_at": "2026-05-04T11:50:51-04:00",
     "title": "Infrastructure Security Engineer",
     "company": "upstart",
+    "alerted": true
+  },
+  "7833761": {
+    "first_seen": "2026-06-09T04:33:25.857072+00:00",
+    "updated_at": "2026-05-01T13:07:32-04:00",
+    "title": "Delivery Engineer | Splunk (W2PE)",
+    "company": "trace3",
+    "alerted": true
+  },
+  "4677559006": {
+    "first_seen": "2026-06-09T04:33:26.401717+00:00",
+    "updated_at": "2026-06-08T15:47:46-04:00",
+    "title": "Cybersecurity Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4677515006": {
+    "first_seen": "2026-06-09T04:33:26.401786+00:00",
+    "updated_at": "2026-06-08T15:47:46-04:00",
+    "title": "Cybersecurity Engineer",
+    "company": "accenturefederalservices",
+    "alerted": false
+  },
+  "4676530006": {
+    "first_seen": "2026-06-09T04:33:26.408358+00:00",
+    "updated_at": "2026-06-08T15:47:46-04:00",
+    "title": "Incident Response Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4676209006": {
+    "first_seen": "2026-06-09T04:33:26.408414+00:00",
+    "updated_at": "2026-06-08T15:47:46-04:00",
+    "title": "Incident Response Engineer",
+    "company": "accenturefederalservices",
+    "alerted": false
+  },
+  "4678524006": {
+    "first_seen": "2026-06-09T04:33:26.408466+00:00",
+    "updated_at": "2026-06-08T15:47:46-04:00",
+    "title": "Incident Response Engineer",
+    "company": "accenturefederalservices",
+    "alerted": false
+  },
+  "7867389": {
+    "first_seen": "2026-06-09T04:33:28.050966+00:00",
+    "updated_at": "2026-06-05T13:03:58-04:00",
+    "title": "Cloud Security Engineer",
+    "company": "stripe",
     "alerted": true
   }
 }
