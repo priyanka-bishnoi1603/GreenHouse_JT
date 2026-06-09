@@ -2,6 +2,45 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-06-09 22:49 UTC
+
+### 🆕 A&A Specialist
+**accenturefederalservices** · 58275363 - AFS Secure Cloud & FedRAMP/3PAO
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4657876006?gh_jid=4657876006)
+🕐 Updated: `2026-06-08T15:47:46-04:00` &nbsp;|&nbsp; ID: `4657876006`
+
+---
+### 🆕 Cybersecurity Engineer-II
+**accenturefederalservices** · 60038769 - AFS Cyber Resilience
+📍 Tyson's Corner, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4679031006?gh_jid=4679031006)
+🕐 Updated: `2026-06-08T15:47:46-04:00` &nbsp;|&nbsp; ID: `4679031006`
+
+---
+### 🆕 Security Engineer
+**stripe** · Global Operations
+📍 Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7923209)
+🕐 Updated: `2026-06-05T14:00:21-04:00` &nbsp;|&nbsp; ID: `7923209`
+
+---
+### 🔄 Information System Security Engineer (ISSE)
+**accenturefederalservices** · 56846838 - AFS Cyber/Security Service Ops
+📍 Los Angeles, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4671899006?gh_jid=4671899006)
+🕐 Updated: `2026-06-09T17:28:02-04:00` &nbsp;|&nbsp; ID: `4671899006`
+
+---
+### 🔄 Security Engineer, Threat Response
+**asana** · Infrastructure Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7696209?gh_jid=7696209)
+🕐 Updated: `2026-06-09T17:49:26-04:00` &nbsp;|&nbsp; ID: `7696209`
+
+---
+### 🔄 Security Engineer, Threat Response
+**asana** · Infrastructure Engineering
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7964363?gh_jid=7964363)
+🕐 Updated: `2026-06-09T17:49:26-04:00` &nbsp;|&nbsp; ID: `7964363`
+
+---
+
 ## 📅 Run: 2026-06-09 21:10 UTC
 
 ### 🆕 Insider Threat Analyst
