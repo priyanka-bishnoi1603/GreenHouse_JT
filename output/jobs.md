@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-06-10 18:43 UTC
+
+### 🆕 Security Engineer - Threat Intel
+**anthropic** · Security
+📍 New York City, NY; Remote-Friendly (Travel-Required) | San Francisco, CA | Washington, DC; San Francisco, CA | New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5195705008)
+🕐 Updated: `2026-04-27T00:47:58-04:00` &nbsp;|&nbsp; ID: `5195705008`
+
+---
+### 🔄 Incident Response Engineer
+**accenturefederalservices** · 58239869 - AFS Vulnerability Management
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4678524006?gh_jid=4678524006)
+🕐 Updated: `2026-06-10T13:53:02-04:00` &nbsp;|&nbsp; ID: `4678524006`
+
+---
+
 ## 📅 Run: 2026-06-10 04:47 UTC
 
 ### 🆕 Security Engineer (Security Operations) 
