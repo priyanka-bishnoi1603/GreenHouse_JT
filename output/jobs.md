@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-06-10 21:15 UTC
+
+### 🆕 Security Analyst
+**abnormalsecurity** · CSI
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7611937003?gh_jid=7611937003)
+🕐 Updated: `2026-05-27T12:51:46-04:00` &nbsp;|&nbsp; ID: `7611937003`
+
+---
+### 🆕 IT Security Engineer
+**tanium** · IT Security
+📍 Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/tanium/jobs/7874958)
+🕐 Updated: `2026-05-28T17:41:13-04:00` &nbsp;|&nbsp; ID: `7874958`
+
+---
+### 🆕  Information Systems Security Engineer
+**accenturefederalservices** · 58209318 - AFS Assessment and Authorization
+📍 Herndon, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4682863006?gh_jid=4682863006)
+🕐 Updated: `2026-06-08T15:47:46-04:00` &nbsp;|&nbsp; ID: `4682863006`
+
+---
+
 ## 📅 Run: 2026-06-10 18:43 UTC
 
 ### 🆕 Security Engineer - Threat Intel
