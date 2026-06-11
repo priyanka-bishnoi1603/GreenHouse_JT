@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-06-11 22:28 UTC
+
+### 🆕 Security Engineer, Threat Response
+**asana** · Infrastructure Engineering
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7964363?gh_jid=7964363)
+🕐 Updated: `2026-06-09T17:49:26-04:00` &nbsp;|&nbsp; ID: `7964363`
+
+---
+### 🔄 Security Engineer
+**everlaw** · Engineering
+📍 Oakland, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/everlaw/jobs/4679241006)
+🕐 Updated: `2026-06-11T17:39:54-04:00` &nbsp;|&nbsp; ID: `4679241006`
+
+---
+
 ## 📅 Run: 2026-06-11 20:34 UTC
 
 ### 🆕 Security Engineer 2 - Cyber Threat Intelligence

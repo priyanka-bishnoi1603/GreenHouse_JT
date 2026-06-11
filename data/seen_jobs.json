@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-06-11": 1
-  },
-  "7696209": {
-    "first_seen": "2026-06-04T22:11:16.782477+00:00",
-    "updated_at": "2026-06-09T17:49:26-04:00",
-    "title": "Security Engineer, Threat Response",
-    "company": "asana",
-    "alerted": true
-  },
-  "7964363": {
-    "first_seen": "2026-06-04T22:11:16.782544+00:00",
-    "updated_at": "2026-06-09T17:49:26-04:00",
-    "title": "Security Engineer, Threat Response",
-    "company": "asana",
-    "alerted": false
+    "2026-06-11": 2
   },
   "4680135006": {
     "first_seen": "2026-06-05T06:18:58.823145+00:00",
@@ -235,8 +221,8 @@
   },
   "4679241006": {
     "first_seen": "2026-06-10T04:47:13.692777+00:00",
-    "updated_at": "2026-05-15T17:34:45-04:00",
-    "title": "Security Engineer (Security Operations) ",
+    "updated_at": "2026-06-11T17:39:54-04:00",
+    "title": "Security Engineer",
     "company": "everlaw",
     "alerted": true
   },
@@ -274,5 +260,19 @@
     "title": "Security Engineer 2 - Cyber Threat Intelligence",
     "company": "datadog",
     "alerted": true
+  },
+  "7964363": {
+    "first_seen": "2026-06-11T22:28:07.381498+00:00",
+    "updated_at": "2026-06-09T17:49:26-04:00",
+    "title": "Security Engineer, Threat Response",
+    "company": "asana",
+    "alerted": true
+  },
+  "7696209": {
+    "first_seen": "2026-06-11T22:28:07.381561+00:00",
+    "updated_at": "2026-06-09T17:49:26-04:00",
+    "title": "Security Engineer, Threat Response",
+    "company": "asana",
+    "alerted": false
   }
 }
