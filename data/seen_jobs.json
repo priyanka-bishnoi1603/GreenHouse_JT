@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-06-12": 2
-  },
-  "7862411": {
-    "first_seen": "2026-06-05T21:55:00.025435+00:00",
-    "updated_at": "2026-06-11T20:54:11-04:00",
-    "title": "Executive Assistant",
-    "company": "okta",
-    "alerted": true
-  },
-  "7743188003": {
-    "first_seen": "2026-06-05T21:55:00.971839+00:00",
-    "updated_at": "2026-06-05T16:23:40-04:00",
-    "title": "Security Operations Analyst - West Coast ",
-    "company": "huntress",
-    "alerted": true
+    "2026-06-12": 4
   },
   "4671899006": {
     "first_seen": "2026-06-06T00:18:50.688045+00:00",
@@ -273,6 +259,20 @@
     "updated_at": "2026-06-12T13:46:57-04:00",
     "title": "Security Engineer, AI Vulnerability Management",
     "company": "robinhood",
+    "alerted": true
+  },
+  "7862411": {
+    "first_seen": "2026-06-12T22:05:00.728141+00:00",
+    "updated_at": "2026-06-11T20:54:11-04:00",
+    "title": "Executive Assistant",
+    "company": "okta",
+    "alerted": true
+  },
+  "7743188003": {
+    "first_seen": "2026-06-12T22:05:01.470164+00:00",
+    "updated_at": "2026-06-05T16:23:40-04:00",
+    "title": "Security Operations Analyst - West Coast ",
+    "company": "huntress",
     "alerted": true
   }
 }
