@@ -1,34 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-06-16": 7
-  },
-  "4657876006": {
-    "first_seen": "2026-06-09T22:48:54.362428+00:00",
-    "updated_at": "2026-06-08T15:47:46-04:00",
-    "title": "A&A Specialist",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "4679031006": {
-    "first_seen": "2026-06-09T22:48:54.371662+00:00",
-    "updated_at": "2026-06-08T15:47:46-04:00",
-    "title": "Cybersecurity Engineer-II",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "7923209": {
-    "first_seen": "2026-06-09T22:48:55.867096+00:00",
-    "updated_at": "2026-06-05T14:00:21-04:00",
-    "title": "Security Engineer",
-    "company": "stripe",
-    "alerted": true
-  },
-  "7923191": {
-    "first_seen": "2026-06-09T22:48:55.867175+00:00",
-    "updated_at": "2026-06-05T13:59:38-04:00",
-    "title": "Security Engineer",
-    "company": "stripe",
-    "alerted": false
+    "2026-06-16": 10
   },
   "4679241006": {
     "first_seen": "2026-06-10T04:47:13.692777+00:00",
@@ -235,7 +207,7 @@
   },
   "7867389": {
     "first_seen": "2026-06-16T05:31:27.953177+00:00",
-    "updated_at": "2026-06-05T13:03:58-04:00",
+    "updated_at": "2026-06-16T18:15:47-04:00",
     "title": "Cloud Security Engineer",
     "company": "stripe",
     "alerted": true
@@ -253,5 +225,33 @@
     "title": "Insider Threat Analyst",
     "company": "coinbase",
     "alerted": true
+  },
+  "4657876006": {
+    "first_seen": "2026-06-16T23:21:00.593029+00:00",
+    "updated_at": "2026-06-08T15:47:46-04:00",
+    "title": "A&A Specialist",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4679031006": {
+    "first_seen": "2026-06-16T23:21:00.601439+00:00",
+    "updated_at": "2026-06-08T15:47:46-04:00",
+    "title": "Cybersecurity Engineer-II",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "7923209": {
+    "first_seen": "2026-06-16T23:21:05.828305+00:00",
+    "updated_at": "2026-06-16T18:15:51-04:00",
+    "title": "Security Engineer",
+    "company": "stripe",
+    "alerted": true
+  },
+  "7923191": {
+    "first_seen": "2026-06-16T23:21:05.828402+00:00",
+    "updated_at": "2026-06-16T18:15:51-04:00",
+    "title": "Security Engineer",
+    "company": "stripe",
+    "alerted": false
   }
 }

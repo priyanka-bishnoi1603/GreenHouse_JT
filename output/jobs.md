@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-06-16 23:21 UTC
+
+### 🆕 A&A Specialist
+**accenturefederalservices** · 58275363 - AFS Secure Cloud & FedRAMP/3PAO
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4657876006?gh_jid=4657876006)
+🕐 Updated: `2026-06-08T15:47:46-04:00` &nbsp;|&nbsp; ID: `4657876006`
+
+---
+### 🆕 Cybersecurity Engineer-II
+**accenturefederalservices** · 60038769 - AFS Cyber Resilience
+📍 Tyson's Corner, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4679031006?gh_jid=4679031006)
+🕐 Updated: `2026-06-08T15:47:46-04:00` &nbsp;|&nbsp; ID: `4679031006`
+
+---
+### 🆕 Security Engineer
+**stripe** · Global Operations
+📍 Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7923209)
+🕐 Updated: `2026-06-16T18:15:51-04:00` &nbsp;|&nbsp; ID: `7923209`
+
+---
+### 🔄 Cloud Security Engineer
+**stripe** · 8614 Office of the CISO & Partnership
+📍 Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7867389)
+🕐 Updated: `2026-06-16T18:15:47-04:00` &nbsp;|&nbsp; ID: `7867389`
+
+---
+
 ## 📅 Run: 2026-06-16 21:47 UTC
 
 ### 🆕 Security Engineer (ISSE)
