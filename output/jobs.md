@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-06-16 19:07 UTC
+
+### 🔄 Security Analyst
+**abnormalsecurity** · CSI
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7611937003?gh_jid=7611937003)
+🕐 Updated: `2026-06-16T14:16:25-04:00` &nbsp;|&nbsp; ID: `7611937003`
+
+---
+### 🔄 Product Security Engineer
+**chime** · Security
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8141068002?gh_jid=8141068002)
+🕐 Updated: `2026-06-16T12:45:48-04:00` &nbsp;|&nbsp; ID: `8141068002`
+
+---
+### 🔄 Information Security Analyst
+**betterment** · Risk
+📍 Betterment HQ - New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.betterment.com/careers/current-openings/job?gh_jid=7797421&gh_jid=7797421)
+🕐 Updated: `2026-06-16T11:38:53-04:00` &nbsp;|&nbsp; ID: `7797421`
+
+---
+
 ## 📅 Run: 2026-06-16 15:32 UTC
 
 ### 🔄 Incident Response Engineer-Journeyman

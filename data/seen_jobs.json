@@ -60,7 +60,7 @@
   },
   "7611937003": {
     "first_seen": "2026-06-10T21:15:23.640920+00:00",
-    "updated_at": "2026-05-27T12:51:46-04:00",
+    "updated_at": "2026-06-16T14:16:25-04:00",
     "title": "Security Analyst",
     "company": "abnormalsecurity",
     "alerted": true
@@ -172,15 +172,15 @@
   },
   "8141068002": {
     "first_seen": "2026-06-15T15:51:25.994464+00:00",
-    "updated_at": "2026-05-07T18:47:18-04:00",
+    "updated_at": "2026-06-16T12:45:48-04:00",
     "title": "Product Security Engineer",
     "company": "chime",
     "alerted": true
   },
   "7797421": {
     "first_seen": "2026-06-15T15:51:27.476766+00:00",
-    "updated_at": "2026-06-16T11:12:00-04:00",
-    "title": "Information Security Associate",
+    "updated_at": "2026-06-16T11:38:53-04:00",
+    "title": "Information Security Analyst",
     "company": "betterment",
     "alerted": true
   },
