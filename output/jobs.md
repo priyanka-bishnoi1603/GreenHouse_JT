@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-06-16 15:32 UTC
+
+### 🔄 Incident Response Engineer-Journeyman
+**accenturefederalservices** · 58239869 - AFS Vulnerability Management
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4678524006?gh_jid=4678524006)
+🕐 Updated: `2026-06-16T09:09:51-04:00` &nbsp;|&nbsp; ID: `4678524006`
+
+---
+### 🔄 Information System Security Engineer (ISSE)
+**accenturefederalservices** · 56846838 - AFS Cyber/Security Service Ops
+📍 Los Angeles, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4671899006?gh_jid=4671899006)
+🕐 Updated: `2026-06-16T11:16:13-04:00` &nbsp;|&nbsp; ID: `4671899006`
+
+---
+### 🔄 Information Security Associate
+**betterment** · Risk
+📍 Betterment HQ - New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.betterment.com/careers/current-openings/job?gh_jid=7797421&gh_jid=7797421)
+🕐 Updated: `2026-06-16T11:12:00-04:00` &nbsp;|&nbsp; ID: `7797421`
+
+---
+
 ## 📅 Run: 2026-06-16 05:31 UTC
 
 ### 🆕 Delivery Engineer | Splunk (W2PE)

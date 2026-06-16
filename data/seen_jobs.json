@@ -130,7 +130,7 @@
   },
   "4671899006": {
     "first_seen": "2026-06-13T02:58:15.250793+00:00",
-    "updated_at": "2026-06-09T18:52:01-04:00",
+    "updated_at": "2026-06-16T11:16:13-04:00",
     "title": "Information System Security Engineer (ISSE)",
     "company": "accenturefederalservices",
     "alerted": true
@@ -179,8 +179,8 @@
   },
   "7797421": {
     "first_seen": "2026-06-15T15:51:27.476766+00:00",
-    "updated_at": "2026-06-03T11:20:50-04:00",
-    "title": "Information Security Analyst",
+    "updated_at": "2026-06-16T11:12:00-04:00",
+    "title": "Information Security Associate",
     "company": "betterment",
     "alerted": true
   },
@@ -228,8 +228,8 @@
   },
   "4678524006": {
     "first_seen": "2026-06-16T05:31:25.435589+00:00",
-    "updated_at": "2026-06-15T10:46:57-04:00",
-    "title": "Incident Response Engineer",
+    "updated_at": "2026-06-16T09:09:51-04:00",
+    "title": "Incident Response Engineer-Journeyman",
     "company": "accenturefederalservices",
     "alerted": true
   },
