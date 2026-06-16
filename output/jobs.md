@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-06-16 21:47 UTC
+
+### 🆕 Security Engineer (ISSE)
+**accenturefederalservices** · 58209318 - AFS Assessment and Authorization
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4683272006?gh_jid=4683272006)
+🕐 Updated: `2026-06-08T15:47:46-04:00` &nbsp;|&nbsp; ID: `4683272006`
+
+---
+### 🆕 Insider Threat Analyst
+**coinbase** · Security & Privacy
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7967336?gh_jid=7967336)
+🕐 Updated: `2026-06-12T18:57:35-04:00` &nbsp;|&nbsp; ID: `7967336`
+
+---
+
 ## 📅 Run: 2026-06-16 19:07 UTC
 
 ### 🔄 Security Analyst
