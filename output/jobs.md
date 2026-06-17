@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-06-17 16:02 UTC
+
+### 🆕 Cybersecurity Engineer
+**accenturefederalservices** · 60024447 - AFS OT Security
+📍 San Diego, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4690064006?gh_jid=4690064006)
+🕐 Updated: `2026-06-17T09:23:23-04:00` &nbsp;|&nbsp; ID: `4690064006`
+
+---
+
 ## 📅 Run: 2026-06-17 07:22 UTC
 
 ### 🆕 Security Engineer

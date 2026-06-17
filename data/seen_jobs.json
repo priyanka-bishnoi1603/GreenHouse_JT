@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-06-17": 1
+    "2026-06-17": 2
   },
   "5195705008": {
     "first_seen": "2026-06-10T18:43:00.323914+00:00",
@@ -252,6 +252,13 @@
     "updated_at": "2026-06-11T17:39:54-04:00",
     "title": "Security Engineer",
     "company": "everlaw",
+    "alerted": true
+  },
+  "4690064006": {
+    "first_seen": "2026-06-17T16:02:44.630676+00:00",
+    "updated_at": "2026-06-17T09:23:23-04:00",
+    "title": "Cybersecurity Engineer",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }
