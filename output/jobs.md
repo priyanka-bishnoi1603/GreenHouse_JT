@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-06-17 07:22 UTC
+
+### 🆕 Security Engineer
+**everlaw** · Engineering
+📍 Oakland, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/everlaw/jobs/4679241006)
+🕐 Updated: `2026-06-11T17:39:54-04:00` &nbsp;|&nbsp; ID: `4679241006`
+
+---
+
 ## 📅 Run: 2026-06-16 23:21 UTC
 
 ### 🆕 A&A Specialist
