@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-06-18 18:37 UTC
+
+### 🆕 Network Security Engineer (26-212)
+**trace3** · T3 Government
+📍 Colorado Springs, CO &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/trace3/jobs/8016438)
+🕐 Updated: `2026-06-18T13:30:00-04:00` &nbsp;|&nbsp; ID: `8016438`
+
+---
+### 🔄 Incident Response Engineer
+**accenturefederalservices** · 58239869 - AFS Vulnerability Management
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4676209006?gh_jid=4676209006)
+🕐 Updated: `2026-06-18T12:38:01-04:00` &nbsp;|&nbsp; ID: `4676209006`
+
+---
+### 🔄 Incident Response Engineer-Journeyman
+**accenturefederalservices** · 58239869 - AFS Vulnerability Management
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4678524006?gh_jid=4678524006)
+🕐 Updated: `2026-06-18T13:10:03-04:00` &nbsp;|&nbsp; ID: `4678524006`
+
+---
+
 ## 📅 Run: 2026-06-18 00:03 UTC
 
 ### 🔄 Insider Threat Analyst
