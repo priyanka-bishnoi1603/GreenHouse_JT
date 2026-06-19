@@ -144,7 +144,7 @@
   },
   "7867389": {
     "first_seen": "2026-06-16T05:31:27.953177+00:00",
-    "updated_at": "2026-06-16T18:15:47-04:00",
+    "updated_at": "2026-06-19T12:11:02-04:00",
     "title": "Cloud Security Engineer",
     "company": "stripe",
     "alerted": true
@@ -179,14 +179,14 @@
   },
   "7923209": {
     "first_seen": "2026-06-16T23:21:05.828305+00:00",
-    "updated_at": "2026-06-16T18:15:51-04:00",
+    "updated_at": "2026-06-19T12:11:02-04:00",
     "title": "Security Engineer",
     "company": "stripe",
     "alerted": true
   },
   "7923191": {
     "first_seen": "2026-06-16T23:21:05.828402+00:00",
-    "updated_at": "2026-06-16T18:15:51-04:00",
+    "updated_at": "2026-06-19T12:11:02-04:00",
     "title": "Security Engineer",
     "company": "stripe",
     "alerted": false
