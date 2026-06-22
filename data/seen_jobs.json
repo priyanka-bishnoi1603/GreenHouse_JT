@@ -165,14 +165,14 @@
   },
   "7696209": {
     "first_seen": "2026-06-18T23:05:36.601637+00:00",
-    "updated_at": "2026-06-18T17:01:11-04:00",
+    "updated_at": "2026-06-22T16:57:17-04:00",
     "title": "Security Engineer, Threat Response",
     "company": "asana",
     "alerted": true
   },
   "7964363": {
     "first_seen": "2026-06-18T23:05:36.601702+00:00",
-    "updated_at": "2026-06-18T17:01:11-04:00",
+    "updated_at": "2026-06-22T16:57:17-04:00",
     "title": "Security Engineer, Threat Response",
     "company": "asana",
     "alerted": false
@@ -193,7 +193,7 @@
   },
   "7939818": {
     "first_seen": "2026-06-19T20:47:21.818902+00:00",
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-22T16:47:51-04:00",
     "title": "Security Engineer, AI Vulnerability Management",
     "company": "robinhood",
     "alerted": true
@@ -242,14 +242,14 @@
   },
   "8141068002": {
     "first_seen": "2026-06-22T17:48:26.889245+00:00",
-    "updated_at": "2026-06-16T12:45:48-04:00",
+    "updated_at": "2026-06-22T17:45:35-04:00",
     "title": "Product Security Engineer",
     "company": "chime",
     "alerted": true
   },
   "7565471": {
     "first_seen": "2026-06-22T17:48:28.912699+00:00",
-    "updated_at": "2026-06-13T03:01:07-04:00",
+    "updated_at": "2026-06-22T18:16:55-04:00",
     "title": "Security Engineer II",
     "company": "humaninterest",
     "alerted": true
