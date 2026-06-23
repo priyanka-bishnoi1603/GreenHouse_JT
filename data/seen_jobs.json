@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-06-23": 6
+    "2026-06-23": 7
   },
   "4683272006": {
     "first_seen": "2026-06-16T21:47:41.713754+00:00",
@@ -259,6 +259,13 @@
     "updated_at": "2026-06-19T12:11:02-04:00",
     "title": "Cloud Security Engineer",
     "company": "stripe",
+    "alerted": true
+  },
+  "7966569": {
+    "first_seen": "2026-06-23T13:29:43.164348+00:00",
+    "updated_at": "2026-06-23T08:56:04-04:00",
+    "title": "Sr Product Security Engineer",
+    "company": "beyondtrust",
     "alerted": true
   }
 }

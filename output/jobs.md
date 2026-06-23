@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-06-23 13:29 UTC
+
+### 🆕 Sr Product Security Engineer
+**beyondtrust** · Product Security
+📍 Remote United States  &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/beyondtrust/jobs/7966569)
+🕐 Updated: `2026-06-23T08:56:04-04:00` &nbsp;|&nbsp; ID: `7966569`
+
+---
+
 ## 📅 Run: 2026-06-23 06:47 UTC
 
 ### 🆕 Delivery Engineer | Splunk (W2PE)
