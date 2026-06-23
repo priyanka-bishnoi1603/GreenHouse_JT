@@ -95,7 +95,7 @@
   },
   "8016438": {
     "first_seen": "2026-06-18T18:37:09.045174+00:00",
-    "updated_at": "2026-06-18T13:30:00-04:00",
+    "updated_at": "2026-06-23T13:56:08-04:00",
     "title": "Network Security Engineer (26-212)",
     "company": "trace3",
     "alerted": true
@@ -214,7 +214,7 @@
   },
   "7833761": {
     "first_seen": "2026-06-23T06:47:25.985327+00:00",
-    "updated_at": "2026-05-01T13:07:32-04:00",
+    "updated_at": "2026-06-23T13:56:08-04:00",
     "title": "Delivery Engineer | Splunk (W2PE)",
     "company": "trace3",
     "alerted": true
