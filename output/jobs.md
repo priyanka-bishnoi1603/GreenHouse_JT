@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-06-23 02:50 UTC
+
+### 🆕 Infrastructure Security Engineer
+**upstart** · InfoSec
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7749135)
+🕐 Updated: `2026-05-04T11:50:51-04:00` &nbsp;|&nbsp; ID: `7749135`
+
+---
+### 🔄 Security Engineer, Threat Response
+**asana** · Infrastructure Engineering
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7964363?gh_jid=7964363)
+🕐 Updated: `2026-06-22T20:03:15-04:00` &nbsp;|&nbsp; ID: `7964363`
+
+---
+### 🔄 Security Engineer, Threat Response
+**asana** · Infrastructure Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7696209?gh_jid=7696209)
+🕐 Updated: `2026-06-22T20:03:15-04:00` &nbsp;|&nbsp; ID: `7696209`
+
+---
+
 ## 📅 Run: 2026-06-22 22:25 UTC
 
 ### 🔄 Security Engineer, AI Vulnerability Management

@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-06-22": 7
-  },
-  "7749135": {
-    "first_seen": "2026-06-16T00:01:37.663029+00:00",
-    "updated_at": "2026-05-04T11:50:51-04:00",
-    "title": "Infrastructure Security Engineer",
-    "company": "upstart",
-    "alerted": true
+    "2026-06-23": 1
   },
   "7833761": {
     "first_seen": "2026-06-16T05:31:24.898105+00:00",
@@ -165,14 +158,14 @@
   },
   "7696209": {
     "first_seen": "2026-06-18T23:05:36.601637+00:00",
-    "updated_at": "2026-06-22T16:57:17-04:00",
+    "updated_at": "2026-06-22T20:03:15-04:00",
     "title": "Security Engineer, Threat Response",
     "company": "asana",
     "alerted": true
   },
   "7964363": {
     "first_seen": "2026-06-18T23:05:36.601702+00:00",
-    "updated_at": "2026-06-22T16:57:17-04:00",
+    "updated_at": "2026-06-22T20:03:15-04:00",
     "title": "Security Engineer, Threat Response",
     "company": "asana",
     "alerted": false
@@ -259,6 +252,13 @@
     "updated_at": "2026-06-03T13:58:49-04:00",
     "title": "Enterprise Security Engineer",
     "company": "sendbird",
+    "alerted": true
+  },
+  "7749135": {
+    "first_seen": "2026-06-23T02:50:45.952530+00:00",
+    "updated_at": "2026-05-04T11:50:51-04:00",
+    "title": "Infrastructure Security Engineer",
+    "company": "upstart",
     "alerted": true
   }
 }
