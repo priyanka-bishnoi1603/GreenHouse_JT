@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-06-23 20:24 UTC
+
+### 🆕 Customer Experience Associate (New Grad)
+**robinhood** · [INACTIVE] Customer Experience
+📍 Denver, CO; Westlake, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8024530?t=gh_src=&gh_jid=8024530)
+🕐 Updated: `2026-06-23T15:59:11-04:00` &nbsp;|&nbsp; ID: `8024530`
+
+---
+### 🔄 Cybersecurity Engineer
+**accenturefederalservices** · 58239869 - AFS Vulnerability Management
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4677559006?gh_jid=4677559006)
+🕐 Updated: `2026-06-23T14:52:48-04:00` &nbsp;|&nbsp; ID: `4677559006`
+
+---
+
 ## 📅 Run: 2026-06-23 18:14 UTC
 
 ### 🔄 Delivery Engineer | Splunk (W2PE)
