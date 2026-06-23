@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-06-23": 7
+    "2026-06-23": 9
   },
   "4683272006": {
     "first_seen": "2026-06-16T21:47:41.713754+00:00",
@@ -266,6 +266,20 @@
     "updated_at": "2026-06-23T08:56:04-04:00",
     "title": "Sr Product Security Engineer",
     "company": "beyondtrust",
+    "alerted": true
+  },
+  "4691258006": {
+    "first_seen": "2026-06-23T16:11:19.393761+00:00",
+    "updated_at": "2026-06-23T10:13:01-04:00",
+    "title": "IAM Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "7808464": {
+    "first_seen": "2026-06-23T16:11:28.441799+00:00",
+    "updated_at": "2026-06-23T11:08:44-04:00",
+    "title": "Global Security Operations Center Operator",
+    "company": "twilio",
     "alerted": true
   }
 }
