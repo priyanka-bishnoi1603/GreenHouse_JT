@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-06-24": 3
+    "2026-06-24": 4
   },
   "4690064006": {
     "first_seen": "2026-06-17T16:02:44.630676+00:00",
@@ -280,6 +280,13 @@
     "updated_at": "2026-06-11T17:39:54-04:00",
     "title": "Security Engineer",
     "company": "everlaw",
+    "alerted": true
+  },
+  "7982720": {
+    "first_seen": "2026-06-24T16:00:56.728082+00:00",
+    "updated_at": "2026-06-24T09:55:18-04:00",
+    "title": "Security Engineer, Mobile ",
+    "company": "stripe",
     "alerted": true
   }
 }
