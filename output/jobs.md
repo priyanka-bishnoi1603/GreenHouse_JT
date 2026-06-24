@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-06-24 21:44 UTC
+
+### 🆕 Security Engineer - Threat Intel
+**anthropic** · Security
+📍 New York City, NY; Remote-Friendly (Travel-Required) | San Francisco, CA | Washington, DC; San Francisco, CA | New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5195705008)
+🕐 Updated: `2026-04-27T00:47:58-04:00` &nbsp;|&nbsp; ID: `5195705008`
+
+---
+### 🔄 Customer Experience Associate (New Grad)
+**robinhood** · [INACTIVE] Customer Experience
+📍 Denver, CO; Westlake, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8024530?t=gh_src=&gh_jid=8024530)
+🕐 Updated: `2026-06-24T16:17:10-04:00` &nbsp;|&nbsp; ID: `8024530`
+
+---
+### 🔄 Security Engineer, AI Vulnerability Management
+**robinhood** · Security Division
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7939818?t=gh_src=&gh_jid=7939818)
+🕐 Updated: `2026-06-24T16:17:10-04:00` &nbsp;|&nbsp; ID: `7939818`
+
+---
+### 🔄 Security Engineer, Detection & Response
+**robinhood** · Security Division
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7697725?t=gh_src=&gh_jid=7697725)
+🕐 Updated: `2026-06-24T16:17:10-04:00` &nbsp;|&nbsp; ID: `7697725`
+
+---
+
 ## 📅 Run: 2026-06-24 20:05 UTC
 
 ### 🆕 Security Engineer, Detection & Response

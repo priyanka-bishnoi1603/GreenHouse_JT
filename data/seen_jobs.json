@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-06-24": 6
-  },
-  "5195705008": {
-    "first_seen": "2026-06-17T20:55:14.818827+00:00",
-    "updated_at": "2026-04-27T00:47:58-04:00",
-    "title": "Security Engineer - Threat Intel",
-    "company": "anthropic",
-    "alerted": true
+    "2026-06-24": 7
   },
   "7611937003": {
     "first_seen": "2026-06-17T22:43:34.381281+00:00",
@@ -74,7 +67,7 @@
   },
   "7939818": {
     "first_seen": "2026-06-19T20:47:21.818902+00:00",
-    "updated_at": "2026-06-22T16:47:51-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Security Engineer, AI Vulnerability Management",
     "company": "robinhood",
     "alerted": true
@@ -116,7 +109,7 @@
   },
   "7697725": {
     "first_seen": "2026-06-22T17:48:26.712238+00:00",
-    "updated_at": "2026-06-12T13:46:57-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Security Engineer, Detection & Response",
     "company": "robinhood",
     "alerted": true
@@ -221,7 +214,7 @@
   },
   "8024530": {
     "first_seen": "2026-06-23T20:23:47.183886+00:00",
-    "updated_at": "2026-06-23T15:59:11-04:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Customer Experience Associate (New Grad)",
     "company": "robinhood",
     "alerted": true
@@ -286,6 +279,13 @@
     "first_seen": "2026-06-24T20:05:49.801754+00:00",
     "updated_at": "2026-06-17T14:12:25-04:00",
     "title": "Security Engineer, Detection & Response",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "5195705008": {
+    "first_seen": "2026-06-24T21:44:13.694468+00:00",
+    "updated_at": "2026-04-27T00:47:58-04:00",
+    "title": "Security Engineer - Threat Intel",
     "company": "anthropic",
     "alerted": true
   }
