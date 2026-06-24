@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-06-24": 5
-  },
-  "4982193008": {
-    "first_seen": "2026-06-17T18:32:57.070576+00:00",
-    "updated_at": "2026-06-17T14:12:25-04:00",
-    "title": "Security Engineer, Detection & Response",
-    "company": "anthropic",
-    "alerted": true
+    "2026-06-24": 6
   },
   "5195705008": {
     "first_seen": "2026-06-17T20:55:14.818827+00:00",
@@ -221,7 +214,7 @@
   },
   "7808464": {
     "first_seen": "2026-06-23T16:11:28.441799+00:00",
-    "updated_at": "2026-06-23T11:08:44-04:00",
+    "updated_at": "2026-06-24T15:24:55-04:00",
     "title": "Global Security Operations Center Operator",
     "company": "twilio",
     "alerted": true
@@ -287,6 +280,13 @@
     "updated_at": "2026-06-17T12:43:31-04:00",
     "title": "Cybersecurity Engineer",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4982193008": {
+    "first_seen": "2026-06-24T20:05:49.801754+00:00",
+    "updated_at": "2026-06-17T14:12:25-04:00",
+    "title": "Security Engineer, Detection & Response",
+    "company": "anthropic",
     "alerted": true
   }
 }
