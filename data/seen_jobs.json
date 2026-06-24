@@ -1,34 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-06-23": 12
-  },
-  "4657876006": {
-    "first_seen": "2026-06-16T23:21:00.593029+00:00",
-    "updated_at": "2026-06-08T15:47:46-04:00",
-    "title": "A&A Specialist",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "4679031006": {
-    "first_seen": "2026-06-16T23:21:00.601439+00:00",
-    "updated_at": "2026-06-08T15:47:46-04:00",
-    "title": "Cybersecurity Engineer-II",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "7923209": {
-    "first_seen": "2026-06-16T23:21:05.828305+00:00",
-    "updated_at": "2026-06-19T12:11:02-04:00",
-    "title": "Security Engineer",
-    "company": "stripe",
-    "alerted": true
-  },
-  "7923191": {
-    "first_seen": "2026-06-16T23:21:05.828402+00:00",
-    "updated_at": "2026-06-19T12:11:02-04:00",
-    "title": "Security Engineer",
-    "company": "stripe",
-    "alerted": false
+    "2026-06-24": 2
   },
   "4679241006": {
     "first_seen": "2026-06-17T07:22:33.787830+00:00",
@@ -130,7 +102,7 @@
   },
   "7862411": {
     "first_seen": "2026-06-19T23:13:33.520081+00:00",
-    "updated_at": "2026-06-11T20:54:11-04:00",
+    "updated_at": "2026-06-23T19:20:33-04:00",
     "title": "Executive Assistant",
     "company": "okta",
     "alerted": true
@@ -288,5 +260,26 @@
     "title": "Insider Threat Analyst",
     "company": "coinbase",
     "alerted": true
+  },
+  "4679031006": {
+    "first_seen": "2026-06-24T00:10:46.762855+00:00",
+    "updated_at": "2026-06-08T15:47:46-04:00",
+    "title": "Cybersecurity Engineer-II",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "7923191": {
+    "first_seen": "2026-06-24T00:10:48.360133+00:00",
+    "updated_at": "2026-06-19T12:11:02-04:00",
+    "title": "Security Engineer",
+    "company": "stripe",
+    "alerted": true
+  },
+  "7923209": {
+    "first_seen": "2026-06-24T00:10:48.360186+00:00",
+    "updated_at": "2026-06-19T12:11:02-04:00",
+    "title": "Security Engineer",
+    "company": "stripe",
+    "alerted": false
   }
 }

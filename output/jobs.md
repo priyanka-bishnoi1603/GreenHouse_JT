@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-06-24 00:10 UTC
+
+### 🆕 Cybersecurity Engineer-II
+**accenturefederalservices** · 60038769 - AFS Cyber Resilience
+📍 Tyson's Corner, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4679031006?gh_jid=4679031006)
+🕐 Updated: `2026-06-08T15:47:46-04:00` &nbsp;|&nbsp; ID: `4679031006`
+
+---
+### 🆕 Security Engineer
+**stripe** · Global Operations
+📍 South San Francisco, CA and US-Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7923191)
+🕐 Updated: `2026-06-19T12:11:02-04:00` &nbsp;|&nbsp; ID: `7923191`
+
+---
+### 🔄 Executive Assistant
+**okta** · Security Engineering-695
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7862411?gh_jid=7862411)
+🕐 Updated: `2026-06-23T19:20:33-04:00` &nbsp;|&nbsp; ID: `7862411`
+
+---
+
 ## 📅 Run: 2026-06-23 21:55 UTC
 
 ### 🆕 Security Engineer (ISSE)
