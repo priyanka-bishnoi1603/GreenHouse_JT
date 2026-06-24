@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-06-24 18:06 UTC
+
+### 🆕 Cybersecurity Engineer
+**accenturefederalservices** · 60024447 - AFS OT Security
+📍 San Diego, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4690064006?gh_jid=4690064006)
+🕐 Updated: `2026-06-17T12:43:31-04:00` &nbsp;|&nbsp; ID: `4690064006`
+
+---
+### 🔄 Executive Assistant
+**okta** · Security Engineering-695
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7862411?gh_jid=7862411)
+🕐 Updated: `2026-06-24T14:05:49-04:00` &nbsp;|&nbsp; ID: `7862411`
+
+---
+
 ## 📅 Run: 2026-06-24 16:01 UTC
 
 ### 🆕 Security Engineer, Mobile 
