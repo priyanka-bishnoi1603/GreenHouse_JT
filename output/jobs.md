@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-06-25 20:29 UTC
+
+### 🆕 Network Security Engineer (26-212)
+**trace3** · T3 Government
+📍 Colorado Springs, CO &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/trace3/jobs/8016438)
+🕐 Updated: `2026-06-23T13:56:08-04:00` &nbsp;|&nbsp; ID: `8016438`
+
+---
+
 ## 📅 Run: 2026-06-25 18:20 UTC
 
 ### 🔄 Incident Response Engineer-Journeyman
