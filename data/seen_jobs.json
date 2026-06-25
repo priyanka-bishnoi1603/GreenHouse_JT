@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-06-25": 1
-  },
-  "7982345": {
-    "first_seen": "2026-06-18T21:12:26.854887+00:00",
-    "updated_at": "2026-06-04T15:13:05-04:00",
-    "title": "Security Engineer 2 - Cyber Threat Intelligence",
-    "company": "datadog",
-    "alerted": true
+    "2026-06-25": 2
   },
   "7696209": {
     "first_seen": "2026-06-18T23:05:36.601637+00:00",
@@ -280,6 +273,13 @@
     "updated_at": "2026-06-23T13:56:08-04:00",
     "title": "Network Security Engineer (26-212)",
     "company": "trace3",
+    "alerted": true
+  },
+  "7982345": {
+    "first_seen": "2026-06-25T22:06:29.059144+00:00",
+    "updated_at": "2026-06-04T15:13:05-04:00",
+    "title": "Security Engineer 2 - Cyber Threat Intelligence",
+    "company": "datadog",
     "alerted": true
   }
 }
