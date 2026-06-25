@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-06-25 18:20 UTC
+
+### 🔄 Incident Response Engineer-Journeyman
+**accenturefederalservices** · 58239869 - AFS Vulnerability Management
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4678524006?gh_jid=4678524006)
+🕐 Updated: `2026-06-25T12:31:32-04:00` &nbsp;|&nbsp; ID: `4678524006`
+
+---
+### 🔄 Customer Experience Associate (New Grad)
+**robinhood** · [INACTIVE] Customer Experience
+📍 Denver, CO; Westlake, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8024530?t=gh_src=&gh_jid=8024530)
+🕐 Updated: `2026-06-25T12:33:34-04:00` &nbsp;|&nbsp; ID: `8024530`
+
+---
+### 🔄 Security Engineer, Detection & Response
+**robinhood** · Security Division
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7697725?t=gh_src=&gh_jid=7697725)
+🕐 Updated: `2026-06-25T14:05:02-04:00` &nbsp;|&nbsp; ID: `7697725`
+
+---
+### 🔄 Product Security Engineer
+**chime** · Security
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8141068002?gh_jid=8141068002)
+🕐 Updated: `2026-06-25T14:08:14-04:00` &nbsp;|&nbsp; ID: `8141068002`
+
+---
+
 ## 📅 Run: 2026-06-24 22:53 UTC
 
 ### 🆕 IT Security Engineer

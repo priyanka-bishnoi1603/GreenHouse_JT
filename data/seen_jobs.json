@@ -88,14 +88,14 @@
   },
   "7697725": {
     "first_seen": "2026-06-22T17:48:26.712238+00:00",
-    "updated_at": "2026-06-24T16:17:10-04:00",
+    "updated_at": "2026-06-25T14:05:02-04:00",
     "title": "Security Engineer, Detection & Response",
     "company": "robinhood",
     "alerted": true
   },
   "8141068002": {
     "first_seen": "2026-06-22T17:48:26.889245+00:00",
-    "updated_at": "2026-06-22T17:45:35-04:00",
+    "updated_at": "2026-06-25T14:08:14-04:00",
     "title": "Product Security Engineer",
     "company": "chime",
     "alerted": true
@@ -158,7 +158,7 @@
   },
   "4678524006": {
     "first_seen": "2026-06-23T06:47:26.458407+00:00",
-    "updated_at": "2026-06-18T13:10:03-04:00",
+    "updated_at": "2026-06-25T12:31:32-04:00",
     "title": "Incident Response Engineer-Journeyman",
     "company": "accenturefederalservices",
     "alerted": true
@@ -193,7 +193,7 @@
   },
   "8024530": {
     "first_seen": "2026-06-23T20:23:47.183886+00:00",
-    "updated_at": "2026-06-24T16:17:10-04:00",
+    "updated_at": "2026-06-25T12:33:34-04:00",
     "title": "Customer Experience Associate (New Grad)",
     "company": "robinhood",
     "alerted": true
