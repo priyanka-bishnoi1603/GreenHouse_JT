@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-06-27 00:19 UTC
+
+### 🆕 Executive Assistant
+**okta** · Security Engineering-695
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7862411?gh_jid=7862411)
+🕐 Updated: `2026-06-24T14:05:49-04:00` &nbsp;|&nbsp; ID: `7862411`
+
+---
+### 🔄 Security Engineer, Threat Response
+**asana** · Infrastructure Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7696209?gh_jid=7696209)
+🕐 Updated: `2026-06-26T19:14:02-04:00` &nbsp;|&nbsp; ID: `7696209`
+
+---
+### 🔄 Security Engineer, Threat Response
+**asana** · Infrastructure Engineering
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7964363?gh_jid=7964363)
+🕐 Updated: `2026-06-26T19:14:02-04:00` &nbsp;|&nbsp; ID: `7964363`
+
+---
+
 ## 📅 Run: 2026-06-26 21:53 UTC
 
 ### 🆕 Security Engineer, AI Vulnerability Management
