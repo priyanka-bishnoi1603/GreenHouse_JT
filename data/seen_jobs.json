@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-06-27": 1
-  },
-  "8533547002": {
-    "first_seen": "2026-06-20T05:58:02.785053+00:00",
-    "updated_at": "2026-05-14T13:26:28-04:00",
-    "title": "Product Security Engineer",
-    "company": "airtable",
-    "alerted": true
+    "2026-06-27": 2
   },
   "4655498006": {
     "first_seen": "2026-06-22T17:48:24.079307+00:00",
@@ -280,6 +273,13 @@
     "updated_at": "2026-06-24T14:05:49-04:00",
     "title": "Executive Assistant",
     "company": "okta",
+    "alerted": true
+  },
+  "8533547002": {
+    "first_seen": "2026-06-27T07:39:27.043011+00:00",
+    "updated_at": "2026-05-14T13:26:28-04:00",
+    "title": "Product Security Engineer",
+    "company": "airtable",
     "alerted": true
   }
 }
