@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-06-30 18:13 UTC
+
+### 🆕 IAM Engineer
+**accenturefederalservices** · 60038770 - AFS Cyber Resilience
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4691258006?gh_jid=4691258006)
+🕐 Updated: `2026-06-30T10:09:37-04:00` &nbsp;|&nbsp; ID: `4691258006`
+
+---
+### 🆕 Global Security Operations Center Operator
+**twilio** · Security
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7808464)
+🕐 Updated: `2026-06-24T15:24:55-04:00` &nbsp;|&nbsp; ID: `7808464`
+
+---
+### 🔄 Mobile Security Engineer
+**stripe** · 8612 Security Infrastructure
+📍 New York, New York  &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7982720)
+🕐 Updated: `2026-06-30T13:09:23-04:00` &nbsp;|&nbsp; ID: `7982720`
+
+---
+### 🔄 Security Engineer, Detection & Response
+**robinhood** · Security Division
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7697725?t=gh_src=&gh_jid=7697725)
+🕐 Updated: `2026-06-30T12:03:36-04:00` &nbsp;|&nbsp; ID: `7697725`
+
+---
+
 ## 📅 Run: 2026-06-30 16:02 UTC
 
 ### 🆕 Sr Product Security Engineer

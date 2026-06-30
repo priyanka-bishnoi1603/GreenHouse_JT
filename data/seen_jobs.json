@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-06-30": 7
-  },
-  "4691258006": {
-    "first_seen": "2026-06-23T16:11:19.393761+00:00",
-    "updated_at": "2026-06-30T10:09:37-04:00",
-    "title": "IAM Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "7808464": {
-    "first_seen": "2026-06-23T16:11:28.441799+00:00",
-    "updated_at": "2026-06-24T15:24:55-04:00",
-    "title": "Global Security Operations Center Operator",
-    "company": "twilio",
-    "alerted": true
+    "2026-06-30": 9
   },
   "8024530": {
     "first_seen": "2026-06-23T20:23:47.183886+00:00",
@@ -67,8 +53,8 @@
   },
   "7982720": {
     "first_seen": "2026-06-24T16:00:56.728082+00:00",
-    "updated_at": "2026-06-26T17:05:45-04:00",
-    "title": "Security Engineer, Mobile ",
+    "updated_at": "2026-06-30T13:09:23-04:00",
+    "title": "Mobile Security Engineer",
     "company": "stripe",
     "alerted": true
   },
@@ -193,7 +179,7 @@
   },
   "7697725": {
     "first_seen": "2026-06-29T18:32:31.929969+00:00",
-    "updated_at": "2026-06-25T14:05:02-04:00",
+    "updated_at": "2026-06-30T12:03:36-04:00",
     "title": "Security Engineer, Detection & Response",
     "company": "robinhood",
     "alerted": true
@@ -280,6 +266,20 @@
     "updated_at": "2026-06-23T08:56:04-04:00",
     "title": "Sr Product Security Engineer",
     "company": "beyondtrust",
+    "alerted": true
+  },
+  "4691258006": {
+    "first_seen": "2026-06-30T18:13:34.107950+00:00",
+    "updated_at": "2026-06-30T10:09:37-04:00",
+    "title": "IAM Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "7808464": {
+    "first_seen": "2026-06-30T18:13:37.787100+00:00",
+    "updated_at": "2026-06-24T15:24:55-04:00",
+    "title": "Global Security Operations Center Operator",
+    "company": "twilio",
     "alerted": true
   }
 }
