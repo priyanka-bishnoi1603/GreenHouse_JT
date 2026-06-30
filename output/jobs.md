@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-06-30 20:19 UTC
+
+### 🔄 IT Security Engineer
+**tanium** · IT Security
+📍 Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/tanium/jobs/7874958)
+🕐 Updated: `2026-06-30T15:46:20-04:00` &nbsp;|&nbsp; ID: `7874958`
+
+---
+### 🔄 Network Security Engineer
+**accenturefederalservices** · 56219053 - AFS Cloud Security
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4660738006?gh_jid=4660738006)
+🕐 Updated: `2026-06-30T15:47:06-04:00` &nbsp;|&nbsp; ID: `4660738006`
+
+---
+
 ## 📅 Run: 2026-06-30 18:13 UTC
 
 ### 🆕 IAM Engineer
