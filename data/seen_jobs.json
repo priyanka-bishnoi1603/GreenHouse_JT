@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-06-30": 9
-  },
-  "8024530": {
-    "first_seen": "2026-06-23T20:23:47.183886+00:00",
-    "updated_at": "2026-06-25T12:33:34-04:00",
-    "title": "Customer Experience Associate (New Grad)",
-    "company": "robinhood",
-    "alerted": true
+    "2026-06-30": 10
   },
   "4683272006": {
     "first_seen": "2026-06-23T21:55:06.886697+00:00",
@@ -280,6 +273,13 @@
     "updated_at": "2026-06-24T15:24:55-04:00",
     "title": "Global Security Operations Center Operator",
     "company": "twilio",
+    "alerted": true
+  },
+  "8024530": {
+    "first_seen": "2026-06-30T21:54:01.835229+00:00",
+    "updated_at": "2026-06-25T12:33:34-04:00",
+    "title": "Customer Experience Associate (New Grad)",
+    "company": "robinhood",
     "alerted": true
   }
 }
