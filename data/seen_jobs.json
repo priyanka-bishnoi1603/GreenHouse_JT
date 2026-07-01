@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-07-01": 8
-  },
-  "7874958": {
-    "first_seen": "2026-06-24T22:53:32.220887+00:00",
-    "updated_at": "2026-06-30T15:46:20-04:00",
-    "title": "IT Security Engineer",
-    "company": "tanium",
-    "alerted": true
-  },
-  "4682863006": {
-    "first_seen": "2026-06-24T22:53:34.497960+00:00",
-    "updated_at": "2026-06-08T15:47:46-04:00",
-    "title": " Information Systems Security Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-07-01": 10
   },
   "8016438": {
     "first_seen": "2026-06-25T20:29:41.305301+00:00",
@@ -287,6 +273,20 @@
     "updated_at": "2026-04-27T00:47:58-04:00",
     "title": "Security Engineer - Threat Intel",
     "company": "anthropic",
+    "alerted": true
+  },
+  "7874958": {
+    "first_seen": "2026-07-01T23:46:09.349952+00:00",
+    "updated_at": "2026-06-30T15:46:20-04:00",
+    "title": "IT Security Engineer",
+    "company": "tanium",
+    "alerted": true
+  },
+  "4682863006": {
+    "first_seen": "2026-07-01T23:46:12.159387+00:00",
+    "updated_at": "2026-06-08T15:47:46-04:00",
+    "title": " Information Systems Security Engineer",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }
