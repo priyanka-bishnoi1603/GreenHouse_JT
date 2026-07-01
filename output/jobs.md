@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-01 08:55 UTC
+
+### 🆕 Security Engineer
+**everlaw** · Engineering
+📍 Oakland, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/everlaw/jobs/4679241006)
+🕐 Updated: `2026-06-11T17:39:54-04:00` &nbsp;|&nbsp; ID: `4679241006`
+
+---
+### 🔄 Insider Threat Analyst
+**coinbase** · Security & Privacy
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7967336?gh_jid=7967336)
+🕐 Updated: `2026-07-01T03:05:17-04:00` &nbsp;|&nbsp; ID: `7967336`
+
+---
+### 🔄 Product Security Engineer
+**chime** · Security
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8141068002?gh_jid=8141068002)
+🕐 Updated: `2026-07-01T02:33:41-04:00` &nbsp;|&nbsp; ID: `8141068002`
+
+---
+
 ## 📅 Run: 2026-07-01 05:04 UTC
 
 ### 🔄 Security Engineer, Threat Response
