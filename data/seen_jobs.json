@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-07-01": 5
-  },
-  "4690064006": {
-    "first_seen": "2026-06-24T18:06:15.123129+00:00",
-    "updated_at": "2026-06-17T12:43:31-04:00",
-    "title": "Cybersecurity Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-07-01": 6
   },
   "4982193008": {
     "first_seen": "2026-06-24T20:05:49.801754+00:00",
@@ -287,6 +280,13 @@
     "updated_at": "2026-06-30T13:09:23-04:00",
     "title": "Mobile Security Engineer",
     "company": "stripe",
+    "alerted": true
+  },
+  "4690064006": {
+    "first_seen": "2026-07-01T19:01:09.367513+00:00",
+    "updated_at": "2026-06-17T12:43:31-04:00",
+    "title": "Cybersecurity Engineer",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }
