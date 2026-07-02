@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-02 14:27 UTC
+
+### 🔄 Security Engineer, Detection & Response
+**robinhood** · Security Division
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7697725?t=gh_src=&gh_jid=7697725)
+🕐 Updated: `2026-07-02T09:28:13-04:00` &nbsp;|&nbsp; ID: `7697725`
+
+---
+
 ## 📅 Run: 2026-07-02 06:38 UTC
 
 ### 🔄 Insider Threat Analyst
