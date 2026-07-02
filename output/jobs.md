@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-02 21:00 UTC
+
+### 🆕 Network Security Engineer (26-212)
+**trace3** · T3 Government
+📍 Colorado Springs, CO &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/trace3/jobs/8016438)
+🕐 Updated: `2026-06-23T13:56:08-04:00` &nbsp;|&nbsp; ID: `8016438`
+
+---
+### 🔄 Customer Experience Associate (New Grad)
+**robinhood** · [INACTIVE] Customer Experience
+📍 Westlake, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8024530?t=gh_src=&gh_jid=8024530)
+🕐 Updated: `2026-07-02T16:24:28-04:00` &nbsp;|&nbsp; ID: `8024530`
+
+---
+
 ## 📅 Run: 2026-07-02 14:27 UTC
 
 ### 🔄 Security Engineer, Detection & Response
