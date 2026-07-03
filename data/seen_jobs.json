@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-07-03": 3
-  },
-  "7939818": {
-    "first_seen": "2026-06-26T21:52:58.035081+00:00",
-    "updated_at": "2026-06-24T16:17:10-04:00",
-    "title": "Security Engineer, AI Vulnerability Management",
-    "company": "robinhood",
-    "alerted": true
+    "2026-07-03": 4
   },
   "7862411": {
     "first_seen": "2026-06-27T00:19:35.288090+00:00",
@@ -287,6 +280,13 @@
     "updated_at": "2026-06-08T15:47:46-04:00",
     "title": "Incident Response Engineer",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "7939818": {
+    "first_seen": "2026-07-03T22:11:45.157733+00:00",
+    "updated_at": "2026-06-24T16:17:10-04:00",
+    "title": "Security Engineer, AI Vulnerability Management",
+    "company": "robinhood",
     "alerted": true
   }
 }
