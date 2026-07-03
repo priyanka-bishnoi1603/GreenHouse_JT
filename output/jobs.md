@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-03 18:09 UTC
+
+### 🔄 Platform Security Engineer, OpenBMC
+**anthropic** · Security
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5271346008)
+🕐 Updated: `2026-07-03T13:05:18-04:00` &nbsp;|&nbsp; ID: `5271346008`
+
+---
+
 ## 📅 Run: 2026-07-03 15:24 UTC
 
 ### 🔄 Global Security Operations Center Operator
