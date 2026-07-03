@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-03 15:24 UTC
+
+### 🔄 Global Security Operations Center Operator
+**twilio** · Security
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7808464)
+🕐 Updated: `2026-07-03T11:19:41-04:00` &nbsp;|&nbsp; ID: `7808464`
+
+---
+
 ## 📅 Run: 2026-07-03 13:08 UTC
 
 ### 🆕 Incident Response Engineer
