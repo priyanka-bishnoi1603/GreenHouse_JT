@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-07-03": 4
-  },
-  "7862411": {
-    "first_seen": "2026-06-27T00:19:35.288090+00:00",
-    "updated_at": "2026-06-24T14:05:49-04:00",
-    "title": "Executive Assistant",
-    "company": "okta",
-    "alerted": true
+    "2026-07-04": 1
   },
   "8533547002": {
     "first_seen": "2026-06-27T07:39:27.043011+00:00",
@@ -287,6 +280,13 @@
     "updated_at": "2026-06-24T16:17:10-04:00",
     "title": "Security Engineer, AI Vulnerability Management",
     "company": "robinhood",
+    "alerted": true
+  },
+  "7862411": {
+    "first_seen": "2026-07-04T01:06:55.847753+00:00",
+    "updated_at": "2026-06-24T14:05:49-04:00",
+    "title": "Executive Assistant",
+    "company": "okta",
     "alerted": true
   }
 }
