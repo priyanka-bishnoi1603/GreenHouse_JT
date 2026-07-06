@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-06 14:02 UTC
+
+### 🔄 Network Security Engineer
+**accenturefederalservices** · 56219053 - AFS Cloud Security
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4660738006?gh_jid=4660738006)
+🕐 Updated: `2026-07-06T09:12:31-04:00` &nbsp;|&nbsp; ID: `4660738006`
+
+---
+
 ## 📅 Run: 2026-07-04 07:42 UTC
 
 ### 🆕 Product Security Engineer
