@@ -2,6 +2,57 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-06 19:07 UTC
+
+### 🆕 Information System Security Engineer (ISSE) 
+**accenturefederalservices** · 58209312 - AFS Security Operations
+📍 Cocoa Beach, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4655498006?gh_jid=4655498006)
+🕐 Updated: `2026-06-08T15:47:46-04:00` &nbsp;|&nbsp; ID: `4655498006`
+
+---
+### 🆕 Network Security Engineer
+**accenturefederalservices** · 56219053 - AFS Cloud Security
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4660738006?gh_jid=4660738006)
+🕐 Updated: `2026-07-06T09:12:31-04:00` &nbsp;|&nbsp; ID: `4660738006`
+
+---
+### 🆕 Security Engineer
+**accenturefederalservices** · 58209312 - AFS Security Operations
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4619940006?gh_jid=4619940006)
+🕐 Updated: `2026-06-08T15:47:46-04:00` &nbsp;|&nbsp; ID: `4619940006`
+
+---
+### 🆕 Security Engineer, Detection & Response
+**robinhood** · Security Division
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7697725?t=gh_src=&gh_jid=7697725)
+🕐 Updated: `2026-07-02T09:28:13-04:00` &nbsp;|&nbsp; ID: `7697725`
+
+---
+### 🆕 Product Security Engineer
+**chime** · Security
+📍 San Francisco, CA, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/chime/jobs/8141068002?gh_jid=8141068002)
+🕐 Updated: `2026-07-01T02:33:41-04:00` &nbsp;|&nbsp; ID: `8141068002`
+
+---
+### 🆕 Security Engineer II
+**humaninterest** · Engineering
+📍 United States, Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/humaninterest/jobs/7565471)
+🕐 Updated: `2026-06-22T18:16:55-04:00` &nbsp;|&nbsp; ID: `7565471`
+
+---
+### 🆕 Enterprise Security Engineer
+**sendbird** · Security and IT
+📍 San Mateo, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://sendbird.com/careers?gh_jid=8487754002)
+🕐 Updated: `2026-06-03T13:58:49-04:00` &nbsp;|&nbsp; ID: `8487754002`
+
+---
+### 🔄 Infrastructure Security Engineer
+**upstart** · InfoSec
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7749135)
+🕐 Updated: `2026-07-06T13:21:05-04:00` &nbsp;|&nbsp; ID: `7749135`
+
+---
+
 ## 📅 Run: 2026-07-06 14:02 UTC
 
 ### 🔄 Network Security Engineer
