@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-06 22:36 UTC
+
+### 🔄 Infrastructure Security Engineer
+**upstart** · InfoSec
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7749135)
+🕐 Updated: `2026-07-06T18:12:14-04:00` &nbsp;|&nbsp; ID: `7749135`
+
+---
+
 ## 📅 Run: 2026-07-06 19:07 UTC
 
 ### 🆕 Information System Security Engineer (ISSE) 
