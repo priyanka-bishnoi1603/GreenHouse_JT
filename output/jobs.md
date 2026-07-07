@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-07 16:26 UTC
+
+### 🆕 Sr Product Security Engineer
+**beyondtrust** · Product Security
+📍 Remote United States  &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/beyondtrust/jobs/7966569)
+🕐 Updated: `2026-06-23T08:56:04-04:00` &nbsp;|&nbsp; ID: `7966569`
+
+---
+### 🔄 IAM Engineer
+**accenturefederalservices** · 56219066 - AFS Identity & Access Management
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4691258006?gh_jid=4691258006)
+🕐 Updated: `2026-07-07T12:12:13-04:00` &nbsp;|&nbsp; ID: `4691258006`
+
+---
+
 ## 📅 Run: 2026-07-07 08:53 UTC
 
 ### 🆕 Delivery Engineer | Splunk (W2PE)
