@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-07 20:26 UTC
+
+### 🔄 Sr Product Security Engineer
+**beyondtrust** · Product Security
+📍 Remote United States  &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/beyondtrust/jobs/7966569)
+🕐 Updated: `2026-07-07T15:03:23-04:00` &nbsp;|&nbsp; ID: `7966569`
+
+---
+### 🔄 Global Security Operations Center Operator
+**twilio** · Security
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7808464)
+🕐 Updated: `2026-07-07T15:48:32-04:00` &nbsp;|&nbsp; ID: `7808464`
+
+---
+
 ## 📅 Run: 2026-07-07 18:29 UTC
 
 ### 🆕 IAM Engineer
