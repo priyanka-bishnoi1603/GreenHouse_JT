@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-07-07": 7
-  },
-  "4691258006": {
-    "first_seen": "2026-06-30T18:13:34.107950+00:00",
-    "updated_at": "2026-07-07T12:12:13-04:00",
-    "title": "IAM Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "7808464": {
-    "first_seen": "2026-06-30T18:13:37.787100+00:00",
-    "updated_at": "2026-07-03T11:19:41-04:00",
-    "title": "Global Security Operations Center Operator",
-    "company": "twilio",
-    "alerted": true
+    "2026-07-07": 10
   },
   "8024530": {
     "first_seen": "2026-06-30T21:54:01.835229+00:00",
@@ -123,7 +109,7 @@
   },
   "7982345": {
     "first_seen": "2026-07-02T22:18:00.294063+00:00",
-    "updated_at": "2026-06-04T15:13:05-04:00",
+    "updated_at": "2026-07-07T14:23:17-04:00",
     "title": "Security Engineer 2 - Cyber Threat Intelligence",
     "company": "datadog",
     "alerted": true
@@ -287,6 +273,27 @@
     "updated_at": "2026-06-23T08:56:04-04:00",
     "title": "Sr Product Security Engineer",
     "company": "beyondtrust",
+    "alerted": true
+  },
+  "4691258006": {
+    "first_seen": "2026-07-07T18:28:46.004851+00:00",
+    "updated_at": "2026-07-07T12:12:13-04:00",
+    "title": "IAM Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "5290426008": {
+    "first_seen": "2026-07-07T18:28:46.277080+00:00",
+    "updated_at": "2026-07-07T13:50:50-04:00",
+    "title": "Platform Security Engineering, Operating Systems ",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "7808464": {
+    "first_seen": "2026-07-07T18:29:01.754466+00:00",
+    "updated_at": "2026-07-03T11:19:41-04:00",
+    "title": "Global Security Operations Center Operator",
+    "company": "twilio",
     "alerted": true
   }
 }
