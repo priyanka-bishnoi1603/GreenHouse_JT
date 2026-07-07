@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-07 22:57 UTC
+
+### 🆕 Customer Experience Associate (New Grad)
+**robinhood** · [INACTIVE] Customer Experience
+📍 Westlake, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8024530?t=gh_src=&gh_jid=8024530)
+🕐 Updated: `2026-07-02T16:24:28-04:00` &nbsp;|&nbsp; ID: `8024530`
+
+---
+### 🔄 Security Engineer, Threat Response
+**asana** · Security Engineering
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7964363?gh_jid=7964363)
+🕐 Updated: `2026-07-07T18:03:43-04:00` &nbsp;|&nbsp; ID: `7964363`
+
+---
+### 🔄 Security Engineer, Threat Response
+**asana** · Security Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7696209?gh_jid=7696209)
+🕐 Updated: `2026-07-07T18:03:43-04:00` &nbsp;|&nbsp; ID: `7696209`
+
+---
+
 ## 📅 Run: 2026-07-07 20:26 UTC
 
 ### 🔄 Sr Product Security Engineer

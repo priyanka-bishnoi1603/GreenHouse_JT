@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-07-07": 10
-  },
-  "8024530": {
-    "first_seen": "2026-06-30T21:54:01.835229+00:00",
-    "updated_at": "2026-07-02T16:24:28-04:00",
-    "title": "Customer Experience Associate (New Grad)",
-    "company": "robinhood",
-    "alerted": true
+    "2026-07-07": 11
   },
   "4683272006": {
     "first_seen": "2026-06-30T23:07:21.060609+00:00",
@@ -116,14 +109,14 @@
   },
   "7696209": {
     "first_seen": "2026-07-03T01:16:17.856765+00:00",
-    "updated_at": "2026-06-30T21:57:32-04:00",
+    "updated_at": "2026-07-07T18:03:43-04:00",
     "title": "Security Engineer, Threat Response",
     "company": "asana",
     "alerted": true
   },
   "7964363": {
     "first_seen": "2026-07-03T01:16:17.856830+00:00",
-    "updated_at": "2026-06-30T21:57:32-04:00",
+    "updated_at": "2026-07-07T18:03:43-04:00",
     "title": "Security Engineer, Threat Response",
     "company": "asana",
     "alerted": false
@@ -294,6 +287,13 @@
     "updated_at": "2026-07-07T15:48:32-04:00",
     "title": "Global Security Operations Center Operator",
     "company": "twilio",
+    "alerted": true
+  },
+  "8024530": {
+    "first_seen": "2026-07-07T22:57:02.302586+00:00",
+    "updated_at": "2026-07-02T16:24:28-04:00",
+    "title": "Customer Experience Associate (New Grad)",
+    "company": "robinhood",
     "alerted": true
   }
 }
