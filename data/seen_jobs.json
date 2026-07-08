@@ -1,27 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-07-07": 13
-  },
-  "4679031006": {
-    "first_seen": "2026-07-01T00:20:39.746185+00:00",
-    "updated_at": "2026-06-08T15:47:46-04:00",
-    "title": "Cybersecurity Engineer-II",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "7923191": {
-    "first_seen": "2026-07-01T00:20:41.166019+00:00",
-    "updated_at": "2026-06-26T17:05:42-04:00",
-    "title": "Security Engineer",
-    "company": "stripe",
-    "alerted": true
-  },
-  "7923209": {
-    "first_seen": "2026-07-01T00:20:41.166076+00:00",
-    "updated_at": "2026-06-26T17:05:42-04:00",
-    "title": "Security Engineer",
-    "company": "stripe",
-    "alerted": false
+    "2026-07-08": 2
   },
   "4679241006": {
     "first_seen": "2026-07-01T08:55:24.544112+00:00",
@@ -295,5 +274,26 @@
     "title": "Insider Threat Analyst",
     "company": "coinbase",
     "alerted": true
+  },
+  "4679031006": {
+    "first_seen": "2026-07-08T02:53:18.447377+00:00",
+    "updated_at": "2026-06-08T15:47:46-04:00",
+    "title": "Cybersecurity Engineer-II",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "7923191": {
+    "first_seen": "2026-07-08T02:53:20.013803+00:00",
+    "updated_at": "2026-06-26T17:05:42-04:00",
+    "title": "Security Engineer",
+    "company": "stripe",
+    "alerted": true
+  },
+  "7923209": {
+    "first_seen": "2026-07-08T02:53:20.013859+00:00",
+    "updated_at": "2026-06-26T17:05:42-04:00",
+    "title": "Security Engineer",
+    "company": "stripe",
+    "alerted": false
   }
 }
