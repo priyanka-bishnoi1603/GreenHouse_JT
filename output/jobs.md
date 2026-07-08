@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-08 22:01 UTC
+
+### 🆕 Security Engineer, Detection & Response
+**anthropic** · Security
+📍 San Francisco, CA | New York City, NY | Seattle, WA; Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/4982193008)
+🕐 Updated: `2026-06-17T14:12:25-04:00` &nbsp;|&nbsp; ID: `4982193008`
+
+---
+
 ## 📅 Run: 2026-07-08 19:36 UTC
 
 ### 🆕 Cybersecurity Engineer
