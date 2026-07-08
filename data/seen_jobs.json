@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-07-08": 2
-  },
-  "4679241006": {
-    "first_seen": "2026-07-01T08:55:24.544112+00:00",
-    "updated_at": "2026-06-11T17:39:54-04:00",
-    "title": "Security Engineer",
-    "company": "everlaw",
-    "alerted": true
+    "2026-07-08": 3
   },
   "4692382006": {
     "first_seen": "2026-07-01T16:58:52.745283+00:00",
@@ -295,5 +288,12 @@
     "title": "Security Engineer",
     "company": "stripe",
     "alerted": false
+  },
+  "4679241006": {
+    "first_seen": "2026-07-08T10:34:37.843785+00:00",
+    "updated_at": "2026-06-11T17:39:54-04:00",
+    "title": "Security Engineer",
+    "company": "everlaw",
+    "alerted": true
   }
 }
