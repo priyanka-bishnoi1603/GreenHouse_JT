@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-07-08": 5
-  },
-  "4690064006": {
-    "first_seen": "2026-07-01T19:01:09.367513+00:00",
-    "updated_at": "2026-06-17T12:43:31-04:00",
-    "title": "Cybersecurity Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-07-08": 6
   },
   "4982193008": {
     "first_seen": "2026-07-01T20:53:33.316234+00:00",
@@ -88,7 +81,7 @@
   },
   "7862411": {
     "first_seen": "2026-07-04T01:06:55.847753+00:00",
-    "updated_at": "2026-06-24T14:05:49-04:00",
+    "updated_at": "2026-07-08T14:58:58-04:00",
     "title": "Executive Assistant",
     "company": "okta",
     "alerted": true
@@ -294,6 +287,13 @@
     "updated_at": "2026-07-06T20:00:00-04:00",
     "title": "iOS & macOS Security Engineer ",
     "company": "stripe",
+    "alerted": true
+  },
+  "4690064006": {
+    "first_seen": "2026-07-08T19:36:00.575132+00:00",
+    "updated_at": "2026-06-17T12:43:31-04:00",
+    "title": "Cybersecurity Engineer",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }
