@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-09 23:08 UTC
+
+### 🆕 Security Engineer 2 - Cyber Threat Intelligence
+**datadog** · Security
+📍 New York, New York, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7982345/?gh_jid=7982345)
+🕐 Updated: `2026-07-07T14:23:17-04:00` &nbsp;|&nbsp; ID: `7982345`
+
+---
+### 🔄 Customer Experience Associate (New Grad)
+**robinhood** · Customer Care
+📍 Westlake, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8024530?t=gh_src=&gh_jid=8024530)
+🕐 Updated: `2026-07-09T19:02:18-04:00` &nbsp;|&nbsp; ID: `8024530`
+
+---
+### 🔄 Security Engineer, AI Vulnerability Management
+**robinhood** · Security Division
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7939818?t=gh_src=&gh_jid=7939818)
+🕐 Updated: `2026-07-09T19:02:18-04:00` &nbsp;|&nbsp; ID: `7939818`
+
+---
+### 🔄 Security Engineer, Detection & Response
+**robinhood** · Security Division
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7697725?t=gh_src=&gh_jid=7697725)
+🕐 Updated: `2026-07-09T19:02:18-04:00` &nbsp;|&nbsp; ID: `7697725`
+
+---
+
 ## 📅 Run: 2026-07-09 20:21 UTC
 
 ### 🔄 Customer Experience Associate (New Grad)

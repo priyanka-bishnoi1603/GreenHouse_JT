@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-07-09": 2
-  },
-  "7982345": {
-    "first_seen": "2026-07-02T22:18:00.294063+00:00",
-    "updated_at": "2026-07-07T14:23:17-04:00",
-    "title": "Security Engineer 2 - Cyber Threat Intelligence",
-    "company": "datadog",
-    "alerted": true
+    "2026-07-09": 3
   },
   "7696209": {
     "first_seen": "2026-07-03T01:16:17.856765+00:00",
@@ -39,7 +32,7 @@
   },
   "7939818": {
     "first_seen": "2026-07-03T22:11:45.157733+00:00",
-    "updated_at": "2026-06-24T16:17:10-04:00",
+    "updated_at": "2026-07-09T19:02:18-04:00",
     "title": "Security Engineer, AI Vulnerability Management",
     "company": "robinhood",
     "alerted": true
@@ -81,7 +74,7 @@
   },
   "7697725": {
     "first_seen": "2026-07-06T19:07:51.152436+00:00",
-    "updated_at": "2026-07-02T09:28:13-04:00",
+    "updated_at": "2026-07-09T19:02:18-04:00",
     "title": "Security Engineer, Detection & Response",
     "company": "robinhood",
     "alerted": true
@@ -193,7 +186,7 @@
   },
   "8024530": {
     "first_seen": "2026-07-07T22:57:02.302586+00:00",
-    "updated_at": "2026-07-09T15:25:37-04:00",
+    "updated_at": "2026-07-09T19:02:18-04:00",
     "title": "Customer Experience Associate (New Grad)",
     "company": "robinhood",
     "alerted": true
@@ -287,6 +280,13 @@
     "updated_at": "2026-07-09T10:52:00-04:00",
     "title": "Threat Intelligence Engineer",
     "company": "anthropic",
+    "alerted": true
+  },
+  "7982345": {
+    "first_seen": "2026-07-09T23:08:06.504282+00:00",
+    "updated_at": "2026-07-07T14:23:17-04:00",
+    "title": "Security Engineer 2 - Cyber Threat Intelligence",
+    "company": "datadog",
     "alerted": true
   }
 }
