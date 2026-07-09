@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-09 01:11 UTC
+
+### 🆕  Information Systems Security Engineer
+**accenturefederalservices** · 58209318 - AFS Assessment and Authorization
+📍 Herndon, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4682863006?gh_jid=4682863006)
+🕐 Updated: `2026-06-08T15:47:46-04:00` &nbsp;|&nbsp; ID: `4682863006`
+
+---
+
 ## 📅 Run: 2026-07-08 23:30 UTC
 
 ### 🆕 Security Engineer - Threat Intel
