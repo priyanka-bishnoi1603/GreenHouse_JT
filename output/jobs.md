@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-09 16:44 UTC
+
+### 🆕 Threat Intelligence Engineer
+**anthropic** · Safeguards (Trust & Safety) 
+📍 Remote-Friendly (Travel-Required) | San Francisco, CA | Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5074937008)
+🕐 Updated: `2026-07-09T10:52:00-04:00` &nbsp;|&nbsp; ID: `5074937008`
+
+---
+
 ## 📅 Run: 2026-07-09 01:11 UTC
 
 ### 🆕  Information Systems Security Engineer
