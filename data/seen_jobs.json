@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-07-10": 4
-  },
-  "7939818": {
-    "first_seen": "2026-07-03T22:11:45.157733+00:00",
-    "updated_at": "2026-07-09T19:02:18-04:00",
-    "title": "Security Engineer, AI Vulnerability Management",
-    "company": "robinhood",
-    "alerted": true
+    "2026-07-10": 5
   },
   "7862411": {
     "first_seen": "2026-07-04T01:06:55.847753+00:00",
@@ -294,6 +287,13 @@
     "updated_at": "2026-07-10T16:04:07-04:00",
     "title": "Platform Security Engineering, Auditor",
     "company": "anthropic",
+    "alerted": true
+  },
+  "7939818": {
+    "first_seen": "2026-07-10T22:41:02.445812+00:00",
+    "updated_at": "2026-07-09T19:02:18-04:00",
+    "title": "Security Engineer, AI Vulnerability Management",
+    "company": "robinhood",
     "alerted": true
   }
 }

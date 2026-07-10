@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-10 22:41 UTC
+
+### 🆕 Security Engineer, AI Vulnerability Management
+**robinhood** · Security Division
+📍 Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7939818?t=gh_src=&gh_jid=7939818)
+🕐 Updated: `2026-07-09T19:02:18-04:00` &nbsp;|&nbsp; ID: `7939818`
+
+---
+
 ## 📅 Run: 2026-07-10 20:42 UTC
 
 ### 🆕 Platform Security Engineering, Auditor
