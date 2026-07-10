@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-07-10": 2
-  },
-  "4680135006": {
-    "first_seen": "2026-07-03T13:08:33.613025+00:00",
-    "updated_at": "2026-06-08T15:47:46-04:00",
-    "title": "Incident Response Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-07-10": 3
   },
   "7939818": {
     "first_seen": "2026-07-03T22:11:45.157733+00:00",
@@ -287,6 +280,13 @@
     "updated_at": "2026-07-03T13:05:18-04:00",
     "title": "Platform Security Engineer, OpenBMC",
     "company": "anthropic",
+    "alerted": true
+  },
+  "4680135006": {
+    "first_seen": "2026-07-10T13:24:27.435871+00:00",
+    "updated_at": "2026-06-08T15:47:46-04:00",
+    "title": "Incident Response Engineer",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }
