@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-10 20:42 UTC
+
+### 🆕 Platform Security Engineering, Auditor
+**anthropic** · Security
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5316565008)
+🕐 Updated: `2026-07-10T16:04:07-04:00` &nbsp;|&nbsp; ID: `5316565008`
+
+---
+
 ## 📅 Run: 2026-07-10 13:24 UTC
 
 ### 🆕 Incident Response Engineer
