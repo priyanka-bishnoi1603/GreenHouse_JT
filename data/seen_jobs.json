@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-07-10": 1
-  },
-  "5271346008": {
-    "first_seen": "2026-07-03T08:27:39.097426+00:00",
-    "updated_at": "2026-07-03T13:05:18-04:00",
-    "title": "Platform Security Engineer, OpenBMC",
-    "company": "anthropic",
-    "alerted": true
+    "2026-07-10": 2
   },
   "4680135006": {
     "first_seen": "2026-07-03T13:08:33.613025+00:00",
@@ -288,5 +281,12 @@
     "title": "Security Engineer, Threat Response",
     "company": "asana",
     "alerted": false
+  },
+  "5271346008": {
+    "first_seen": "2026-07-10T11:18:08.358631+00:00",
+    "updated_at": "2026-07-03T13:05:18-04:00",
+    "title": "Platform Security Engineer, OpenBMC",
+    "company": "anthropic",
+    "alerted": true
   }
 }
