@@ -1,55 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-07-11": 1
-  },
-  "4655498006": {
-    "first_seen": "2026-07-06T19:07:37.735066+00:00",
-    "updated_at": "2026-06-08T15:47:46-04:00",
-    "title": "Information System Security Engineer (ISSE) ",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "4660738006": {
-    "first_seen": "2026-07-06T19:07:37.738357+00:00",
-    "updated_at": "2026-07-06T09:12:31-04:00",
-    "title": "Network Security Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "4619940006": {
-    "first_seen": "2026-07-06T19:07:37.744434+00:00",
-    "updated_at": "2026-06-08T15:47:46-04:00",
-    "title": "Security Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "7697725": {
-    "first_seen": "2026-07-06T19:07:51.152436+00:00",
-    "updated_at": "2026-07-09T19:02:18-04:00",
-    "title": "Security Engineer, Detection & Response",
-    "company": "robinhood",
-    "alerted": true
-  },
-  "8141068002": {
-    "first_seen": "2026-07-06T19:07:51.333671+00:00",
-    "updated_at": "2026-07-01T02:33:41-04:00",
-    "title": "Product Security Engineer",
-    "company": "chime",
-    "alerted": true
-  },
-  "7565471": {
-    "first_seen": "2026-07-06T19:07:52.496117+00:00",
-    "updated_at": "2026-06-22T18:16:55-04:00",
-    "title": "Security Engineer II",
-    "company": "humaninterest",
-    "alerted": true
-  },
-  "8487754002": {
-    "first_seen": "2026-07-06T19:07:53.248267+00:00",
-    "updated_at": "2026-06-03T13:58:49-04:00",
-    "title": "Enterprise Security Engineer",
-    "company": "sendbird",
-    "alerted": true
+    "2026-07-13": 5
   },
   "7749135": {
     "first_seen": "2026-07-07T05:33:02.341509+00:00",
@@ -287,6 +238,41 @@
     "updated_at": "2026-05-14T13:26:28-04:00",
     "title": "Product Security Engineer",
     "company": "airtable",
+    "alerted": true
+  },
+  "4655498006": {
+    "first_seen": "2026-07-13T19:47:36.347249+00:00",
+    "updated_at": "2026-06-08T15:47:46-04:00",
+    "title": "Information System Security Engineer (ISSE) ",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4660738006": {
+    "first_seen": "2026-07-13T19:47:36.350755+00:00",
+    "updated_at": "2026-07-06T09:12:31-04:00",
+    "title": "Network Security Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4619940006": {
+    "first_seen": "2026-07-13T19:47:36.358384+00:00",
+    "updated_at": "2026-06-08T15:47:46-04:00",
+    "title": "Security Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "8141068002": {
+    "first_seen": "2026-07-13T19:47:38.435618+00:00",
+    "updated_at": "2026-07-01T02:33:41-04:00",
+    "title": "Product Security Engineer",
+    "company": "chime",
+    "alerted": true
+  },
+  "8487754002": {
+    "first_seen": "2026-07-13T19:47:40.581250+00:00",
+    "updated_at": "2026-06-03T13:58:49-04:00",
+    "title": "Enterprise Security Engineer",
+    "company": "sendbird",
     "alerted": true
   }
 }
