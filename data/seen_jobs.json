@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-07-14": 6
-  },
-  "7966569": {
-    "first_seen": "2026-07-07T16:26:37.542601+00:00",
-    "updated_at": "2026-07-07T15:03:23-04:00",
-    "title": "Sr Product Security Engineer",
-    "company": "beyondtrust",
-    "alerted": true
+    "2026-07-14": 7
   },
   "4691258006": {
     "first_seen": "2026-07-07T18:28:46.004851+00:00",
@@ -273,6 +266,13 @@
     "updated_at": "2026-06-26T17:05:38-04:00",
     "title": "Cloud Security Engineer",
     "company": "stripe",
+    "alerted": true
+  },
+  "7966569": {
+    "first_seen": "2026-07-14T17:17:39.513780+00:00",
+    "updated_at": "2026-07-07T15:03:23-04:00",
+    "title": "Sr Product Security Engineer",
+    "company": "beyondtrust",
     "alerted": true
   }
 }
