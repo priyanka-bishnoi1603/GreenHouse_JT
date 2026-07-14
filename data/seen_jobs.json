@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-07-13": 5
-  },
-  "7749135": {
-    "first_seen": "2026-07-07T05:33:02.341509+00:00",
-    "updated_at": "2026-07-10T00:10:52-04:00",
-    "title": "Infrastructure Security Engineer",
-    "company": "upstart",
-    "alerted": true
+    "2026-07-14": 1
   },
   "7833761": {
     "first_seen": "2026-07-07T08:53:44.799710+00:00",
@@ -273,6 +266,13 @@
     "updated_at": "2026-06-03T13:58:49-04:00",
     "title": "Enterprise Security Engineer",
     "company": "sendbird",
+    "alerted": true
+  },
+  "7749135": {
+    "first_seen": "2026-07-14T07:19:58.169311+00:00",
+    "updated_at": "2026-07-10T00:10:52-04:00",
+    "title": "Infrastructure Security Engineer",
+    "company": "upstart",
     "alerted": true
   }
 }
