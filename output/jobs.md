@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-14 23:51 UTC
+
+### 🆕 Customer Experience Associate (New Grad)
+**robinhood** · Customer Care
+📍 Westlake, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8024530?t=gh_src=&gh_jid=8024530)
+🕐 Updated: `2026-07-09T19:02:18-04:00` &nbsp;|&nbsp; ID: `8024530`
+
+---
+
 ## 📅 Run: 2026-07-14 22:55 UTC
 
 ### 🔄 Platform Security Engineering, Auditor
