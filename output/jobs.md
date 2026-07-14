@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-14 18:37 UTC
+
+### 🆕 IAM Engineer
+**accenturefederalservices** · 56219066 - AFS Identity & Access Management
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4691258006?gh_jid=4691258006)
+🕐 Updated: `2026-07-07T12:12:13-04:00` &nbsp;|&nbsp; ID: `4691258006`
+
+---
+### 🆕 Platform Security Engineering, Operating Systems 
+**anthropic** · Security
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5290426008)
+🕐 Updated: `2026-07-07T13:50:50-04:00` &nbsp;|&nbsp; ID: `5290426008`
+
+---
+### 🆕 Global Security Operations Center Operator
+**twilio** · Security
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7808464)
+🕐 Updated: `2026-07-09T14:09:23-04:00` &nbsp;|&nbsp; ID: `7808464`
+
+---
+
 ## 📅 Run: 2026-07-14 17:17 UTC
 
 ### 🆕 Sr Product Security Engineer
