@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-07-15": 9
-  },
-  "4690064006": {
-    "first_seen": "2026-07-08T19:36:00.575132+00:00",
-    "updated_at": "2026-06-17T12:43:31-04:00",
-    "title": "Cybersecurity Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-07-15": 10
   },
   "4982193008": {
     "first_seen": "2026-07-08T22:01:46.030881+00:00",
@@ -46,14 +39,14 @@
   },
   "7964363": {
     "first_seen": "2026-07-10T04:31:35.455359+00:00",
-    "updated_at": "2026-07-15T14:35:24-04:00",
+    "updated_at": "2026-07-15T15:29:13-04:00",
     "title": "Security Engineer, Threat Response",
     "company": "asana",
     "alerted": true
   },
   "7696209": {
     "first_seen": "2026-07-10T04:31:35.455425+00:00",
-    "updated_at": "2026-07-15T14:35:24-04:00",
+    "updated_at": "2026-07-15T15:29:13-04:00",
     "title": "Security Engineer, Threat Response",
     "company": "asana",
     "alerted": false
@@ -172,8 +165,8 @@
   },
   "4678524006": {
     "first_seen": "2026-07-14T09:23:14.060620+00:00",
-    "updated_at": "2026-06-25T12:31:32-04:00",
-    "title": "Incident Response Engineer-Journeyman",
+    "updated_at": "2026-07-15T15:27:42-04:00",
+    "title": "Incident Response Engineer",
     "company": "accenturefederalservices",
     "alerted": true
   },
@@ -287,6 +280,13 @@
     "updated_at": "2026-07-09T14:12:11-04:00",
     "title": "Client Platform Security Engineer",
     "company": "stripe",
+    "alerted": true
+  },
+  "4690064006": {
+    "first_seen": "2026-07-15T19:54:14.845440+00:00",
+    "updated_at": "2026-06-17T12:43:31-04:00",
+    "title": "Cybersecurity Engineer",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }

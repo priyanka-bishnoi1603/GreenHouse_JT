@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-15 19:54 UTC
+
+### 🆕 Cybersecurity Engineer
+**accenturefederalservices** · 60024447 - AFS OT Security
+📍 San Diego, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4690064006?gh_jid=4690064006)
+🕐 Updated: `2026-06-17T12:43:31-04:00` &nbsp;|&nbsp; ID: `4690064006`
+
+---
+### 🔄 Incident Response Engineer
+**accenturefederalservices** · 58239869 - AFS Vulnerability Management
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4678524006?gh_jid=4678524006)
+🕐 Updated: `2026-07-15T15:27:42-04:00` &nbsp;|&nbsp; ID: `4678524006`
+
+---
+### 🔄 Security Engineer, Threat Response
+**asana** · Security Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7696209?gh_jid=7696209)
+🕐 Updated: `2026-07-15T15:29:13-04:00` &nbsp;|&nbsp; ID: `7696209`
+
+---
+### 🔄 Security Engineer, Threat Response
+**asana** · Security Engineering
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7964363?gh_jid=7964363)
+🕐 Updated: `2026-07-15T15:29:13-04:00` &nbsp;|&nbsp; ID: `7964363`
+
+---
+
 ## 📅 Run: 2026-07-15 18:45 UTC
 
 ### 🆕 Information System Security Engineer 
