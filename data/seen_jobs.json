@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-07-15": 6
+    "2026-07-15": 7
   },
   "4692382006": {
     "first_seen": "2026-07-08T17:57:43.180879+00:00",
@@ -280,6 +280,13 @@
     "updated_at": "2026-07-15T11:33:29-04:00",
     "title": "Cybersecurity Incident Response Triage IR Analyst",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "7918258": {
+    "first_seen": "2026-07-15T17:37:32.140094+00:00",
+    "updated_at": "2026-07-15T13:19:10-04:00",
+    "title": "Security Engineer, Application Security",
+    "company": "robinhood",
     "alerted": true
   }
 }
