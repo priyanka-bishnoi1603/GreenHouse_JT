@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-15 16:01 UTC
+
+### 🆕 Cybersecurity Incident Response Triage IR Analyst
+**accenturefederalservices** · 58283426 - AFS IT Security
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4697235006?gh_jid=4697235006)
+🕐 Updated: `2026-07-15T11:33:29-04:00` &nbsp;|&nbsp; ID: `4697235006`
+
+---
+
 ## 📅 Run: 2026-07-15 11:09 UTC
 
 ### 🆕 Security Engineer
