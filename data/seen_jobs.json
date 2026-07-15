@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-07-15": 7
-  },
-  "4692382006": {
-    "first_seen": "2026-07-08T17:57:43.180879+00:00",
-    "updated_at": "2026-07-01T10:51:59-04:00",
-    "title": "Information System Security Engineer ",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "7982720": {
-    "first_seen": "2026-07-08T17:57:45.501251+00:00",
-    "updated_at": "2026-07-09T14:12:11-04:00",
-    "title": "Client Platform Security Engineer",
-    "company": "stripe",
-    "alerted": true
+    "2026-07-15": 9
   },
   "4690064006": {
     "first_seen": "2026-07-08T19:36:00.575132+00:00",
@@ -60,14 +46,14 @@
   },
   "7964363": {
     "first_seen": "2026-07-10T04:31:35.455359+00:00",
-    "updated_at": "2026-07-07T18:03:43-04:00",
+    "updated_at": "2026-07-15T14:35:24-04:00",
     "title": "Security Engineer, Threat Response",
     "company": "asana",
     "alerted": true
   },
   "7696209": {
     "first_seen": "2026-07-10T04:31:35.455425+00:00",
-    "updated_at": "2026-07-07T18:03:43-04:00",
+    "updated_at": "2026-07-15T14:35:24-04:00",
     "title": "Security Engineer, Threat Response",
     "company": "asana",
     "alerted": false
@@ -287,6 +273,20 @@
     "updated_at": "2026-07-15T13:19:10-04:00",
     "title": "Security Engineer, Application Security",
     "company": "robinhood",
+    "alerted": true
+  },
+  "4692382006": {
+    "first_seen": "2026-07-15T18:44:49.023777+00:00",
+    "updated_at": "2026-07-01T10:51:59-04:00",
+    "title": "Information System Security Engineer ",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "7982720": {
+    "first_seen": "2026-07-15T18:44:57.341407+00:00",
+    "updated_at": "2026-07-09T14:12:11-04:00",
+    "title": "Client Platform Security Engineer",
+    "company": "stripe",
     "alerted": true
   }
 }
