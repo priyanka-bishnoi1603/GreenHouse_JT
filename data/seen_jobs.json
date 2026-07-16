@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-07-16": 1
-  },
-  "7982345": {
-    "first_seen": "2026-07-09T23:08:06.504282+00:00",
-    "updated_at": "2026-07-07T14:23:17-04:00",
-    "title": "Security Engineer 2 - Cyber Threat Intelligence",
-    "company": "datadog",
-    "alerted": true
+    "2026-07-16": 2
   },
   "7964363": {
     "first_seen": "2026-07-10T04:31:35.455359+00:00",
@@ -273,6 +266,13 @@
     "updated_at": "2026-07-14T18:35:00-04:00",
     "title": "Threat Intelligence Engineer",
     "company": "anthropic",
+    "alerted": true
+  },
+  "7982345": {
+    "first_seen": "2026-07-16T23:37:27.527857+00:00",
+    "updated_at": "2026-07-07T14:23:17-04:00",
+    "title": "Security Engineer 2 - Cyber Threat Intelligence",
+    "company": "datadog",
     "alerted": true
   }
 }
