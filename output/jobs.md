@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-16 20:34 UTC
+
+### 🔄 Product Security Engineer
+**airtable** · Security
+📍 San Francisco, CA; New York, NY; Remote (Seattle, WA only) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/airtable/jobs/8533547002)
+🕐 Updated: `2026-07-16T16:01:23-04:00` &nbsp;|&nbsp; ID: `8533547002`
+
+---
+
 ## 📅 Run: 2026-07-16 17:10 UTC
 
 ### 🆕 Threat Intelligence Engineer
