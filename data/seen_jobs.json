@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-07-17": 5
-  },
-  "5316565008": {
-    "first_seen": "2026-07-10T20:41:54.520625+00:00",
-    "updated_at": "2026-07-17T12:10:31-04:00",
-    "title": "Offensive Hardware Security Engineer, Platform Security",
-    "company": "anthropic",
-    "alerted": true
+    "2026-07-17": 6
   },
   "7939818": {
     "first_seen": "2026-07-10T22:41:02.445812+00:00",
@@ -287,6 +280,13 @@
     "updated_at": "2026-07-17T12:48:23-04:00",
     "title": "Cybersecurity Engineer III ",
     "company": "trace3",
+    "alerted": true
+  },
+  "5316565008": {
+    "first_seen": "2026-07-17T20:49:47.935080+00:00",
+    "updated_at": "2026-07-17T12:10:31-04:00",
+    "title": "Offensive Hardware Security Engineer, Platform Security",
+    "company": "anthropic",
     "alerted": true
   }
 }

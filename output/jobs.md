@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-17 20:50 UTC
+
+### 🆕 Offensive Hardware Security Engineer, Platform Security
+**anthropic** · Security
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5316565008)
+🕐 Updated: `2026-07-17T12:10:31-04:00` &nbsp;|&nbsp; ID: `5316565008`
+
+---
+
 ## 📅 Run: 2026-07-17 17:44 UTC
 
 ### 🆕 Cybersecurity Engineer III 
