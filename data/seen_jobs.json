@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-07-16": 2
-  },
-  "7964363": {
-    "first_seen": "2026-07-10T04:31:35.455359+00:00",
-    "updated_at": "2026-07-15T15:29:13-04:00",
-    "title": "Security Engineer, Threat Response",
-    "company": "asana",
-    "alerted": true
-  },
-  "7696209": {
-    "first_seen": "2026-07-10T04:31:35.455425+00:00",
-    "updated_at": "2026-07-15T15:29:13-04:00",
-    "title": "Security Engineer, Threat Response",
-    "company": "asana",
-    "alerted": false
+    "2026-07-17": 1
   },
   "5271346008": {
     "first_seen": "2026-07-10T11:18:08.358631+00:00",
@@ -274,5 +260,19 @@
     "title": "Security Engineer 2 - Cyber Threat Intelligence",
     "company": "datadog",
     "alerted": true
+  },
+  "7964363": {
+    "first_seen": "2026-07-17T06:36:21.940269+00:00",
+    "updated_at": "2026-07-15T15:29:13-04:00",
+    "title": "Security Engineer, Threat Response",
+    "company": "asana",
+    "alerted": true
+  },
+  "7696209": {
+    "first_seen": "2026-07-17T06:36:21.940331+00:00",
+    "updated_at": "2026-07-15T15:29:13-04:00",
+    "title": "Security Engineer, Threat Response",
+    "company": "asana",
+    "alerted": false
   }
 }

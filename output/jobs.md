@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-17 06:36 UTC
+
+### 🆕 Security Engineer, Threat Response
+**asana** · Security Engineering
+📍 New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.asana.com/jobs/apply/7964363?gh_jid=7964363)
+🕐 Updated: `2026-07-15T15:29:13-04:00` &nbsp;|&nbsp; ID: `7964363`
+
+---
+
 ## 📅 Run: 2026-07-16 23:37 UTC
 
 ### 🆕 Security Engineer 2 - Cyber Threat Intelligence
