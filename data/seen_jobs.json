@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-07-20": 1
+    "2026-07-20": 2
   },
   "4655498006": {
     "first_seen": "2026-07-13T19:47:36.347249+00:00",
@@ -242,7 +242,7 @@
   },
   "5271346008": {
     "first_seen": "2026-07-17T11:58:50.960573+00:00",
-    "updated_at": "2026-07-17T18:54:32-04:00",
+    "updated_at": "2026-07-20T12:52:13-04:00",
     "title": "Platform Security Engineer, OpenBMC",
     "company": "anthropic",
     "alerted": true
@@ -263,7 +263,7 @@
   },
   "8072162": {
     "first_seen": "2026-07-17T17:44:34.237147+00:00",
-    "updated_at": "2026-07-17T12:48:23-04:00",
+    "updated_at": "2026-07-20T12:08:32-04:00",
     "title": "Cybersecurity Engineer III ",
     "company": "trace3",
     "alerted": true
@@ -280,6 +280,13 @@
     "updated_at": "2026-07-20T09:48:42-04:00",
     "title": "Security Operations Engineer (SecOps) II",
     "company": "upstart",
+    "alerted": true
+  },
+  "4688186006": {
+    "first_seen": "2026-07-20T16:53:04.351012+00:00",
+    "updated_at": "2026-07-20T11:30:50-04:00",
+    "title": "Cybersecurity Engineer",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }

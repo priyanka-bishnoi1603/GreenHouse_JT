@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-20 16:53 UTC
+
+### 🆕 Cybersecurity Engineer
+**accenturefederalservices** · 60051467 - AFS XDR Ops
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4688186006?gh_jid=4688186006)
+🕐 Updated: `2026-07-20T11:30:50-04:00` &nbsp;|&nbsp; ID: `4688186006`
+
+---
+### 🔄 Cybersecurity Engineer III 
+**trace3** · T3 Government
+📍 Colorado Springs, CO &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/trace3/jobs/8072162)
+🕐 Updated: `2026-07-20T12:08:32-04:00` &nbsp;|&nbsp; ID: `8072162`
+
+---
+### 🔄 Platform Security Engineer, OpenBMC
+**anthropic** · Security
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5271346008)
+🕐 Updated: `2026-07-20T12:52:13-04:00` &nbsp;|&nbsp; ID: `5271346008`
+
+---
+
 ## 📅 Run: 2026-07-20 15:20 UTC
 
 ### 🔄 Security Operations Engineer (SecOps) II
