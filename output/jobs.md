@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-20 13:02 UTC
+
+### 🆕 Security Operations Engineer (SecOps)
+**upstart** · Info Sec Ops
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=8054616)
+🕐 Updated: `2026-07-20T07:52:48-04:00` &nbsp;|&nbsp; ID: `8054616`
+
+---
+
 ## 📅 Run: 2026-07-18 04:13 UTC
 
 ### 🔄 Enterprise Security Engineer

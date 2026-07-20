@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-07-17": 6
+    "2026-07-20": 1
   },
   "4655498006": {
     "first_seen": "2026-07-13T19:47:36.347249+00:00",
@@ -273,6 +273,13 @@
     "updated_at": "2026-07-17T12:10:31-04:00",
     "title": "Offensive Hardware Security Engineer, Platform Security",
     "company": "anthropic",
+    "alerted": true
+  },
+  "8054616": {
+    "first_seen": "2026-07-20T13:02:47.806985+00:00",
+    "updated_at": "2026-07-20T07:52:48-04:00",
+    "title": "Security Operations Engineer (SecOps)",
+    "company": "upstart",
     "alerted": true
   }
 }
