@@ -1,27 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-07-21": 5
-  },
-  "4691258006": {
-    "first_seen": "2026-07-14T18:36:53.422417+00:00",
-    "updated_at": "2026-07-20T16:29:22-04:00",
-    "title": "IAM Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "5290426008": {
-    "first_seen": "2026-07-14T18:36:53.677605+00:00",
-    "updated_at": "2026-07-14T18:35:00-04:00",
-    "title": "Platform Security Engineering, Operating Systems ",
-    "company": "anthropic",
-    "alerted": true
-  },
-  "7808464": {
-    "first_seen": "2026-07-14T18:36:57.118211+00:00",
-    "updated_at": "2026-07-17T10:28:16-04:00",
-    "title": "Global Security Operations Center Operator",
-    "company": "twilio",
-    "alerted": true
+    "2026-07-21": 8
   },
   "8024530": {
     "first_seen": "2026-07-14T23:50:49.788208+00:00",
@@ -273,6 +252,27 @@
     "updated_at": "2026-07-10T00:10:52-04:00",
     "title": "Infrastructure Security Engineer",
     "company": "upstart",
+    "alerted": true
+  },
+  "4691258006": {
+    "first_seen": "2026-07-21T19:52:20.246441+00:00",
+    "updated_at": "2026-07-20T16:29:22-04:00",
+    "title": "IAM Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "5290426008": {
+    "first_seen": "2026-07-21T19:52:20.531430+00:00",
+    "updated_at": "2026-07-14T18:35:00-04:00",
+    "title": "Platform Security Engineering, Operating Systems ",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "7808464": {
+    "first_seen": "2026-07-21T19:52:25.326391+00:00",
+    "updated_at": "2026-07-17T10:28:16-04:00",
+    "title": "Global Security Operations Center Operator",
+    "company": "twilio",
     "alerted": true
   }
 }
