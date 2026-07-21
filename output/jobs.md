@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-21 23:11 UTC
+
+### 🔄 Client Platform Security Engineer
+**stripe** · 8612 Security Infrastructure
+📍 New York, New York  &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7982720)
+🕐 Updated: `2026-07-21T18:51:20-04:00` &nbsp;|&nbsp; ID: `7982720`
+
+---
+### 🔄 Cloud Security Engineer
+**stripe** · 8614 Office of the CISO & Partnership
+📍 Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7867389)
+🕐 Updated: `2026-07-21T18:51:18-04:00` &nbsp;|&nbsp; ID: `7867389`
+
+---
+### 🔄 Security Engineer
+**stripe** · Global Operations
+📍 Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7923209)
+🕐 Updated: `2026-07-21T18:51:19-04:00` &nbsp;|&nbsp; ID: `7923209`
+
+---
+### 🔄 Security Engineer
+**stripe** · Global Operations
+📍 South San Francisco, CA and US-Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7923191)
+🕐 Updated: `2026-07-21T18:51:19-04:00` &nbsp;|&nbsp; ID: `7923191`
+
+---
+
 ## 📅 Run: 2026-07-21 19:52 UTC
 
 ### 🆕 IAM Engineer

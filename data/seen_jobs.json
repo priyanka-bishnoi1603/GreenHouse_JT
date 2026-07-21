@@ -32,14 +32,14 @@
   },
   "7923191": {
     "first_seen": "2026-07-15T05:09:32.501572+00:00",
-    "updated_at": "2026-06-26T17:05:42-04:00",
+    "updated_at": "2026-07-21T18:51:19-04:00",
     "title": "Security Engineer",
     "company": "stripe",
     "alerted": true
   },
   "7923209": {
     "first_seen": "2026-07-15T05:09:32.501627+00:00",
-    "updated_at": "2026-06-26T17:05:42-04:00",
+    "updated_at": "2026-07-21T18:51:19-04:00",
     "title": "Security Engineer",
     "company": "stripe",
     "alerted": false
@@ -74,7 +74,7 @@
   },
   "7982720": {
     "first_seen": "2026-07-15T18:44:57.341407+00:00",
-    "updated_at": "2026-07-21T13:51:17-04:00",
+    "updated_at": "2026-07-21T18:51:20-04:00",
     "title": "Client Platform Security Engineer",
     "company": "stripe",
     "alerted": true
@@ -242,7 +242,7 @@
   },
   "7867389": {
     "first_seen": "2026-07-21T09:59:19.354080+00:00",
-    "updated_at": "2026-06-26T17:05:38-04:00",
+    "updated_at": "2026-07-21T18:51:18-04:00",
     "title": "Cloud Security Engineer",
     "company": "stripe",
     "alerted": true
