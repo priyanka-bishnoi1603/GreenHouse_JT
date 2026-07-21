@@ -2,13 +2,6 @@
   "__daily_alerts__": {
     "2026-07-21": 5
   },
-  "7966569": {
-    "first_seen": "2026-07-14T17:17:39.513780+00:00",
-    "updated_at": "2026-07-07T15:03:23-04:00",
-    "title": "Sr Product Security Engineer",
-    "company": "beyondtrust",
-    "alerted": true
-  },
   "4691258006": {
     "first_seen": "2026-07-14T18:36:53.422417+00:00",
     "updated_at": "2026-07-20T16:29:22-04:00",
@@ -102,7 +95,7 @@
   },
   "7982720": {
     "first_seen": "2026-07-15T18:44:57.341407+00:00",
-    "updated_at": "2026-07-17T12:38:28-04:00",
+    "updated_at": "2026-07-21T13:51:17-04:00",
     "title": "Client Platform Security Engineer",
     "company": "stripe",
     "alerted": true
