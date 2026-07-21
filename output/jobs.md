@@ -2,6 +2,39 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-21 09:59 UTC
+
+### 🆕 Delivery Engineer | Splunk (W2PE)
+**trace3** · Data & Analytics
+📍 Denver, Colorado, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/trace3/jobs/7833761)
+🕐 Updated: `2026-06-23T13:56:08-04:00` &nbsp;|&nbsp; ID: `7833761`
+
+---
+### 🆕 Cybersecurity Engineer
+**accenturefederalservices** · 58239869 - AFS Vulnerability Management
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4677559006?gh_jid=4677559006)
+🕐 Updated: `2026-07-20T16:29:22-04:00` &nbsp;|&nbsp; ID: `4677559006`
+
+---
+### 🆕 Incident Response Engineer
+**accenturefederalservices** · 58239869 - AFS Vulnerability Management
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4676209006?gh_jid=4676209006)
+🕐 Updated: `2026-07-20T16:29:22-04:00` &nbsp;|&nbsp; ID: `4676209006`
+
+---
+### 🆕 Cloud Security Engineer
+**stripe** · 8614 Office of the CISO & Partnership
+📍 Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7867389)
+🕐 Updated: `2026-06-26T17:05:38-04:00` &nbsp;|&nbsp; ID: `7867389`
+
+---
+### 🆕 Infrastructure Security Engineer
+**upstart** · InfoSec
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=7749135)
+🕐 Updated: `2026-07-10T00:10:52-04:00` &nbsp;|&nbsp; ID: `7749135`
+
+---
+
 ## 📅 Run: 2026-07-20 21:40 UTC
 
 ### 🔄 Cybersecurity Engineer
