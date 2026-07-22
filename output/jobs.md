@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-22 06:15 UTC
+
+### 🆕 Cybersecurity Engineer-II
+**accenturefederalservices** · 60038769 - AFS Secure Digital Core
+📍 Tyson's Corner, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4679031006?gh_jid=4679031006)
+🕐 Updated: `2026-07-20T16:29:22-04:00` &nbsp;|&nbsp; ID: `4679031006`
+
+---
+### 🆕 Security Engineer
+**stripe** · Global Operations
+📍 Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7923209)
+🕐 Updated: `2026-07-21T18:51:19-04:00` &nbsp;|&nbsp; ID: `7923209`
+
+---
+
 ## 📅 Run: 2026-07-22 03:44 UTC
 
 ### 🆕 Insider Threat Analyst
