@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-07-22": 1
-  },
-  "4683272006": {
-    "first_seen": "2026-07-15T02:01:34.278910+00:00",
-    "updated_at": "2026-06-08T15:47:46-04:00",
-    "title": "Security Engineer (ISSE)",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "7967336": {
-    "first_seen": "2026-07-15T02:01:36.693094+00:00",
-    "updated_at": "2026-07-14T19:59:35-04:00",
-    "title": "Insider Threat Analyst",
-    "company": "coinbase",
-    "alerted": true
+    "2026-07-22": 2
   },
   "4679031006": {
     "first_seen": "2026-07-15T05:09:25.081088+00:00",
@@ -273,6 +259,13 @@
     "updated_at": "2026-07-09T19:02:18-04:00",
     "title": "Customer Experience Associate (New Grad)",
     "company": "robinhood",
+    "alerted": true
+  },
+  "7967336": {
+    "first_seen": "2026-07-22T03:44:05.059955+00:00",
+    "updated_at": "2026-07-14T19:59:35-04:00",
+    "title": "Insider Threat Analyst",
+    "company": "coinbase",
     "alerted": true
   }
 }
