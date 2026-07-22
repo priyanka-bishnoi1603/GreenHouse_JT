@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-07-22": 10
-  },
-  "4690064006": {
-    "first_seen": "2026-07-15T19:54:14.845440+00:00",
-    "updated_at": "2026-07-22T09:03:15-04:00",
-    "title": "Cybersecurity Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-07-22": 11
   },
   "4982193008": {
     "first_seen": "2026-07-15T22:59:12.470391+00:00",
@@ -273,6 +266,13 @@
     "updated_at": "2026-07-22T14:30:09-04:00",
     "title": "Client Platform Security Engineer",
     "company": "stripe",
+    "alerted": true
+  },
+  "4690064006": {
+    "first_seen": "2026-07-22T20:20:32.588633+00:00",
+    "updated_at": "2026-07-22T09:03:15-04:00",
+    "title": "Cybersecurity Engineer",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }
