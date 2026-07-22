@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-22 23:40 UTC
+
+### 🆕 Security Engineer, Detection & Response
+**anthropic** · Security
+📍 San Francisco, CA | New York City, NY | Seattle, WA; Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/4982193008)
+🕐 Updated: `2026-07-14T18:35:00-04:00` &nbsp;|&nbsp; ID: `4982193008`
+
+---
+### 🔄 Cybersecurity Engineer
+**accenturefederalservices** · 60024449 - AFS Cyber Resilience and Defense
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4676474006?gh_jid=4676474006)
+🕐 Updated: `2026-07-22T19:25:23-04:00` &nbsp;|&nbsp; ID: `4676474006`
+
+---
+
 ## 📅 Run: 2026-07-22 21:35 UTC
 
 ### 🔄 Cybersecurity Engineer
