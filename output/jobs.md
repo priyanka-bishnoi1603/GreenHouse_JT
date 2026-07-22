@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-22 15:01 UTC
+
+### 🆕 Cybersecurity Engineer
+**accenturefederalservices** · 56846838 - AFS Cyber/Security Service Ops
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4676474006?gh_jid=4676474006)
+🕐 Updated: `2026-07-22T09:33:21-04:00` &nbsp;|&nbsp; ID: `4676474006`
+
+---
+### 🔄 Cybersecurity Engineer
+**accenturefederalservices** · 60024445 - AFS Cyber Mission
+📍 San Diego, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4690064006?gh_jid=4690064006)
+🕐 Updated: `2026-07-22T09:03:15-04:00` &nbsp;|&nbsp; ID: `4690064006`
+
+---
+### 🔄 Security Engineer
+**accenturefederalservices** · 60024449 - AFS Cyber Resilience and Defense
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4619940006?gh_jid=4619940006)
+🕐 Updated: `2026-07-22T09:43:12-04:00` &nbsp;|&nbsp; ID: `4619940006`
+
+---
+
 ## 📅 Run: 2026-07-22 11:19 UTC
 
 ### 🆕 Security Engineer
