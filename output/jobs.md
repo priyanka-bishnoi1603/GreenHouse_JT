@@ -2,6 +2,45 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-22 17:54 UTC
+
+### 🆕 Security Engineer, Application Security
+**robinhood** · Security Division
+📍 Bellevue, WA; Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7918258?t=gh_src=&gh_jid=7918258)
+🕐 Updated: `2026-07-15T13:19:10-04:00` &nbsp;|&nbsp; ID: `7918258`
+
+---
+### 🔄 Client Platform Security Engineer
+**stripe** · 8612 Security Infrastructure
+📍 New York, New York  &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7982720)
+🕐 Updated: `2026-07-22T13:25:41-04:00` &nbsp;|&nbsp; ID: `7982720`
+
+---
+### 🔄 Cloud Security Engineer
+**stripe** · 8614 Office of the CISO & Partnership
+📍 Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7867389)
+🕐 Updated: `2026-07-22T13:25:41-04:00` &nbsp;|&nbsp; ID: `7867389`
+
+---
+### 🔄 Security Engineer
+**stripe** · Global Operations
+📍 South San Francisco, CA and US-Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7923191)
+🕐 Updated: `2026-07-22T13:25:41-04:00` &nbsp;|&nbsp; ID: `7923191`
+
+---
+### 🔄 Security Engineer
+**stripe** · Global Operations
+📍 Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7923209)
+🕐 Updated: `2026-07-22T13:25:41-04:00` &nbsp;|&nbsp; ID: `7923209`
+
+---
+### 🔄 Security Operations Engineer (SecOps) II
+**upstart** · Info Sec Ops
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=8054616)
+🕐 Updated: `2026-07-22T13:01:22-04:00` &nbsp;|&nbsp; ID: `8054616`
+
+---
+
 ## 📅 Run: 2026-07-22 16:44 UTC
 
 ### 🆕 Cybersecurity Incident Response Triage IR Analyst

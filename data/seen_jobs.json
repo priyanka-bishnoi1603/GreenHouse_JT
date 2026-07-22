@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-07-22": 7
-  },
-  "7918258": {
-    "first_seen": "2026-07-15T17:37:32.140094+00:00",
-    "updated_at": "2026-07-15T13:19:10-04:00",
-    "title": "Security Engineer, Application Security",
-    "company": "robinhood",
-    "alerted": true
+    "2026-07-22": 8
   },
   "4692382006": {
     "first_seen": "2026-07-15T18:44:49.023777+00:00",
@@ -18,7 +11,7 @@
   },
   "7982720": {
     "first_seen": "2026-07-15T18:44:57.341407+00:00",
-    "updated_at": "2026-07-21T18:51:20-04:00",
+    "updated_at": "2026-07-22T13:25:41-04:00",
     "title": "Client Platform Security Engineer",
     "company": "stripe",
     "alerted": true
@@ -102,7 +95,7 @@
   },
   "8054616": {
     "first_seen": "2026-07-20T13:02:47.806985+00:00",
-    "updated_at": "2026-07-20T09:48:42-04:00",
+    "updated_at": "2026-07-22T13:01:22-04:00",
     "title": "Security Operations Engineer (SecOps) II",
     "company": "upstart",
     "alerted": true
@@ -186,7 +179,7 @@
   },
   "7867389": {
     "first_seen": "2026-07-21T09:59:19.354080+00:00",
-    "updated_at": "2026-07-21T18:51:18-04:00",
+    "updated_at": "2026-07-22T13:25:41-04:00",
     "title": "Cloud Security Engineer",
     "company": "stripe",
     "alerted": true
@@ -242,14 +235,14 @@
   },
   "7923209": {
     "first_seen": "2026-07-22T06:15:50.300916+00:00",
-    "updated_at": "2026-07-21T18:51:19-04:00",
+    "updated_at": "2026-07-22T13:25:41-04:00",
     "title": "Security Engineer",
     "company": "stripe",
     "alerted": true
   },
   "7923191": {
     "first_seen": "2026-07-22T06:15:50.300993+00:00",
-    "updated_at": "2026-07-21T18:51:19-04:00",
+    "updated_at": "2026-07-22T13:25:41-04:00",
     "title": "Security Engineer",
     "company": "stripe",
     "alerted": false
@@ -273,6 +266,13 @@
     "updated_at": "2026-07-20T16:29:22-04:00",
     "title": "Cybersecurity Incident Response Triage IR Analyst",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "7918258": {
+    "first_seen": "2026-07-22T17:54:31.176584+00:00",
+    "updated_at": "2026-07-15T13:19:10-04:00",
+    "title": "Security Engineer, Application Security",
+    "company": "robinhood",
     "alerted": true
   }
 }
