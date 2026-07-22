@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-22 21:35 UTC
+
+### 🔄 Cybersecurity Engineer
+**accenturefederalservices** · 60024449 - AFS Cyber Resilience and Defense
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4676474006?gh_jid=4676474006)
+🕐 Updated: `2026-07-22T17:14:57-04:00` &nbsp;|&nbsp; ID: `4676474006`
+
+---
+
 ## 📅 Run: 2026-07-22 20:20 UTC
 
 ### 🆕 Cybersecurity Engineer
