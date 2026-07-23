@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-23 01:12 UTC
+
+### 🔄 Cybersecurity Engineer
+**accenturefederalservices** · 56219060 - AFS Cyber Strategy Risk and Architecture
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4677515006?gh_jid=4677515006)
+🕐 Updated: `2026-07-22T19:52:28-04:00` &nbsp;|&nbsp; ID: `4677515006`
+
+---
+### 🔄 IAM Engineer
+**accenturefederalservices** · 60035741 - AFS Identity and Trust
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4691258006?gh_jid=4691258006)
+🕐 Updated: `2026-07-22T20:13:37-04:00` &nbsp;|&nbsp; ID: `4691258006`
+
+---
+### 🔄 Incident Response Engineer
+**accenturefederalservices** · 56219060 - AFS Cyber Strategy Risk and Architecture
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4676530006?gh_jid=4676530006)
+🕐 Updated: `2026-07-22T19:51:25-04:00` &nbsp;|&nbsp; ID: `4676530006`
+
+---
+### 🔄 Network Security Engineer
+**accenturefederalservices** · 60024449 - AFS Cyber Resilience and Defense
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4660738006?gh_jid=4660738006)
+🕐 Updated: `2026-07-22T20:16:48-04:00` &nbsp;|&nbsp; ID: `4660738006`
+
+---
+
 ## 📅 Run: 2026-07-22 23:40 UTC
 
 ### 🆕 Security Engineer, Detection & Response
