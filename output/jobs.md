@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-23 17:16 UTC
+
+### 🆕 Threat Intelligence Engineer
+**anthropic** · Safeguards (Trust & Safety)
+📍 Remote-Friendly (Travel-Required) | San Francisco, CA | Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5074937008)
+🕐 Updated: `2026-07-14T18:35:00-04:00` &nbsp;|&nbsp; ID: `5074937008`
+
+---
+### 🔄 Cybersecurity Engineer
+**accenturefederalservices** · 60024449 - AFS Cyber Resilience and Defense
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4676474006?gh_jid=4676474006)
+🕐 Updated: `2026-07-23T12:51:39-04:00` &nbsp;|&nbsp; ID: `4676474006`
+
+---
+
 ## 📅 Run: 2026-07-23 15:52 UTC
 
 ### 🔄 Security Engineer 2 - Cyber Threat Intelligence
