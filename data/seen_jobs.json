@@ -2,13 +2,6 @@
   "__daily_alerts__": {
     "2026-07-24": 2
   },
-  "4680135006": {
-    "first_seen": "2026-07-17T13:49:47.302067+00:00",
-    "updated_at": "2026-07-20T16:29:22-04:00",
-    "title": "Incident Response Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
   "4696951006": {
     "first_seen": "2026-07-17T16:34:21.055543+00:00",
     "updated_at": "2026-07-20T16:29:22-04:00",
@@ -144,7 +137,7 @@
   },
   "7808464": {
     "first_seen": "2026-07-21T19:52:25.326391+00:00",
-    "updated_at": "2026-07-17T10:28:16-04:00",
+    "updated_at": "2026-07-24T10:24:29-04:00",
     "title": "Global Security Operations Center Operator",
     "company": "twilio",
     "alerted": true
