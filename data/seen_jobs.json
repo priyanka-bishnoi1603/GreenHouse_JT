@@ -2,20 +2,6 @@
   "__daily_alerts__": {
     "2026-07-24": 1
   },
-  "7964363": {
-    "first_seen": "2026-07-17T06:36:21.940269+00:00",
-    "updated_at": "2026-07-15T15:29:13-04:00",
-    "title": "Security Engineer, Threat Response",
-    "company": "asana",
-    "alerted": true
-  },
-  "7696209": {
-    "first_seen": "2026-07-17T06:36:21.940331+00:00",
-    "updated_at": "2026-07-15T15:29:13-04:00",
-    "title": "Security Engineer, Threat Response",
-    "company": "asana",
-    "alerted": false
-  },
   "5271346008": {
     "first_seen": "2026-07-17T11:58:50.960573+00:00",
     "updated_at": "2026-07-20T12:52:13-04:00",
