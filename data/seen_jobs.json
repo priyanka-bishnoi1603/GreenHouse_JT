@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-07-24": 4
-  },
-  "5316565008": {
-    "first_seen": "2026-07-17T20:49:47.935080+00:00",
-    "updated_at": "2026-07-17T12:10:31-04:00",
-    "title": "Offensive Hardware Security Engineer, Platform Security",
-    "company": "anthropic",
-    "alerted": true
+    "2026-07-24": 5
   },
   "8054616": {
     "first_seen": "2026-07-20T13:02:47.806985+00:00",
@@ -252,6 +245,13 @@
     "updated_at": "2026-07-20T16:29:22-04:00",
     "title": "Security Engineer ",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "5316565008": {
+    "first_seen": "2026-07-24T22:01:07.615103+00:00",
+    "updated_at": "2026-07-17T12:10:31-04:00",
+    "title": "Offensive Hardware Security Engineer, Platform Security",
+    "company": "anthropic",
     "alerted": true
   }
 }
