@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-27 15:59 UTC
+
+### 🔄 Client Platform Security Engineer
+**stripe** · 8612 Security Infrastructure
+📍 New York, New York  &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7982720)
+🕐 Updated: `2026-07-27T11:17:30-04:00` &nbsp;|&nbsp; ID: `7982720`
+
+---
+### 🔄 Cloud Security Engineer
+**stripe** · 8614 Office of the CISO & Partnership
+📍 Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7867389)
+🕐 Updated: `2026-07-27T11:17:30-04:00` &nbsp;|&nbsp; ID: `7867389`
+
+---
+### 🔄 Security Engineer
+**stripe** · Global Operations
+📍 South San Francisco, CA and US-Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7923191)
+🕐 Updated: `2026-07-27T11:17:30-04:00` &nbsp;|&nbsp; ID: `7923191`
+
+---
+### 🔄 Security Engineer
+**stripe** · Global Operations
+📍 Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7923209)
+🕐 Updated: `2026-07-27T11:17:30-04:00` &nbsp;|&nbsp; ID: `7923209`
+
+---
+
 ## 📅 Run: 2026-07-27 13:29 UTC
 
 ### 🆕 Security Operations Engineer (SecOps) II
