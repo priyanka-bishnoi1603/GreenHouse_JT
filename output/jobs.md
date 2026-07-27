@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-27 17:49 UTC
+
+### 🆕 Cybersecurity Engineer
+**accenturefederalservices** · 60051467 - AFS XDR Ops
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4688186006?gh_jid=4688186006)
+🕐 Updated: `2026-07-20T16:29:22-04:00` &nbsp;|&nbsp; ID: `4688186006`
+
+---
+
 ## 📅 Run: 2026-07-27 15:59 UTC
 
 ### 🔄 Client Platform Security Engineer

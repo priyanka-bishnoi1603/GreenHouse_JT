@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-07-27": 1
-  },
-  "4688186006": {
-    "first_seen": "2026-07-20T16:53:04.351012+00:00",
-    "updated_at": "2026-07-20T16:29:22-04:00",
-    "title": "Cybersecurity Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-07-27": 2
   },
   "4660738006": {
     "first_seen": "2026-07-20T20:17:25.789795+00:00",
@@ -252,6 +245,13 @@
     "updated_at": "2026-07-22T13:01:22-04:00",
     "title": "Security Operations Engineer (SecOps) II",
     "company": "upstart",
+    "alerted": true
+  },
+  "4688186006": {
+    "first_seen": "2026-07-27T17:48:55.992544+00:00",
+    "updated_at": "2026-07-20T16:29:22-04:00",
+    "title": "Cybersecurity Engineer",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }
