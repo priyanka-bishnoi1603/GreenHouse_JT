@@ -1,34 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-07-27": 2
-  },
-  "4660738006": {
-    "first_seen": "2026-07-20T20:17:25.789795+00:00",
-    "updated_at": "2026-07-22T20:16:48-04:00",
-    "title": "Network Security Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "4619940006": {
-    "first_seen": "2026-07-20T20:17:25.797477+00:00",
-    "updated_at": "2026-07-22T09:43:12-04:00",
-    "title": "Security Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "8141068002": {
-    "first_seen": "2026-07-20T20:17:27.892277+00:00",
-    "updated_at": "2026-07-22T14:03:31-04:00",
-    "title": "Product Security Engineer",
-    "company": "chime",
-    "alerted": true
-  },
-  "8487754002": {
-    "first_seen": "2026-07-20T20:17:38.555036+00:00",
-    "updated_at": "2026-07-17T21:10:21-04:00",
-    "title": "Enterprise Security Engineer",
-    "company": "sendbird",
-    "alerted": true
+    "2026-07-27": 7
   },
   "7833761": {
     "first_seen": "2026-07-21T09:59:16.622814+00:00",
@@ -252,6 +224,41 @@
     "updated_at": "2026-07-20T16:29:22-04:00",
     "title": "Cybersecurity Engineer",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4660738006": {
+    "first_seen": "2026-07-27T20:49:23.981216+00:00",
+    "updated_at": "2026-07-22T20:16:48-04:00",
+    "title": "Network Security Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4619940006": {
+    "first_seen": "2026-07-27T20:49:23.987422+00:00",
+    "updated_at": "2026-07-22T09:43:12-04:00",
+    "title": "Security Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "8141068002": {
+    "first_seen": "2026-07-27T20:49:26.986464+00:00",
+    "updated_at": "2026-07-22T14:03:31-04:00",
+    "title": "Product Security Engineer",
+    "company": "chime",
+    "alerted": true
+  },
+  "8487754002": {
+    "first_seen": "2026-07-27T20:49:31.349750+00:00",
+    "updated_at": "2026-07-17T21:10:21-04:00",
+    "title": "Enterprise Security Engineer",
+    "company": "sendbird",
+    "alerted": true
+  },
+  "8533547002": {
+    "first_seen": "2026-07-27T20:49:41.934981+00:00",
+    "updated_at": "2026-07-27T16:26:00-04:00",
+    "title": "Product Security Engineer",
+    "company": "airtable",
     "alerted": true
   }
 }
