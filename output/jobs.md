@@ -2,6 +2,39 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-28 11:34 UTC
+
+### 🆕 Delivery Engineer | Splunk (W2PE)
+**trace3** · Data & Analytics
+📍 Denver, Colorado, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/trace3/jobs/7833761)
+🕐 Updated: `2026-06-23T13:56:08-04:00` &nbsp;|&nbsp; ID: `7833761`
+
+---
+### 🆕 Cybersecurity Engineer
+**accenturefederalservices** · 56219060 - AFS Cyber Strategy Risk and Architecture
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4677559006?gh_jid=4677559006)
+🕐 Updated: `2026-07-21T12:06:10-04:00` &nbsp;|&nbsp; ID: `4677559006`
+
+---
+### 🆕 Incident Response Engineer
+**accenturefederalservices** · 56219060 - AFS Cyber Strategy Risk and Architecture
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4678524006?gh_jid=4678524006)
+🕐 Updated: `2026-07-21T11:33:06-04:00` &nbsp;|&nbsp; ID: `4678524006`
+
+---
+### 🆕 Cloud Security Engineer
+**stripe** · 8614 Office of the CISO & Partnership
+📍 Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7867389)
+🕐 Updated: `2026-07-27T11:17:30-04:00` &nbsp;|&nbsp; ID: `7867389`
+
+---
+### 🔄 Security Engineer 2 - Cyber Threat Intelligence
+**datadog** · Security
+📍 New York, New York, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7982345/?gh_jid=7982345)
+🕐 Updated: `2026-07-28T05:41:06-04:00` &nbsp;|&nbsp; ID: `7982345`
+
+---
+
 ## 📅 Run: 2026-07-27 20:49 UTC
 
 ### 🆕 Network Security Engineer
