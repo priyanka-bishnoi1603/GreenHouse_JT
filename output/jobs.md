@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-29 04:30 UTC
+
+### 🆕 Insider Threat Analyst
+**coinbase** · Security & Privacy
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/7967336?gh_jid=7967336)
+🕐 Updated: `2026-07-14T19:59:35-04:00` &nbsp;|&nbsp; ID: `7967336`
+
+---
+
 ## 📅 Run: 2026-07-29 01:08 UTC
 
 ### 🆕 Customer Experience Associate (New Grad)
