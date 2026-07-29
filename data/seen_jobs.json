@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-07-29": 7
-  },
-  "7918258": {
-    "first_seen": "2026-07-22T17:54:31.176584+00:00",
-    "updated_at": "2026-07-15T13:19:10-04:00",
-    "title": "Security Engineer, Application Security",
-    "company": "robinhood",
-    "alerted": true
+    "2026-07-29": 8
   },
   "4692382006": {
     "first_seen": "2026-07-22T19:08:37.286947+00:00",
@@ -81,7 +74,7 @@
   },
   "8054616": {
     "first_seen": "2026-07-27T13:29:15.764848+00:00",
-    "updated_at": "2026-07-29T13:37:17-04:00",
+    "updated_at": "2026-07-29T14:03:05-04:00",
     "title": "Security Operations Engineer (SecOps) II",
     "company": "upstart",
     "alerted": true
@@ -231,6 +224,13 @@
     "updated_at": "2026-07-20T16:29:22-04:00",
     "title": "Cybersecurity Incident Response Triage IR Analyst",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "7918258": {
+    "first_seen": "2026-07-29T18:40:37.567375+00:00",
+    "updated_at": "2026-07-15T13:19:10-04:00",
+    "title": "Security Engineer, Application Security",
+    "company": "robinhood",
     "alerted": true
   }
 }

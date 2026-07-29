@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-29 18:40 UTC
+
+### 🆕 Security Engineer, Application Security
+**robinhood** · Security Division
+📍 Bellevue, WA; Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7918258?t=gh_src=&gh_jid=7918258)
+🕐 Updated: `2026-07-15T13:19:10-04:00` &nbsp;|&nbsp; ID: `7918258`
+
+---
+### 🔄 Security Operations Engineer (SecOps) II
+**upstart** · Info Sec Ops
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=8054616)
+🕐 Updated: `2026-07-29T14:03:05-04:00` &nbsp;|&nbsp; ID: `8054616`
+
+---
+
 ## 📅 Run: 2026-07-29 17:37 UTC
 
 ### 🆕 Cybersecurity Incident Response Triage IR Analyst
