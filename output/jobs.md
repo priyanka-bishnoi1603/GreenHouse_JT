@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-30 21:03 UTC
+
+### 🆕 Security Engineer, Privy
+**stripe** · 9001 Privy - R&D
+📍 NYC-Privy &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8073092)
+🕐 Updated: `2026-07-30T16:41:25-04:00` &nbsp;|&nbsp; ID: `8073092`
+
+---
+
 ## 📅 Run: 2026-07-30 18:12 UTC
 
 ### 🆕 Threat Intelligence Engineer
