@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-07-30": 1
-  },
-  "5074937008": {
-    "first_seen": "2026-07-23T17:16:34.627129+00:00",
-    "updated_at": "2026-07-14T18:35:00-04:00",
-    "title": "Threat Intelligence Engineer",
-    "company": "anthropic",
-    "alerted": true
+    "2026-07-30": 2
   },
   "7982345": {
     "first_seen": "2026-07-24T00:59:04.067576+00:00",
@@ -230,6 +223,13 @@
     "first_seen": "2026-07-30T00:11:29.865009+00:00",
     "updated_at": "2026-07-14T18:35:00-04:00",
     "title": "Security Engineer, Detection & Response",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "5074937008": {
+    "first_seen": "2026-07-30T18:12:22.164412+00:00",
+    "updated_at": "2026-07-14T18:35:00-04:00",
+    "title": "Threat Intelligence Engineer",
     "company": "anthropic",
     "alerted": true
   }
