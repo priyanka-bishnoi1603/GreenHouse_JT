@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-07-31 18:16 UTC
+
+### 🆕 Cybersecurity Engineer III 
+**trace3** · T3 Government
+📍 Colorado Springs, CO &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/trace3/jobs/8072162)
+🕐 Updated: `2026-07-20T12:08:32-04:00` &nbsp;|&nbsp; ID: `8072162`
+
+---
+### 🆕 Security Engineer 
+**accenturefederalservices** · 56219060 - AFS Cyber Strategy Risk and Architecture
+📍 Hill AFB, UT &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4696951006?gh_jid=4696951006)
+🕐 Updated: `2026-07-20T16:29:22-04:00` &nbsp;|&nbsp; ID: `4696951006`
+
+---
+### 🔄 Security Operations Engineer (SecOps) II
+**upstart** · Engineering Department
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=8054616)
+🕐 Updated: `2026-07-31T13:32:14-04:00` &nbsp;|&nbsp; ID: `8054616`
+
+---
+
 ## 📅 Run: 2026-07-31 14:56 UTC
 
 ### 🆕 Platform Security Engineer, OpenBMC
