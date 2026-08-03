@@ -39,7 +39,7 @@
   },
   "5290426008": {
     "first_seen": "2026-07-28T20:06:47.704952+00:00",
-    "updated_at": "2026-07-14T18:35:00-04:00",
+    "updated_at": "2026-08-03T18:25:22-04:00",
     "title": "Platform Security Engineering, Operating Systems ",
     "company": "anthropic",
     "alerted": true
@@ -137,14 +137,14 @@
   },
   "4982193008": {
     "first_seen": "2026-07-30T00:11:29.865009+00:00",
-    "updated_at": "2026-07-14T18:35:00-04:00",
+    "updated_at": "2026-08-03T18:25:22-04:00",
     "title": "Security Engineer, Detection & Response",
     "company": "anthropic",
     "alerted": true
   },
   "5074937008": {
     "first_seen": "2026-07-30T18:12:22.164412+00:00",
-    "updated_at": "2026-07-14T18:35:00-04:00",
+    "updated_at": "2026-08-03T18:25:22-04:00",
     "title": "Threat Intelligence Engineer",
     "company": "anthropic",
     "alerted": true
@@ -165,7 +165,7 @@
   },
   "5271346008": {
     "first_seen": "2026-07-31T14:56:44.253835+00:00",
-    "updated_at": "2026-07-20T12:52:13-04:00",
+    "updated_at": "2026-08-03T18:25:22-04:00",
     "title": "Platform Security Engineer, OpenBMC",
     "company": "anthropic",
     "alerted": true
@@ -186,7 +186,7 @@
   },
   "5316565008": {
     "first_seen": "2026-07-31T22:31:37.563477+00:00",
-    "updated_at": "2026-07-17T12:10:31-04:00",
+    "updated_at": "2026-08-03T18:25:22-04:00",
     "title": "Offensive Hardware Security Engineer, Platform Security",
     "company": "anthropic",
     "alerted": true
@@ -200,7 +200,7 @@
   },
   "8098695": {
     "first_seen": "2026-08-03T20:23:46.258821+00:00",
-    "updated_at": "2026-08-03T15:58:31-04:00",
+    "updated_at": "2026-08-03T18:35:35-04:00",
     "title": "Product Security Engineer, Server",
     "company": "mongodb",
     "alerted": true

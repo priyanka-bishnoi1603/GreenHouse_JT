@@ -2,6 +2,45 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-08-03 22:40 UTC
+
+### 🔄 Offensive Hardware Security Engineer, Platform Security
+**anthropic** · Security
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5316565008)
+🕐 Updated: `2026-08-03T18:25:22-04:00` &nbsp;|&nbsp; ID: `5316565008`
+
+---
+### 🔄 Platform Security Engineering, Operating Systems 
+**anthropic** · Security
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5290426008)
+🕐 Updated: `2026-08-03T18:25:22-04:00` &nbsp;|&nbsp; ID: `5290426008`
+
+---
+### 🔄 Platform Security Engineer, OpenBMC
+**anthropic** · Security
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5271346008)
+🕐 Updated: `2026-08-03T18:25:22-04:00` &nbsp;|&nbsp; ID: `5271346008`
+
+---
+### 🔄 Security Engineer, Detection & Response
+**anthropic** · Security
+📍 San Francisco, CA | New York City, NY | Seattle, WA; Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/4982193008)
+🕐 Updated: `2026-08-03T18:25:22-04:00` &nbsp;|&nbsp; ID: `4982193008`
+
+---
+### 🔄 Threat Intelligence Engineer
+**anthropic** · Safeguards (Trust & Safety)
+📍 Remote-Friendly (Travel-Required) | San Francisco, CA | Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5074937008)
+🕐 Updated: `2026-08-03T18:25:22-04:00` &nbsp;|&nbsp; ID: `5074937008`
+
+---
+### 🔄 Product Security Engineer, Server
+**mongodb** · Product Security
+📍 New York City; Seattle; United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8098695)
+🕐 Updated: `2026-08-03T18:35:35-04:00` &nbsp;|&nbsp; ID: `8098695`
+
+---
+
 ## 📅 Run: 2026-08-03 21:38 UTC
 
 ### 🆕 Network Security Engineer
