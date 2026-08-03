@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-08-03": 1
+    "2026-08-03": 2
   },
   "4660738006": {
     "first_seen": "2026-07-27T20:49:23.981216+00:00",
@@ -231,6 +231,13 @@
     "updated_at": "2026-07-31T13:32:14-04:00",
     "title": "Security Operations Engineer (SecOps) II",
     "company": "upstart",
+    "alerted": true
+  },
+  "8098695": {
+    "first_seen": "2026-08-03T20:23:46.258821+00:00",
+    "updated_at": "2026-08-03T15:58:31-04:00",
+    "title": "Product Security Engineer, Server",
+    "company": "mongodb",
     "alerted": true
   }
 }
