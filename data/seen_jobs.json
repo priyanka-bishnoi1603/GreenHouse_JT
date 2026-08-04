@@ -1,27 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-08-04": 4
-  },
-  "4691258006": {
-    "first_seen": "2026-07-28T20:06:47.470178+00:00",
-    "updated_at": "2026-07-22T20:13:37-04:00",
-    "title": "IAM Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "5290426008": {
-    "first_seen": "2026-07-28T20:06:47.704952+00:00",
-    "updated_at": "2026-08-03T18:25:22-04:00",
-    "title": "Platform Security Engineering, Operating Systems ",
-    "company": "anthropic",
-    "alerted": true
-  },
-  "7808464": {
-    "first_seen": "2026-07-28T20:06:56.198674+00:00",
-    "updated_at": "2026-07-24T10:24:29-04:00",
-    "title": "Global Security Operations Center Operator",
-    "company": "twilio",
-    "alerted": true
+    "2026-08-04": 7
   },
   "8024530": {
     "first_seen": "2026-07-29T01:08:23.148036+00:00",
@@ -238,6 +217,27 @@
     "updated_at": "2026-07-27T11:17:30-04:00",
     "title": "Cloud Security Engineer",
     "company": "stripe",
+    "alerted": true
+  },
+  "4691258006": {
+    "first_seen": "2026-08-04T20:21:15.547477+00:00",
+    "updated_at": "2026-07-22T20:13:37-04:00",
+    "title": "IAM Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "5290426008": {
+    "first_seen": "2026-08-04T20:21:15.807280+00:00",
+    "updated_at": "2026-08-03T18:25:22-04:00",
+    "title": "Platform Security Engineering, Operating Systems ",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "7808464": {
+    "first_seen": "2026-08-04T20:21:31.409961+00:00",
+    "updated_at": "2026-07-24T10:24:29-04:00",
+    "title": "Global Security Operations Center Operator",
+    "company": "twilio",
     "alerted": true
   }
 }
