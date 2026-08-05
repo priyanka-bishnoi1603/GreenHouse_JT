@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-08-05 17:02 UTC
+
+### 🆕 Cybersecurity Engineer
+**accenturefederalservices** · 60024449 - AFS Cyber Resilience and Defense
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4676474006?gh_jid=4676474006)
+🕐 Updated: `2026-07-23T12:51:39-04:00` &nbsp;|&nbsp; ID: `4676474006`
+
+---
+### 🔄 Security Engineer 2 - Cyber Threat Intelligence
+**datadog** · Security
+📍 New York, New York, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7982345/?gh_jid=7982345)
+🕐 Updated: `2026-08-05T12:25:54-04:00` &nbsp;|&nbsp; ID: `7982345`
+
+---
+
 ## 📅 Run: 2026-08-05 13:11 UTC
 
 ### 🆕 Security Engineer
