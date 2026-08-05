@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-08-05": 1
-  },
-  "7967336": {
-    "first_seen": "2026-07-29T04:30:01.248909+00:00",
-    "updated_at": "2026-07-14T19:59:35-04:00",
-    "title": "Insider Threat Analyst",
-    "company": "coinbase",
-    "alerted": true
+    "2026-08-05": 2
   },
   "4679031006": {
     "first_seen": "2026-07-29T07:22:19.393582+00:00",
@@ -238,6 +231,13 @@
     "updated_at": "2026-08-02T03:44:46-04:00",
     "title": "Customer Experience Associate (New Grad)",
     "company": "robinhood",
+    "alerted": true
+  },
+  "7967336": {
+    "first_seen": "2026-08-05T06:11:24.144739+00:00",
+    "updated_at": "2026-07-14T19:59:35-04:00",
+    "title": "Insider Threat Analyst",
+    "company": "coinbase",
     "alerted": true
   }
 }
