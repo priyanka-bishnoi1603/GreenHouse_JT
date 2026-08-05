@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-08-05 20:22 UTC
+
+### 🆕 Information System Security Engineer 
+**accenturefederalservices** · 60038763 - AFS Mission Platform Automation
+📍 Eglin AFB, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4692382006?gh_jid=4692382006)
+🕐 Updated: `2026-07-20T16:29:22-04:00` &nbsp;|&nbsp; ID: `4692382006`
+
+---
+### 🆕 Client Platform Security Engineer
+**stripe** · 8612 Security Infrastructure
+📍 New York, New York  &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7982720)
+🕐 Updated: `2026-07-30T10:48:55-04:00` &nbsp;|&nbsp; ID: `7982720`
+
+---
+### 🔄 Security Engineer, Application Security
+**robinhood** · Security Division
+📍 Bellevue, WA; Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7918258?t=gh_src=&gh_jid=7918258)
+🕐 Updated: `2026-08-05T15:47:56-04:00` &nbsp;|&nbsp; ID: `7918258`
+
+---
+
 ## 📅 Run: 2026-08-05 18:48 UTC
 
 ### 🆕 Security Engineer, Application Security
