@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-08-05": 10
-  },
-  "4982193008": {
-    "first_seen": "2026-07-30T00:11:29.865009+00:00",
-    "updated_at": "2026-08-03T18:25:22-04:00",
-    "title": "Security Engineer, Detection & Response",
-    "company": "anthropic",
-    "alerted": true
+    "2026-08-06": 1
   },
   "5074937008": {
     "first_seen": "2026-07-30T18:12:22.164412+00:00",
@@ -224,6 +217,13 @@
     "updated_at": "2026-07-22T09:03:15-04:00",
     "title": "Cybersecurity Engineer",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4982193008": {
+    "first_seen": "2026-08-06T01:04:21.380247+00:00",
+    "updated_at": "2026-08-03T18:25:22-04:00",
+    "title": "Security Engineer, Detection & Response",
+    "company": "anthropic",
     "alerted": true
   }
 }
