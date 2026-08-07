@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-08-07 21:08 UTC
+
+### 🔄 Manager,  Engineering Access Requests Team
+**okta** · SW Eng - Applications-674
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8107083?gh_jid=8107083)
+🕐 Updated: `2026-08-07T16:52:34-04:00` &nbsp;|&nbsp; ID: `8107083`
+
+---
+
 ## 📅 Run: 2026-08-07 19:38 UTC
 
 ### 🆕 Information Systems Security Engineer III - (W2PE)
