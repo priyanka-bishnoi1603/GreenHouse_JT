@@ -2,6 +2,51 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-08-07 00:22 UTC
+
+### 🆕 FedRAMP Moderate Template
+**okta** · SW Eng - Applications-674
+📍 San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8107083?gh_jid=8107083)
+🕐 Updated: `2026-08-06T19:06:56-04:00` &nbsp;|&nbsp; ID: `8107083`
+
+---
+### 🆕 Threat Intelligence Engineer
+**anthropic** · Safeguards (Trust & Safety)
+📍 Remote-Friendly (Travel-Required) | San Francisco, CA | Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5074937008)
+🕐 Updated: `2026-08-03T18:25:22-04:00` &nbsp;|&nbsp; ID: `5074937008`
+
+---
+### 🆕 Security Engineer, Privy
+**stripe** · 9001 Privy - R&D
+📍 NYC-Privy &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8073092)
+🕐 Updated: `2026-08-06T12:10:16-04:00` &nbsp;|&nbsp; ID: `8073092`
+
+---
+### 🔄 Product Security Engineer, Server
+**mongodb** · Product Security
+📍 New York City; Seattle; United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8098695)
+🕐 Updated: `2026-08-06T11:17:09-04:00` &nbsp;|&nbsp; ID: `8098695`
+
+---
+### 🔄 Client Platform Security Engineer
+**stripe** · 8612 Security Infrastructure
+📍 New York, New York  &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7982720)
+🕐 Updated: `2026-08-06T12:10:09-04:00` &nbsp;|&nbsp; ID: `7982720`
+
+---
+### 🔄 Cloud Security Engineer
+**stripe** · 8614 Office of the CISO & Partnership
+📍 Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7867389)
+🕐 Updated: `2026-08-06T12:10:03-04:00` &nbsp;|&nbsp; ID: `7867389`
+
+---
+### 🔄 Security Engineer
+**stripe** · Global Operations
+📍 Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7923209)
+🕐 Updated: `2026-08-06T12:10:06-04:00` &nbsp;|&nbsp; ID: `7923209`
+
+---
+
 ## 📅 Run: 2026-08-06 14:51 UTC
 
 ### 🔄 Client Platform Security Engineer

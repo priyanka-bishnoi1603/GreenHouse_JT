@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-08-06": 1
-  },
-  "5074937008": {
-    "first_seen": "2026-07-30T18:12:22.164412+00:00",
-    "updated_at": "2026-08-03T18:25:22-04:00",
-    "title": "Threat Intelligence Engineer",
-    "company": "anthropic",
-    "alerted": true
-  },
-  "8073092": {
-    "first_seen": "2026-07-30T21:03:28.692019+00:00",
-    "updated_at": "2026-07-30T16:41:25-04:00",
-    "title": "Security Engineer, Privy",
-    "company": "stripe",
-    "alerted": true
+    "2026-08-07": 3
   },
   "7982345": {
     "first_seen": "2026-07-31T01:12:33.039392+00:00",
@@ -60,7 +46,7 @@
   },
   "8098695": {
     "first_seen": "2026-08-03T20:23:46.258821+00:00",
-    "updated_at": "2026-08-03T18:35:35-04:00",
+    "updated_at": "2026-08-06T11:17:09-04:00",
     "title": "Product Security Engineer, Server",
     "company": "mongodb",
     "alerted": true
@@ -123,7 +109,7 @@
   },
   "7867389": {
     "first_seen": "2026-08-04T12:57:47.628093+00:00",
-    "updated_at": "2026-07-27T11:17:30-04:00",
+    "updated_at": "2026-08-06T12:10:03-04:00",
     "title": "Cloud Security Engineer",
     "company": "stripe",
     "alerted": true
@@ -172,7 +158,7 @@
   },
   "7923209": {
     "first_seen": "2026-08-05T09:04:13.749795+00:00",
-    "updated_at": "2026-07-27T11:17:30-04:00",
+    "updated_at": "2026-08-06T12:10:06-04:00",
     "title": "Security Engineer",
     "company": "stripe",
     "alerted": true
@@ -207,7 +193,7 @@
   },
   "7982720": {
     "first_seen": "2026-08-05T20:22:40.791038+00:00",
-    "updated_at": "2026-08-06T09:39:49-04:00",
+    "updated_at": "2026-08-06T12:10:09-04:00",
     "title": "Client Platform Security Engineer",
     "company": "stripe",
     "alerted": true
@@ -224,6 +210,27 @@
     "updated_at": "2026-08-03T18:25:22-04:00",
     "title": "Security Engineer, Detection & Response",
     "company": "anthropic",
+    "alerted": true
+  },
+  "8107083": {
+    "first_seen": "2026-08-07T00:22:06.410025+00:00",
+    "updated_at": "2026-08-06T19:06:56-04:00",
+    "title": "FedRAMP Moderate Template",
+    "company": "okta",
+    "alerted": true
+  },
+  "5074937008": {
+    "first_seen": "2026-08-07T00:22:09.266229+00:00",
+    "updated_at": "2026-08-03T18:25:22-04:00",
+    "title": "Threat Intelligence Engineer",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "8073092": {
+    "first_seen": "2026-08-07T00:22:10.579569+00:00",
+    "updated_at": "2026-08-06T12:10:16-04:00",
+    "title": "Security Engineer, Privy",
+    "company": "stripe",
     "alerted": true
   }
 }
