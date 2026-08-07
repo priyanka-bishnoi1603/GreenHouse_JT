@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-08-07 18:31 UTC
+
+### 🆕 Security Operations Analyst- East Coast 
+**huntress** · Security Analysis
+📍 United States of America &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7835867003)
+🕐 Updated: `2026-08-07T14:07:32-04:00` &nbsp;|&nbsp; ID: `7835867003`
+
+---
+### 🆕 Cybersecurity Engineer III 
+**trace3** · T3 Government
+📍 Colorado Springs, CO &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/trace3/jobs/8072162)
+🕐 Updated: `2026-07-20T12:08:32-04:00` &nbsp;|&nbsp; ID: `8072162`
+
+---
+### 🆕 Security Engineer 
+**accenturefederalservices** · 56219060 - AFS Cyber Strategy Risk and Architecture
+📍 Hill AFB, UT &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4696951006?gh_jid=4696951006)
+🕐 Updated: `2026-07-20T16:29:22-04:00` &nbsp;|&nbsp; ID: `4696951006`
+
+---
+
 ## 📅 Run: 2026-08-07 16:49 UTC
 
 ### 🔄 Application Security Engineer II
