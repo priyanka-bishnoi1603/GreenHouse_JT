@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-08-07": 9
+    "2026-08-07": 10
   },
   "5316565008": {
     "first_seen": "2026-07-31T22:31:37.563477+00:00",
@@ -214,7 +214,7 @@
   },
   "7832743003": {
     "first_seen": "2026-08-07T15:51:41.225289+00:00",
-    "updated_at": "2026-08-07T11:58:13-04:00",
+    "updated_at": "2026-08-07T14:41:49-04:00",
     "title": "Application Security Engineer II",
     "company": "abnormalsecurity",
     "alerted": true
@@ -245,6 +245,13 @@
     "updated_at": "2026-07-20T16:29:22-04:00",
     "title": "Security Engineer ",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "7871083": {
+    "first_seen": "2026-08-07T19:37:53.875693+00:00",
+    "updated_at": "2026-08-07T15:20:40-04:00",
+    "title": "Information Systems Security Engineer III - (W2PE)",
+    "company": "trace3",
     "alerted": true
   }
 }
