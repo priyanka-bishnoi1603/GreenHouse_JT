@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-08-07": 3
-  },
-  "7982345": {
-    "first_seen": "2026-07-31T01:12:33.039392+00:00",
-    "updated_at": "2026-08-05T12:25:54-04:00",
-    "title": "Security Engineer 2 - Cyber Threat Intelligence",
-    "company": "datadog",
-    "alerted": true
+    "2026-08-07": 4
   },
   "5271346008": {
     "first_seen": "2026-07-31T14:56:44.253835+00:00",
@@ -231,6 +224,13 @@
     "updated_at": "2026-08-06T12:10:16-04:00",
     "title": "Security Engineer, Privy",
     "company": "stripe",
+    "alerted": true
+  },
+  "7982345": {
+    "first_seen": "2026-08-07T03:25:39.407670+00:00",
+    "updated_at": "2026-08-05T12:25:54-04:00",
+    "title": "Security Engineer 2 - Cyber Threat Intelligence",
+    "company": "datadog",
     "alerted": true
   }
 }
