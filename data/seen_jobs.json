@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-08-07": 11
-  },
-  "8054616": {
-    "first_seen": "2026-08-03T14:29:36.449465+00:00",
-    "updated_at": "2026-07-31T13:32:14-04:00",
-    "title": "Security Operations Engineer (SecOps) II",
-    "company": "upstart",
-    "alerted": true
+    "2026-08-10": 1
   },
   "8098695": {
     "first_seen": "2026-08-03T20:23:46.258821+00:00",
@@ -252,6 +245,13 @@
     "updated_at": "2026-08-03T18:25:22-04:00",
     "title": "Offensive Hardware Security Engineer, Platform Security",
     "company": "anthropic",
+    "alerted": true
+  },
+  "8054616": {
+    "first_seen": "2026-08-10T14:44:15.241242+00:00",
+    "updated_at": "2026-07-31T13:32:14-04:00",
+    "title": "Security Operations Engineer (SecOps) II",
+    "company": "upstart",
     "alerted": true
   }
 }
