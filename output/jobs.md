@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-08-10 21:57 UTC
+
+### 🆕 Network Security Engineer
+**accenturefederalservices** · 60024449 - AFS Cyber Resilience and Defense
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4660738006?gh_jid=4660738006)
+🕐 Updated: `2026-07-22T20:16:48-04:00` &nbsp;|&nbsp; ID: `4660738006`
+
+---
+### 🆕 Security Engineer
+**accenturefederalservices** · 60024449 - AFS Cyber Resilience and Defense
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4619940006?gh_jid=4619940006)
+🕐 Updated: `2026-07-22T09:43:12-04:00` &nbsp;|&nbsp; ID: `4619940006`
+
+---
+### 🆕 Enterprise Security Engineer
+**sendbird** · Security and IT
+📍 San Mateo, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://sendbird.com/careers?gh_jid=8487754002)
+🕐 Updated: `2026-07-17T21:10:21-04:00` &nbsp;|&nbsp; ID: `8487754002`
+
+---
+
 ## 📅 Run: 2026-08-10 21:10 UTC
 
 ### 🆕 Product Security Engineer, Server
