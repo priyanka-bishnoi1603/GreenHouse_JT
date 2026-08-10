@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-08-10 21:10 UTC
+
+### 🆕 Product Security Engineer, Server
+**mongodb** · Product Security
+📍 New York City; Seattle; United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8098695)
+🕐 Updated: `2026-08-06T11:17:09-04:00` &nbsp;|&nbsp; ID: `8098695`
+
+---
+
 ## 📅 Run: 2026-08-10 18:32 UTC
 
 ### 🔄 Global Security Operations Center Operator
