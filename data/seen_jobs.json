@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-08-11": 8
+    "2026-08-11": 9
   },
   "8024530": {
     "first_seen": "2026-08-05T03:30:34.608064+00:00",
@@ -245,6 +245,13 @@
     "updated_at": "2026-08-10T13:38:48-04:00",
     "title": "Global Security Operations Center Operator",
     "company": "twilio",
+    "alerted": true
+  },
+  "4704329006": {
+    "first_seen": "2026-08-11T22:06:04.167553+00:00",
+    "updated_at": "2026-08-11T17:41:12-04:00",
+    "title": "Cybersecurity Incident Response Triage Analyst",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }
