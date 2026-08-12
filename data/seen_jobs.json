@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-08-12": 1
-  },
-  "4679241006": {
-    "first_seen": "2026-08-05T13:11:10.670531+00:00",
-    "updated_at": "2026-07-28T14:06:26-04:00",
-    "title": "Security Engineer",
-    "company": "everlaw",
-    "alerted": true
+    "2026-08-12": 2
   },
   "4676474006": {
     "first_seen": "2026-08-05T17:02:10.310153+00:00",
@@ -231,6 +224,13 @@
     "updated_at": "2026-07-20T16:29:22-04:00",
     "title": "Cybersecurity Engineer-II",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4679241006": {
+    "first_seen": "2026-08-12T14:32:03.104271+00:00",
+    "updated_at": "2026-07-28T14:06:26-04:00",
+    "title": "Security Engineer",
+    "company": "everlaw",
     "alerted": true
   }
 }
