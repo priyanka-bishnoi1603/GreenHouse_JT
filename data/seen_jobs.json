@@ -2,13 +2,6 @@
   "__daily_alerts__": {
     "2026-08-11": 9
   },
-  "7967336": {
-    "first_seen": "2026-08-05T06:11:24.144739+00:00",
-    "updated_at": "2026-07-14T19:59:35-04:00",
-    "title": "Insider Threat Analyst",
-    "company": "coinbase",
-    "alerted": true
-  },
   "4679031006": {
     "first_seen": "2026-08-05T09:04:11.320766+00:00",
     "updated_at": "2026-07-20T16:29:22-04:00",
