@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-08-12 15:36 UTC
+
+### 🔄 Product Security Engineer, Server
+**mongodb** · Product Security
+📍 New York City; Seattle; United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8098695)
+🕐 Updated: `2026-08-12T11:27:25-04:00` &nbsp;|&nbsp; ID: `8098695`
+
+---
+### 🔄 Customer Experience Associate (New Grad)
+**robinhood** · Customer Care
+📍 Westlake, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8122623?t=gh_src=&gh_jid=8122623)
+🕐 Updated: `2026-08-12T11:16:21-04:00` &nbsp;|&nbsp; ID: `8122623`
+
+---
+
 ## 📅 Run: 2026-08-12 14:32 UTC
 
 ### 🆕 Security Engineer
