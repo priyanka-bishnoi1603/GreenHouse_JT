@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-08-12": 3
-  },
-  "7918258": {
-    "first_seen": "2026-08-05T18:48:49.854681+00:00",
-    "updated_at": "2026-08-05T15:47:56-04:00",
-    "title": "Security Engineer, Application Security",
-    "company": "robinhood",
-    "alerted": true
+    "2026-08-12": 4
   },
   "4692382006": {
     "first_seen": "2026-08-05T20:22:39.266939+00:00",
@@ -231,6 +224,13 @@
     "updated_at": "2026-08-10T13:27:58-04:00",
     "title": "Cybersecurity Engineer",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "7918258": {
+    "first_seen": "2026-08-12T19:46:43.608167+00:00",
+    "updated_at": "2026-08-12T14:33:35-04:00",
+    "title": "Security Engineer, Application Security",
+    "company": "robinhood",
     "alerted": true
   }
 }
