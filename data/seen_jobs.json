@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-08-14": 3
-  },
-  "7832743003": {
-    "first_seen": "2026-08-07T15:51:41.225289+00:00",
-    "updated_at": "2026-08-07T14:41:49-04:00",
-    "title": "Application Security Engineer II",
-    "company": "abnormalsecurity",
-    "alerted": true
-  },
-  "5271346008": {
-    "first_seen": "2026-08-07T15:51:44.477017+00:00",
-    "updated_at": "2026-08-03T18:25:22-04:00",
-    "title": "Platform Security Engineer, OpenBMC",
-    "company": "anthropic",
-    "alerted": true
+    "2026-08-14": 5
   },
   "7835867003": {
     "first_seen": "2026-08-07T18:31:17.936419+00:00",
@@ -224,6 +210,20 @@
     "updated_at": "2026-08-12T15:59:08-04:00",
     "title": "Security Engineer 2 - Cyber Threat Intelligence",
     "company": "datadog",
+    "alerted": true
+  },
+  "7832743003": {
+    "first_seen": "2026-08-14T16:30:40.160301+00:00",
+    "updated_at": "2026-08-07T14:41:49-04:00",
+    "title": "Application Security Engineer II",
+    "company": "abnormalsecurity",
+    "alerted": true
+  },
+  "5271346008": {
+    "first_seen": "2026-08-14T16:30:42.769879+00:00",
+    "updated_at": "2026-08-03T18:25:22-04:00",
+    "title": "Platform Security Engineer, OpenBMC",
+    "company": "anthropic",
     "alerted": true
   }
 }
