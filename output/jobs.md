@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-08-14 01:57 UTC
+
+### 🆕 Threat Intelligence Engineer
+**anthropic** · Safeguards (Trust & Safety)
+📍 Remote-Friendly (Travel-Required) | San Francisco, CA | Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5074937008)
+🕐 Updated: `2026-08-03T18:25:22-04:00` &nbsp;|&nbsp; ID: `5074937008`
+
+---
+### 🆕 Security Engineer, Privy
+**stripe** · 9001 Privy - R&D
+📍 NYC-Privy &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8073092)
+🕐 Updated: `2026-08-06T12:10:16-04:00` &nbsp;|&nbsp; ID: `8073092`
+
+---
+
 ## 📅 Run: 2026-08-13 18:28 UTC
 
 ### 🔄 Product Security Engineer, Server

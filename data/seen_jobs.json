@@ -1,27 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-08-13": 1
-  },
-  "8107083": {
-    "first_seen": "2026-08-07T00:22:06.410025+00:00",
-    "updated_at": "2026-08-07T16:52:34-04:00",
-    "title": "Manager,  Engineering Access Requests Team",
-    "company": "okta",
-    "alerted": true
-  },
-  "5074937008": {
-    "first_seen": "2026-08-07T00:22:09.266229+00:00",
-    "updated_at": "2026-08-03T18:25:22-04:00",
-    "title": "Threat Intelligence Engineer",
-    "company": "anthropic",
-    "alerted": true
-  },
-  "8073092": {
-    "first_seen": "2026-08-07T00:22:10.579569+00:00",
-    "updated_at": "2026-08-06T12:10:16-04:00",
-    "title": "Security Engineer, Privy",
-    "company": "stripe",
-    "alerted": true
+    "2026-08-14": 2
   },
   "7982345": {
     "first_seen": "2026-08-07T03:25:39.407670+00:00",
@@ -231,6 +210,20 @@
     "updated_at": "2026-08-03T18:25:22-04:00",
     "title": "Security Engineer, Detection & Response",
     "company": "anthropic",
+    "alerted": true
+  },
+  "5074937008": {
+    "first_seen": "2026-08-14T01:56:56.850490+00:00",
+    "updated_at": "2026-08-03T18:25:22-04:00",
+    "title": "Threat Intelligence Engineer",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "8073092": {
+    "first_seen": "2026-08-14T01:56:58.050705+00:00",
+    "updated_at": "2026-08-06T12:10:16-04:00",
+    "title": "Security Engineer, Privy",
+    "company": "stripe",
     "alerted": true
   }
 }
