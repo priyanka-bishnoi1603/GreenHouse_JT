@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-08-17 15:00 UTC
+
+### 🆕 Security Operations Engineer (SecOps) II
+**upstart** · Engineering Department
+📍 United States | Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.upstart.com/jobs?gh_jid=8054616)
+🕐 Updated: `2026-07-31T13:32:14-04:00` &nbsp;|&nbsp; ID: `8054616`
+
+---
+
 ## 📅 Run: 2026-08-16 07:26 UTC
 
 ### 🔄 Security Engineer, Application Security
