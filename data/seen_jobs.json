@@ -46,7 +46,7 @@
   },
   "7982720": {
     "first_seen": "2026-08-12T20:38:09.179587+00:00",
-    "updated_at": "2026-08-13T14:20:34-04:00",
+    "updated_at": "2026-08-18T17:38:44-04:00",
     "title": "Client Platform Security Engineer",
     "company": "stripe",
     "alerted": true
@@ -74,7 +74,7 @@
   },
   "8073092": {
     "first_seen": "2026-08-14T01:56:58.050705+00:00",
-    "updated_at": "2026-08-06T12:10:16-04:00",
+    "updated_at": "2026-08-18T17:38:47-04:00",
     "title": "Security Engineer, Privy",
     "company": "stripe",
     "alerted": true
@@ -193,7 +193,7 @@
   },
   "7867389": {
     "first_seen": "2026-08-18T14:06:52.450274+00:00",
-    "updated_at": "2026-08-06T12:10:03-04:00",
+    "updated_at": "2026-08-18T17:38:42-04:00",
     "title": "Cloud Security Engineer",
     "company": "stripe",
     "alerted": true
