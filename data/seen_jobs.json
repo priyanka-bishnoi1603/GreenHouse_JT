@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-08-19": 4
-  },
-  "4692382006": {
-    "first_seen": "2026-08-12T20:38:07.162335+00:00",
-    "updated_at": "2026-07-20T16:29:22-04:00",
-    "title": "Information System Security Engineer ",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "7982720": {
-    "first_seen": "2026-08-12T20:38:09.179587+00:00",
-    "updated_at": "2026-08-19T14:19:41-04:00",
-    "title": "Client Platform Security Engineer",
-    "company": "stripe",
-    "alerted": true
+    "2026-08-19": 7
   },
   "4690064006": {
     "first_seen": "2026-08-12T22:10:04.716840+00:00",
@@ -224,6 +210,27 @@
     "updated_at": "2026-08-17T16:35:14-04:00",
     "title": "Security Engineer, Application Security",
     "company": "robinhood",
+    "alerted": true
+  },
+  "4692382006": {
+    "first_seen": "2026-08-19T21:01:28.227201+00:00",
+    "updated_at": "2026-07-20T16:29:22-04:00",
+    "title": "Information System Security Engineer ",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "7982720": {
+    "first_seen": "2026-08-19T21:01:29.834081+00:00",
+    "updated_at": "2026-08-19T14:19:41-04:00",
+    "title": "Client Platform Security Engineer",
+    "company": "stripe",
+    "alerted": true
+  },
+  "8142302": {
+    "first_seen": "2026-08-19T21:01:29.843002+00:00",
+    "updated_at": "2026-08-19T16:33:11-04:00",
+    "title": "Security Incident Response Engineer",
+    "company": "stripe",
     "alerted": true
   }
 }
