@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-08-19": 1
-  },
-  "4679031006": {
-    "first_seen": "2026-08-12T09:57:23.009253+00:00",
-    "updated_at": "2026-07-20T16:29:22-04:00",
-    "title": "Cybersecurity Engineer-II",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-08-19": 2
   },
   "4679241006": {
     "first_seen": "2026-08-12T14:32:03.104271+00:00",
@@ -231,6 +224,13 @@
     "updated_at": "2026-08-19T00:15:23-04:00",
     "title": "Business Systems Analyst, Security Engineering",
     "company": "anthropic",
+    "alerted": true
+  },
+  "4679031006": {
+    "first_seen": "2026-08-19T10:29:39.933463+00:00",
+    "updated_at": "2026-07-20T16:29:22-04:00",
+    "title": "Cybersecurity Engineer-II",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }
