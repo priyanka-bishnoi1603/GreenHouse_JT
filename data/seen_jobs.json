@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-08-19": 7
-  },
-  "4690064006": {
-    "first_seen": "2026-08-12T22:10:04.716840+00:00",
-    "updated_at": "2026-07-22T09:03:15-04:00",
-    "title": "Cybersecurity Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-08-19": 8
   },
   "4982193008": {
     "first_seen": "2026-08-13T01:38:33.027518+00:00",
@@ -231,6 +224,13 @@
     "updated_at": "2026-08-19T16:33:11-04:00",
     "title": "Security Incident Response Engineer",
     "company": "stripe",
+    "alerted": true
+  },
+  "4690064006": {
+    "first_seen": "2026-08-19T22:30:50.966270+00:00",
+    "updated_at": "2026-07-22T09:03:15-04:00",
+    "title": "Cybersecurity Engineer",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }
