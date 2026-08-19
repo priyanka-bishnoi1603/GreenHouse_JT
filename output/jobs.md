@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-08-19 19:58 UTC
+
+### 🆕 Security Engineer, Application Security
+**robinhood** · Security Division
+📍 Bellevue, WA; Menlo Park, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7918258?t=gh_src=&gh_jid=7918258)
+🕐 Updated: `2026-08-17T16:35:14-04:00` &nbsp;|&nbsp; ID: `7918258`
+
+---
+
 ## 📅 Run: 2026-08-19 18:39 UTC
 
 ### 🔄 Client Platform Security Engineer
