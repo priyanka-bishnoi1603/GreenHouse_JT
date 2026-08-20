@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-08-20 21:43 UTC
+
+### 🆕 Security Engineer 
+**accenturefederalservices** · 56219060 - AFS Cyber Strategy Risk and Architecture
+📍 Hill AFB, UT &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4696929006?gh_jid=4696929006)
+🕐 Updated: `2026-08-20T17:33:41-04:00` &nbsp;|&nbsp; ID: `4696929006`
+
+---
+### 🔄 Security Engineer 
+**accenturefederalservices** · 56219060 - AFS Cyber Strategy Risk and Architecture
+📍 Hill AFB, UT &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4696951006?gh_jid=4696951006)
+🕐 Updated: `2026-08-20T17:38:23-04:00` &nbsp;|&nbsp; ID: `4696951006`
+
+---
+
 ## 📅 Run: 2026-08-20 17:44 UTC
 
 ### 🔄 Customer Experience Associate, Pathways - New Graduates
