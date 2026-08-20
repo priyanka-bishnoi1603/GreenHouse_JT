@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-08-20 17:44 UTC
+
+### 🔄 Customer Experience Associate, Pathways - New Graduates
+**robinhood** · Customer Care
+📍 Denver, CO; Westlake, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8128738?t=gh_src=&gh_jid=8128738)
+🕐 Updated: `2026-08-20T13:28:11-04:00` &nbsp;|&nbsp; ID: `8128738`
+
+---
+
 ## 📅 Run: 2026-08-20 15:03 UTC
 
 ### 🔄 Customer Experience Associate, Pathways - New Graduates
