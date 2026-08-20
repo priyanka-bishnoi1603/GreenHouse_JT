@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-08-20 23:38 UTC
+
+### 🔄 Security Operations Analyst- East Coast 
+**huntress** · Security Analysis
+📍 United States of America &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7835867003)
+🕐 Updated: `2026-08-20T19:33:42-04:00` &nbsp;|&nbsp; ID: `7835867003`
+
+---
+
 ## 📅 Run: 2026-08-20 22:44 UTC
 
 ### 🔄 Security Engineer 
