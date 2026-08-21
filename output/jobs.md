@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-08-21 13:30 UTC
+
+### 🔄 Security Engineer 
+**accenturefederalservices** · 56219060 - AFS Cyber Strategy Risk and Architecture
+📍 Hill AFB, UT &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4696951006?gh_jid=4696951006)
+🕐 Updated: `2026-08-21T08:42:38-04:00` &nbsp;|&nbsp; ID: `4696951006`
+
+---
+
 ## 📅 Run: 2026-08-21 04:33 UTC
 
 ### 🆕 Security Engineer 2 - Cyber Threat Intelligence
