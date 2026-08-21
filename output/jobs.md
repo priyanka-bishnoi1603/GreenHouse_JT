@@ -2,6 +2,51 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-08-21 17:01 UTC
+
+### 🆕 Application Security Engineer II
+**abnormalsecurity** · Security
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7832743003?gh_jid=7832743003)
+🕐 Updated: `2026-08-07T14:41:49-04:00` &nbsp;|&nbsp; ID: `7832743003`
+
+---
+### 🆕 Platform Security Engineer, OpenBMC
+**anthropic** · Security
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5271346008)
+🕐 Updated: `2026-08-21T12:50:27-04:00` &nbsp;|&nbsp; ID: `5271346008`
+
+---
+### 🔄 Business Systems Analyst, Security Engineering
+**anthropic** · Security
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5366149008)
+🕐 Updated: `2026-08-21T12:50:41-04:00` &nbsp;|&nbsp; ID: `5366149008`
+
+---
+### 🔄 Offensive Hardware Security Engineer, Platform Security
+**anthropic** · Security
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5316565008)
+🕐 Updated: `2026-08-21T12:50:33-04:00` &nbsp;|&nbsp; ID: `5316565008`
+
+---
+### 🔄 Platform Security Engineering, Operating Systems 
+**anthropic** · Security
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5290426008)
+🕐 Updated: `2026-08-21T12:50:31-04:00` &nbsp;|&nbsp; ID: `5290426008`
+
+---
+### 🔄 Security Engineer, Detection & Response
+**anthropic** · Security
+📍 San Francisco, CA | New York City, NY | Seattle, WA; Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/4982193008)
+🕐 Updated: `2026-08-21T12:49:45-04:00` &nbsp;|&nbsp; ID: `4982193008`
+
+---
+### 🔄 Threat Intelligence Engineer
+**anthropic** · Safeguards (Trust & Safety)
+📍 Remote-Friendly (Travel-Required) | San Francisco, CA | Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5074937008)
+🕐 Updated: `2026-08-21T12:49:50-04:00` &nbsp;|&nbsp; ID: `5074937008`
+
+---
+
 ## 📅 Run: 2026-08-21 16:27 UTC
 
 ### 🔄 Incident Response Engineer
