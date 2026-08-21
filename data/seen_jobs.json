@@ -1,27 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-08-21": 5
-  },
-  "7835867003": {
-    "first_seen": "2026-08-14T18:31:54.759195+00:00",
-    "updated_at": "2026-08-20T19:33:42-04:00",
-    "title": "Security Operations Analyst- East Coast ",
-    "company": "huntress",
-    "alerted": true
-  },
-  "8072162": {
-    "first_seen": "2026-08-14T18:31:58.534312+00:00",
-    "updated_at": "2026-07-20T12:08:32-04:00",
-    "title": "Cybersecurity Engineer III ",
-    "company": "trace3",
-    "alerted": true
-  },
-  "4696951006": {
-    "first_seen": "2026-08-14T18:31:59.047893+00:00",
-    "updated_at": "2026-08-21T08:42:38-04:00",
-    "title": "Security Engineer ",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-08-21": 8
   },
   "7871083": {
     "first_seen": "2026-08-14T20:13:50.428620+00:00",
@@ -238,6 +217,27 @@
     "updated_at": "2026-08-21T12:50:27-04:00",
     "title": "Platform Security Engineer, OpenBMC",
     "company": "anthropic",
+    "alerted": true
+  },
+  "7835867003": {
+    "first_seen": "2026-08-21T18:54:31.258959+00:00",
+    "updated_at": "2026-08-20T19:33:42-04:00",
+    "title": "Security Operations Analyst- East Coast ",
+    "company": "huntress",
+    "alerted": true
+  },
+  "8072162": {
+    "first_seen": "2026-08-21T18:54:34.100119+00:00",
+    "updated_at": "2026-07-20T12:08:32-04:00",
+    "title": "Cybersecurity Engineer III ",
+    "company": "trace3",
+    "alerted": true
+  },
+  "4696951006": {
+    "first_seen": "2026-08-21T18:54:34.873301+00:00",
+    "updated_at": "2026-08-21T08:42:38-04:00",
+    "title": "Security Engineer ",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }
