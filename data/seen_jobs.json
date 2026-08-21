@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-08-21": 9
-  },
-  "5316565008": {
-    "first_seen": "2026-08-14T23:17:09.540456+00:00",
-    "updated_at": "2026-08-21T12:50:33-04:00",
-    "title": "Offensive Hardware Security Engineer, Platform Security",
-    "company": "anthropic",
-    "alerted": true
+    "2026-08-21": 10
   },
   "8054616": {
     "first_seen": "2026-08-17T15:00:45.660783+00:00",
@@ -238,6 +231,13 @@
     "updated_at": "2026-08-07T15:20:40-04:00",
     "title": "Information Systems Security Engineer III - (W2PE)",
     "company": "trace3",
+    "alerted": true
+  },
+  "5316565008": {
+    "first_seen": "2026-08-21T23:18:38.901134+00:00",
+    "updated_at": "2026-08-21T12:50:33-04:00",
+    "title": "Offensive Hardware Security Engineer, Platform Security",
+    "company": "anthropic",
     "alerted": true
   }
 }
