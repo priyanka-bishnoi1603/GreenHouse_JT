@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-08-20": 2
-  },
-  "5074937008": {
-    "first_seen": "2026-08-14T01:56:56.850490+00:00",
-    "updated_at": "2026-08-03T18:25:22-04:00",
-    "title": "Threat Intelligence Engineer",
-    "company": "anthropic",
-    "alerted": true
-  },
-  "8073092": {
-    "first_seen": "2026-08-14T01:56:58.050705+00:00",
-    "updated_at": "2026-08-18T17:38:47-04:00",
-    "title": "Security Engineer, Privy",
-    "company": "stripe",
-    "alerted": true
+    "2026-08-21": 2
   },
   "7982345": {
     "first_seen": "2026-08-14T04:08:59.333888+00:00",
@@ -238,6 +224,20 @@
     "updated_at": "2026-08-20T18:43:41-04:00",
     "title": "Security Engineer ",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "5074937008": {
+    "first_seen": "2026-08-21T02:48:40.571248+00:00",
+    "updated_at": "2026-08-03T18:25:22-04:00",
+    "title": "Threat Intelligence Engineer",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "8073092": {
+    "first_seen": "2026-08-21T02:48:41.707153+00:00",
+    "updated_at": "2026-08-18T17:38:47-04:00",
+    "title": "Security Engineer, Privy",
+    "company": "stripe",
     "alerted": true
   }
 }
