@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-08-24": 2
-  },
-  "4660738006": {
-    "first_seen": "2026-08-17T22:19:15.982194+00:00",
-    "updated_at": "2026-08-17T13:53:14-04:00",
-    "title": "Network Security Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "4619940006": {
-    "first_seen": "2026-08-17T22:19:15.990087+00:00",
-    "updated_at": "2026-07-22T09:43:12-04:00",
-    "title": "Security Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-08-24": 4
   },
   "7833761": {
     "first_seen": "2026-08-18T14:06:50.469702+00:00",
@@ -231,6 +217,20 @@
     "updated_at": "2026-08-21T15:40:40-04:00",
     "title": "Product Security Engineer, Server",
     "company": "mongodb",
+    "alerted": true
+  },
+  "4660738006": {
+    "first_seen": "2026-08-24T22:34:37.931158+00:00",
+    "updated_at": "2026-08-17T13:53:14-04:00",
+    "title": "Network Security Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4619940006": {
+    "first_seen": "2026-08-24T22:34:37.938919+00:00",
+    "updated_at": "2026-07-22T09:43:12-04:00",
+    "title": "Security Engineer",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }
