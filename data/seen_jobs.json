@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-08-21": 10
-  },
-  "7833228": {
-    "first_seen": "2026-08-17T18:56:16.390619+00:00",
-    "updated_at": "2026-08-17T14:27:48-04:00",
-    "title": "Security Engineer - Cloud and Network Security",
-    "company": "gusto",
-    "alerted": true
+    "2026-08-24": 1
   },
   "8098695": {
     "first_seen": "2026-08-17T21:20:58.358068+00:00",
@@ -231,6 +224,13 @@
     "updated_at": "2026-08-21T12:50:33-04:00",
     "title": "Offensive Hardware Security Engineer, Platform Security",
     "company": "anthropic",
+    "alerted": true
+  },
+  "7833228": {
+    "first_seen": "2026-08-24T19:16:57.072120+00:00",
+    "updated_at": "2026-08-17T14:27:48-04:00",
+    "title": "Security Engineer - Cloud and Network Security",
+    "company": "gusto",
     "alerted": true
   }
 }
