@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-08-24 15:09 UTC
+
+### 🔄 Security Engineer 2 - Cyber Threat Intelligence
+**datadog** · Security
+📍 New York, New York, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7982345/?gh_jid=7982345)
+🕐 Updated: `2026-08-24T10:26:32-04:00` &nbsp;|&nbsp; ID: `7982345`
+
+---
+
 ## 📅 Run: 2026-08-21 23:18 UTC
 
 ### 🆕 Offensive Hardware Security Engineer, Platform Security
