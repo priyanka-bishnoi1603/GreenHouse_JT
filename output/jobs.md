@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-08-24 21:31 UTC
+
+### 🆕 Product Security Engineer, Server
+**mongodb** · Product Security
+📍 New York City; Seattle; United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8098695)
+🕐 Updated: `2026-08-21T15:40:40-04:00` &nbsp;|&nbsp; ID: `8098695`
+
+---
+### 🔄 Information System Security Engineer 
+**accenturefederalservices** · 60038763 - AFS Mission Platform Automation
+📍 Eglin AFB, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4692382006?gh_jid=4692382006)
+🕐 Updated: `2026-08-24T17:24:51-04:00` &nbsp;|&nbsp; ID: `4692382006`
+
+---
+
 ## 📅 Run: 2026-08-24 19:17 UTC
 
 ### 🆕 Security Engineer - Cloud and Network Security
