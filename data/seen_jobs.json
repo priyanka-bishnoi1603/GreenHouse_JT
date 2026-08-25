@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-08-25": 4
-  },
-  "8128738": {
-    "first_seen": "2026-08-18T16:31:27.286868+00:00",
-    "updated_at": "2026-08-20T13:28:11-04:00",
-    "title": "Customer Experience Associate, Pathways - New Graduates",
-    "company": "robinhood",
-    "alerted": true
+    "2026-08-25": 5
   },
   "4691258006": {
     "first_seen": "2026-08-18T20:47:45.496120+00:00",
@@ -231,6 +224,13 @@
     "updated_at": "2026-08-18T17:38:42-04:00",
     "title": "Cloud Security Engineer",
     "company": "stripe",
+    "alerted": true
+  },
+  "8128738": {
+    "first_seen": "2026-08-25T16:40:53.252531+00:00",
+    "updated_at": "2026-08-20T13:28:11-04:00",
+    "title": "Customer Experience Associate, Pathways - New Graduates",
+    "company": "robinhood",
     "alerted": true
   }
 }
