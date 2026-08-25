@@ -1,27 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-08-25": 6
-  },
-  "4691258006": {
-    "first_seen": "2026-08-18T20:47:45.496120+00:00",
-    "updated_at": "2026-07-22T20:13:37-04:00",
-    "title": "IAM Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "5290426008": {
-    "first_seen": "2026-08-18T20:47:45.788870+00:00",
-    "updated_at": "2026-08-21T12:50:31-04:00",
-    "title": "Platform Security Engineering, Operating Systems ",
-    "company": "anthropic",
-    "alerted": true
-  },
-  "7808464": {
-    "first_seen": "2026-08-18T20:47:53.415614+00:00",
-    "updated_at": "2026-08-13T13:58:06-04:00",
-    "title": "Global Security Operations Center Operator",
-    "company": "twilio",
-    "alerted": true
+    "2026-08-25": 9
   },
   "4704329006": {
     "first_seen": "2026-08-18T22:17:36.134043+00:00",
@@ -238,6 +217,27 @@
     "updated_at": "2026-08-25T12:49:09-04:00",
     "title": "Platform Security Engineer, DRTM / Secure Launch",
     "company": "anthropic",
+    "alerted": true
+  },
+  "4691258006": {
+    "first_seen": "2026-08-25T20:54:28.871807+00:00",
+    "updated_at": "2026-07-22T20:13:37-04:00",
+    "title": "IAM Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "5290426008": {
+    "first_seen": "2026-08-25T20:54:29.229943+00:00",
+    "updated_at": "2026-08-21T12:50:31-04:00",
+    "title": "Platform Security Engineering, Operating Systems ",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "7808464": {
+    "first_seen": "2026-08-25T20:54:33.776326+00:00",
+    "updated_at": "2026-08-13T13:58:06-04:00",
+    "title": "Global Security Operations Center Operator",
+    "company": "twilio",
     "alerted": true
   }
 }
