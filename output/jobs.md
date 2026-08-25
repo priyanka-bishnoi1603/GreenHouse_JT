@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-08-25 17:15 UTC
+
+### 🆕 Platform Security Engineer, DRTM / Secure Launch
+**anthropic** · Security
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5361411008)
+🕐 Updated: `2026-08-25T12:49:09-04:00` &nbsp;|&nbsp; ID: `5361411008`
+
+---
+
 ## 📅 Run: 2026-08-25 16:41 UTC
 
 ### 🆕 Customer Experience Associate, Pathways - New Graduates
