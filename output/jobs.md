@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-08-25 20:22 UTC
+
+### 🔄 Security Incident Response Engineer
+**stripe** · 8611 Security Analytics
+📍 US Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8142302)
+🕐 Updated: `2026-08-25T16:17:54-04:00` &nbsp;|&nbsp; ID: `8142302`
+
+---
+
 ## 📅 Run: 2026-08-25 19:17 UTC
 
 ### 🔄 Customer Experience Associate, Pathways - New Graduates
