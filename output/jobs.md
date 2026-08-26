@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-08-26 04:23 UTC
+
+### 🆕 Business Systems Analyst, Security Engineering
+**anthropic** · Security
+📍 San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5366149008)
+🕐 Updated: `2026-08-21T12:50:41-04:00` &nbsp;|&nbsp; ID: `5366149008`
+
+---
+
 ## 📅 Run: 2026-08-25 22:21 UTC
 
 ### 🆕 Cybersecurity Incident Response Triage Analyst

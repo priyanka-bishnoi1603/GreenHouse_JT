@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-08-25": 10
-  },
-  "5366149008": {
-    "first_seen": "2026-08-19T04:21:07.346058+00:00",
-    "updated_at": "2026-08-21T12:50:41-04:00",
-    "title": "Business Systems Analyst, Security Engineering",
-    "company": "anthropic",
-    "alerted": true
+    "2026-08-26": 1
   },
   "4679031006": {
     "first_seen": "2026-08-19T10:29:39.933463+00:00",
@@ -238,6 +231,13 @@
     "updated_at": "2026-08-11T17:41:12-04:00",
     "title": "Cybersecurity Incident Response Triage Analyst",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "5366149008": {
+    "first_seen": "2026-08-26T04:23:11.546792+00:00",
+    "updated_at": "2026-08-21T12:50:41-04:00",
+    "title": "Business Systems Analyst, Security Engineering",
+    "company": "anthropic",
     "alerted": true
   }
 }
