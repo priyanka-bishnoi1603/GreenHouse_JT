@@ -1,34 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-08-26": 2
-  },
-  "4692382006": {
-    "first_seen": "2026-08-19T21:01:28.227201+00:00",
-    "updated_at": "2026-08-24T17:24:51-04:00",
-    "title": "Information System Security Engineer ",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "7982720": {
-    "first_seen": "2026-08-19T21:01:29.834081+00:00",
-    "updated_at": "2026-08-24T21:14:34-04:00",
-    "title": "Client Platform Security Engineer",
-    "company": "stripe",
-    "alerted": true
-  },
-  "8142302": {
-    "first_seen": "2026-08-19T21:01:29.843002+00:00",
-    "updated_at": "2026-08-25T16:17:54-04:00",
-    "title": "Security Incident Response Engineer",
-    "company": "stripe",
-    "alerted": true
-  },
-  "4690064006": {
-    "first_seen": "2026-08-19T22:30:50.966270+00:00",
-    "updated_at": "2026-07-22T09:03:15-04:00",
-    "title": "Cybersecurity Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-08-27": 4
   },
   "4982193008": {
     "first_seen": "2026-08-20T02:18:14.262160+00:00",
@@ -224,6 +196,34 @@
     "updated_at": "2026-07-20T16:29:22-04:00",
     "title": "Cybersecurity Engineer-II",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4690064006": {
+    "first_seen": "2026-08-27T00:05:53.335815+00:00",
+    "updated_at": "2026-07-22T09:03:15-04:00",
+    "title": "Cybersecurity Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4692382006": {
+    "first_seen": "2026-08-27T00:05:53.343354+00:00",
+    "updated_at": "2026-08-24T17:24:51-04:00",
+    "title": "Information System Security Engineer ",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "7982720": {
+    "first_seen": "2026-08-27T00:05:54.898777+00:00",
+    "updated_at": "2026-08-24T21:14:34-04:00",
+    "title": "Client Platform Security Engineer",
+    "company": "stripe",
+    "alerted": true
+  },
+  "8142302": {
+    "first_seen": "2026-08-27T00:05:54.912335+00:00",
+    "updated_at": "2026-08-25T16:17:54-04:00",
+    "title": "Security Incident Response Engineer",
+    "company": "stripe",
     "alerted": true
   }
 }
