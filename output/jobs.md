@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-08-27 20:07 UTC
+
+### 🔄 Information System Security Engineer 
+**accenturefederalservices** · 60024445 - AFS Cyber Mission
+📍 Eglin AFB, FL &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4692382006?gh_jid=4692382006)
+🕐 Updated: `2026-08-27T10:13:29-04:00` &nbsp;|&nbsp; ID: `4692382006`
+
+---
+
 ## 📅 Run: 2026-08-27 09:45 UTC
 
 ### 🆕 Security Engineer, Detection & Response
