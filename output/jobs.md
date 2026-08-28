@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-08-28 04:22 UTC
+
+### 🆕 Application Security Engineer
+**gleanwork** · Engineering
+📍 United States, Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4728513005)
+🕐 Updated: `2026-08-27T19:49:13-04:00` &nbsp;|&nbsp; ID: `4728513005`
+
+---
+### 🆕 Security Engineer, Privy
+**stripe** · 9001 Privy - R&D
+📍 NYC-Privy &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8073092)
+🕐 Updated: `2026-08-18T17:38:47-04:00` &nbsp;|&nbsp; ID: `8073092`
+
+---
+### 🆕 Customer Experience Associate (New Grad)
+**robinhood** · Customer Care
+📍 Denver, CO; Westlake, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8163432?t=gh_src=&gh_jid=8163432)
+🕐 Updated: `2026-08-27T19:28:09-04:00` &nbsp;|&nbsp; ID: `8163432`
+
+---
+### 🔄 Global Security Operations Center Operator
+**twilio** · Security
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7808464)
+🕐 Updated: `2026-08-27T19:32:56-04:00` &nbsp;|&nbsp; ID: `7808464`
+
+---
+
 ## 📅 Run: 2026-08-27 20:07 UTC
 
 ### 🔄 Information System Security Engineer 

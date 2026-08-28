@@ -1,27 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-08-27": 5
-  },
-  "4696929006": {
-    "first_seen": "2026-08-20T21:42:53.398018+00:00",
-    "updated_at": "2026-08-20T18:43:41-04:00",
-    "title": "Security Engineer ",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "5074937008": {
-    "first_seen": "2026-08-21T02:48:40.571248+00:00",
-    "updated_at": "2026-08-21T12:49:50-04:00",
-    "title": "Threat Intelligence Engineer",
-    "company": "anthropic",
-    "alerted": true
-  },
-  "8073092": {
-    "first_seen": "2026-08-21T02:48:41.707153+00:00",
-    "updated_at": "2026-08-18T17:38:47-04:00",
-    "title": "Security Engineer, Privy",
-    "company": "stripe",
-    "alerted": true
+    "2026-08-28": 3
   },
   "7982345": {
     "first_seen": "2026-08-21T04:33:08.874833+00:00",
@@ -165,7 +144,7 @@
   },
   "7808464": {
     "first_seen": "2026-08-25T20:54:33.776326+00:00",
-    "updated_at": "2026-08-13T13:58:06-04:00",
+    "updated_at": "2026-08-27T19:32:56-04:00",
     "title": "Global Security Operations Center Operator",
     "company": "twilio",
     "alerted": true
@@ -224,6 +203,27 @@
     "updated_at": "2026-08-21T12:49:45-04:00",
     "title": "Security Engineer, Detection & Response",
     "company": "anthropic",
+    "alerted": true
+  },
+  "4728513005": {
+    "first_seen": "2026-08-28T04:21:52.962238+00:00",
+    "updated_at": "2026-08-27T19:49:13-04:00",
+    "title": "Application Security Engineer",
+    "company": "gleanwork",
+    "alerted": true
+  },
+  "8073092": {
+    "first_seen": "2026-08-28T04:21:54.436069+00:00",
+    "updated_at": "2026-08-18T17:38:47-04:00",
+    "title": "Security Engineer, Privy",
+    "company": "stripe",
+    "alerted": true
+  },
+  "8163432": {
+    "first_seen": "2026-08-28T04:21:55.485611+00:00",
+    "updated_at": "2026-08-27T19:28:09-04:00",
+    "title": "Customer Experience Associate (New Grad)",
+    "company": "robinhood",
     "alerted": true
   }
 }
