@@ -2,13 +2,6 @@
   "__daily_alerts__": {
     "2026-08-28": 3
   },
-  "7982345": {
-    "first_seen": "2026-08-21T04:33:08.874833+00:00",
-    "updated_at": "2026-08-24T10:26:32-04:00",
-    "title": "Security Engineer 2 - Cyber Threat Intelligence",
-    "company": "datadog",
-    "alerted": true
-  },
   "7832743003": {
     "first_seen": "2026-08-21T17:00:56.832345+00:00",
     "updated_at": "2026-08-26T11:03:55-04:00",
