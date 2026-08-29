@@ -2,6 +2,63 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-08-29 00:50 UTC
+
+### 🆕 Application Security Engineer II
+**abnormalsecurity** · Security
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7832743003?gh_jid=7832743003)
+🕐 Updated: `2026-08-26T11:03:55-04:00` &nbsp;|&nbsp; ID: `7832743003`
+
+---
+### 🆕 Information Systems Security Engineer III - (W2PE)
+**trace3** · T3 Government
+📍 Colorado Springs, CO &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/trace3/jobs/7871083)
+🕐 Updated: `2026-08-07T15:20:40-04:00` &nbsp;|&nbsp; ID: `7871083`
+
+---
+### 🆕 GRC Analyst 
+**coretelligent** · Security & Compliance
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/coretelligent/jobs/5409559008)
+🕐 Updated: `2026-08-28T14:21:08-04:00` &nbsp;|&nbsp; ID: `5409559008`
+
+---
+### 🆕 Security Engineer 
+**accenturefederalservices** · 56219060 - AFS Cyber Strategy Risk and Architecture
+📍 Hill AFB, UT &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4696951006?gh_jid=4696951006)
+🕐 Updated: `2026-08-21T08:42:38-04:00` &nbsp;|&nbsp; ID: `4696951006`
+
+---
+### 🆕 Offensive Hardware Security Engineer, Platform Security
+**anthropic** · Security
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5316565008)
+🕐 Updated: `2026-08-21T12:50:33-04:00` &nbsp;|&nbsp; ID: `5316565008`
+
+---
+### 🆕 Platform Security Engineer, OpenBMC
+**anthropic** · Security
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5271346008)
+🕐 Updated: `2026-08-21T12:50:27-04:00` &nbsp;|&nbsp; ID: `5271346008`
+
+---
+### 🔄 Application Security Engineer
+**gleanwork** · Engineering
+📍 United States, Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4728513005)
+🕐 Updated: `2026-08-28T20:41:07-04:00` &nbsp;|&nbsp; ID: `4728513005`
+
+---
+### 🔄 Customer Experience Associate (New Grad)
+**robinhood** · Customer Care
+📍 Denver, CO; Westlake, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8163432?t=gh_src=&gh_jid=8163432)
+🕐 Updated: `2026-08-28T17:44:12-04:00` &nbsp;|&nbsp; ID: `8163432`
+
+---
+### 🔄 Global Security Operations Center Operator
+**twilio** · Security
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7808464)
+🕐 Updated: `2026-08-28T18:58:23-04:00` &nbsp;|&nbsp; ID: `7808464`
+
+---
+
 ## 📅 Run: 2026-08-28 04:22 UTC
 
 ### 🆕 Application Security Engineer

@@ -1,55 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-08-28": 3
-  },
-  "7832743003": {
-    "first_seen": "2026-08-21T17:00:56.832345+00:00",
-    "updated_at": "2026-08-26T11:03:55-04:00",
-    "title": "Application Security Engineer II",
-    "company": "abnormalsecurity",
-    "alerted": true
-  },
-  "5271346008": {
-    "first_seen": "2026-08-21T17:01:02.368787+00:00",
-    "updated_at": "2026-08-21T12:50:27-04:00",
-    "title": "Platform Security Engineer, OpenBMC",
-    "company": "anthropic",
-    "alerted": true
-  },
-  "7835867003": {
-    "first_seen": "2026-08-21T18:54:31.258959+00:00",
-    "updated_at": "2026-08-20T19:33:42-04:00",
-    "title": "Security Operations Analyst- East Coast ",
-    "company": "huntress",
-    "alerted": true
-  },
-  "8072162": {
-    "first_seen": "2026-08-21T18:54:34.100119+00:00",
-    "updated_at": "2026-07-20T12:08:32-04:00",
-    "title": "Cybersecurity Engineer III ",
-    "company": "trace3",
-    "alerted": true
-  },
-  "4696951006": {
-    "first_seen": "2026-08-21T18:54:34.873301+00:00",
-    "updated_at": "2026-08-21T08:42:38-04:00",
-    "title": "Security Engineer ",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "7871083": {
-    "first_seen": "2026-08-21T20:20:01.811312+00:00",
-    "updated_at": "2026-08-07T15:20:40-04:00",
-    "title": "Information Systems Security Engineer III - (W2PE)",
-    "company": "trace3",
-    "alerted": true
-  },
-  "5316565008": {
-    "first_seen": "2026-08-21T23:18:38.901134+00:00",
-    "updated_at": "2026-08-21T12:50:33-04:00",
-    "title": "Offensive Hardware Security Engineer, Platform Security",
-    "company": "anthropic",
-    "alerted": true
+    "2026-08-29": 6
   },
   "7833228": {
     "first_seen": "2026-08-24T19:16:57.072120+00:00",
@@ -137,7 +88,7 @@
   },
   "7808464": {
     "first_seen": "2026-08-25T20:54:33.776326+00:00",
-    "updated_at": "2026-08-27T19:32:56-04:00",
+    "updated_at": "2026-08-28T18:58:23-04:00",
     "title": "Global Security Operations Center Operator",
     "company": "twilio",
     "alerted": true
@@ -200,7 +151,7 @@
   },
   "4728513005": {
     "first_seen": "2026-08-28T04:21:52.962238+00:00",
-    "updated_at": "2026-08-27T19:49:13-04:00",
+    "updated_at": "2026-08-28T20:41:07-04:00",
     "title": "Application Security Engineer",
     "company": "gleanwork",
     "alerted": true
@@ -214,9 +165,51 @@
   },
   "8163432": {
     "first_seen": "2026-08-28T04:21:55.485611+00:00",
-    "updated_at": "2026-08-27T19:28:09-04:00",
+    "updated_at": "2026-08-28T17:44:12-04:00",
     "title": "Customer Experience Associate (New Grad)",
     "company": "robinhood",
+    "alerted": true
+  },
+  "7832743003": {
+    "first_seen": "2026-08-29T00:50:26.338480+00:00",
+    "updated_at": "2026-08-26T11:03:55-04:00",
+    "title": "Application Security Engineer II",
+    "company": "abnormalsecurity",
+    "alerted": true
+  },
+  "7871083": {
+    "first_seen": "2026-08-29T00:50:28.341443+00:00",
+    "updated_at": "2026-08-07T15:20:40-04:00",
+    "title": "Information Systems Security Engineer III - (W2PE)",
+    "company": "trace3",
+    "alerted": true
+  },
+  "5409559008": {
+    "first_seen": "2026-08-29T00:50:28.435933+00:00",
+    "updated_at": "2026-08-28T14:21:08-04:00",
+    "title": "GRC Analyst ",
+    "company": "coretelligent",
+    "alerted": true
+  },
+  "4696951006": {
+    "first_seen": "2026-08-29T00:50:28.827647+00:00",
+    "updated_at": "2026-08-21T08:42:38-04:00",
+    "title": "Security Engineer ",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "5316565008": {
+    "first_seen": "2026-08-29T00:50:29.137426+00:00",
+    "updated_at": "2026-08-21T12:50:33-04:00",
+    "title": "Offensive Hardware Security Engineer, Platform Security",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "5271346008": {
+    "first_seen": "2026-08-29T00:50:29.138704+00:00",
+    "updated_at": "2026-08-21T12:50:27-04:00",
+    "title": "Platform Security Engineer, OpenBMC",
+    "company": "anthropic",
     "alerted": true
   }
 }
