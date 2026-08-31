@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-08-29": 6
+    "2026-08-31": 1
   },
   "7833228": {
     "first_seen": "2026-08-24T19:16:57.072120+00:00",
@@ -172,7 +172,7 @@
   },
   "7832743003": {
     "first_seen": "2026-08-29T00:50:26.338480+00:00",
-    "updated_at": "2026-08-26T11:03:55-04:00",
+    "updated_at": "2026-08-31T11:45:37-04:00",
     "title": "Application Security Engineer II",
     "company": "abnormalsecurity",
     "alerted": true
@@ -210,6 +210,13 @@
     "updated_at": "2026-08-21T12:50:27-04:00",
     "title": "Platform Security Engineer, OpenBMC",
     "company": "anthropic",
+    "alerted": true
+  },
+  "4883755008": {
+    "first_seen": "2026-08-31T17:28:13.352236+00:00",
+    "updated_at": "2026-08-31T12:42:38-04:00",
+    "title": "GRC Analyst",
+    "company": "coretelligent",
     "alerted": true
   }
 }

@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-08-31 17:28 UTC
+
+### 🆕 GRC Analyst
+**coretelligent** · Security & Compliance
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/coretelligent/jobs/4883755008)
+🕐 Updated: `2026-08-31T12:42:38-04:00` &nbsp;|&nbsp; ID: `4883755008`
+
+---
+### 🔄 Application Security Engineer II
+**abnormalsecurity** · Security
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7832743003?gh_jid=7832743003)
+🕐 Updated: `2026-08-31T11:45:37-04:00` &nbsp;|&nbsp; ID: `7832743003`
+
+---
+
 ## 📅 Run: 2026-08-29 00:50 UTC
 
 ### 🆕 Application Security Engineer II
