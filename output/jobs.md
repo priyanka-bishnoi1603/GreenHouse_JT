@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-08-31 22:00 UTC
+
+### 🆕 Product Security Engineer, Server
+**mongodb** · Product Security
+📍 New York City; Seattle; United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8098695)
+🕐 Updated: `2026-08-21T15:40:40-04:00` &nbsp;|&nbsp; ID: `8098695`
+
+---
+### 🆕 Security Engineer - Cloud and Network Security
+**gusto** · Security
+📍 San Francisco, CA - Hybrid &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7833228)
+🕐 Updated: `2026-08-17T14:27:48-04:00` &nbsp;|&nbsp; ID: `7833228`
+
+---
+
 ## 📅 Run: 2026-08-31 17:28 UTC
 
 ### 🆕 GRC Analyst

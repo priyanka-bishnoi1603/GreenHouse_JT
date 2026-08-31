@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-08-31": 1
-  },
-  "7833228": {
-    "first_seen": "2026-08-24T19:16:57.072120+00:00",
-    "updated_at": "2026-08-17T14:27:48-04:00",
-    "title": "Security Engineer - Cloud and Network Security",
-    "company": "gusto",
-    "alerted": true
-  },
-  "8098695": {
-    "first_seen": "2026-08-24T21:31:00.506752+00:00",
-    "updated_at": "2026-08-21T15:40:40-04:00",
-    "title": "Product Security Engineer, Server",
-    "company": "mongodb",
-    "alerted": true
+    "2026-08-31": 3
   },
   "4660738006": {
     "first_seen": "2026-08-24T22:34:37.931158+00:00",
@@ -217,6 +203,20 @@
     "updated_at": "2026-08-31T12:42:38-04:00",
     "title": "GRC Analyst",
     "company": "coretelligent",
+    "alerted": true
+  },
+  "8098695": {
+    "first_seen": "2026-08-31T21:59:53.246978+00:00",
+    "updated_at": "2026-08-21T15:40:40-04:00",
+    "title": "Product Security Engineer, Server",
+    "company": "mongodb",
+    "alerted": true
+  },
+  "7833228": {
+    "first_seen": "2026-08-31T21:59:54.631353+00:00",
+    "updated_at": "2026-08-17T14:27:48-04:00",
+    "title": "Security Engineer - Cloud and Network Security",
+    "company": "gusto",
     "alerted": true
   }
 }
