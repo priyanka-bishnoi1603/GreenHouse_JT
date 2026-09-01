@@ -2,20 +2,6 @@
   "__daily_alerts__": {
     "2026-08-31": 3
   },
-  "4660738006": {
-    "first_seen": "2026-08-24T22:34:37.931158+00:00",
-    "updated_at": "2026-08-17T13:53:14-04:00",
-    "title": "Network Security Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "4619940006": {
-    "first_seen": "2026-08-24T22:34:37.938919+00:00",
-    "updated_at": "2026-07-22T09:43:12-04:00",
-    "title": "Security Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
   "7833761": {
     "first_seen": "2026-08-25T15:03:04.718360+00:00",
     "updated_at": "2026-06-23T13:56:08-04:00",
