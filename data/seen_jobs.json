@@ -1,27 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-09-01": 7
-  },
-  "4691258006": {
-    "first_seen": "2026-08-25T20:54:28.871807+00:00",
-    "updated_at": "2026-07-22T20:13:37-04:00",
-    "title": "IAM Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "5290426008": {
-    "first_seen": "2026-08-25T20:54:29.229943+00:00",
-    "updated_at": "2026-08-21T12:50:31-04:00",
-    "title": "Platform Security Engineering, Operating Systems ",
-    "company": "anthropic",
-    "alerted": true
-  },
-  "7808464": {
-    "first_seen": "2026-08-25T20:54:33.776326+00:00",
-    "updated_at": "2026-08-28T18:58:23-04:00",
-    "title": "Global Security Operations Center Operator",
-    "company": "twilio",
-    "alerted": true
+    "2026-09-01": 11
   },
   "4704329006": {
     "first_seen": "2026-08-25T22:21:06.081683+00:00",
@@ -60,7 +39,7 @@
   },
   "7982720": {
     "first_seen": "2026-08-27T00:05:54.898777+00:00",
-    "updated_at": "2026-08-24T21:14:34-04:00",
+    "updated_at": "2026-09-01T16:42:11-04:00",
     "title": "Client Platform Security Engineer",
     "company": "stripe",
     "alerted": true
@@ -210,6 +189,34 @@
     "updated_at": "2026-08-25T14:36:41-04:00",
     "title": "Customer Experience Associate, Pathways - New Graduates",
     "company": "robinhood",
+    "alerted": true
+  },
+  "4691258006": {
+    "first_seen": "2026-09-01T21:33:29.279001+00:00",
+    "updated_at": "2026-07-22T20:13:37-04:00",
+    "title": "IAM Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "5290426008": {
+    "first_seen": "2026-09-01T21:33:29.604078+00:00",
+    "updated_at": "2026-08-21T12:50:31-04:00",
+    "title": "Platform Security Engineering, Operating Systems ",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "5195705008": {
+    "first_seen": "2026-09-01T21:33:29.612309+00:00",
+    "updated_at": "2026-09-01T15:05:47-04:00",
+    "title": "Security Engineer - Threat Intel",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "7808464": {
+    "first_seen": "2026-09-01T21:33:51.139219+00:00",
+    "updated_at": "2026-08-28T18:58:23-04:00",
+    "title": "Global Security Operations Center Operator",
+    "company": "twilio",
     "alerted": true
   }
 }
