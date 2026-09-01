@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-09-01 18:50 UTC
+
+### 🆕 Platform Security Engineer, DRTM / Secure Launch
+**anthropic** · Security
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5361411008)
+🕐 Updated: `2026-08-25T12:49:09-04:00` &nbsp;|&nbsp; ID: `5361411008`
+
+---
+### 🆕 Customer Experience Associate, Pathways - New Graduates
+**robinhood** · Customer Care
+📍 Denver, CO; Westlake, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/8128738?t=gh_src=&gh_jid=8128738)
+🕐 Updated: `2026-08-25T14:36:41-04:00` &nbsp;|&nbsp; ID: `8128738`
+
+---
+
 ## 📅 Run: 2026-09-01 15:33 UTC
 
 ### 🆕 FedRamp Compliance Analyst
