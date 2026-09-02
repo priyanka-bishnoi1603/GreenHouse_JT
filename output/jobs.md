@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-09-02 23:28 UTC
+
+### 🔄 Cybersecurity Engineer
+**accenturefederalservices** · 56219060 - AFS Cyber Strategy Risk and Architecture
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4677559006?gh_jid=4677559006)
+🕐 Updated: `2026-09-02T17:22:04-04:00` &nbsp;|&nbsp; ID: `4677559006`
+
+---
+
 ## 📅 Run: 2026-09-02 21:19 UTC
 
 ### 🆕 Information System Security Engineer 
