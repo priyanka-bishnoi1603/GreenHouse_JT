@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-09-03 23:23 UTC
+
+### 🔄 Security Engineer - Cloud and Network Security
+**gusto** · Security
+📍 San Francisco, CA - Hybrid &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7833228)
+🕐 Updated: `2026-09-03T19:02:09-04:00` &nbsp;|&nbsp; ID: `7833228`
+
+---
+
 ## 📅 Run: 2026-09-03 21:16 UTC
 
 ### 🔄 Cybersecurity Engineer
