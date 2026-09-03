@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-09-03 21:16 UTC
+
+### 🔄 Cybersecurity Engineer
+**accenturefederalservices** · 60024445 - AFS Cyber Mission
+📍 San Diego, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4690064006?gh_jid=4690064006)
+🕐 Updated: `2026-09-03T15:57:18-04:00` &nbsp;|&nbsp; ID: `4690064006`
+
+---
+### 🔄 Security Engineer - Cloud and Network Security
+**gusto** · Security
+📍 San Francisco, CA - Hybrid &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/7833228)
+🕐 Updated: `2026-09-03T16:57:41-04:00` &nbsp;|&nbsp; ID: `7833228`
+
+---
+
 ## 📅 Run: 2026-09-03 18:30 UTC
 
 ### 🆕 Threat Intelligence Platform Engineer
