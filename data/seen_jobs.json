@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-09-03": 3
-  },
-  "4982193008": {
-    "first_seen": "2026-08-27T09:45:43.107676+00:00",
-    "updated_at": "2026-08-21T12:49:45-04:00",
-    "title": "Security Engineer, Detection & Response",
-    "company": "anthropic",
-    "alerted": true
+    "2026-09-03": 4
   },
   "4728513005": {
     "first_seen": "2026-08-28T04:21:52.962238+00:00",
@@ -203,6 +196,13 @@
     "updated_at": "2026-08-25T16:17:54-04:00",
     "title": "Security Incident Response Engineer",
     "company": "stripe",
+    "alerted": true
+  },
+  "4982193008": {
+    "first_seen": "2026-09-03T11:11:49.547808+00:00",
+    "updated_at": "2026-08-21T12:49:45-04:00",
+    "title": "Security Engineer, Detection & Response",
+    "company": "anthropic",
     "alerted": true
   }
 }
