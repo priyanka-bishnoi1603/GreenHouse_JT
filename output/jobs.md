@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-09-04 17:45 UTC
+
+### 🆕  Application Security Engineer 
+**accenturefederalservices** · 60024449 - AFS Cyber Resilience and Defense
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4709205006?gh_jid=4709205006)
+🕐 Updated: `2026-09-04T11:11:37-04:00` &nbsp;|&nbsp; ID: `4709205006`
+
+---
+
 ## 📅 Run: 2026-09-04 05:53 UTC
 
 ### 🆕 Application Security Engineer

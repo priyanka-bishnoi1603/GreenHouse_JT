@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-09-04": 3
+    "2026-09-04": 4
   },
   "7832743003": {
     "first_seen": "2026-08-29T00:50:26.338480+00:00",
@@ -210,6 +210,13 @@
     "updated_at": "2026-08-28T17:44:12-04:00",
     "title": "Customer Experience Associate (New Grad)",
     "company": "robinhood",
+    "alerted": true
+  },
+  "4709205006": {
+    "first_seen": "2026-09-04T17:43:55.883872+00:00",
+    "updated_at": "2026-09-04T11:11:37-04:00",
+    "title": " Application Security Engineer ",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }
