@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-09-04": 4
+    "2026-09-04": 5
   },
   "7832743003": {
     "first_seen": "2026-08-29T00:50:26.338480+00:00",
@@ -95,7 +95,7 @@
   },
   "7867389": {
     "first_seen": "2026-09-01T15:33:29.636180+00:00",
-    "updated_at": "2026-08-18T17:38:42-04:00",
+    "updated_at": "2026-09-04T14:12:01-04:00",
     "title": "Cloud Security Engineer",
     "company": "stripe",
     "alerted": true
@@ -165,14 +165,14 @@
   },
   "7982720": {
     "first_seen": "2026-09-03T01:20:01.583108+00:00",
-    "updated_at": "2026-09-01T16:42:11-04:00",
+    "updated_at": "2026-09-04T14:12:05-04:00",
     "title": "Client Platform Security Engineer",
     "company": "stripe",
     "alerted": true
   },
   "8142302": {
     "first_seen": "2026-09-03T01:20:01.593027+00:00",
-    "updated_at": "2026-08-25T16:17:54-04:00",
+    "updated_at": "2026-09-04T14:12:16-04:00",
     "title": "Security Incident Response Engineer",
     "company": "stripe",
     "alerted": true
@@ -200,7 +200,7 @@
   },
   "8073092": {
     "first_seen": "2026-09-04T05:53:04.254266+00:00",
-    "updated_at": "2026-08-18T17:38:47-04:00",
+    "updated_at": "2026-09-04T14:12:10-04:00",
     "title": "Security Engineer, Privy",
     "company": "stripe",
     "alerted": true
@@ -217,6 +217,13 @@
     "updated_at": "2026-09-04T11:11:37-04:00",
     "title": " Application Security Engineer ",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "8487754002": {
+    "first_seen": "2026-09-04T19:54:30.171433+00:00",
+    "updated_at": "2026-09-04T13:47:54-04:00",
+    "title": "Enterprise Security Engineer",
+    "company": "sendbird",
     "alerted": true
   }
 }
