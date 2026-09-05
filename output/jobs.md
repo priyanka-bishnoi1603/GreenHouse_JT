@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-09-05 04:25 UTC
+
+### 🆕 Application Security Engineer II
+**abnormalsecurity** · Security
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7832743003?gh_jid=7832743003)
+🕐 Updated: `2026-08-31T11:45:37-04:00` &nbsp;|&nbsp; ID: `7832743003`
+
+---
+### 🆕 Offensive Hardware Security Engineer, Platform Security
+**anthropic** · Security
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5316565008)
+🕐 Updated: `2026-08-21T12:50:33-04:00` &nbsp;|&nbsp; ID: `5316565008`
+
+---
+### 🆕 Platform Security Engineer, OpenBMC
+**anthropic** · Security
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5271346008)
+🕐 Updated: `2026-08-21T12:50:27-04:00` &nbsp;|&nbsp; ID: `5271346008`
+
+---
+
 ## 📅 Run: 2026-09-04 19:54 UTC
 
 ### 🆕 Enterprise Security Engineer

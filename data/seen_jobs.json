@@ -1,48 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-09-04": 5
-  },
-  "7832743003": {
-    "first_seen": "2026-08-29T00:50:26.338480+00:00",
-    "updated_at": "2026-08-31T11:45:37-04:00",
-    "title": "Application Security Engineer II",
-    "company": "abnormalsecurity",
-    "alerted": true
-  },
-  "7871083": {
-    "first_seen": "2026-08-29T00:50:28.341443+00:00",
-    "updated_at": "2026-08-07T15:20:40-04:00",
-    "title": "Information Systems Security Engineer III - (W2PE)",
-    "company": "trace3",
-    "alerted": true
-  },
-  "5409559008": {
-    "first_seen": "2026-08-29T00:50:28.435933+00:00",
-    "updated_at": "2026-08-28T14:21:08-04:00",
-    "title": "GRC Analyst ",
-    "company": "coretelligent",
-    "alerted": true
-  },
-  "4696951006": {
-    "first_seen": "2026-08-29T00:50:28.827647+00:00",
-    "updated_at": "2026-08-21T08:42:38-04:00",
-    "title": "Security Engineer ",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "5316565008": {
-    "first_seen": "2026-08-29T00:50:29.137426+00:00",
-    "updated_at": "2026-08-21T12:50:33-04:00",
-    "title": "Offensive Hardware Security Engineer, Platform Security",
-    "company": "anthropic",
-    "alerted": true
-  },
-  "5271346008": {
-    "first_seen": "2026-08-29T00:50:29.138704+00:00",
-    "updated_at": "2026-08-21T12:50:27-04:00",
-    "title": "Platform Security Engineer, OpenBMC",
-    "company": "anthropic",
-    "alerted": true
+    "2026-09-05": 3
   },
   "4883755008": {
     "first_seen": "2026-08-31T17:28:13.352236+00:00",
@@ -224,6 +182,27 @@
     "updated_at": "2026-09-04T13:47:54-04:00",
     "title": "Enterprise Security Engineer",
     "company": "sendbird",
+    "alerted": true
+  },
+  "7832743003": {
+    "first_seen": "2026-09-05T04:25:19.718732+00:00",
+    "updated_at": "2026-08-31T11:45:37-04:00",
+    "title": "Application Security Engineer II",
+    "company": "abnormalsecurity",
+    "alerted": true
+  },
+  "5316565008": {
+    "first_seen": "2026-09-05T04:25:26.247008+00:00",
+    "updated_at": "2026-08-21T12:50:33-04:00",
+    "title": "Offensive Hardware Security Engineer, Platform Security",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "5271346008": {
+    "first_seen": "2026-09-05T04:25:26.248292+00:00",
+    "updated_at": "2026-08-21T12:50:27-04:00",
+    "title": "Platform Security Engineer, OpenBMC",
+    "company": "anthropic",
     "alerted": true
   }
 }
