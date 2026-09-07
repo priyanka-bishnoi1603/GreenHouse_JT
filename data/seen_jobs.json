@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-09-05": 3
-  },
-  "4883755008": {
-    "first_seen": "2026-08-31T17:28:13.352236+00:00",
-    "updated_at": "2026-08-31T12:42:38-04:00",
-    "title": "GRC Analyst",
-    "company": "coretelligent",
-    "alerted": true
+    "2026-09-07": 1
   },
   "8098695": {
     "first_seen": "2026-08-31T21:59:53.246978+00:00",
@@ -203,6 +196,13 @@
     "updated_at": "2026-08-21T12:50:27-04:00",
     "title": "Platform Security Engineer, OpenBMC",
     "company": "anthropic",
+    "alerted": true
+  },
+  "4883755008": {
+    "first_seen": "2026-09-07T19:19:18.722391+00:00",
+    "updated_at": "2026-08-31T12:42:38-04:00",
+    "title": "GRC Analyst",
+    "company": "coretelligent",
     "alerted": true
   }
 }

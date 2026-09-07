@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-09-07 19:19 UTC
+
+### 🆕 GRC Analyst
+**coretelligent** · Security & Compliance
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/coretelligent/jobs/4883755008)
+🕐 Updated: `2026-08-31T12:42:38-04:00` &nbsp;|&nbsp; ID: `4883755008`
+
+---
+
 ## 📅 Run: 2026-09-05 04:25 UTC
 
 ### 🆕 Application Security Engineer II
