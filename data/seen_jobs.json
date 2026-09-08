@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-09-08": 6
-  },
-  "5361411008": {
-    "first_seen": "2026-09-01T18:50:14.299614+00:00",
-    "updated_at": "2026-08-25T12:49:09-04:00",
-    "title": "Platform Security Engineer, DRTM / Secure Launch",
-    "company": "anthropic",
-    "alerted": true
-  },
-  "8128738": {
-    "first_seen": "2026-09-01T18:50:22.175890+00:00",
-    "updated_at": "2026-08-25T14:36:41-04:00",
-    "title": "Customer Experience Associate, Pathways - New Graduates",
-    "company": "robinhood",
-    "alerted": true
+    "2026-09-08": 8
   },
   "4691258006": {
     "first_seen": "2026-09-01T21:33:29.279001+00:00",
@@ -203,6 +189,20 @@
     "updated_at": "2026-09-04T14:12:01-04:00",
     "title": "Cloud Security Engineer",
     "company": "stripe",
+    "alerted": true
+  },
+  "5361411008": {
+    "first_seen": "2026-09-08T20:18:31.213520+00:00",
+    "updated_at": "2026-08-25T12:49:09-04:00",
+    "title": "Platform Security Engineer, DRTM / Secure Launch",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "8128738": {
+    "first_seen": "2026-09-08T20:18:51.702119+00:00",
+    "updated_at": "2026-08-25T14:36:41-04:00",
+    "title": "Customer Experience Associate, Pathways - New Graduates",
+    "company": "robinhood",
     "alerted": true
   }
 }
