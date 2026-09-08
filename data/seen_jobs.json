@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-09-07": 2
+    "2026-09-08": 1
   },
   "7979987003": {
     "first_seen": "2026-09-01T15:33:20.351826+00:00",
@@ -196,6 +196,13 @@
     "updated_at": "2026-09-01T03:40:27-04:00",
     "title": "Product Security Engineer, Server",
     "company": "mongodb",
+    "alerted": true
+  },
+  "7918258": {
+    "first_seen": "2026-09-08T13:46:18.163926+00:00",
+    "updated_at": "2026-09-08T09:33:59-04:00",
+    "title": "Security Engineer, Application Security",
+    "company": "robinhood",
     "alerted": true
   }
 }
