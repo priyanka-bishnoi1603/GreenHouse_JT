@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-09-09 18:16 UTC
+
+### 🆕 ISSE/ Cybersecurity Engineer I 
+**trace3** · T3 Government
+📍 Colorado Springs, CO &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/trace3/jobs/8189173)
+🕐 Updated: `2026-09-09T13:57:17-04:00` &nbsp;|&nbsp; ID: `8189173`
+
+---
+
 ## 📅 Run: 2026-09-09 05:53 UTC
 
 ### 🆕 Security Engineer, Offensive Security
