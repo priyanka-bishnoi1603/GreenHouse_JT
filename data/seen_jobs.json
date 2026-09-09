@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-09-09": 1
+    "2026-09-09": 2
   },
   "4688933006": {
     "first_seen": "2026-09-02T21:18:51.050230+00:00",
@@ -203,6 +203,13 @@
     "updated_at": "2026-08-11T17:41:12-04:00",
     "title": "Cybersecurity Incident Response Triage Analyst",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "5418977008": {
+    "first_seen": "2026-09-09T05:52:57.802872+00:00",
+    "updated_at": "2026-09-08T23:51:37-04:00",
+    "title": "Security Engineer, Offensive Security",
+    "company": "anthropic",
     "alerted": true
   }
 }
