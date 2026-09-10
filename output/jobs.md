@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-09-10 01:06 UTC
+
+### 🆕 Security Engineer 
+**stripe** · 8611 Security Analytics
+📍 US Remote  &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8174965)
+🕐 Updated: `2026-09-09T20:41:43-04:00` &nbsp;|&nbsp; ID: `8174965`
+
+---
+
 ## 📅 Run: 2026-09-09 23:13 UTC
 
 ### 🆕 Information System Security Engineer 

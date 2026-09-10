@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-09-09": 4
+    "2026-09-10": 1
   },
   "4690064006": {
     "first_seen": "2026-09-03T01:20:00.113664+00:00",
@@ -217,6 +217,13 @@
     "updated_at": "2026-09-02T17:00:42-04:00",
     "title": "Information System Security Engineer ",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "8174965": {
+    "first_seen": "2026-09-10T01:05:57.965193+00:00",
+    "updated_at": "2026-09-09T20:41:43-04:00",
+    "title": "Security Engineer ",
+    "company": "stripe",
     "alerted": true
   }
 }
