@@ -18,7 +18,7 @@
   },
   "8073092": {
     "first_seen": "2026-09-04T05:53:04.254266+00:00",
-    "updated_at": "2026-09-04T14:12:10-04:00",
+    "updated_at": "2026-09-10T13:11:58-04:00",
     "title": "Security Engineer, Privy",
     "company": "stripe",
     "alerted": true
@@ -116,7 +116,7 @@
   },
   "7867389": {
     "first_seen": "2026-09-08T17:43:05.485271+00:00",
-    "updated_at": "2026-09-04T14:12:01-04:00",
+    "updated_at": "2026-09-10T13:11:58-04:00",
     "title": "Cloud Security Engineer",
     "company": "stripe",
     "alerted": true
@@ -193,7 +193,7 @@
   },
   "8174965": {
     "first_seen": "2026-09-10T01:05:57.965193+00:00",
-    "updated_at": "2026-09-09T20:41:43-04:00",
+    "updated_at": "2026-09-10T13:11:58-04:00",
     "title": "Security Engineer ",
     "company": "stripe",
     "alerted": true
@@ -207,14 +207,14 @@
   },
   "7982720": {
     "first_seen": "2026-09-10T05:57:45.062806+00:00",
-    "updated_at": "2026-09-04T14:12:05-04:00",
+    "updated_at": "2026-09-10T13:11:58-04:00",
     "title": "Client Platform Security Engineer",
     "company": "stripe",
     "alerted": true
   },
   "7982345": {
     "first_seen": "2026-09-10T14:45:09.164091+00:00",
-    "updated_at": "2026-09-10T09:18:18-04:00",
+    "updated_at": "2026-09-10T10:53:42-04:00",
     "title": "Security Engineer 2 - Cyber Threat Intelligence",
     "company": "datadog",
     "alerted": true
