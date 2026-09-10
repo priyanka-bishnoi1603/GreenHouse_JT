@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-09-10 14:45 UTC
+
+### 🆕 Security Engineer 2 - Cyber Threat Intelligence
+**datadog** · Security
+📍 New York, New York, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/7982345/?gh_jid=7982345)
+🕐 Updated: `2026-09-10T09:18:18-04:00` &nbsp;|&nbsp; ID: `7982345`
+
+---
+### 🆕 Security Engineer, Detection & Response
+**anthropic** · Security
+📍 San Francisco, CA | New York City, NY | Seattle, WA; Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/4982193008)
+🕐 Updated: `2026-08-21T12:49:45-04:00` &nbsp;|&nbsp; ID: `4982193008`
+
+---
+
 ## 📅 Run: 2026-09-10 05:57 UTC
 
 ### 🆕 Cybersecurity Engineer
