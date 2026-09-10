@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-09-10 05:57 UTC
+
+### 🆕 Cybersecurity Engineer
+**accenturefederalservices** · 60024445 - AFS Cyber Mission
+📍 San Diego, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4690064006?gh_jid=4690064006)
+🕐 Updated: `2026-09-03T15:57:18-04:00` &nbsp;|&nbsp; ID: `4690064006`
+
+---
+### 🆕 Client Platform Security Engineer
+**stripe** · 8612 Security Infrastructure
+📍 New York, New York  &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7982720)
+🕐 Updated: `2026-09-04T14:12:05-04:00` &nbsp;|&nbsp; ID: `7982720`
+
+---
+
 ## 📅 Run: 2026-09-10 01:06 UTC
 
 ### 🆕 Security Engineer 
