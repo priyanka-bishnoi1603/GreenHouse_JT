@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-09-10 20:23 UTC
+
+### 🆕 Security Incident Response Engineer
+**stripe** · 8611 Security Analytics
+📍 US Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8142302)
+🕐 Updated: `2026-09-10T14:49:09-04:00` &nbsp;|&nbsp; ID: `8142302`
+
+---
+### 🆕 Threat Intelligence Platform Engineer
+**coinbase** · Engineering - Security
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8177619?gh_jid=8177619)
+🕐 Updated: `2026-09-03T14:02:16-04:00` &nbsp;|&nbsp; ID: `8177619`
+
+---
+### 🔄 Security Engineer, Offensive Security
+**anthropic** · Security
+📍 Remote-Friendly, United States; San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5418977008)
+🕐 Updated: `2026-09-10T14:01:17-04:00` &nbsp;|&nbsp; ID: `5418977008`
+
+---
+
 ## 📅 Run: 2026-09-10 17:54 UTC
 
 ### 🔄 Security Engineer 2 - Cyber Threat Intelligence
