@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-09-11 17:45 UTC
+
+### 🆕  Application Security Engineer 
+**accenturefederalservices** · 60024449 - AFS Cyber Resilience and Defense
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4709205006?gh_jid=4709205006)
+🕐 Updated: `2026-09-04T11:11:37-04:00` &nbsp;|&nbsp; ID: `4709205006`
+
+---
+### 🔄 ISSE/ Cybersecurity Engineer I 
+**trace3** · T3 Government
+📍 Colorado Springs, CO &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/trace3/jobs/8189173)
+🕐 Updated: `2026-09-11T11:53:23-04:00` &nbsp;|&nbsp; ID: `8189173`
+
+---
+
 ## 📅 Run: 2026-09-11 09:54 UTC
 
 ### 🆕 Application Security Engineer

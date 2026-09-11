@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-09-11": 3
-  },
-  "4709205006": {
-    "first_seen": "2026-09-04T17:43:55.883872+00:00",
-    "updated_at": "2026-09-04T11:11:37-04:00",
-    "title": " Application Security Engineer ",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-09-11": 4
   },
   "8487754002": {
     "first_seen": "2026-09-04T19:54:30.171433+00:00",
@@ -151,7 +144,7 @@
   },
   "8189173": {
     "first_seen": "2026-09-09T18:16:17.885440+00:00",
-    "updated_at": "2026-09-09T13:57:17-04:00",
+    "updated_at": "2026-09-11T11:53:23-04:00",
     "title": "ISSE/ Cybersecurity Engineer I ",
     "company": "trace3",
     "alerted": true
@@ -231,6 +224,13 @@
     "updated_at": "2026-08-28T17:44:12-04:00",
     "title": "Customer Experience Associate (New Grad)",
     "company": "robinhood",
+    "alerted": true
+  },
+  "4709205006": {
+    "first_seen": "2026-09-11T17:44:22.879389+00:00",
+    "updated_at": "2026-09-04T11:11:37-04:00",
+    "title": " Application Security Engineer ",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }
