@@ -1,27 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-09-10": 7
-  },
-  "4728513005": {
-    "first_seen": "2026-09-04T05:53:03.079376+00:00",
-    "updated_at": "2026-08-28T20:41:07-04:00",
-    "title": "Application Security Engineer",
-    "company": "gleanwork",
-    "alerted": true
-  },
-  "8073092": {
-    "first_seen": "2026-09-04T05:53:04.254266+00:00",
-    "updated_at": "2026-09-10T13:11:58-04:00",
-    "title": "Security Engineer, Privy",
-    "company": "stripe",
-    "alerted": true
-  },
-  "8163432": {
-    "first_seen": "2026-09-04T05:53:05.054173+00:00",
-    "updated_at": "2026-08-28T17:44:12-04:00",
-    "title": "Customer Experience Associate (New Grad)",
-    "company": "robinhood",
-    "alerted": true
+    "2026-09-11": 3
   },
   "4709205006": {
     "first_seen": "2026-09-04T17:43:55.883872+00:00",
@@ -231,6 +210,27 @@
     "updated_at": "2026-09-03T14:02:16-04:00",
     "title": "Threat Intelligence Platform Engineer",
     "company": "coinbase",
+    "alerted": true
+  },
+  "4728513005": {
+    "first_seen": "2026-09-11T09:53:58.681088+00:00",
+    "updated_at": "2026-08-28T20:41:07-04:00",
+    "title": "Application Security Engineer",
+    "company": "gleanwork",
+    "alerted": true
+  },
+  "8073092": {
+    "first_seen": "2026-09-11T09:54:00.745903+00:00",
+    "updated_at": "2026-09-10T13:11:58-04:00",
+    "title": "Security Engineer, Privy",
+    "company": "stripe",
+    "alerted": true
+  },
+  "8163432": {
+    "first_seen": "2026-09-11T09:54:01.183925+00:00",
+    "updated_at": "2026-08-28T17:44:12-04:00",
+    "title": "Customer Experience Associate (New Grad)",
+    "company": "robinhood",
     "alerted": true
   }
 }
