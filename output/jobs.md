@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-09-14 20:23 UTC
+
+### 🆕 Developer Support Associate (New Grad)
+**okta** · Customer Support-740
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8191506?gh_jid=8191506)
+🕐 Updated: `2026-09-14T14:05:38-04:00` &nbsp;|&nbsp; ID: `8191506`
+
+---
+### 🆕 GRC Analyst
+**coretelligent** · Security & Compliance
+📍 United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/coretelligent/jobs/4883755008)
+🕐 Updated: `2026-08-31T12:42:38-04:00` &nbsp;|&nbsp; ID: `4883755008`
+
+---
+
 ## 📅 Run: 2026-09-12 05:03 UTC
 
 ### 🆕 Application Security Engineer II
