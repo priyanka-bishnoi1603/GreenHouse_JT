@@ -1,48 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-09-15": 4
-  },
-  "5361411008": {
-    "first_seen": "2026-09-08T20:18:31.213520+00:00",
-    "updated_at": "2026-08-25T12:49:09-04:00",
-    "title": "Platform Security Engineer, DRTM / Secure Launch",
-    "company": "anthropic",
-    "alerted": true
-  },
-  "8128738": {
-    "first_seen": "2026-09-08T20:18:51.702119+00:00",
-    "updated_at": "2026-08-25T14:36:41-04:00",
-    "title": "Customer Experience Associate, Pathways - New Graduates",
-    "company": "robinhood",
-    "alerted": true
-  },
-  "4691258006": {
-    "first_seen": "2026-09-08T22:51:11.998615+00:00",
-    "updated_at": "2026-07-22T20:13:37-04:00",
-    "title": "IAM Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "5290426008": {
-    "first_seen": "2026-09-08T22:51:12.405024+00:00",
-    "updated_at": "2026-08-21T12:50:31-04:00",
-    "title": "Platform Security Engineering, Operating Systems ",
-    "company": "anthropic",
-    "alerted": true
-  },
-  "5195705008": {
-    "first_seen": "2026-09-08T22:51:12.413240+00:00",
-    "updated_at": "2026-09-01T15:05:47-04:00",
-    "title": "Security Engineer - Threat Intel",
-    "company": "anthropic",
-    "alerted": true
-  },
-  "7808464": {
-    "first_seen": "2026-09-08T22:51:20.242588+00:00",
-    "updated_at": "2026-09-15T11:56:22-04:00",
-    "title": "Global Security Operations Center Operator",
-    "company": "twilio",
-    "alerted": true
+    "2026-09-15": 9
   },
   "4704329006": {
     "first_seen": "2026-09-09T01:00:14.909987+00:00",
@@ -207,7 +165,7 @@
   },
   "8098695": {
     "first_seen": "2026-09-14T23:16:30.928919+00:00",
-    "updated_at": "2026-09-15T09:05:04-04:00",
+    "updated_at": "2026-09-15T17:31:50-04:00",
     "title": "Product Security Engineer, Server",
     "company": "mongodb",
     "alerted": true
@@ -238,6 +196,41 @@
     "updated_at": "2026-09-10T13:11:58-04:00",
     "title": "Cloud Security Engineer",
     "company": "stripe",
+    "alerted": true
+  },
+  "4691258006": {
+    "first_seen": "2026-09-15T22:53:00.448108+00:00",
+    "updated_at": "2026-07-22T20:13:37-04:00",
+    "title": "IAM Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "5361411008": {
+    "first_seen": "2026-09-15T22:53:00.785767+00:00",
+    "updated_at": "2026-08-25T12:49:09-04:00",
+    "title": "Platform Security Engineer, DRTM / Secure Launch",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "5290426008": {
+    "first_seen": "2026-09-15T22:53:00.785901+00:00",
+    "updated_at": "2026-08-21T12:50:31-04:00",
+    "title": "Platform Security Engineering, Operating Systems ",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "5195705008": {
+    "first_seen": "2026-09-15T22:53:00.793515+00:00",
+    "updated_at": "2026-09-01T15:05:47-04:00",
+    "title": "Security Engineer - Threat Intel",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "7808464": {
+    "first_seen": "2026-09-15T22:53:15.136393+00:00",
+    "updated_at": "2026-09-15T11:56:22-04:00",
+    "title": "Global Security Operations Center Operator",
+    "company": "twilio",
     "alerted": true
   }
 }
