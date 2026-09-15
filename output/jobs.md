@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-09-15 16:57 UTC
+
+### 🔄 Incident Response Engineer
+**accenturefederalservices** · 56219060 - AFS Cyber Strategy Risk and Architecture
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4678524006?gh_jid=4678524006)
+🕐 Updated: `2026-09-15T11:30:02-04:00` &nbsp;|&nbsp; ID: `4678524006`
+
+---
+### 🔄 Product Security Engineer, Server
+**mongodb** · Product Security
+📍 New York City; Seattle; United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8098695)
+🕐 Updated: `2026-09-15T09:05:04-04:00` &nbsp;|&nbsp; ID: `8098695`
+
+---
+### 🔄 Global Security Operations Center Operator
+**twilio** · Security
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7808464)
+🕐 Updated: `2026-09-15T11:56:22-04:00` &nbsp;|&nbsp; ID: `7808464`
+
+---
+
 ## 📅 Run: 2026-09-14 23:17 UTC
 
 ### 🆕 Product Security Engineer, Server
