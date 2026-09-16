@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-09-16 06:00 UTC
+
+### 🆕 Security Engineer, Offensive Security
+**anthropic** · Security
+📍 Remote-Friendly, United States; San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5418977008)
+🕐 Updated: `2026-09-10T14:01:17-04:00` &nbsp;|&nbsp; ID: `5418977008`
+
+---
+
 ## 📅 Run: 2026-09-16 01:01 UTC
 
 ### 🆕 Cybersecurity Incident Response Triage Analyst
