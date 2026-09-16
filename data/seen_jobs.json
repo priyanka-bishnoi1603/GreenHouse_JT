@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-09-16": 2
-  },
-  "8189173": {
-    "first_seen": "2026-09-09T18:16:17.885440+00:00",
-    "updated_at": "2026-09-11T11:53:23-04:00",
-    "title": "ISSE/ Cybersecurity Engineer I ",
-    "company": "trace3",
-    "alerted": true
+    "2026-09-16": 3
   },
   "4688933006": {
     "first_seen": "2026-09-09T23:13:38.809109+00:00",
@@ -151,7 +144,7 @@
   },
   "8098695": {
     "first_seen": "2026-09-14T23:16:30.928919+00:00",
-    "updated_at": "2026-09-15T17:31:50-04:00",
+    "updated_at": "2026-09-16T13:28:52-04:00",
     "title": "Product Security Engineer, Server",
     "company": "mongodb",
     "alerted": true
@@ -214,7 +207,7 @@
   },
   "7808464": {
     "first_seen": "2026-09-15T22:53:15.136393+00:00",
-    "updated_at": "2026-09-15T11:56:22-04:00",
+    "updated_at": "2026-09-16T12:19:14-04:00",
     "title": "Global Security Operations Center Operator",
     "company": "twilio",
     "alerted": true
@@ -231,6 +224,13 @@
     "updated_at": "2026-09-10T14:01:17-04:00",
     "title": "Security Engineer, Offensive Security",
     "company": "anthropic",
+    "alerted": true
+  },
+  "8189173": {
+    "first_seen": "2026-09-16T19:01:02.329666+00:00",
+    "updated_at": "2026-09-11T11:53:23-04:00",
+    "title": "ISSE/ Cybersecurity Engineer I ",
+    "company": "trace3",
     "alerted": true
   }
 }

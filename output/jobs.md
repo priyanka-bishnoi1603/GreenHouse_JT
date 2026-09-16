@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-09-16 19:01 UTC
+
+### 🆕 ISSE/ Cybersecurity Engineer I 
+**trace3** · T3 Government
+📍 Colorado Springs, CO &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/trace3/jobs/8189173)
+🕐 Updated: `2026-09-11T11:53:23-04:00` &nbsp;|&nbsp; ID: `8189173`
+
+---
+### 🔄 Product Security Engineer, Server
+**mongodb** · Product Security
+📍 New York City; Seattle; United States &nbsp;|&nbsp; 🔗 [Apply Here](https://www.mongodb.com/careers/job/?gh_jid=8098695)
+🕐 Updated: `2026-09-16T13:28:52-04:00` &nbsp;|&nbsp; ID: `8098695`
+
+---
+### 🔄 Global Security Operations Center Operator
+**twilio** · Security
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7808464)
+🕐 Updated: `2026-09-16T12:19:14-04:00` &nbsp;|&nbsp; ID: `7808464`
+
+---
+
 ## 📅 Run: 2026-09-16 06:00 UTC
 
 ### 🆕 Security Engineer, Offensive Security
