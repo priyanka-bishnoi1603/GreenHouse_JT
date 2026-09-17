@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-09-17": 6
-  },
-  "8142302": {
-    "first_seen": "2026-09-10T20:22:13.373167+00:00",
-    "updated_at": "2026-09-10T14:49:09-04:00",
-    "title": "Security Incident Response Engineer",
-    "company": "stripe",
-    "alerted": true
-  },
-  "8177619": {
-    "first_seen": "2026-09-10T20:22:13.583344+00:00",
-    "updated_at": "2026-09-03T14:02:16-04:00",
-    "title": "Threat Intelligence Platform Engineer",
-    "company": "coinbase",
-    "alerted": true
+    "2026-09-17": 8
   },
   "4728513005": {
     "first_seen": "2026-09-11T09:53:58.681088+00:00",
@@ -46,14 +32,14 @@
   },
   "7743188003": {
     "first_seen": "2026-09-11T20:03:29.233117+00:00",
-    "updated_at": "2026-09-17T14:39:58-04:00",
+    "updated_at": "2026-09-17T14:59:53-04:00",
     "title": "Security Operations Analyst ",
     "company": "huntress",
     "alerted": true
   },
   "7992842003": {
     "first_seen": "2026-09-11T20:03:29.233199+00:00",
-    "updated_at": "2026-09-17T14:39:58-04:00",
+    "updated_at": "2026-09-17T14:59:53-04:00",
     "title": "Security Operations Analyst - Weekend 4x10 Shift ",
     "company": "huntress",
     "alerted": true
@@ -231,6 +217,20 @@
     "updated_at": "2026-09-17T11:26:28-04:00",
     "title": "Security Engineer, Bridge",
     "company": "stripe",
+    "alerted": true
+  },
+  "8142302": {
+    "first_seen": "2026-09-17T21:52:53.745849+00:00",
+    "updated_at": "2026-09-10T14:49:09-04:00",
+    "title": "Security Incident Response Engineer",
+    "company": "stripe",
+    "alerted": true
+  },
+  "8177619": {
+    "first_seen": "2026-09-17T21:52:53.946521+00:00",
+    "updated_at": "2026-09-03T14:02:16-04:00",
+    "title": "Threat Intelligence Platform Engineer",
+    "company": "coinbase",
     "alerted": true
   }
 }

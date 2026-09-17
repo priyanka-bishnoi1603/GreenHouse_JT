@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-09-17 21:53 UTC
+
+### 🆕 Security Incident Response Engineer
+**stripe** · 8611 Security Analytics
+📍 US Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8142302)
+🕐 Updated: `2026-09-10T14:49:09-04:00` &nbsp;|&nbsp; ID: `8142302`
+
+---
+### 🆕 Threat Intelligence Platform Engineer
+**coinbase** · Engineering - Security
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8177619?gh_jid=8177619)
+🕐 Updated: `2026-09-03T14:02:16-04:00` &nbsp;|&nbsp; ID: `8177619`
+
+---
+### 🔄 Security Operations Analyst 
+**huntress** · Security Analysis
+📍 Remote US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7743188003)
+🕐 Updated: `2026-09-17T14:59:53-04:00` &nbsp;|&nbsp; ID: `7743188003`
+
+---
+### 🔄 Security Operations Analyst - Weekend 4x10 Shift 
+**huntress** · Security Analysis
+📍 Remote US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7992842003)
+🕐 Updated: `2026-09-17T14:59:53-04:00` &nbsp;|&nbsp; ID: `7992842003`
+
+---
+
 ## 📅 Run: 2026-09-17 18:54 UTC
 
 ### 🆕 Security Engineer, Bridge
