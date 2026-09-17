@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-09-16": 3
-  },
-  "4688933006": {
-    "first_seen": "2026-09-09T23:13:38.809109+00:00",
-    "updated_at": "2026-09-02T17:00:42-04:00",
-    "title": "Information System Security Engineer ",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-09-17": 1
   },
   "8174965": {
     "first_seen": "2026-09-10T01:05:57.965193+00:00",
@@ -231,6 +224,13 @@
     "updated_at": "2026-09-11T11:53:23-04:00",
     "title": "ISSE/ Cybersecurity Engineer I ",
     "company": "trace3",
+    "alerted": true
+  },
+  "4688933006": {
+    "first_seen": "2026-09-17T00:30:11.409995+00:00",
+    "updated_at": "2026-09-02T17:00:42-04:00",
+    "title": "Information System Security Engineer ",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }
