@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-09-17 18:54 UTC
+
+### 🆕 Security Engineer, Bridge
+**stripe** · 8504 Bridge - R&D
+📍 SF, New York, Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7776179)
+🕐 Updated: `2026-09-17T11:26:28-04:00` &nbsp;|&nbsp; ID: `7776179`
+
+---
+### 🔄 Security Operations Analyst 
+**huntress** · Security Analysis
+📍 Remote US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7743188003)
+🕐 Updated: `2026-09-17T14:39:58-04:00` &nbsp;|&nbsp; ID: `7743188003`
+
+---
+### 🔄 Security Operations Analyst - Weekend 4x10 Shift 
+**huntress** · Security Analysis
+📍 Remote US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7992842003)
+🕐 Updated: `2026-09-17T14:39:58-04:00` &nbsp;|&nbsp; ID: `7992842003`
+
+---
+
 ## 📅 Run: 2026-09-17 14:59 UTC
 
 ### 🆕 Security Engineer 2 - Cyber Threat Intelligence
