@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-09-17": 1
-  },
-  "8174965": {
-    "first_seen": "2026-09-10T01:05:57.965193+00:00",
-    "updated_at": "2026-09-10T13:11:58-04:00",
-    "title": "Security Engineer ",
-    "company": "stripe",
-    "alerted": true
+    "2026-09-17": 2
   },
   "4690064006": {
     "first_seen": "2026-09-10T05:57:41.682730+00:00",
@@ -231,6 +224,13 @@
     "updated_at": "2026-09-02T17:00:42-04:00",
     "title": "Information System Security Engineer ",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "8174965": {
+    "first_seen": "2026-09-17T05:13:17.120055+00:00",
+    "updated_at": "2026-09-10T13:11:58-04:00",
+    "title": "Security Engineer ",
+    "company": "stripe",
     "alerted": true
   }
 }
