@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-09-17": 3
-  },
-  "7982345": {
-    "first_seen": "2026-09-10T14:45:09.164091+00:00",
-    "updated_at": "2026-09-15T13:24:16-04:00",
-    "title": "Security Engineer 2 - Cyber Threat Intelligence",
-    "company": "datadog",
-    "alerted": true
-  },
-  "4982193008": {
-    "first_seen": "2026-09-10T14:45:11.128291+00:00",
-    "updated_at": "2026-08-21T12:49:45-04:00",
-    "title": "Security Engineer, Detection & Response",
-    "company": "anthropic",
-    "alerted": true
+    "2026-09-17": 5
   },
   "8142302": {
     "first_seen": "2026-09-10T20:22:13.373167+00:00",
@@ -224,6 +210,20 @@
     "updated_at": "2026-09-10T13:11:58-04:00",
     "title": "Client Platform Security Engineer",
     "company": "stripe",
+    "alerted": true
+  },
+  "7982345": {
+    "first_seen": "2026-09-17T14:58:58.993143+00:00",
+    "updated_at": "2026-09-15T13:24:16-04:00",
+    "title": "Security Engineer 2 - Cyber Threat Intelligence",
+    "company": "datadog",
+    "alerted": true
+  },
+  "4982193008": {
+    "first_seen": "2026-09-17T14:59:00.859993+00:00",
+    "updated_at": "2026-08-21T12:49:45-04:00",
+    "title": "Security Engineer, Detection & Response",
+    "company": "anthropic",
     "alerted": true
   }
 }
