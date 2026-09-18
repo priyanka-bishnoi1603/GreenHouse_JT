@@ -1,24 +1,17 @@
 {
   "__daily_alerts__": {
-    "2026-09-18": 2
-  },
-  "4709205006": {
-    "first_seen": "2026-09-11T17:44:22.879389+00:00",
-    "updated_at": "2026-09-04T11:11:37-04:00",
-    "title": " Application Security Engineer ",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-09-18": 3
   },
   "7743188003": {
     "first_seen": "2026-09-11T20:03:29.233117+00:00",
-    "updated_at": "2026-09-17T14:59:53-04:00",
+    "updated_at": "2026-09-18T13:23:50-04:00",
     "title": "Security Operations Analyst ",
     "company": "huntress",
     "alerted": true
   },
   "7992842003": {
     "first_seen": "2026-09-11T20:03:29.233199+00:00",
-    "updated_at": "2026-09-17T14:59:53-04:00",
+    "updated_at": "2026-09-18T13:31:58-04:00",
     "title": "Security Operations Analyst - Weekend 4x10 Shift ",
     "company": "huntress",
     "alerted": true
@@ -224,6 +217,13 @@
     "updated_at": "2026-09-10T13:11:58-04:00",
     "title": "Security Engineer, Privy",
     "company": "stripe",
+    "alerted": true
+  },
+  "4712847006": {
+    "first_seen": "2026-09-18T19:24:58.879114+00:00",
+    "updated_at": "2026-09-18T14:44:20-04:00",
+    "title": "Application Security Engineer",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }

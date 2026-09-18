@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-09-18 19:25 UTC
+
+### 🆕 Application Security Engineer
+**accenturefederalservices** · 60024445 - AFS Cyber Mission
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4712847006?gh_jid=4712847006)
+🕐 Updated: `2026-09-18T14:44:20-04:00` &nbsp;|&nbsp; ID: `4712847006`
+
+---
+### 🔄 Security Operations Analyst 
+**huntress** · Security Analysis
+📍 Remote US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7743188003)
+🕐 Updated: `2026-09-18T13:23:50-04:00` &nbsp;|&nbsp; ID: `7743188003`
+
+---
+### 🔄 Security Operations Analyst - Weekend 4x10 Shift 
+**huntress** · Security Analysis
+📍 Remote US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7992842003)
+🕐 Updated: `2026-09-18T13:31:58-04:00` &nbsp;|&nbsp; ID: `7992842003`
+
+---
+
 ## 📅 Run: 2026-09-18 16:55 UTC
 
 ### 🔄 Client Platform Security Engineer
