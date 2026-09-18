@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-09-18 12:54 UTC
+
+### 🆕 Application Security Engineer
+**gleanwork** · Engineering
+📍 United States, Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4728513005)
+🕐 Updated: `2026-08-28T20:41:07-04:00` &nbsp;|&nbsp; ID: `4728513005`
+
+---
+### 🆕 Security Engineer, Privy
+**stripe** · 9001 Privy - R&D
+📍 NYC-Privy &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8073092)
+🕐 Updated: `2026-09-10T13:11:58-04:00` &nbsp;|&nbsp; ID: `8073092`
+
+---
+
 ## 📅 Run: 2026-09-17 21:53 UTC
 
 ### 🆕 Security Incident Response Engineer
