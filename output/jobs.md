@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-09-18 23:50 UTC
+
+### 🔄 Developer Support Associate (New Grad)
+**okta** · Customer Support-740
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8191506?gh_jid=8191506)
+🕐 Updated: `2026-09-18T19:45:20-04:00` &nbsp;|&nbsp; ID: `8191506`
+
+---
+
 ## 📅 Run: 2026-09-18 21:46 UTC
 
 ### 🆕 Security Operations Analyst 
