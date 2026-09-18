@@ -1,27 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-09-18": 3
-  },
-  "7743188003": {
-    "first_seen": "2026-09-11T20:03:29.233117+00:00",
-    "updated_at": "2026-09-18T13:23:50-04:00",
-    "title": "Security Operations Analyst ",
-    "company": "huntress",
-    "alerted": true
-  },
-  "7992842003": {
-    "first_seen": "2026-09-11T20:03:29.233199+00:00",
-    "updated_at": "2026-09-18T13:31:58-04:00",
-    "title": "Security Operations Analyst - Weekend 4x10 Shift ",
-    "company": "huntress",
-    "alerted": true
-  },
-  "8487754002": {
-    "first_seen": "2026-09-11T20:03:37.155532+00:00",
-    "updated_at": "2026-09-08T12:49:58-04:00",
-    "title": "Enterprise Security Engineer",
-    "company": "sendbird",
-    "alerted": true
+    "2026-09-18": 6
   },
   "7832743003": {
     "first_seen": "2026-09-12T05:03:10.031271+00:00",
@@ -123,7 +102,7 @@
   },
   "7808464": {
     "first_seen": "2026-09-15T22:53:15.136393+00:00",
-    "updated_at": "2026-09-16T12:19:14-04:00",
+    "updated_at": "2026-09-18T17:23:31-04:00",
     "title": "Global Security Operations Center Operator",
     "company": "twilio",
     "alerted": true
@@ -172,7 +151,7 @@
   },
   "7982345": {
     "first_seen": "2026-09-17T14:58:58.993143+00:00",
-    "updated_at": "2026-09-15T13:24:16-04:00",
+    "updated_at": "2026-09-18T14:57:30-04:00",
     "title": "Security Engineer 2 - Cyber Threat Intelligence",
     "company": "datadog",
     "alerted": true
@@ -224,6 +203,27 @@
     "updated_at": "2026-09-18T14:44:20-04:00",
     "title": "Application Security Engineer",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "7743188003": {
+    "first_seen": "2026-09-18T21:46:08.449081+00:00",
+    "updated_at": "2026-09-18T13:23:50-04:00",
+    "title": "Security Operations Analyst ",
+    "company": "huntress",
+    "alerted": true
+  },
+  "7992842003": {
+    "first_seen": "2026-09-18T21:46:08.449151+00:00",
+    "updated_at": "2026-09-18T13:31:58-04:00",
+    "title": "Security Operations Analyst - Weekend 4x10 Shift ",
+    "company": "huntress",
+    "alerted": true
+  },
+  "8487754002": {
+    "first_seen": "2026-09-18T21:46:20.222409+00:00",
+    "updated_at": "2026-09-08T12:49:58-04:00",
+    "title": "Enterprise Security Engineer",
+    "company": "sendbird",
     "alerted": true
   }
 }
