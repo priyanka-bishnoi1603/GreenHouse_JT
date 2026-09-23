@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-09-23": 2
+    "2026-09-23": 3
   },
   "4688933006": {
     "first_seen": "2026-09-17T00:30:11.409995+00:00",
@@ -95,7 +95,7 @@
   },
   "8487754002": {
     "first_seen": "2026-09-18T21:46:20.222409+00:00",
-    "updated_at": "2026-09-08T12:49:58-04:00",
+    "updated_at": "2026-09-23T17:27:54-04:00",
     "title": "Enterprise Security Engineer",
     "company": "sendbird",
     "alerted": true
@@ -203,6 +203,13 @@
     "updated_at": "2026-09-23T15:01:33-04:00",
     "title": "Security Engineer, Detect & Respond ",
     "company": "betterment",
+    "alerted": true
+  },
+  "8172503": {
+    "first_seen": "2026-09-23T22:27:16.420863+00:00",
+    "updated_at": "2026-09-23T16:29:25-04:00",
+    "title": "Offensive Security Engineer",
+    "company": "stripe",
     "alerted": true
   }
 }
