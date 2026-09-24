@@ -2,13 +2,6 @@
   "__daily_alerts__": {
     "2026-09-24": 4
   },
-  "7776179": {
-    "first_seen": "2026-09-17T18:54:03.039532+00:00",
-    "updated_at": "2026-09-17T11:26:28-04:00",
-    "title": "Security Engineer, Bridge",
-    "company": "stripe",
-    "alerted": true
-  },
   "8142302": {
     "first_seen": "2026-09-17T21:52:53.745849+00:00",
     "updated_at": "2026-09-10T14:49:09-04:00",
@@ -46,14 +39,14 @@
   },
   "7743188003": {
     "first_seen": "2026-09-18T21:46:08.449081+00:00",
-    "updated_at": "2026-09-18T13:23:50-04:00",
+    "updated_at": "2026-09-24T14:12:13-04:00",
     "title": "Security Operations Analyst ",
     "company": "huntress",
     "alerted": true
   },
   "7992842003": {
     "first_seen": "2026-09-18T21:46:08.449151+00:00",
-    "updated_at": "2026-09-18T13:31:58-04:00",
+    "updated_at": "2026-09-24T14:12:13-04:00",
     "title": "Security Operations Analyst - Weekend 4x10 Shift ",
     "company": "huntress",
     "alerted": true

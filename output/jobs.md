@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-09-24 19:22 UTC
+
+### 🔄 Security Operations Analyst 
+**huntress** · Security Analysis
+📍 Remote US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7743188003)
+🕐 Updated: `2026-09-24T14:12:13-04:00` &nbsp;|&nbsp; ID: `7743188003`
+
+---
+### 🔄 Security Operations Analyst - Weekend 4x10 Shift 
+**huntress** · Security Analysis
+📍 Remote US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7992842003)
+🕐 Updated: `2026-09-24T14:12:13-04:00` &nbsp;|&nbsp; ID: `7992842003`
+
+---
+
 ## 📅 Run: 2026-09-24 15:22 UTC
 
 ### 🆕 Security Engineer 2 - Cyber Threat Intelligence
