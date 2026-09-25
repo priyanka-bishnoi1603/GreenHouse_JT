@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-09-25 19:34 UTC
+
+### 🆕 Application Security Engineer
+**accenturefederalservices** · 60024445 - AFS Cyber Mission
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4712847006?gh_jid=4712847006)
+🕐 Updated: `2026-09-18T14:44:20-04:00` &nbsp;|&nbsp; ID: `4712847006`
+
+---
+### 🆕 Cybersecurity Engineer
+**accenturefederalservices** · 60024445 - AFS Cyber Mission
+📍 San Diego, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4690064006?gh_jid=4690064006)
+🕐 Updated: `2026-09-25T13:36:55-04:00` &nbsp;|&nbsp; ID: `4690064006`
+
+---
+### 🆕 Offensive Security Engineer
+**stripe** · 8611 Security Analytics
+📍 US - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8233889)
+🕐 Updated: `2026-09-25T14:53:02-04:00` &nbsp;|&nbsp; ID: `8233889`
+
+---
+### 🔄 Abuse Research Engineer
+**stripe** · 8611 Security Analytics
+📍 Remote from the US &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8172503)
+🕐 Updated: `2026-09-25T15:25:07-04:00` &nbsp;|&nbsp; ID: `8172503`
+
+---
+
 ## 📅 Run: 2026-09-25 15:34 UTC
 
 ### 🆕 Application Security Engineer
