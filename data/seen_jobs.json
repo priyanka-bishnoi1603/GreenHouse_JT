@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-09-24": 5
-  },
-  "4728513005": {
-    "first_seen": "2026-09-18T12:53:56.106565+00:00",
-    "updated_at": "2026-08-28T20:41:07-04:00",
-    "title": "Application Security Engineer",
-    "company": "gleanwork",
-    "alerted": true
-  },
-  "8073092": {
-    "first_seen": "2026-09-18T12:53:57.324643+00:00",
-    "updated_at": "2026-09-10T13:11:58-04:00",
-    "title": "Security Engineer, Privy",
-    "company": "stripe",
-    "alerted": true
+    "2026-09-25": 1
   },
   "4712847006": {
     "first_seen": "2026-09-18T19:24:58.879114+00:00",
@@ -130,7 +116,7 @@
   },
   "7808464": {
     "first_seen": "2026-09-22T22:56:38.784290+00:00",
-    "updated_at": "2026-09-18T17:23:31-04:00",
+    "updated_at": "2026-09-25T10:14:27-04:00",
     "title": "Global Security Operations Center Operator",
     "company": "twilio",
     "alerted": true
@@ -165,7 +151,7 @@
   },
   "7982720": {
     "first_seen": "2026-09-24T10:24:52.970829+00:00",
-    "updated_at": "2026-09-22T10:51:49-04:00",
+    "updated_at": "2026-09-25T11:06:59-04:00",
     "title": "Client Platform Security Engineer",
     "company": "stripe",
     "alerted": true
@@ -189,6 +175,13 @@
     "updated_at": "2026-09-03T14:02:16-04:00",
     "title": "Threat Intelligence Platform Engineer",
     "company": "coinbase",
+    "alerted": true
+  },
+  "4728513005": {
+    "first_seen": "2026-09-25T15:34:03.964946+00:00",
+    "updated_at": "2026-08-28T20:41:07-04:00",
+    "title": "Application Security Engineer",
+    "company": "gleanwork",
     "alerted": true
   }
 }

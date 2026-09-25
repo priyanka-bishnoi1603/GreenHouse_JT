@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-09-25 15:34 UTC
+
+### 🆕 Application Security Engineer
+**gleanwork** · Engineering
+📍 United States, Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4728513005)
+🕐 Updated: `2026-08-28T20:41:07-04:00` &nbsp;|&nbsp; ID: `4728513005`
+
+---
+### 🔄 Client Platform Security Engineer
+**stripe** · 8612 Security Infrastructure
+📍 New York, New York  &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7982720)
+🕐 Updated: `2026-09-25T11:06:59-04:00` &nbsp;|&nbsp; ID: `7982720`
+
+---
+### 🔄 Global Security Operations Center Operator
+**twilio** · Security
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7808464)
+🕐 Updated: `2026-09-25T10:14:27-04:00` &nbsp;|&nbsp; ID: `7808464`
+
+---
+
 ## 📅 Run: 2026-09-24 22:36 UTC
 
 ### 🆕 Threat Intelligence Platform Engineer
