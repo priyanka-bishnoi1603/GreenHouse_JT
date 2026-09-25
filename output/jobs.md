@@ -2,6 +2,57 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-09-25 22:49 UTC
+
+### 🆕 Security Operations Analyst 
+**huntress** · Security Analysis
+📍 Remote US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7743188003)
+🕐 Updated: `2026-09-24T14:12:13-04:00` &nbsp;|&nbsp; ID: `7743188003`
+
+---
+### 🆕 Security Operations Analyst - Weekend 4x10 Shift 
+**huntress** · Security Analysis
+📍 Remote US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7992842003)
+🕐 Updated: `2026-09-24T14:12:13-04:00` &nbsp;|&nbsp; ID: `7992842003`
+
+---
+### 🆕 Enterprise Security Engineer
+**sendbird** · Security and IT
+📍 San Mateo, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://sendbird.com/careers?gh_jid=8487754002)
+🕐 Updated: `2026-09-23T17:27:54-04:00` &nbsp;|&nbsp; ID: `8487754002`
+
+---
+### 🔄 Cybersecurity Engineer
+**accenturefederalservices** · 60024445 - AFS Cyber Mission
+📍 San Diego, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4690064006?gh_jid=4690064006)
+🕐 Updated: `2026-09-25T15:36:33-04:00` &nbsp;|&nbsp; ID: `4690064006`
+
+---
+### 🔄 Abuse Research Engineer
+**stripe** · 8611 Security Analytics
+📍 Remote from the US &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8172503)
+🕐 Updated: `2026-09-25T16:45:00-04:00` &nbsp;|&nbsp; ID: `8172503`
+
+---
+### 🔄 Client Platform Security Engineer
+**stripe** · 8612 Security Infrastructure
+📍 New York, New York  &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7982720)
+🕐 Updated: `2026-09-25T16:44:45-04:00` &nbsp;|&nbsp; ID: `7982720`
+
+---
+### 🔄 Cloud Security Engineer
+**stripe** · 8614 Office of the CISO & Partnership
+📍 Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7867389)
+🕐 Updated: `2026-09-25T16:44:40-04:00` &nbsp;|&nbsp; ID: `7867389`
+
+---
+### 🔄 Offensive Security Engineer
+**stripe** · 8611 Security Analytics
+📍 US - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8233889)
+🕐 Updated: `2026-09-25T16:45:09-04:00` &nbsp;|&nbsp; ID: `8233889`
+
+---
+
 ## 📅 Run: 2026-09-25 19:34 UTC
 
 ### 🆕 Application Security Engineer

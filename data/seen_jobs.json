@@ -1,27 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-09-25": 4
-  },
-  "7743188003": {
-    "first_seen": "2026-09-18T21:46:08.449081+00:00",
-    "updated_at": "2026-09-24T14:12:13-04:00",
-    "title": "Security Operations Analyst ",
-    "company": "huntress",
-    "alerted": true
-  },
-  "7992842003": {
-    "first_seen": "2026-09-18T21:46:08.449151+00:00",
-    "updated_at": "2026-09-24T14:12:13-04:00",
-    "title": "Security Operations Analyst - Weekend 4x10 Shift ",
-    "company": "huntress",
-    "alerted": true
-  },
-  "8487754002": {
-    "first_seen": "2026-09-18T21:46:20.222409+00:00",
-    "updated_at": "2026-09-23T17:27:54-04:00",
-    "title": "Enterprise Security Engineer",
-    "company": "sendbird",
-    "alerted": true
+    "2026-09-25": 7
   },
   "7832743003": {
     "first_seen": "2026-09-19T07:45:50.482752+00:00",
@@ -81,7 +60,7 @@
   },
   "7867389": {
     "first_seen": "2026-09-22T20:11:28.631517+00:00",
-    "updated_at": "2026-09-10T13:11:58-04:00",
+    "updated_at": "2026-09-25T16:44:40-04:00",
     "title": "Cloud Security Engineer",
     "company": "stripe",
     "alerted": true
@@ -130,7 +109,7 @@
   },
   "8172503": {
     "first_seen": "2026-09-23T22:27:16.420863+00:00",
-    "updated_at": "2026-09-25T15:25:07-04:00",
+    "updated_at": "2026-09-25T16:45:00-04:00",
     "title": "Abuse Research Engineer",
     "company": "stripe",
     "alerted": true
@@ -144,7 +123,7 @@
   },
   "7982720": {
     "first_seen": "2026-09-24T10:24:52.970829+00:00",
-    "updated_at": "2026-09-25T11:06:59-04:00",
+    "updated_at": "2026-09-25T16:44:45-04:00",
     "title": "Client Platform Security Engineer",
     "company": "stripe",
     "alerted": true
@@ -186,16 +165,37 @@
   },
   "4690064006": {
     "first_seen": "2026-09-25T19:33:55.703133+00:00",
-    "updated_at": "2026-09-25T13:36:55-04:00",
+    "updated_at": "2026-09-25T15:36:33-04:00",
     "title": "Cybersecurity Engineer",
     "company": "accenturefederalservices",
     "alerted": true
   },
   "8233889": {
     "first_seen": "2026-09-25T19:33:57.664790+00:00",
-    "updated_at": "2026-09-25T14:53:02-04:00",
+    "updated_at": "2026-09-25T16:45:09-04:00",
     "title": "Offensive Security Engineer",
     "company": "stripe",
+    "alerted": true
+  },
+  "7743188003": {
+    "first_seen": "2026-09-25T22:49:07.818451+00:00",
+    "updated_at": "2026-09-24T14:12:13-04:00",
+    "title": "Security Operations Analyst ",
+    "company": "huntress",
+    "alerted": true
+  },
+  "7992842003": {
+    "first_seen": "2026-09-25T22:49:07.818552+00:00",
+    "updated_at": "2026-09-24T14:12:13-04:00",
+    "title": "Security Operations Analyst - Weekend 4x10 Shift ",
+    "company": "huntress",
+    "alerted": true
+  },
+  "8487754002": {
+    "first_seen": "2026-09-25T22:49:17.188236+00:00",
+    "updated_at": "2026-09-23T17:27:54-04:00",
+    "title": "Enterprise Security Engineer",
+    "company": "sendbird",
     "alerted": true
   }
 }
