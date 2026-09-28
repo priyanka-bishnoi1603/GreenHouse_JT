@@ -2,6 +2,57 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-09-28 19:35 UTC
+
+### 🆕 FedRAMP High Template
+**okta** · SW Eng - Applications-674
+📍 Bellevue, Washington; San Francisco, California &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/8237524?gh_jid=8237524)
+🕐 Updated: `2026-09-28T15:03:38-04:00` &nbsp;|&nbsp; ID: `8237524`
+
+---
+### 🆕 Cybersecurity Engineer
+**accenturefederalservices** · 56219060 - AFS Cyber Strategy Risk and Architecture
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4677515006?gh_jid=4677515006)
+🕐 Updated: `2026-09-28T15:29:58-04:00` &nbsp;|&nbsp; ID: `4677515006`
+
+---
+### 🔄 Security & Compliance Analyst, Public Sector 
+**abnormalsecurity** · Security
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7979987003?gh_jid=7979987003)
+🕐 Updated: `2026-09-28T10:22:19-04:00` &nbsp;|&nbsp; ID: `7979987003`
+
+---
+### 🔄 Application Security Engineer
+**accenturefederalservices** · 60024445 - AFS Cyber Mission
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4712847006?gh_jid=4712847006)
+🕐 Updated: `2026-09-28T15:29:58-04:00` &nbsp;|&nbsp; ID: `4712847006`
+
+---
+### 🔄 Cybersecurity Engineer
+**accenturefederalservices** · 60024445 - AFS Cyber Mission
+📍 San Diego, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4690064006?gh_jid=4690064006)
+🕐 Updated: `2026-09-28T15:29:58-04:00` &nbsp;|&nbsp; ID: `4690064006`
+
+---
+### 🔄 IAM Engineer
+**accenturefederalservices** · 60035741 - AFS Identity and Trust
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4691258006?gh_jid=4691258006)
+🕐 Updated: `2026-09-28T15:29:58-04:00` &nbsp;|&nbsp; ID: `4691258006`
+
+---
+### 🔄 Incident Response Engineer
+**accenturefederalservices** · 56219060 - AFS Cyber Strategy Risk and Architecture
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4678524006?gh_jid=4678524006)
+🕐 Updated: `2026-09-28T15:29:58-04:00` &nbsp;|&nbsp; ID: `4678524006`
+
+---
+### 🔄 Information System Security Engineer 
+**accenturefederalservices** · 56219060 - AFS Cyber Strategy Risk and Architecture
+📍 Colorado Springs, CO &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4688933006?gh_jid=4688933006)
+🕐 Updated: `2026-09-28T15:29:58-04:00` &nbsp;|&nbsp; ID: `4688933006`
+
+---
+
 ## 📅 Run: 2026-09-26 11:22 UTC
 
 ### 🆕 Application Security Engineer II

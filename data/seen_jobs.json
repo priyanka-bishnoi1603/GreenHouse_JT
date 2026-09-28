@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-09-26": 2
+    "2026-09-28": 2
   },
   "8191506": {
     "first_seen": "2026-09-21T23:15:53.515183+00:00",
@@ -18,8 +18,8 @@
   },
   "7979987003": {
     "first_seen": "2026-09-22T20:11:17.256163+00:00",
-    "updated_at": "2026-09-22T15:53:55-04:00",
-    "title": "FedRamp Compliance Analyst",
+    "updated_at": "2026-09-28T10:22:19-04:00",
+    "title": "Security & Compliance Analyst, Public Sector ",
     "company": "abnormalsecurity",
     "alerted": true
   },
@@ -32,7 +32,7 @@
   },
   "4678524006": {
     "first_seen": "2026-09-22T20:11:23.799149+00:00",
-    "updated_at": "2026-09-15T13:01:26-04:00",
+    "updated_at": "2026-09-28T15:29:58-04:00",
     "title": "Incident Response Engineer",
     "company": "accenturefederalservices",
     "alerted": true
@@ -46,7 +46,7 @@
   },
   "4691258006": {
     "first_seen": "2026-09-22T22:56:26.115548+00:00",
-    "updated_at": "2026-07-22T20:13:37-04:00",
+    "updated_at": "2026-09-28T15:29:58-04:00",
     "title": "IAM Engineer",
     "company": "accenturefederalservices",
     "alerted": true
@@ -95,7 +95,7 @@
   },
   "4688933006": {
     "first_seen": "2026-09-24T00:44:13.772386+00:00",
-    "updated_at": "2026-09-02T17:00:42-04:00",
+    "updated_at": "2026-09-28T15:29:58-04:00",
     "title": "Information System Security Engineer ",
     "company": "accenturefederalservices",
     "alerted": true
@@ -137,14 +137,14 @@
   },
   "4712847006": {
     "first_seen": "2026-09-25T19:33:55.697132+00:00",
-    "updated_at": "2026-09-18T14:44:20-04:00",
+    "updated_at": "2026-09-28T15:29:58-04:00",
     "title": "Application Security Engineer",
     "company": "accenturefederalservices",
     "alerted": true
   },
   "4690064006": {
     "first_seen": "2026-09-25T19:33:55.703133+00:00",
-    "updated_at": "2026-09-25T15:36:33-04:00",
+    "updated_at": "2026-09-28T15:29:58-04:00",
     "title": "Cybersecurity Engineer",
     "company": "accenturefederalservices",
     "alerted": true
@@ -189,6 +189,20 @@
     "updated_at": "2026-08-21T12:50:27-04:00",
     "title": "Platform Security Engineer, OpenBMC",
     "company": "anthropic",
+    "alerted": true
+  },
+  "8237524": {
+    "first_seen": "2026-09-28T19:34:33.983959+00:00",
+    "updated_at": "2026-09-28T15:03:38-04:00",
+    "title": "FedRAMP High Template",
+    "company": "okta",
+    "alerted": true
+  },
+  "4677515006": {
+    "first_seen": "2026-09-28T19:35:13.491320+00:00",
+    "updated_at": "2026-09-28T15:29:58-04:00",
+    "title": "Cybersecurity Engineer",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }
