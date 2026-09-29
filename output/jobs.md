@@ -2,6 +2,51 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-09-29 16:46 UTC
+
+### 🔄 Application Security Engineer
+**accenturefederalservices** · 60024445 - AFS Cyber Mission
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4712847006?gh_jid=4712847006)
+🕐 Updated: `2026-09-29T12:07:58-04:00` &nbsp;|&nbsp; ID: `4712847006`
+
+---
+### 🔄 Cybersecurity Engineer
+**accenturefederalservices** · 60024445 - AFS Cyber Mission
+📍 San Diego, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4690064006?gh_jid=4690064006)
+🕐 Updated: `2026-09-29T12:17:57-04:00` &nbsp;|&nbsp; ID: `4690064006`
+
+---
+### 🔄 Cybersecurity Engineer
+**accenturefederalservices** · 56219060 - AFS Cyber Strategy Risk and Architecture
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4677515006?gh_jid=4677515006)
+🕐 Updated: `2026-09-29T12:07:58-04:00` &nbsp;|&nbsp; ID: `4677515006`
+
+---
+### 🔄 IAM Engineer
+**accenturefederalservices** · 60035741 - AFS Identity and Trust
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4691258006?gh_jid=4691258006)
+🕐 Updated: `2026-09-29T12:07:58-04:00` &nbsp;|&nbsp; ID: `4691258006`
+
+---
+### 🔄 Incident Response Engineer
+**accenturefederalservices** · 56219060 - AFS Cyber Strategy Risk and Architecture
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4678524006?gh_jid=4678524006)
+🕐 Updated: `2026-09-29T12:07:58-04:00` &nbsp;|&nbsp; ID: `4678524006`
+
+---
+### 🔄 Information System Security Engineer 
+**accenturefederalservices** · 56219060 - AFS Cyber Strategy Risk and Architecture
+📍 Colorado Springs, CO &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4688933006?gh_jid=4688933006)
+🕐 Updated: `2026-09-29T12:07:58-04:00` &nbsp;|&nbsp; ID: `4688933006`
+
+---
+### 🔄 Global Security Operations Center Operator
+**twilio** · Security
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7808464)
+🕐 Updated: `2026-09-29T12:13:45-04:00` &nbsp;|&nbsp; ID: `7808464`
+
+---
+
 ## 📅 Run: 2026-09-29 04:24 UTC
 
 ### 🔄 Application Security Engineer

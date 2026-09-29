@@ -25,7 +25,7 @@
   },
   "4678524006": {
     "first_seen": "2026-09-22T20:11:23.799149+00:00",
-    "updated_at": "2026-09-28T20:32:10-04:00",
+    "updated_at": "2026-09-29T12:07:58-04:00",
     "title": "Incident Response Engineer",
     "company": "accenturefederalservices",
     "alerted": true
@@ -39,7 +39,7 @@
   },
   "4691258006": {
     "first_seen": "2026-09-22T22:56:26.115548+00:00",
-    "updated_at": "2026-09-28T20:32:10-04:00",
+    "updated_at": "2026-09-29T12:07:58-04:00",
     "title": "IAM Engineer",
     "company": "accenturefederalservices",
     "alerted": true
@@ -60,7 +60,7 @@
   },
   "7808464": {
     "first_seen": "2026-09-22T22:56:38.784290+00:00",
-    "updated_at": "2026-09-28T16:36:16-04:00",
+    "updated_at": "2026-09-29T12:13:45-04:00",
     "title": "Global Security Operations Center Operator",
     "company": "twilio",
     "alerted": true
@@ -88,7 +88,7 @@
   },
   "4688933006": {
     "first_seen": "2026-09-24T00:44:13.772386+00:00",
-    "updated_at": "2026-09-28T20:32:10-04:00",
+    "updated_at": "2026-09-29T12:07:58-04:00",
     "title": "Information System Security Engineer ",
     "company": "accenturefederalservices",
     "alerted": true
@@ -130,14 +130,14 @@
   },
   "4712847006": {
     "first_seen": "2026-09-25T19:33:55.697132+00:00",
-    "updated_at": "2026-09-28T20:32:10-04:00",
+    "updated_at": "2026-09-29T12:07:58-04:00",
     "title": "Application Security Engineer",
     "company": "accenturefederalservices",
     "alerted": true
   },
   "4690064006": {
     "first_seen": "2026-09-25T19:33:55.703133+00:00",
-    "updated_at": "2026-09-28T20:32:10-04:00",
+    "updated_at": "2026-09-29T12:17:57-04:00",
     "title": "Cybersecurity Engineer",
     "company": "accenturefederalservices",
     "alerted": true
@@ -193,7 +193,7 @@
   },
   "4677515006": {
     "first_seen": "2026-09-28T19:35:13.491320+00:00",
-    "updated_at": "2026-09-28T20:32:10-04:00",
+    "updated_at": "2026-09-29T12:07:58-04:00",
     "title": "Cybersecurity Engineer",
     "company": "accenturefederalservices",
     "alerted": true
