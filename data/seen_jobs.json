@@ -1,45 +1,10 @@
 {
   "__daily_alerts__": {
-    "2026-09-28": 3
-  },
-  "8176398": {
-    "first_seen": "2026-09-22T17:07:48.971621+00:00",
-    "updated_at": "2026-09-24T06:20:06-04:00",
-    "title": "Cloud Security Intern",
-    "company": "tanium",
-    "alerted": true
-  },
-  "7979987003": {
-    "first_seen": "2026-09-22T20:11:17.256163+00:00",
-    "updated_at": "2026-09-28T10:22:19-04:00",
-    "title": "Security & Compliance Analyst, Public Sector ",
-    "company": "abnormalsecurity",
-    "alerted": true
-  },
-  "7833761": {
-    "first_seen": "2026-09-22T20:11:20.388777+00:00",
-    "updated_at": "2026-06-23T13:56:08-04:00",
-    "title": "Delivery Engineer | Splunk (W2PE)",
-    "company": "trace3",
-    "alerted": true
-  },
-  "4678524006": {
-    "first_seen": "2026-09-22T20:11:23.799149+00:00",
-    "updated_at": "2026-09-29T12:07:58-04:00",
-    "title": "Incident Response Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "7867389": {
-    "first_seen": "2026-09-22T20:11:28.631517+00:00",
-    "updated_at": "2026-09-25T16:44:40-04:00",
-    "title": "Cloud Security Engineer",
-    "company": "stripe",
-    "alerted": true
+    "2026-09-29": 4
   },
   "4691258006": {
     "first_seen": "2026-09-22T22:56:26.115548+00:00",
-    "updated_at": "2026-09-29T12:07:58-04:00",
+    "updated_at": "2026-09-29T17:08:57-04:00",
     "title": "IAM Engineer",
     "company": "accenturefederalservices",
     "alerted": true
@@ -88,7 +53,7 @@
   },
   "4688933006": {
     "first_seen": "2026-09-24T00:44:13.772386+00:00",
-    "updated_at": "2026-09-29T12:07:58-04:00",
+    "updated_at": "2026-09-29T17:08:57-04:00",
     "title": "Information System Security Engineer ",
     "company": "accenturefederalservices",
     "alerted": true
@@ -130,14 +95,14 @@
   },
   "4712847006": {
     "first_seen": "2026-09-25T19:33:55.697132+00:00",
-    "updated_at": "2026-09-29T12:07:58-04:00",
+    "updated_at": "2026-09-29T17:08:57-04:00",
     "title": "Application Security Engineer",
     "company": "accenturefederalservices",
     "alerted": true
   },
   "4690064006": {
     "first_seen": "2026-09-25T19:33:55.703133+00:00",
-    "updated_at": "2026-09-29T12:17:57-04:00",
+    "updated_at": "2026-09-29T17:08:57-04:00",
     "title": "Cybersecurity Engineer",
     "company": "accenturefederalservices",
     "alerted": true
@@ -193,7 +158,7 @@
   },
   "4677515006": {
     "first_seen": "2026-09-28T19:35:13.491320+00:00",
-    "updated_at": "2026-09-29T12:07:58-04:00",
+    "updated_at": "2026-09-29T17:08:57-04:00",
     "title": "Cybersecurity Engineer",
     "company": "accenturefederalservices",
     "alerted": true
@@ -203,6 +168,34 @@
     "updated_at": "2026-09-21T12:43:00-04:00",
     "title": "Developer Support Associate (New Grad)",
     "company": "okta",
+    "alerted": true
+  },
+  "8176398": {
+    "first_seen": "2026-09-29T21:14:08.694418+00:00",
+    "updated_at": "2026-09-24T06:20:06-04:00",
+    "title": "Cloud Security Intern",
+    "company": "tanium",
+    "alerted": true
+  },
+  "4678524006": {
+    "first_seen": "2026-09-29T21:14:15.351643+00:00",
+    "updated_at": "2026-09-29T17:08:57-04:00",
+    "title": "Incident Response Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4717563006": {
+    "first_seen": "2026-09-29T21:14:15.356887+00:00",
+    "updated_at": "2026-09-29T17:08:57-04:00",
+    "title": "Observability Engineer (Splunk)",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "7867389": {
+    "first_seen": "2026-09-29T21:14:17.277305+00:00",
+    "updated_at": "2026-09-25T16:44:40-04:00",
+    "title": "Cloud Security Engineer",
+    "company": "stripe",
     "alerted": true
   }
 }
