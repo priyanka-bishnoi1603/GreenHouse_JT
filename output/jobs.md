@@ -2,6 +2,57 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-09-30 17:33 UTC
+
+### 🔄 Cloud Security Intern
+**tanium** · Engineering - Shared Services
+📍 Durham, NC (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/tanium/jobs/8176398)
+🕐 Updated: `2026-09-30T09:37:48-04:00` &nbsp;|&nbsp; ID: `8176398`
+
+---
+### 🔄 Application Security Engineer
+**accenturefederalservices** · 60024445 - AFS Cyber Mission
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4712847006?gh_jid=4712847006)
+🕐 Updated: `2026-09-30T11:13:45-04:00` &nbsp;|&nbsp; ID: `4712847006`
+
+---
+### 🔄 Cybersecurity Engineer
+**accenturefederalservices** · 60024445 - AFS Cyber Mission
+📍 San Diego, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4690064006?gh_jid=4690064006)
+🕐 Updated: `2026-09-30T12:48:40-04:00` &nbsp;|&nbsp; ID: `4690064006`
+
+---
+### 🔄 Cybersecurity Engineer
+**accenturefederalservices** · 56219060 - AFS Cyber Strategy Risk and Architecture
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4677515006?gh_jid=4677515006)
+🕐 Updated: `2026-09-30T11:13:45-04:00` &nbsp;|&nbsp; ID: `4677515006`
+
+---
+### 🔄 IAM Engineer
+**accenturefederalservices** · 60035741 - AFS Identity and Trust
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4691258006?gh_jid=4691258006)
+🕐 Updated: `2026-09-30T11:13:45-04:00` &nbsp;|&nbsp; ID: `4691258006`
+
+---
+### 🔄 Incident Response Engineer
+**accenturefederalservices** · 56219060 - AFS Cyber Strategy Risk and Architecture
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4678524006?gh_jid=4678524006)
+🕐 Updated: `2026-09-30T11:13:45-04:00` &nbsp;|&nbsp; ID: `4678524006`
+
+---
+### 🔄 Information System Security Engineer 
+**accenturefederalservices** · 56219060 - AFS Cyber Strategy Risk and Architecture
+📍 Colorado Springs, CO &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4688933006?gh_jid=4688933006)
+🕐 Updated: `2026-09-30T11:13:45-04:00` &nbsp;|&nbsp; ID: `4688933006`
+
+---
+### 🔄 Observability Engineer (Splunk)
+**accenturefederalservices** · 60024445 - AFS Cyber Mission
+📍 Arlington, VA; Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4717563006?gh_jid=4717563006)
+🕐 Updated: `2026-09-30T11:13:45-04:00` &nbsp;|&nbsp; ID: `4717563006`
+
+---
+
 ## 📅 Run: 2026-09-30 11:50 UTC
 
 ### 🆕 Security Engineer, Offensive Security
