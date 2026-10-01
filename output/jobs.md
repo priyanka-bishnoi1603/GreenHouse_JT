@@ -2,6 +2,69 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-10-01 19:31 UTC
+
+### 🆕 Cybersecurity Incident Response Triage Analyst
+**accenturefederalservices** · 58283426 - AFS IT Security
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4704329006?gh_jid=4704329006)
+🕐 Updated: `2026-10-01T14:02:13-04:00` &nbsp;|&nbsp; ID: `4704329006`
+
+---
+### 🆕 Security Engineer, Detection & Response
+**anthropic** · Security
+📍 San Francisco, CA | New York City, NY | Seattle, WA; Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/4982193008)
+🕐 Updated: `2026-08-21T12:49:45-04:00` &nbsp;|&nbsp; ID: `4982193008`
+
+---
+### 🔄 Application Security Engineer
+**accenturefederalservices** · 60024445 - AFS Cyber Mission
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4712847006?gh_jid=4712847006)
+🕐 Updated: `2026-10-01T12:27:59-04:00` &nbsp;|&nbsp; ID: `4712847006`
+
+---
+### 🔄 Cybersecurity Engineer
+**accenturefederalservices** · 60024445 - AFS Cyber Mission
+📍 San Diego, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4690064006?gh_jid=4690064006)
+🕐 Updated: `2026-10-01T12:27:59-04:00` &nbsp;|&nbsp; ID: `4690064006`
+
+---
+### 🔄 Cybersecurity Engineer
+**accenturefederalservices** · 56219060 - AFS Cyber Strategy Risk and Architecture
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4677515006?gh_jid=4677515006)
+🕐 Updated: `2026-10-01T12:27:59-04:00` &nbsp;|&nbsp; ID: `4677515006`
+
+---
+### 🔄 IAM Engineer
+**accenturefederalservices** · 60035741 - AFS Identity and Trust
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4691258006?gh_jid=4691258006)
+🕐 Updated: `2026-10-01T12:27:59-04:00` &nbsp;|&nbsp; ID: `4691258006`
+
+---
+### 🔄 Incident Response Engineer
+**accenturefederalservices** · 56219060 - AFS Cyber Strategy Risk and Architecture
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4678524006?gh_jid=4678524006)
+🕐 Updated: `2026-10-01T12:27:59-04:00` &nbsp;|&nbsp; ID: `4678524006`
+
+---
+### 🔄 Information System Security Engineer 
+**accenturefederalservices** · 56219060 - AFS Cyber Strategy Risk and Architecture
+📍 Colorado Springs, CO &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4688933006?gh_jid=4688933006)
+🕐 Updated: `2026-10-01T12:27:59-04:00` &nbsp;|&nbsp; ID: `4688933006`
+
+---
+### 🔄 Multi-Cloud Security & Compliance Engineer
+**accenturefederalservices** · 54589947 - AFS Cloud Platform Engineering
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4716511006?gh_jid=4716511006)
+🕐 Updated: `2026-10-01T12:27:59-04:00` &nbsp;|&nbsp; ID: `4716511006`
+
+---
+### 🔄 Observability Engineer (Splunk)
+**accenturefederalservices** · 60024445 - AFS Cyber Mission
+📍 Arlington, VA; Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4717563006?gh_jid=4717563006)
+🕐 Updated: `2026-10-01T12:27:59-04:00` &nbsp;|&nbsp; ID: `4717563006`
+
+---
+
 ## 📅 Run: 2026-10-01 14:08 UTC
 
 ### 🆕 Client Platform Security Engineer

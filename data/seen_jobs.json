@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-10-01": 2
-  },
-  "7982345": {
-    "first_seen": "2026-09-24T15:21:16.476813+00:00",
-    "updated_at": "2026-09-18T14:57:30-04:00",
-    "title": "Security Engineer 2 - Cyber Threat Intelligence",
-    "company": "datadog",
-    "alerted": true
-  },
-  "4982193008": {
-    "first_seen": "2026-09-24T15:21:18.494526+00:00",
-    "updated_at": "2026-08-21T12:49:45-04:00",
-    "title": "Security Engineer, Detection & Response",
-    "company": "anthropic",
-    "alerted": true
+    "2026-10-01": 4
   },
   "8177619": {
     "first_seen": "2026-09-24T22:36:32.037447+00:00",
@@ -32,14 +18,14 @@
   },
   "4712847006": {
     "first_seen": "2026-09-25T19:33:55.697132+00:00",
-    "updated_at": "2026-09-30T15:33:42-04:00",
+    "updated_at": "2026-10-01T12:27:59-04:00",
     "title": "Application Security Engineer",
     "company": "accenturefederalservices",
     "alerted": true
   },
   "4690064006": {
     "first_seen": "2026-09-25T19:33:55.703133+00:00",
-    "updated_at": "2026-09-30T15:33:42-04:00",
+    "updated_at": "2026-10-01T12:27:59-04:00",
     "title": "Cybersecurity Engineer",
     "company": "accenturefederalservices",
     "alerted": true
@@ -95,7 +81,7 @@
   },
   "4677515006": {
     "first_seen": "2026-09-28T19:35:13.491320+00:00",
-    "updated_at": "2026-09-30T15:33:42-04:00",
+    "updated_at": "2026-10-01T12:27:59-04:00",
     "title": "Cybersecurity Engineer",
     "company": "accenturefederalservices",
     "alerted": true
@@ -116,14 +102,14 @@
   },
   "4678524006": {
     "first_seen": "2026-09-29T21:14:15.351643+00:00",
-    "updated_at": "2026-09-30T15:33:42-04:00",
+    "updated_at": "2026-10-01T12:27:59-04:00",
     "title": "Incident Response Engineer",
     "company": "accenturefederalservices",
     "alerted": true
   },
   "4717563006": {
     "first_seen": "2026-09-29T21:14:15.356887+00:00",
-    "updated_at": "2026-09-30T15:33:42-04:00",
+    "updated_at": "2026-10-01T12:27:59-04:00",
     "title": "Observability Engineer (Splunk)",
     "company": "accenturefederalservices",
     "alerted": true
@@ -137,7 +123,7 @@
   },
   "4691258006": {
     "first_seen": "2026-09-30T00:30:16.943817+00:00",
-    "updated_at": "2026-09-30T15:33:42-04:00",
+    "updated_at": "2026-10-01T12:27:59-04:00",
     "title": "IAM Engineer",
     "company": "accenturefederalservices",
     "alerted": true
@@ -186,7 +172,7 @@
   },
   "4716511006": {
     "first_seen": "2026-09-30T21:32:12.787436+00:00",
-    "updated_at": "2026-09-30T15:33:42-04:00",
+    "updated_at": "2026-10-01T12:27:59-04:00",
     "title": "Multi-Cloud Security & Compliance Engineer",
     "company": "accenturefederalservices",
     "alerted": true
@@ -200,7 +186,7 @@
   },
   "4688933006": {
     "first_seen": "2026-10-01T00:50:23.395249+00:00",
-    "updated_at": "2026-09-30T15:33:42-04:00",
+    "updated_at": "2026-10-01T12:27:59-04:00",
     "title": "Information System Security Engineer ",
     "company": "accenturefederalservices",
     "alerted": true
@@ -210,6 +196,20 @@
     "updated_at": "2026-09-25T16:44:45-04:00",
     "title": "Client Platform Security Engineer",
     "company": "stripe",
+    "alerted": true
+  },
+  "4704329006": {
+    "first_seen": "2026-10-01T19:31:01.247760+00:00",
+    "updated_at": "2026-10-01T14:02:13-04:00",
+    "title": "Cybersecurity Incident Response Triage Analyst",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4982193008": {
+    "first_seen": "2026-10-01T19:31:01.611028+00:00",
+    "updated_at": "2026-08-21T12:49:45-04:00",
+    "title": "Security Engineer, Detection & Response",
+    "company": "anthropic",
     "alerted": true
   }
 }
