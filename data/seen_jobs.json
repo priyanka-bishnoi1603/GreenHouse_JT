@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-09-30": 8
-  },
-  "8172503": {
-    "first_seen": "2026-09-23T22:27:16.420863+00:00",
-    "updated_at": "2026-09-25T16:45:00-04:00",
-    "title": "Abuse Research Engineer",
-    "company": "stripe",
-    "alerted": true
-  },
-  "4688933006": {
-    "first_seen": "2026-09-24T00:44:13.772386+00:00",
-    "updated_at": "2026-09-30T15:33:42-04:00",
-    "title": "Information System Security Engineer ",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-10-01": 1
   },
   "7982720": {
     "first_seen": "2026-09-24T10:24:52.970829+00:00",
@@ -217,6 +203,13 @@
     "updated_at": "2026-09-23T15:01:33-04:00",
     "title": "Security Engineer, Detect & Respond ",
     "company": "betterment",
+    "alerted": true
+  },
+  "4688933006": {
+    "first_seen": "2026-10-01T00:50:23.395249+00:00",
+    "updated_at": "2026-09-30T15:33:42-04:00",
+    "title": "Information System Security Engineer ",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }
