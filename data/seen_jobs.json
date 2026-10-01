@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-10-01": 1
-  },
-  "7982720": {
-    "first_seen": "2026-09-24T10:24:52.970829+00:00",
-    "updated_at": "2026-09-25T16:44:45-04:00",
-    "title": "Client Platform Security Engineer",
-    "company": "stripe",
-    "alerted": true
+    "2026-10-01": 2
   },
   "7982345": {
     "first_seen": "2026-09-24T15:21:16.476813+00:00",
@@ -210,6 +203,13 @@
     "updated_at": "2026-09-30T15:33:42-04:00",
     "title": "Information System Security Engineer ",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "7982720": {
+    "first_seen": "2026-10-01T14:07:40.155264+00:00",
+    "updated_at": "2026-09-25T16:44:45-04:00",
+    "title": "Client Platform Security Engineer",
+    "company": "stripe",
     "alerted": true
   }
 }
