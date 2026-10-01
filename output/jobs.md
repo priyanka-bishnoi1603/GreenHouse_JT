@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-10-01 23:25 UTC
+
+### 🆕 Threat Intelligence Platform Engineer
+**coinbase** · Engineering - Security
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8177619?gh_jid=8177619)
+🕐 Updated: `2026-09-03T14:02:16-04:00` &nbsp;|&nbsp; ID: `8177619`
+
+---
+### 🔄 Security Engineer, Detect & Respond 
+**betterment** · Platform Engineering 
+📍 Betterment HQ - New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.betterment.com/careers/current-openings/job?gh_jid=8211928&gh_jid=8211928)
+🕐 Updated: `2026-10-01T15:54:47-04:00` &nbsp;|&nbsp; ID: `8211928`
+
+---
+
 ## 📅 Run: 2026-10-01 19:31 UTC
 
 ### 🆕 Cybersecurity Incident Response Triage Analyst
