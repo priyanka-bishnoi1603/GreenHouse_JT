@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-10-02 23:45 UTC
+
+### 🆕 Security Operations Analyst 
+**huntress** · Security Analysis
+📍 Remote US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7743188003)
+🕐 Updated: `2026-10-02T13:38:26-04:00` &nbsp;|&nbsp; ID: `7743188003`
+
+---
+### 🆕 Security Operations Analyst - Weekend 4x10 Shift 
+**huntress** · Security Analysis
+📍 Remote US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7992842003)
+🕐 Updated: `2026-10-02T13:40:24-04:00` &nbsp;|&nbsp; ID: `7992842003`
+
+---
+### 🆕 Enterprise Security Engineer
+**sendbird** · Security and IT
+📍 San Mateo, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://sendbird.com/careers?gh_jid=8487754002)
+🕐 Updated: `2026-09-23T17:27:54-04:00` &nbsp;|&nbsp; ID: `8487754002`
+
+---
+
 ## 📅 Run: 2026-10-02 20:03 UTC
 
 ### 🆕 Application Security Engineer
