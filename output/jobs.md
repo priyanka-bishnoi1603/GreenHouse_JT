@@ -2,6 +2,51 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-10-02 20:03 UTC
+
+### 🆕 Application Security Engineer
+**accenturefederalservices** · 60024445 - AFS Cyber Mission
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4712847006?gh_jid=4712847006)
+🕐 Updated: `2026-10-01T12:27:59-04:00` &nbsp;|&nbsp; ID: `4712847006`
+
+---
+### 🆕 Cybersecurity Engineer
+**accenturefederalservices** · 60024445 - AFS Cyber Mission
+📍 San Diego, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4690064006?gh_jid=4690064006)
+🕐 Updated: `2026-10-01T12:27:59-04:00` &nbsp;|&nbsp; ID: `4690064006`
+
+---
+### 🆕 Application Security Engineer
+**gleanwork** · Engineering
+📍 United States, Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4728513005)
+🕐 Updated: `2026-08-28T20:41:07-04:00` &nbsp;|&nbsp; ID: `4728513005`
+
+---
+### 🆕 Offensive Security Engineer
+**stripe** · 8611 Security Analytics
+📍 US - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8233889)
+🕐 Updated: `2026-09-25T16:45:09-04:00` &nbsp;|&nbsp; ID: `8233889`
+
+---
+### 🔄 Security Operations Analyst 
+**huntress** · Security Analysis
+📍 Remote US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7743188003)
+🕐 Updated: `2026-10-02T13:38:26-04:00` &nbsp;|&nbsp; ID: `7743188003`
+
+---
+### 🔄 Security Operations Analyst - Weekend 4x10 Shift 
+**huntress** · Security Analysis
+📍 Remote US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7992842003)
+🕐 Updated: `2026-10-02T13:40:24-04:00` &nbsp;|&nbsp; ID: `7992842003`
+
+---
+### 🔄 Client Platform Security Engineer
+**stripe** · 8612 Security Infrastructure
+📍 New York, New York  &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7982720)
+🕐 Updated: `2026-10-02T13:23:31-04:00` &nbsp;|&nbsp; ID: `7982720`
+
+---
+
 ## 📅 Run: 2026-10-01 23:25 UTC
 
 ### 🆕 Threat Intelligence Platform Engineer
