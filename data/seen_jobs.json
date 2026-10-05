@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-10-03": 2
-  },
-  "8237524": {
-    "first_seen": "2026-09-28T19:34:33.983959+00:00",
-    "updated_at": "2026-09-29T19:44:19-04:00",
-    "title": "Engineering Manager, Governance Intelligence",
-    "company": "okta",
-    "alerted": true
-  },
-  "4677515006": {
-    "first_seen": "2026-09-28T19:35:13.491320+00:00",
-    "updated_at": "2026-10-01T12:27:59-04:00",
-    "title": "Cybersecurity Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-10-05": 2
   },
   "8191506": {
     "first_seen": "2026-09-28T23:56:18.787488+00:00",
@@ -123,7 +109,7 @@
   },
   "7982720": {
     "first_seen": "2026-10-01T14:07:40.155264+00:00",
-    "updated_at": "2026-10-02T13:23:31-04:00",
+    "updated_at": "2026-10-05T13:07:27-04:00",
     "title": "Client Platform Security Engineer",
     "company": "stripe",
     "alerted": true
@@ -209,6 +195,20 @@
     "first_seen": "2026-10-03T14:22:57.158700+00:00",
     "updated_at": "2026-08-21T12:50:27-04:00",
     "title": "Platform Security Engineer, OpenBMC",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "4677515006": {
+    "first_seen": "2026-10-05T21:40:18.215033+00:00",
+    "updated_at": "2026-10-01T12:27:59-04:00",
+    "title": "Cybersecurity Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "5440475008": {
+    "first_seen": "2026-10-05T21:40:18.582706+00:00",
+    "updated_at": "2026-10-05T17:11:15-04:00",
+    "title": "Software Security Engineer, Secure Frameworks",
     "company": "anthropic",
     "alerted": true
   }

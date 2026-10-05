@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-10-05 21:40 UTC
+
+### 🆕 Cybersecurity Engineer
+**accenturefederalservices** · 56219060 - AFS Cyber Strategy Risk and Architecture
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4677515006?gh_jid=4677515006)
+🕐 Updated: `2026-10-01T12:27:59-04:00` &nbsp;|&nbsp; ID: `4677515006`
+
+---
+### 🆕 Software Security Engineer, Secure Frameworks
+**anthropic** · Security
+📍 San Francisco, CA | New York City, NY | Seattle, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5440475008)
+🕐 Updated: `2026-10-05T17:11:15-04:00` &nbsp;|&nbsp; ID: `5440475008`
+
+---
+### 🔄 Client Platform Security Engineer
+**stripe** · 8612 Security Infrastructure
+📍 New York, New York  &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7982720)
+🕐 Updated: `2026-10-05T13:07:27-04:00` &nbsp;|&nbsp; ID: `7982720`
+
+---
+
 ## 📅 Run: 2026-10-03 14:23 UTC
 
 ### 🆕 Application Security Engineer II
