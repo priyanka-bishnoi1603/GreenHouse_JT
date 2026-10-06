@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-10-05": 2
+    "2026-10-06": 1
   },
   "8176398": {
     "first_seen": "2026-09-29T21:14:08.694418+00:00",
@@ -203,6 +203,13 @@
     "updated_at": "2026-10-05T17:11:15-04:00",
     "title": "Software Security Engineer, Secure Frameworks",
     "company": "anthropic",
+    "alerted": true
+  },
+  "4719254006": {
+    "first_seen": "2026-10-06T15:24:05.684541+00:00",
+    "updated_at": "2026-10-06T09:45:39-04:00",
+    "title": "Information Systems Security Engineer (ISSE)",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }
