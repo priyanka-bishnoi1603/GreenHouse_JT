@@ -1,34 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-10-06": 1
-  },
-  "8176398": {
-    "first_seen": "2026-09-29T21:14:08.694418+00:00",
-    "updated_at": "2026-09-30T09:37:48-04:00",
-    "title": "Cloud Security Intern",
-    "company": "tanium",
-    "alerted": true
-  },
-  "4678524006": {
-    "first_seen": "2026-09-29T21:14:15.351643+00:00",
-    "updated_at": "2026-10-01T12:27:59-04:00",
-    "title": "Incident Response Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "4717563006": {
-    "first_seen": "2026-09-29T21:14:15.356887+00:00",
-    "updated_at": "2026-10-01T12:27:59-04:00",
-    "title": "Observability Engineer (Splunk)",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "7867389": {
-    "first_seen": "2026-09-29T21:14:17.277305+00:00",
-    "updated_at": "2026-09-25T16:44:40-04:00",
-    "title": "Cloud Security Engineer",
-    "company": "stripe",
-    "alerted": true
+    "2026-10-06": 5
   },
   "4691258006": {
     "first_seen": "2026-09-30T00:30:16.943817+00:00",
@@ -210,6 +182,34 @@
     "updated_at": "2026-10-06T09:45:39-04:00",
     "title": "Information Systems Security Engineer (ISSE)",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "8176398": {
+    "first_seen": "2026-10-06T23:58:49.042064+00:00",
+    "updated_at": "2026-09-30T09:37:48-04:00",
+    "title": "Cloud Security Intern",
+    "company": "tanium",
+    "alerted": true
+  },
+  "4678524006": {
+    "first_seen": "2026-10-06T23:58:51.270931+00:00",
+    "updated_at": "2026-10-01T12:27:59-04:00",
+    "title": "Incident Response Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4717563006": {
+    "first_seen": "2026-10-06T23:58:51.275455+00:00",
+    "updated_at": "2026-10-01T12:27:59-04:00",
+    "title": "Observability Engineer (Splunk)",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "7867389": {
+    "first_seen": "2026-10-06T23:58:52.871533+00:00",
+    "updated_at": "2026-09-25T16:44:40-04:00",
+    "title": "Cloud Security Engineer",
+    "company": "stripe",
     "alerted": true
   }
 }
