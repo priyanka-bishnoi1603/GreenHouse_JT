@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-10-07": 6
-  },
-  "4716511006": {
-    "first_seen": "2026-09-30T21:32:12.787436+00:00",
-    "updated_at": "2026-10-01T12:27:59-04:00",
-    "title": "Multi-Cloud Security & Compliance Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "8211928": {
-    "first_seen": "2026-09-30T21:32:18.716690+00:00",
-    "updated_at": "2026-10-01T15:54:47-04:00",
-    "title": "Security Engineer, Detect & Respond ",
-    "company": "betterment",
-    "alerted": true
+    "2026-10-07": 8
   },
   "4688933006": {
     "first_seen": "2026-10-01T00:50:23.395249+00:00",
@@ -25,7 +11,7 @@
   },
   "7982720": {
     "first_seen": "2026-10-01T14:07:40.155264+00:00",
-    "updated_at": "2026-10-07T13:31:13-04:00",
+    "updated_at": "2026-10-07T19:02:27-04:00",
     "title": "Client Platform Security Engineer",
     "company": "stripe",
     "alerted": true
@@ -74,7 +60,7 @@
   },
   "8233889": {
     "first_seen": "2026-10-02T20:03:20.788187+00:00",
-    "updated_at": "2026-09-25T16:45:09-04:00",
+    "updated_at": "2026-10-07T19:02:27-04:00",
     "title": "Offensive Security Engineer",
     "company": "stripe",
     "alerted": true
@@ -158,7 +144,7 @@
   },
   "7867389": {
     "first_seen": "2026-10-06T23:58:52.871533+00:00",
-    "updated_at": "2026-09-25T16:44:40-04:00",
+    "updated_at": "2026-10-07T19:02:27-04:00",
     "title": "Cloud Security Engineer",
     "company": "stripe",
     "alerted": true
@@ -210,6 +196,20 @@
     "updated_at": "2026-09-10T14:01:17-04:00",
     "title": "Security Engineer, Offensive Security",
     "company": "anthropic",
+    "alerted": true
+  },
+  "4716511006": {
+    "first_seen": "2026-10-07T23:14:10.762659+00:00",
+    "updated_at": "2026-10-01T12:27:59-04:00",
+    "title": "Multi-Cloud Security & Compliance Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "8211928": {
+    "first_seen": "2026-10-07T23:14:16.536036+00:00",
+    "updated_at": "2026-10-01T15:54:47-04:00",
+    "title": "Security Engineer, Detect & Respond ",
+    "company": "betterment",
     "alerted": true
   }
 }

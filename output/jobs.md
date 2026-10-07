@@ -2,6 +2,39 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-10-07 23:14 UTC
+
+### 🆕 Multi-Cloud Security & Compliance Engineer
+**accenturefederalservices** · 54589947 - AFS Cloud Platform Engineering
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4716511006?gh_jid=4716511006)
+🕐 Updated: `2026-10-01T12:27:59-04:00` &nbsp;|&nbsp; ID: `4716511006`
+
+---
+### 🆕 Security Engineer, Detect & Respond 
+**betterment** · Platform Engineering 
+📍 Betterment HQ - New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.betterment.com/careers/current-openings/job?gh_jid=8211928&gh_jid=8211928)
+🕐 Updated: `2026-10-01T15:54:47-04:00` &nbsp;|&nbsp; ID: `8211928`
+
+---
+### 🔄 Client Platform Security Engineer
+**stripe** · 8612 Security Infrastructure
+📍 New York, New York  &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7982720)
+🕐 Updated: `2026-10-07T19:02:27-04:00` &nbsp;|&nbsp; ID: `7982720`
+
+---
+### 🔄 Cloud Security Engineer
+**stripe** · 8614 Office of the CISO & Partnership
+📍 Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7867389)
+🕐 Updated: `2026-10-07T19:02:27-04:00` &nbsp;|&nbsp; ID: `7867389`
+
+---
+### 🔄 Offensive Security Engineer
+**stripe** · 8611 Security Analytics
+📍 US - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8233889)
+🕐 Updated: `2026-10-07T19:02:27-04:00` &nbsp;|&nbsp; ID: `8233889`
+
+---
+
 ## 📅 Run: 2026-10-07 18:21 UTC
 
 ### 🔄 Client Platform Security Engineer
