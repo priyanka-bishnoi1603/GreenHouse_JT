@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-10-08": 1
-  },
-  "4704329006": {
-    "first_seen": "2026-10-01T19:31:01.247760+00:00",
-    "updated_at": "2026-10-01T14:02:13-04:00",
-    "title": "Cybersecurity Incident Response Triage Analyst",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "4982193008": {
-    "first_seen": "2026-10-01T19:31:01.611028+00:00",
-    "updated_at": "2026-08-21T12:49:45-04:00",
-    "title": "Security Engineer, Detection & Response",
-    "company": "anthropic",
-    "alerted": true
+    "2026-10-08": 3
   },
   "8177619": {
     "first_seen": "2026-10-01T23:25:00.912773+00:00",
@@ -203,6 +189,20 @@
     "updated_at": "2026-10-01T12:27:59-04:00",
     "title": "Information System Security Engineer ",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4704329006": {
+    "first_seen": "2026-10-08T21:46:41.855343+00:00",
+    "updated_at": "2026-10-01T14:02:13-04:00",
+    "title": "Cybersecurity Incident Response Triage Analyst",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4982193008": {
+    "first_seen": "2026-10-08T21:46:42.226711+00:00",
+    "updated_at": "2026-08-21T12:49:45-04:00",
+    "title": "Security Engineer, Detection & Response",
+    "company": "anthropic",
     "alerted": true
   }
 }
