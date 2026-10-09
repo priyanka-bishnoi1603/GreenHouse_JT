@@ -1,34 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-10-09": 2
-  },
-  "4712847006": {
-    "first_seen": "2026-10-02T20:03:18.491913+00:00",
-    "updated_at": "2026-10-01T12:27:59-04:00",
-    "title": "Application Security Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "4690064006": {
-    "first_seen": "2026-10-02T20:03:18.499836+00:00",
-    "updated_at": "2026-10-01T12:27:59-04:00",
-    "title": "Cybersecurity Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "4728513005": {
-    "first_seen": "2026-10-02T20:03:19.817254+00:00",
-    "updated_at": "2026-08-28T20:41:07-04:00",
-    "title": "Application Security Engineer",
-    "company": "gleanwork",
-    "alerted": true
-  },
-  "8233889": {
-    "first_seen": "2026-10-02T20:03:20.788187+00:00",
-    "updated_at": "2026-10-07T19:02:27-04:00",
-    "title": "Offensive Security Engineer",
-    "company": "stripe",
-    "alerted": true
+    "2026-10-09": 7
   },
   "7743188003": {
     "first_seen": "2026-10-02T23:45:35.812492+00:00",
@@ -137,7 +109,7 @@
   },
   "7808464": {
     "first_seen": "2026-10-07T05:21:58.930812+00:00",
-    "updated_at": "2026-10-07T12:47:44-04:00",
+    "updated_at": "2026-10-09T14:41:16-04:00",
     "title": "Global Security Operations Center Operator",
     "company": "twilio",
     "alerted": true
@@ -210,6 +182,41 @@
     "updated_at": "2026-10-09T08:09:50-04:00",
     "title": "Cyber Threat Intelligence Analyst",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4720662006": {
+    "first_seen": "2026-10-09T20:12:14.848174+00:00",
+    "updated_at": "2026-10-09T13:10:40-04:00",
+    "title": "Application Security Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4720669006": {
+    "first_seen": "2026-10-09T20:12:14.848334+00:00",
+    "updated_at": "2026-10-09T13:34:16-04:00",
+    "title": "Application Security Engineer - Sr",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4690064006": {
+    "first_seen": "2026-10-09T20:12:14.856051+00:00",
+    "updated_at": "2026-10-01T12:27:59-04:00",
+    "title": "Cybersecurity Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4728513005": {
+    "first_seen": "2026-10-09T20:12:15.446939+00:00",
+    "updated_at": "2026-08-28T20:41:07-04:00",
+    "title": "Application Security Engineer",
+    "company": "gleanwork",
+    "alerted": true
+  },
+  "8233889": {
+    "first_seen": "2026-10-09T20:12:16.803447+00:00",
+    "updated_at": "2026-10-07T19:02:27-04:00",
+    "title": "Offensive Security Engineer",
+    "company": "stripe",
     "alerted": true
   }
 }
