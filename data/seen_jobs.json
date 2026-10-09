@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-10-08": 3
-  },
-  "8177619": {
-    "first_seen": "2026-10-01T23:25:00.912773+00:00",
-    "updated_at": "2026-09-03T14:02:16-04:00",
-    "title": "Threat Intelligence Platform Engineer",
-    "company": "coinbase",
-    "alerted": true
+    "2026-10-09": 1
   },
   "4712847006": {
     "first_seen": "2026-10-02T20:03:18.491913+00:00",
@@ -203,6 +196,13 @@
     "updated_at": "2026-08-21T12:49:45-04:00",
     "title": "Security Engineer, Detection & Response",
     "company": "anthropic",
+    "alerted": true
+  },
+  "8177619": {
+    "first_seen": "2026-10-09T01:41:45.616692+00:00",
+    "updated_at": "2026-09-03T14:02:16-04:00",
+    "title": "Threat Intelligence Platform Engineer",
+    "company": "coinbase",
     "alerted": true
   }
 }
