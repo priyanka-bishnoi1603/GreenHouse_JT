@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-10-09 15:17 UTC
+
+### 🆕 Cyber Threat Intelligence Analyst
+**accenturefederalservices** · 60024445 - AFS Cyber Mission
+📍 Leesburg, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4720525006?gh_jid=4720525006)
+🕐 Updated: `2026-10-09T08:09:50-04:00` &nbsp;|&nbsp; ID: `4720525006`
+
+---
+
 ## 📅 Run: 2026-10-09 01:41 UTC
 
 ### 🆕 Threat Intelligence Platform Engineer

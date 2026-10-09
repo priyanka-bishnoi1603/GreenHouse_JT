@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-10-09": 1
+    "2026-10-09": 2
   },
   "4712847006": {
     "first_seen": "2026-10-02T20:03:18.491913+00:00",
@@ -203,6 +203,13 @@
     "updated_at": "2026-09-03T14:02:16-04:00",
     "title": "Threat Intelligence Platform Engineer",
     "company": "coinbase",
+    "alerted": true
+  },
+  "4720525006": {
+    "first_seen": "2026-10-09T15:16:50.903425+00:00",
+    "updated_at": "2026-10-09T08:09:50-04:00",
+    "title": "Cyber Threat Intelligence Analyst",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }
