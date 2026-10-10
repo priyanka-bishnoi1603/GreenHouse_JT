@@ -1,27 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-10-09": 7
-  },
-  "7743188003": {
-    "first_seen": "2026-10-02T23:45:35.812492+00:00",
-    "updated_at": "2026-10-02T13:38:26-04:00",
-    "title": "Security Operations Analyst ",
-    "company": "huntress",
-    "alerted": true
-  },
-  "7992842003": {
-    "first_seen": "2026-10-02T23:45:35.812564+00:00",
-    "updated_at": "2026-10-02T13:40:24-04:00",
-    "title": "Security Operations Analyst - Weekend 4x10 Shift ",
-    "company": "huntress",
-    "alerted": true
-  },
-  "8487754002": {
-    "first_seen": "2026-10-02T23:45:43.439100+00:00",
-    "updated_at": "2026-09-23T17:27:54-04:00",
-    "title": "Enterprise Security Engineer",
-    "company": "sendbird",
-    "alerted": true
+    "2026-10-10": 2
   },
   "7832743003": {
     "first_seen": "2026-10-03T14:22:54.028892+00:00",
@@ -217,6 +196,20 @@
     "updated_at": "2026-10-07T19:02:27-04:00",
     "title": "Offensive Security Engineer",
     "company": "stripe",
+    "alerted": true
+  },
+  "8843577002": {
+    "first_seen": "2026-10-10T00:02:41.290662+00:00",
+    "updated_at": "2026-10-09T19:14:46-04:00",
+    "title": "Evergreen - Product Design New Grad (2027 Start)",
+    "company": "databricks",
+    "alerted": true
+  },
+  "8487754002": {
+    "first_seen": "2026-10-10T00:02:45.489659+00:00",
+    "updated_at": "2026-09-23T17:27:54-04:00",
+    "title": "Enterprise Security Engineer",
+    "company": "sendbird",
     "alerted": true
   }
 }

@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-10-10 00:02 UTC
+
+### 🆕 Evergreen - Product Design New Grad (2027 Start)
+**databricks** · University Recruiting - Product
+📍 San Francisco, California; Seattle, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8843577002)
+🕐 Updated: `2026-10-09T19:14:46-04:00` &nbsp;|&nbsp; ID: `8843577002`
+
+---
+### 🆕 Enterprise Security Engineer
+**sendbird** · Security and IT
+📍 San Mateo, California, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://sendbird.com/careers?gh_jid=8487754002)
+🕐 Updated: `2026-09-23T17:27:54-04:00` &nbsp;|&nbsp; ID: `8487754002`
+
+---
+
 ## 📅 Run: 2026-10-09 20:12 UTC
 
 ### 🆕 Application Security Engineer
