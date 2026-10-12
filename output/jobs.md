@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-10-12 19:19 UTC
+
+### 🆕 Incident Response Analyst Mid
+**accenturefederalservices** · 60024445 - AFS Cyber Mission
+📍 Leesburg, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4721038006?gh_jid=4721038006)
+🕐 Updated: `2026-10-12T11:19:19-04:00` &nbsp;|&nbsp; ID: `4721038006`
+
+---
+### 🆕 Information Systems Security Engineer (ISSE)
+**accenturefederalservices** · 60038769 - AFS Secure Digital Core
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4719692006?gh_jid=4719692006)
+🕐 Updated: `2026-10-12T13:48:02-04:00` &nbsp;|&nbsp; ID: `4719692006`
+
+---
+
 ## 📅 Run: 2026-10-10 16:52 UTC
 
 ### 🆕 Application Security Engineer II
