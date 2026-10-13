@@ -1,24 +1,10 @@
 {
   "__daily_alerts__": {
-    "2026-10-12": 2
-  },
-  "4677515006": {
-    "first_seen": "2026-10-05T21:40:18.215033+00:00",
-    "updated_at": "2026-10-01T12:27:59-04:00",
-    "title": "Cybersecurity Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "5440475008": {
-    "first_seen": "2026-10-05T21:40:18.582706+00:00",
-    "updated_at": "2026-10-05T17:11:15-04:00",
-    "title": "Software Security Engineer, Secure Frameworks",
-    "company": "anthropic",
-    "alerted": true
+    "2026-10-13": 1
   },
   "4719254006": {
     "first_seen": "2026-10-06T15:24:05.684541+00:00",
-    "updated_at": "2026-10-06T09:45:39-04:00",
+    "updated_at": "2026-10-12T18:04:39-04:00",
     "title": "Information Systems Security Engineer (ISSE)",
     "company": "accenturefederalservices",
     "alerted": true
@@ -32,14 +18,14 @@
   },
   "4678524006": {
     "first_seen": "2026-10-06T23:58:51.270931+00:00",
-    "updated_at": "2026-10-01T12:27:59-04:00",
+    "updated_at": "2026-10-12T18:04:39-04:00",
     "title": "Incident Response Engineer",
     "company": "accenturefederalservices",
     "alerted": true
   },
   "4717563006": {
     "first_seen": "2026-10-06T23:58:51.275455+00:00",
-    "updated_at": "2026-10-01T12:27:59-04:00",
+    "updated_at": "2026-10-12T18:04:39-04:00",
     "title": "Observability Engineer (Splunk)",
     "company": "accenturefederalservices",
     "alerted": true
@@ -53,7 +39,7 @@
   },
   "4691258006": {
     "first_seen": "2026-10-07T05:21:54.212502+00:00",
-    "updated_at": "2026-10-01T12:27:59-04:00",
+    "updated_at": "2026-10-12T18:04:39-04:00",
     "title": "IAM Engineer",
     "company": "accenturefederalservices",
     "alerted": true
@@ -102,7 +88,7 @@
   },
   "4716511006": {
     "first_seen": "2026-10-07T23:14:10.762659+00:00",
-    "updated_at": "2026-10-01T12:27:59-04:00",
+    "updated_at": "2026-10-12T18:04:39-04:00",
     "title": "Multi-Cloud Security & Compliance Engineer",
     "company": "accenturefederalservices",
     "alerted": true
@@ -116,14 +102,14 @@
   },
   "4688933006": {
     "first_seen": "2026-10-08T02:42:35.707852+00:00",
-    "updated_at": "2026-10-01T12:27:59-04:00",
+    "updated_at": "2026-10-12T18:04:39-04:00",
     "title": "Information System Security Engineer ",
     "company": "accenturefederalservices",
     "alerted": true
   },
   "4704329006": {
     "first_seen": "2026-10-08T21:46:41.855343+00:00",
-    "updated_at": "2026-10-01T14:02:13-04:00",
+    "updated_at": "2026-10-12T18:04:39-04:00",
     "title": "Cybersecurity Incident Response Triage Analyst",
     "company": "accenturefederalservices",
     "alerted": true
@@ -144,28 +130,28 @@
   },
   "4720525006": {
     "first_seen": "2026-10-09T15:16:50.903425+00:00",
-    "updated_at": "2026-10-09T08:09:50-04:00",
+    "updated_at": "2026-10-12T18:04:39-04:00",
     "title": "Cyber Threat Intelligence Analyst",
     "company": "accenturefederalservices",
     "alerted": true
   },
   "4720662006": {
     "first_seen": "2026-10-09T20:12:14.848174+00:00",
-    "updated_at": "2026-10-09T13:10:40-04:00",
+    "updated_at": "2026-10-12T18:04:39-04:00",
     "title": "Application Security Engineer",
     "company": "accenturefederalservices",
     "alerted": true
   },
   "4720669006": {
     "first_seen": "2026-10-09T20:12:14.848334+00:00",
-    "updated_at": "2026-10-09T13:34:16-04:00",
+    "updated_at": "2026-10-12T18:04:39-04:00",
     "title": "Application Security Engineer - Sr",
     "company": "accenturefederalservices",
     "alerted": true
   },
   "4690064006": {
     "first_seen": "2026-10-09T20:12:14.856051+00:00",
-    "updated_at": "2026-10-01T12:27:59-04:00",
+    "updated_at": "2026-10-12T18:04:39-04:00",
     "title": "Cybersecurity Engineer",
     "company": "accenturefederalservices",
     "alerted": true
@@ -214,15 +200,22 @@
   },
   "4721038006": {
     "first_seen": "2026-10-12T19:19:10.100492+00:00",
-    "updated_at": "2026-10-12T11:19:19-04:00",
+    "updated_at": "2026-10-12T18:04:39-04:00",
     "title": "Incident Response Analyst Mid",
     "company": "accenturefederalservices",
     "alerted": true
   },
   "4719692006": {
     "first_seen": "2026-10-12T19:19:10.101094+00:00",
-    "updated_at": "2026-10-12T13:48:02-04:00",
+    "updated_at": "2026-10-12T18:04:39-04:00",
     "title": "Information Systems Security Engineer (ISSE)",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4677515006": {
+    "first_seen": "2026-10-13T01:30:56.467568+00:00",
+    "updated_at": "2026-10-12T18:04:39-04:00",
+    "title": "Cybersecurity Engineer",
     "company": "accenturefederalservices",
     "alerted": true
   }
