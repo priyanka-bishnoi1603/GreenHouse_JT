@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-10-13": 1
-  },
-  "4719254006": {
-    "first_seen": "2026-10-06T15:24:05.684541+00:00",
-    "updated_at": "2026-10-12T18:04:39-04:00",
-    "title": "Information Systems Security Engineer (ISSE)",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-10-13": 2
   },
   "8176398": {
     "first_seen": "2026-10-06T23:58:49.042064+00:00",
@@ -216,6 +209,13 @@
     "first_seen": "2026-10-13T01:30:56.467568+00:00",
     "updated_at": "2026-10-12T18:04:39-04:00",
     "title": "Cybersecurity Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4719254006": {
+    "first_seen": "2026-10-13T16:14:47.396426+00:00",
+    "updated_at": "2026-10-12T18:04:39-04:00",
+    "title": "Information Systems Security Engineer (ISSE)",
     "company": "accenturefederalservices",
     "alerted": true
   }
