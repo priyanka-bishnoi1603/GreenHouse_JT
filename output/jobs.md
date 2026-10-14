@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-10-14 15:10 UTC
+
+### 🆕 Cloud Security Engineer Mid
+**accenturefederalservices** · 60024445 - AFS Cyber Mission
+📍 Leesburg, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4721880006?gh_jid=4721880006)
+🕐 Updated: `2026-10-14T10:51:18-04:00` &nbsp;|&nbsp; ID: `4721880006`
+
+---
+### 🆕 Security Engineer, Offensive Security
+**anthropic** · Security
+📍 Remote-Friendly, United States; San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5418977008)
+🕐 Updated: `2026-09-10T14:01:17-04:00` &nbsp;|&nbsp; ID: `5418977008`
+
+---
+### 🔄 Cyber Incident Response Analyst
+**accenturefederalservices** · 60024445 - AFS Cyber Mission
+📍 Leesburg, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4721038006?gh_jid=4721038006)
+🕐 Updated: `2026-10-14T08:53:42-04:00` &nbsp;|&nbsp; ID: `4721038006`
+
+---
+
 ## 📅 Run: 2026-10-14 10:13 UTC
 
 ### 🆕 IAM Engineer
