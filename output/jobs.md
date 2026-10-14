@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-10-14 19:22 UTC
+
+### 🆕 Security Operations Analyst - West Coast Shift 
+**huntress** · Security Analysis
+📍 Remote US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7743188003)
+🕐 Updated: `2026-10-14T13:19:46-04:00` &nbsp;|&nbsp; ID: `7743188003`
+
+---
+### 🆕 Network Security Engineer
+**accenturefederalservices** · 60024445 - AFS Cyber Mission
+📍 Leesburg, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4721881006?gh_jid=4721881006)
+🕐 Updated: `2026-10-14T13:18:20-04:00` &nbsp;|&nbsp; ID: `4721881006`
+
+---
+### 🔄 Cloud Security Intern
+**tanium** · Engineering - Shared Services
+📍 Durham, NC (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/tanium/jobs/8176398)
+🕐 Updated: `2026-10-14T12:49:51-04:00` &nbsp;|&nbsp; ID: `8176398`
+
+---
+### 🔄 Global Security Operations Center Operator
+**twilio** · Security
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/twilio/jobs/7808464)
+🕐 Updated: `2026-10-14T13:31:43-04:00` &nbsp;|&nbsp; ID: `7808464`
+
+---
+
 ## 📅 Run: 2026-10-14 15:10 UTC
 
 ### 🆕 Cloud Security Engineer Mid
