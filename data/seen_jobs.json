@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-10-14": 13
+    "2026-10-14": 14
   },
   "4716511006": {
     "first_seen": "2026-10-07T23:14:10.762659+00:00",
@@ -238,6 +238,13 @@
     "updated_at": "2026-10-14T13:18:20-04:00",
     "title": "Network Security Engineer",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "7982720": {
+    "first_seen": "2026-10-14T22:27:44.978068+00:00",
+    "updated_at": "2026-10-14T16:24:48-04:00",
+    "title": "Client Platform Security Engineer",
+    "company": "stripe",
     "alerted": true
   }
 }
