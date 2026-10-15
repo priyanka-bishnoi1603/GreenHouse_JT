@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-10-15": 2
-  },
-  "4688933006": {
-    "first_seen": "2026-10-08T02:42:35.707852+00:00",
-    "updated_at": "2026-10-12T18:04:39-04:00",
-    "title": "Information System Security Engineer ",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-10-15": 3
   },
   "4704329006": {
     "first_seen": "2026-10-08T21:46:41.855343+00:00",
@@ -245,6 +238,13 @@
     "updated_at": "2026-10-01T15:54:47-04:00",
     "title": "Security Engineer, Detect & Respond ",
     "company": "betterment",
+    "alerted": true
+  },
+  "4688933006": {
+    "first_seen": "2026-10-15T05:16:52.035031+00:00",
+    "updated_at": "2026-10-12T18:04:39-04:00",
+    "title": "Information System Security Engineer ",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }
