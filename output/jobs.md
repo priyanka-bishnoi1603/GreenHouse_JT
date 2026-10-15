@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-10-15 00:44 UTC
+
+### 🆕 Multi-Cloud Security & Compliance Engineer
+**accenturefederalservices** · 54589947 - AFS Cloud Platform Engineering
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4716511006?gh_jid=4716511006)
+🕐 Updated: `2026-10-12T18:04:39-04:00` &nbsp;|&nbsp; ID: `4716511006`
+
+---
+### 🆕 Security Engineer, Detect & Respond 
+**betterment** · Platform Engineering 
+📍 Betterment HQ - New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.betterment.com/careers/current-openings/job?gh_jid=8211928&gh_jid=8211928)
+🕐 Updated: `2026-10-01T15:54:47-04:00` &nbsp;|&nbsp; ID: `8211928`
+
+---
+
 ## 📅 Run: 2026-10-14 22:27 UTC
 
 ### 🆕 Client Platform Security Engineer
