@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-10-17 01:32 UTC
+
+### 🆕 Product Design New Grad (2027 Start)
+**databricks** · University Recruiting - Product
+📍 San Francisco, California; Seattle, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8843577002)
+🕐 Updated: `2026-10-09T23:16:13-04:00` &nbsp;|&nbsp; ID: `8843577002`
+
+---
+
 ## 📅 Run: 2026-10-16 21:05 UTC
 
 ### 🆕 Cybersecurity Engineer
