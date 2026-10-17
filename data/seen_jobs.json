@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-10-17": 1
-  },
-  "7832743003": {
-    "first_seen": "2026-10-10T16:52:05.604992+00:00",
-    "updated_at": "2026-08-31T11:45:37-04:00",
-    "title": "Application Security Engineer II",
-    "company": "abnormalsecurity",
-    "alerted": true
-  },
-  "5271346008": {
-    "first_seen": "2026-10-10T16:52:08.327126+00:00",
-    "updated_at": "2026-08-21T12:50:27-04:00",
-    "title": "Platform Security Engineer, OpenBMC",
-    "company": "anthropic",
-    "alerted": true
+    "2026-10-17": 2
   },
   "4721038006": {
     "first_seen": "2026-10-12T19:19:10.100492+00:00",
@@ -238,6 +224,13 @@
     "updated_at": "2026-10-09T23:16:13-04:00",
     "title": "Product Design New Grad (2027 Start)",
     "company": "databricks",
+    "alerted": true
+  },
+  "7832743003": {
+    "first_seen": "2026-10-17T16:53:55.131364+00:00",
+    "updated_at": "2026-08-31T11:45:37-04:00",
+    "title": "Application Security Engineer II",
+    "company": "abnormalsecurity",
     "alerted": true
   }
 }
