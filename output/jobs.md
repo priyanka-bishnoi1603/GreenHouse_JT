@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-10-19 21:31 UTC
+
+### 🆕 Cyber Incident Response Analyst
+**accenturefederalservices** · 60024449 - AFS Cyber Resilience and Defense
+📍 Leesburg, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4721038006?gh_jid=4721038006)
+🕐 Updated: `2026-10-16T15:17:10-04:00` &nbsp;|&nbsp; ID: `4721038006`
+
+---
+### 🆕 Information Systems Security Engineer (ISSE)
+**accenturefederalservices** · 60038769 - AFS Secure Digital Core
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4719692006?gh_jid=4719692006)
+🕐 Updated: `2026-10-12T18:04:39-04:00` &nbsp;|&nbsp; ID: `4719692006`
+
+---
+### 🔄 Application Security Engineer
+**gleanwork** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4728513005)
+🕐 Updated: `2026-10-19T16:39:39-04:00` &nbsp;|&nbsp; ID: `4728513005`
+
+---
+
 ## 📅 Run: 2026-10-19 17:10 UTC
 
 ### 🔄 Cyber Threat Intelligence Analyst

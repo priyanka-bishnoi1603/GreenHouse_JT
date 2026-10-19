@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-10-17": 2
-  },
-  "4721038006": {
-    "first_seen": "2026-10-12T19:19:10.100492+00:00",
-    "updated_at": "2026-10-16T15:17:10-04:00",
-    "title": "Cyber Incident Response Analyst",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "4719692006": {
-    "first_seen": "2026-10-12T19:19:10.101094+00:00",
-    "updated_at": "2026-10-12T18:04:39-04:00",
-    "title": "Information Systems Security Engineer (ISSE)",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-10-19": 2
   },
   "4677515006": {
     "first_seen": "2026-10-13T01:30:56.467568+00:00",
@@ -207,7 +193,7 @@
   },
   "4728513005": {
     "first_seen": "2026-10-16T21:05:06.538159+00:00",
-    "updated_at": "2026-08-28T20:41:07-04:00",
+    "updated_at": "2026-10-19T16:39:39-04:00",
     "title": "Application Security Engineer",
     "company": "gleanwork",
     "alerted": true
@@ -231,6 +217,20 @@
     "updated_at": "2026-08-31T11:45:37-04:00",
     "title": "Application Security Engineer II",
     "company": "abnormalsecurity",
+    "alerted": true
+  },
+  "4721038006": {
+    "first_seen": "2026-10-19T21:31:17.877286+00:00",
+    "updated_at": "2026-10-16T15:17:10-04:00",
+    "title": "Cyber Incident Response Analyst",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4719692006": {
+    "first_seen": "2026-10-19T21:31:17.887647+00:00",
+    "updated_at": "2026-10-12T18:04:39-04:00",
+    "title": "Information Systems Security Engineer (ISSE)",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }
