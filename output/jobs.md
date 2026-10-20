@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-10-20 00:39 UTC
+
+### 🆕 Platform Security Engineer
+**gleanwork** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4728507005)
+🕐 Updated: `2026-10-19T20:32:57-04:00` &nbsp;|&nbsp; ID: `4728507005`
+
+---
+### 🔄 Application Security Engineer
+**gleanwork** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4728513005)
+🕐 Updated: `2026-10-19T20:32:57-04:00` &nbsp;|&nbsp; ID: `4728513005`
+
+---
+
 ## 📅 Run: 2026-10-19 21:31 UTC
 
 ### 🆕 Cyber Incident Response Analyst

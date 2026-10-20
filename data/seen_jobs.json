@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-10-19": 2
+    "2026-10-20": 1
   },
   "4677515006": {
     "first_seen": "2026-10-13T01:30:56.467568+00:00",
@@ -193,7 +193,7 @@
   },
   "4728513005": {
     "first_seen": "2026-10-16T21:05:06.538159+00:00",
-    "updated_at": "2026-10-19T16:39:39-04:00",
+    "updated_at": "2026-10-19T20:32:57-04:00",
     "title": "Application Security Engineer",
     "company": "gleanwork",
     "alerted": true
@@ -231,6 +231,13 @@
     "updated_at": "2026-10-12T18:04:39-04:00",
     "title": "Information Systems Security Engineer (ISSE)",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4728507005": {
+    "first_seen": "2026-10-20T00:39:14.935861+00:00",
+    "updated_at": "2026-10-19T20:32:57-04:00",
+    "title": "Platform Security Engineer",
+    "company": "gleanwork",
     "alerted": true
   }
 }
