@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-10-20": 1
-  },
-  "4677515006": {
-    "first_seen": "2026-10-13T01:30:56.467568+00:00",
-    "updated_at": "2026-10-12T18:04:39-04:00",
-    "title": "Cybersecurity Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-10-20": 2
   },
   "4719254006": {
     "first_seen": "2026-10-13T16:14:47.396426+00:00",
@@ -238,6 +231,13 @@
     "updated_at": "2026-10-19T20:32:57-04:00",
     "title": "Platform Security Engineer",
     "company": "gleanwork",
+    "alerted": true
+  },
+  "4677515006": {
+    "first_seen": "2026-10-20T05:18:11.804519+00:00",
+    "updated_at": "2026-10-12T18:04:39-04:00",
+    "title": "Cybersecurity Engineer",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }
