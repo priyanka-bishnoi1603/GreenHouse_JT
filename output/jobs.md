@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-10-20 22:29 UTC
+
+### 🔄 Application Security Engineer II
+**abnormalsecurity** · Security
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/7832743003?gh_jid=7832743003)
+🕐 Updated: `2026-10-20T17:21:02-04:00` &nbsp;|&nbsp; ID: `7832743003`
+
+---
+### 🔄 Client Platform Security Engineer
+**stripe** · 8612 Security Infrastructure
+📍 New York, New York  &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7982720)
+🕐 Updated: `2026-10-20T17:27:14-04:00` &nbsp;|&nbsp; ID: `7982720`
+
+---
+### 🔄 Cloud Security Engineer
+**stripe** · 8614 Office of the CISO & Partnership
+📍 Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7867389)
+🕐 Updated: `2026-10-20T17:27:14-04:00` &nbsp;|&nbsp; ID: `7867389`
+
+---
+### 🔄 Offensive Security Engineer
+**stripe** · 8611 Security Analytics
+📍 US - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8233889)
+🕐 Updated: `2026-10-20T17:27:22-04:00` &nbsp;|&nbsp; ID: `8233889`
+
+---
+
 ## 📅 Run: 2026-10-20 19:19 UTC
 
 ### 🆕 Information Systems Security Engineer (ISSE)
