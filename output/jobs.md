@@ -2,6 +2,39 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-10-21 19:37 UTC
+
+### 🆕 Security Operations Analyst - West Coast Shift 
+**huntress** · Security Analysis
+📍 Remote US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7743188003)
+🕐 Updated: `2026-10-21T15:05:01-04:00` &nbsp;|&nbsp; ID: `7743188003`
+
+---
+### 🔄 Cloud Security Engineer Mid
+**accenturefederalservices** · 60038769 - AFS Secure Digital Core
+📍 Leesburg, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4721880006?gh_jid=4721880006)
+🕐 Updated: `2026-10-21T14:04:02-04:00` &nbsp;|&nbsp; ID: `4721880006`
+
+---
+### 🔄 Client Platform Security Engineer
+**stripe** · 8612 Security Infrastructure
+📍 New York, New York  &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7982720)
+🕐 Updated: `2026-10-21T14:53:01-04:00` &nbsp;|&nbsp; ID: `7982720`
+
+---
+### 🔄 Cloud Security Engineer
+**stripe** · 8614 Office of the CISO & Partnership
+📍 Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7867389)
+🕐 Updated: `2026-10-21T14:53:01-04:00` &nbsp;|&nbsp; ID: `7867389`
+
+---
+### 🔄 Offensive Security Engineer
+**stripe** · 8611 Security Analytics
+📍 US - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8233889)
+🕐 Updated: `2026-10-21T14:53:01-04:00` &nbsp;|&nbsp; ID: `8233889`
+
+---
+
 ## 📅 Run: 2026-10-21 15:37 UTC
 
 ### 🆕 Cloud Security Engineer Mid

@@ -1,24 +1,10 @@
 {
   "__daily_alerts__": {
-    "2026-10-21": 11
-  },
-  "7743188003": {
-    "first_seen": "2026-10-14T19:21:17.726374+00:00",
-    "updated_at": "2026-10-14T13:19:46-04:00",
-    "title": "Security Operations Analyst - West Coast Shift ",
-    "company": "huntress",
-    "alerted": true
-  },
-  "4721881006": {
-    "first_seen": "2026-10-14T19:21:20.036846+00:00",
-    "updated_at": "2026-10-14T13:18:20-04:00",
-    "title": "Network Security Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-10-21": 12
   },
   "7982720": {
     "first_seen": "2026-10-14T22:27:44.978068+00:00",
-    "updated_at": "2026-10-20T17:27:14-04:00",
+    "updated_at": "2026-10-21T14:53:01-04:00",
     "title": "Client Platform Security Engineer",
     "company": "stripe",
     "alerted": true
@@ -102,7 +88,7 @@
   },
   "8233889": {
     "first_seen": "2026-10-16T21:05:07.651322+00:00",
-    "updated_at": "2026-10-20T17:27:22-04:00",
+    "updated_at": "2026-10-21T14:53:01-04:00",
     "title": "Offensive Security Engineer",
     "company": "stripe",
     "alerted": true
@@ -179,7 +165,7 @@
   },
   "7867389": {
     "first_seen": "2026-10-21T00:48:23.074745+00:00",
-    "updated_at": "2026-10-20T17:27:14-04:00",
+    "updated_at": "2026-10-21T14:53:01-04:00",
     "title": "Cloud Security Engineer",
     "company": "stripe",
     "alerted": true
@@ -228,7 +214,7 @@
   },
   "4721880006": {
     "first_seen": "2026-10-21T15:36:54.450919+00:00",
-    "updated_at": "2026-10-14T10:51:18-04:00",
+    "updated_at": "2026-10-21T14:04:02-04:00",
     "title": "Cloud Security Engineer Mid",
     "company": "accenturefederalservices",
     "alerted": true
@@ -238,6 +224,13 @@
     "updated_at": "2026-09-10T14:01:17-04:00",
     "title": "Security Engineer, Offensive Security",
     "company": "anthropic",
+    "alerted": true
+  },
+  "7743188003": {
+    "first_seen": "2026-10-21T19:37:11.942113+00:00",
+    "updated_at": "2026-10-21T15:05:01-04:00",
+    "title": "Security Operations Analyst - West Coast Shift ",
+    "company": "huntress",
     "alerted": true
   }
 }
