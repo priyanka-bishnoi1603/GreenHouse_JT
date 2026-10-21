@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-10-21": 12
-  },
-  "7982720": {
-    "first_seen": "2026-10-14T22:27:44.978068+00:00",
-    "updated_at": "2026-10-21T14:53:01-04:00",
-    "title": "Client Platform Security Engineer",
-    "company": "stripe",
-    "alerted": true
+    "2026-10-21": 13
   },
   "4716511006": {
     "first_seen": "2026-10-15T00:44:02.818091+00:00",
@@ -231,6 +224,13 @@
     "updated_at": "2026-10-21T15:05:01-04:00",
     "title": "Security Operations Analyst - West Coast Shift ",
     "company": "huntress",
+    "alerted": true
+  },
+  "7982720": {
+    "first_seen": "2026-10-21T22:44:56.673539+00:00",
+    "updated_at": "2026-10-21T14:53:01-04:00",
+    "title": "Client Platform Security Engineer",
+    "company": "stripe",
     "alerted": true
   }
 }

@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-10-21 22:45 UTC
+
+### 🆕 Client Platform Security Engineer
+**stripe** · 8612 Security Infrastructure
+📍 New York, New York  &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7982720)
+🕐 Updated: `2026-10-21T14:53:01-04:00` &nbsp;|&nbsp; ID: `7982720`
+
+---
+
 ## 📅 Run: 2026-10-21 19:37 UTC
 
 ### 🆕 Security Operations Analyst - West Coast Shift 
