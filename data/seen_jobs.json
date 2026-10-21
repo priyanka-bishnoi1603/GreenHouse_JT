@@ -1,48 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-10-21": 4
-  },
-  "4691258006": {
-    "first_seen": "2026-10-14T10:13:04.406770+00:00",
-    "updated_at": "2026-10-12T18:04:39-04:00",
-    "title": "IAM Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "5290426008": {
-    "first_seen": "2026-10-14T10:13:04.790280+00:00",
-    "updated_at": "2026-08-21T12:50:31-04:00",
-    "title": "Platform Security Engineering, Operating Systems ",
-    "company": "anthropic",
-    "alerted": true
-  },
-  "5195705008": {
-    "first_seen": "2026-10-14T10:13:04.798634+00:00",
-    "updated_at": "2026-09-01T15:05:47-04:00",
-    "title": "Security Engineer - Threat Intel",
-    "company": "anthropic",
-    "alerted": true
-  },
-  "7808464": {
-    "first_seen": "2026-10-14T10:13:08.296364+00:00",
-    "updated_at": "2026-10-16T15:04:05-04:00",
-    "title": "Global Security Operations Center Operator",
-    "company": "twilio",
-    "alerted": true
-  },
-  "8241504": {
-    "first_seen": "2026-10-14T10:13:10.161584+00:00",
-    "updated_at": "2026-09-29T18:02:51-04:00",
-    "title": "3D Print Optimization Engineer - June 2027 New Grads",
-    "company": "formlabs",
-    "alerted": true
-  },
-  "8241503": {
-    "first_seen": "2026-10-14T10:13:10.161714+00:00",
-    "updated_at": "2026-09-29T18:02:37-04:00",
-    "title": "3D Print Optimization Engineer - June 2027 New Grads",
-    "company": "formlabs",
-    "alerted": false
+    "2026-10-21": 9
   },
   "4721880006": {
     "first_seen": "2026-10-14T15:09:55.527857+00:00",
@@ -239,5 +197,47 @@
     "title": "Cloud Security Engineer",
     "company": "stripe",
     "alerted": true
+  },
+  "4691258006": {
+    "first_seen": "2026-10-21T10:35:37.259959+00:00",
+    "updated_at": "2026-10-12T18:04:39-04:00",
+    "title": "IAM Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "5290426008": {
+    "first_seen": "2026-10-21T10:35:37.676504+00:00",
+    "updated_at": "2026-08-21T12:50:31-04:00",
+    "title": "Platform Security Engineering, Operating Systems ",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "5195705008": {
+    "first_seen": "2026-10-21T10:35:37.685332+00:00",
+    "updated_at": "2026-09-01T15:05:47-04:00",
+    "title": "Security Engineer - Threat Intel",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "7808464": {
+    "first_seen": "2026-10-21T10:35:42.094825+00:00",
+    "updated_at": "2026-10-16T15:04:05-04:00",
+    "title": "Global Security Operations Center Operator",
+    "company": "twilio",
+    "alerted": true
+  },
+  "8241503": {
+    "first_seen": "2026-10-21T10:35:44.398662+00:00",
+    "updated_at": "2026-09-29T18:02:37-04:00",
+    "title": "3D Print Optimization Engineer - June 2027 New Grads",
+    "company": "formlabs",
+    "alerted": true
+  },
+  "8241504": {
+    "first_seen": "2026-10-21T10:35:44.398799+00:00",
+    "updated_at": "2026-09-29T18:02:51-04:00",
+    "title": "3D Print Optimization Engineer - June 2027 New Grads",
+    "company": "formlabs",
+    "alerted": false
   }
 }
