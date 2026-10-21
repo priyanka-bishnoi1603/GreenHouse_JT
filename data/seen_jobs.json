@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-10-21": 9
-  },
-  "4721880006": {
-    "first_seen": "2026-10-14T15:09:55.527857+00:00",
-    "updated_at": "2026-10-14T10:51:18-04:00",
-    "title": "Cloud Security Engineer Mid",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "5418977008": {
-    "first_seen": "2026-10-14T15:09:56.004104+00:00",
-    "updated_at": "2026-09-10T14:01:17-04:00",
-    "title": "Security Engineer, Offensive Security",
-    "company": "anthropic",
-    "alerted": true
+    "2026-10-21": 11
   },
   "7743188003": {
     "first_seen": "2026-10-14T19:21:17.726374+00:00",
@@ -239,5 +225,19 @@
     "title": "3D Print Optimization Engineer - June 2027 New Grads",
     "company": "formlabs",
     "alerted": false
+  },
+  "4721880006": {
+    "first_seen": "2026-10-21T15:36:54.450919+00:00",
+    "updated_at": "2026-10-14T10:51:18-04:00",
+    "title": "Cloud Security Engineer Mid",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "5418977008": {
+    "first_seen": "2026-10-21T15:36:55.008202+00:00",
+    "updated_at": "2026-09-10T14:01:17-04:00",
+    "title": "Security Engineer, Offensive Security",
+    "company": "anthropic",
+    "alerted": true
   }
 }
