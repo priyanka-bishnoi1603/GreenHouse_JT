@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-10-23 22:39 UTC
+
+### 🆕 Threat Researcher
+**abnormalsecurity** · Threat Intelligence
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/8032052003?gh_jid=8032052003)
+🕐 Updated: `2026-10-23T16:37:33-04:00` &nbsp;|&nbsp; ID: `8032052003`
+
+---
+### 🆕 Cybersecurity Engineer
+**accenturefederalservices** · 60024445 - AFS Cyber Mission
+📍 San Diego, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4690064006?gh_jid=4690064006)
+🕐 Updated: `2026-10-12T18:04:39-04:00` &nbsp;|&nbsp; ID: `4690064006`
+
+---
+### 🆕 Application Security Engineer
+**gleanwork** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4728513005)
+🕐 Updated: `2026-10-20T12:21:38-04:00` &nbsp;|&nbsp; ID: `4728513005`
+
+---
+### 🆕 Offensive Security Engineer
+**stripe** · 8611 Security Analytics
+📍 US - Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=8233889)
+🕐 Updated: `2026-10-22T09:17:11-04:00` &nbsp;|&nbsp; ID: `8233889`
+
+---
+
 ## 📅 Run: 2026-10-23 19:44 UTC
 
 ### 🆕 Application Security Engineer

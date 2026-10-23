@@ -1,27 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-10-23": 3
-  },
-  "4690064006": {
-    "first_seen": "2026-10-16T21:05:06.024020+00:00",
-    "updated_at": "2026-10-12T18:04:39-04:00",
-    "title": "Cybersecurity Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "4728513005": {
-    "first_seen": "2026-10-16T21:05:06.538159+00:00",
-    "updated_at": "2026-10-20T12:21:38-04:00",
-    "title": "Application Security Engineer",
-    "company": "gleanwork",
-    "alerted": true
-  },
-  "8233889": {
-    "first_seen": "2026-10-16T21:05:07.651322+00:00",
-    "updated_at": "2026-10-22T09:17:11-04:00",
-    "title": "Offensive Security Engineer",
-    "company": "stripe",
-    "alerted": true
+    "2026-10-23": 7
   },
   "8843577002": {
     "first_seen": "2026-10-17T01:32:49.178486+00:00",
@@ -238,6 +217,34 @@
     "updated_at": "2026-10-19T10:53:45-04:00",
     "title": "Cyber Threat Intelligence Analyst",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "8032052003": {
+    "first_seen": "2026-10-23T22:39:11.705236+00:00",
+    "updated_at": "2026-10-23T16:37:33-04:00",
+    "title": "Threat Researcher",
+    "company": "abnormalsecurity",
+    "alerted": true
+  },
+  "4690064006": {
+    "first_seen": "2026-10-23T22:39:14.636710+00:00",
+    "updated_at": "2026-10-12T18:04:39-04:00",
+    "title": "Cybersecurity Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4728513005": {
+    "first_seen": "2026-10-23T22:39:15.310468+00:00",
+    "updated_at": "2026-10-20T12:21:38-04:00",
+    "title": "Application Security Engineer",
+    "company": "gleanwork",
+    "alerted": true
+  },
+  "8233889": {
+    "first_seen": "2026-10-23T22:39:16.457524+00:00",
+    "updated_at": "2026-10-22T09:17:11-04:00",
+    "title": "Offensive Security Engineer",
+    "company": "stripe",
     "alerted": true
   }
 }
