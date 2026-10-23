@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-10-23 19:44 UTC
+
+### 🆕 Application Security Engineer
+**accenturefederalservices** · 60024445 - AFS Cyber Mission
+📍 Leesburg, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4720662006?gh_jid=4720662006)
+🕐 Updated: `2026-10-23T14:54:30-04:00` &nbsp;|&nbsp; ID: `4720662006`
+
+---
+### 🆕 Cyber Threat Intelligence Analyst
+**accenturefederalservices** · 60024449 - AFS Cyber Resilience and Defense
+📍 Leesburg, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4720525006?gh_jid=4720525006)
+🕐 Updated: `2026-10-19T10:53:45-04:00` &nbsp;|&nbsp; ID: `4720525006`
+
+---
+
 ## 📅 Run: 2026-10-23 06:01 UTC
 
 ### 🆕 Threat Intelligence Platform Engineer

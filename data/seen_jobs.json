@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-10-23": 1
-  },
-  "4722595006": {
-    "first_seen": "2026-10-16T18:01:44.274832+00:00",
-    "updated_at": "2026-10-16T10:32:58-04:00",
-    "title": "Application Security Engineer ",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "4720525006": {
-    "first_seen": "2026-10-16T18:01:44.282747+00:00",
-    "updated_at": "2026-10-19T10:53:45-04:00",
-    "title": "Cyber Threat Intelligence Analyst",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-10-23": 3
   },
   "4690064006": {
     "first_seen": "2026-10-16T21:05:06.024020+00:00",
@@ -231,6 +217,27 @@
     "updated_at": "2026-10-13T19:54:04-04:00",
     "title": "Threat Intelligence Platform Engineer",
     "company": "coinbase",
+    "alerted": true
+  },
+  "4720662006": {
+    "first_seen": "2026-10-23T19:44:18.039664+00:00",
+    "updated_at": "2026-10-23T14:54:30-04:00",
+    "title": "Application Security Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4722595006": {
+    "first_seen": "2026-10-23T19:44:18.039746+00:00",
+    "updated_at": "2026-10-16T10:32:58-04:00",
+    "title": "Application Security Engineer ",
+    "company": "accenturefederalservices",
+    "alerted": false
+  },
+  "4720525006": {
+    "first_seen": "2026-10-23T19:44:18.049958+00:00",
+    "updated_at": "2026-10-19T10:53:45-04:00",
+    "title": "Cyber Threat Intelligence Analyst",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }
