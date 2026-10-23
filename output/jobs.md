@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-10-23 06:01 UTC
+
+### 🆕 Threat Intelligence Platform Engineer
+**coinbase** · Engineering - Security
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8177619?gh_jid=8177619)
+🕐 Updated: `2026-10-13T19:54:04-04:00` &nbsp;|&nbsp; ID: `8177619`
+
+---
+
 ## 📅 Run: 2026-10-22 22:46 UTC
 
 ### 🆕 Cybersecurity Incident Response Triage Analyst
