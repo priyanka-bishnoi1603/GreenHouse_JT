@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-10-23": 7
-  },
-  "8843577002": {
-    "first_seen": "2026-10-17T01:32:49.178486+00:00",
-    "updated_at": "2026-10-09T23:16:13-04:00",
-    "title": "Product Design New Grad (2027 Start)",
-    "company": "databricks",
-    "alerted": true
+    "2026-10-24": 1
   },
   "7832743003": {
     "first_seen": "2026-10-17T16:53:55.131364+00:00",
@@ -245,6 +238,13 @@
     "updated_at": "2026-10-22T09:17:11-04:00",
     "title": "Offensive Security Engineer",
     "company": "stripe",
+    "alerted": true
+  },
+  "8843577002": {
+    "first_seen": "2026-10-24T05:50:22.822575+00:00",
+    "updated_at": "2026-10-09T23:16:13-04:00",
+    "title": "Product Design New Grad (2027 Start)",
+    "company": "databricks",
     "alerted": true
   }
 }
