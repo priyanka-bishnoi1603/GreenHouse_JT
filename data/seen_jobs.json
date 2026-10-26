@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-10-26": 1
-  },
-  "4721038006": {
-    "first_seen": "2026-10-19T21:31:17.877286+00:00",
-    "updated_at": "2026-10-16T15:17:10-04:00",
-    "title": "Cyber Incident Response Analyst",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "4719692006": {
-    "first_seen": "2026-10-19T21:31:17.887647+00:00",
-    "updated_at": "2026-10-12T18:04:39-04:00",
-    "title": "Information Systems Security Engineer (ISSE)",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-10-26": 3
   },
   "4728507005": {
     "first_seen": "2026-10-20T00:39:14.935861+00:00",
@@ -123,7 +109,7 @@
   },
   "7743188003": {
     "first_seen": "2026-10-21T19:37:11.942113+00:00",
-    "updated_at": "2026-10-21T15:05:01-04:00",
+    "updated_at": "2026-10-26T14:28:33-04:00",
     "title": "Security Operations Analyst - West Coast Shift ",
     "company": "huntress",
     "alerted": true
@@ -252,6 +238,20 @@
     "updated_at": "2026-10-26T12:31:18-04:00",
     "title": "Information Security Analyst II - Federal Programs",
     "company": "datadog",
+    "alerted": true
+  },
+  "4721038006": {
+    "first_seen": "2026-10-26T21:44:53.883355+00:00",
+    "updated_at": "2026-10-16T15:17:10-04:00",
+    "title": "Cyber Incident Response Analyst",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4719692006": {
+    "first_seen": "2026-10-26T21:44:53.893626+00:00",
+    "updated_at": "2026-10-12T18:04:39-04:00",
+    "title": "Information Systems Security Engineer (ISSE)",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }
