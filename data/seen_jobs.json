@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-10-24": 2
+    "2026-10-26": 1
   },
   "4721038006": {
     "first_seen": "2026-10-19T21:31:17.877286+00:00",
@@ -245,6 +245,13 @@
     "updated_at": "2026-10-20T17:21:02-04:00",
     "title": "Application Security Engineer II",
     "company": "abnormalsecurity",
+    "alerted": true
+  },
+  "8319487": {
+    "first_seen": "2026-10-26T17:21:38.165395+00:00",
+    "updated_at": "2026-10-26T12:31:18-04:00",
+    "title": "Information Security Analyst II - Federal Programs",
+    "company": "datadog",
     "alerted": true
   }
 }

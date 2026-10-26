@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-10-26 17:21 UTC
+
+### 🆕 Information Security Analyst II - Federal Programs
+**datadog** · Security
+📍 New York, New York, USA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.datadoghq.com/detail/8319487/?gh_jid=8319487)
+🕐 Updated: `2026-10-26T12:31:18-04:00` &nbsp;|&nbsp; ID: `8319487`
+
+---
+
 ## 📅 Run: 2026-10-24 17:25 UTC
 
 ### 🆕 Application Security Engineer II
