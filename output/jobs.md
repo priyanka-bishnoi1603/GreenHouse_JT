@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-10-27 21:06 UTC
+
+### 🆕 Information Systems Security Engineer (ISSE)
+**accenturefederalservices** · 60038769 - AFS Secure Digital Core
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4719254006?gh_jid=4719254006)
+🕐 Updated: `2026-10-12T18:04:39-04:00` &nbsp;|&nbsp; ID: `4719254006`
+
+---
+### 🆕 Autonomous Systems Security Engineer
+**anthropic** · Security
+📍 Remote-Friendly (Travel Required) | San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5462972008)
+🕐 Updated: `2026-10-27T16:42:45-04:00` &nbsp;|&nbsp; ID: `5462972008`
+
+---
+
 ## 📅 Run: 2026-10-27 16:51 UTC
 
 ### 🔄 Information Security Analyst II - Federal Programs
