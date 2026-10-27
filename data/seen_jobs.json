@@ -60,7 +60,7 @@
   },
   "7808464": {
     "first_seen": "2026-10-21T10:35:42.094825+00:00",
-    "updated_at": "2026-10-16T15:04:05-04:00",
+    "updated_at": "2026-10-27T12:20:59-04:00",
     "title": "Global Security Operations Center Operator",
     "company": "twilio",
     "alerted": true
@@ -221,7 +221,7 @@
   },
   "8319487": {
     "first_seen": "2026-10-26T17:21:38.165395+00:00",
-    "updated_at": "2026-10-26T12:31:18-04:00",
+    "updated_at": "2026-10-27T09:30:05-04:00",
     "title": "Information Security Analyst II - Federal Programs",
     "company": "datadog",
     "alerted": true
