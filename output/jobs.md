@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-10-27 00:52 UTC
+
+### 🆕 Splunk Infrastructure Engineer 
+**okta** · Tech Ops-610
+📍 Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7658254?gh_jid=7658254)
+🕐 Updated: `2026-10-26T19:49:19-04:00` &nbsp;|&nbsp; ID: `7658254`
+
+---
+### 🆕 Platform Security Engineer
+**gleanwork** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4728507005)
+🕐 Updated: `2026-10-20T12:21:38-04:00` &nbsp;|&nbsp; ID: `4728507005`
+
+---
+
 ## 📅 Run: 2026-10-26 21:45 UTC
 
 ### 🆕 Cyber Incident Response Analyst

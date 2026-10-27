@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-10-26": 3
-  },
-  "4728507005": {
-    "first_seen": "2026-10-20T00:39:14.935861+00:00",
-    "updated_at": "2026-10-20T12:21:38-04:00",
-    "title": "Platform Security Engineer",
-    "company": "gleanwork",
-    "alerted": true
+    "2026-10-27": 2
   },
   "4677515006": {
     "first_seen": "2026-10-20T05:18:11.804519+00:00",
@@ -252,6 +245,20 @@
     "updated_at": "2026-10-12T18:04:39-04:00",
     "title": "Information Systems Security Engineer (ISSE)",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "7658254": {
+    "first_seen": "2026-10-27T00:52:36.825003+00:00",
+    "updated_at": "2026-10-26T19:49:19-04:00",
+    "title": "Splunk Infrastructure Engineer ",
+    "company": "okta",
+    "alerted": true
+  },
+  "4728507005": {
+    "first_seen": "2026-10-27T00:52:39.568301+00:00",
+    "updated_at": "2026-10-20T12:21:38-04:00",
+    "title": "Platform Security Engineer",
+    "company": "gleanwork",
     "alerted": true
   }
 }
