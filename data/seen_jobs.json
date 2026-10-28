@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-10-28": 11
-  },
-  "7743188003": {
-    "first_seen": "2026-10-21T19:37:11.942113+00:00",
-    "updated_at": "2026-10-26T14:28:33-04:00",
-    "title": "Security Operations Analyst - West Coast Shift ",
-    "company": "huntress",
-    "alerted": true
-  },
-  "7982720": {
-    "first_seen": "2026-10-21T22:44:56.673539+00:00",
-    "updated_at": "2026-10-22T09:17:05-04:00",
-    "title": "Client Platform Security Engineer",
-    "company": "stripe",
-    "alerted": true
+    "2026-10-28": 13
   },
   "4716511006": {
     "first_seen": "2026-10-22T00:56:46.991652+00:00",
@@ -274,5 +260,19 @@
     "title": "3D Print Optimization Engineer - June 2027 New Grads",
     "company": "formlabs",
     "alerted": false
+  },
+  "7743188003": {
+    "first_seen": "2026-10-28T23:00:22.630677+00:00",
+    "updated_at": "2026-10-26T14:28:33-04:00",
+    "title": "Security Operations Analyst - West Coast Shift ",
+    "company": "huntress",
+    "alerted": true
+  },
+  "7982720": {
+    "first_seen": "2026-10-28T23:00:27.205659+00:00",
+    "updated_at": "2026-10-22T09:17:05-04:00",
+    "title": "Client Platform Security Engineer",
+    "company": "stripe",
+    "alerted": true
   }
 }
