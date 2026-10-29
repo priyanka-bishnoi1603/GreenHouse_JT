@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-10-29": 1
-  },
-  "4688933006": {
-    "first_seen": "2026-10-22T05:47:12.698648+00:00",
-    "updated_at": "2026-10-12T18:04:39-04:00",
-    "title": "Information System Security Engineer ",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-10-29": 2
   },
   "4719910006": {
     "first_seen": "2026-10-22T19:42:20.632686+00:00",
@@ -130,7 +123,7 @@
   },
   "4728507005": {
     "first_seen": "2026-10-27T00:52:39.568301+00:00",
-    "updated_at": "2026-10-20T12:21:38-04:00",
+    "updated_at": "2026-10-29T03:25:45-04:00",
     "title": "Platform Security Engineer",
     "company": "gleanwork",
     "alerted": true
@@ -266,6 +259,13 @@
     "updated_at": "2026-10-01T15:54:47-04:00",
     "title": "Security Engineer, Detect & Respond ",
     "company": "betterment",
+    "alerted": true
+  },
+  "4688933006": {
+    "first_seen": "2026-10-29T08:44:18.350443+00:00",
+    "updated_at": "2026-10-12T18:04:39-04:00",
+    "title": "Information System Security Engineer ",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }
