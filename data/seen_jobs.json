@@ -74,7 +74,7 @@
   },
   "8233889": {
     "first_seen": "2026-10-23T22:39:16.457524+00:00",
-    "updated_at": "2026-10-22T09:17:11-04:00",
+    "updated_at": "2026-10-29T10:42:09-04:00",
     "title": "Offensive Security Engineer",
     "company": "stripe",
     "alerted": true
@@ -172,7 +172,7 @@
   },
   "7867389": {
     "first_seen": "2026-10-28T06:17:43.940351+00:00",
-    "updated_at": "2026-10-22T09:17:04-04:00",
+    "updated_at": "2026-10-29T10:42:09-04:00",
     "title": "Cloud Security Engineer",
     "company": "stripe",
     "alerted": true
@@ -249,7 +249,7 @@
   },
   "7982720": {
     "first_seen": "2026-10-28T23:00:27.205659+00:00",
-    "updated_at": "2026-10-22T09:17:05-04:00",
+    "updated_at": "2026-10-29T10:42:09-04:00",
     "title": "Client Platform Security Engineer",
     "company": "stripe",
     "alerted": true
