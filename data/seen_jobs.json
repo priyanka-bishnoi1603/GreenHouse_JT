@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-10-28": 13
-  },
-  "4716511006": {
-    "first_seen": "2026-10-22T00:56:46.991652+00:00",
-    "updated_at": "2026-10-12T18:04:39-04:00",
-    "title": "Multi-Cloud Security & Compliance Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "8211928": {
-    "first_seen": "2026-10-22T00:56:51.112877+00:00",
-    "updated_at": "2026-10-01T15:54:47-04:00",
-    "title": "Security Engineer, Detect & Respond ",
-    "company": "betterment",
-    "alerted": true
+    "2026-10-29": 1
   },
   "4688933006": {
     "first_seen": "2026-10-22T05:47:12.698648+00:00",
@@ -273,6 +259,13 @@
     "updated_at": "2026-10-22T09:17:05-04:00",
     "title": "Client Platform Security Engineer",
     "company": "stripe",
+    "alerted": true
+  },
+  "8211928": {
+    "first_seen": "2026-10-29T02:25:12.488460+00:00",
+    "updated_at": "2026-10-01T15:54:47-04:00",
+    "title": "Security Engineer, Detect & Respond ",
+    "company": "betterment",
     "alerted": true
   }
 }

@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-10-29 02:25 UTC
+
+### 🆕 Security Engineer, Detect & Respond 
+**betterment** · Platform Engineering 
+📍 Betterment HQ - New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.betterment.com/careers/current-openings/job?gh_jid=8211928&gh_jid=8211928)
+🕐 Updated: `2026-10-01T15:54:47-04:00` &nbsp;|&nbsp; ID: `8211928`
+
+---
+
 ## 📅 Run: 2026-10-28 23:00 UTC
 
 ### 🆕 Security Operations Analyst - West Coast Shift 
