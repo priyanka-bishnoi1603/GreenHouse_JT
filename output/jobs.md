@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-10-29 20:36 UTC
+
+### 🆕 Information Systems Security Engineer (ISSE)
+**accenturefederalservices** · 56219060 - AFS Cyber Strategy Risk and Architecture
+📍 Colorado Springs, CO &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4719910006?gh_jid=4719910006)
+🕐 Updated: `2026-10-15T13:48:05-04:00` &nbsp;|&nbsp; ID: `4719910006`
+
+---
+### 🔄 Threat Researcher
+**abnormalsecurity** · Threat Intelligence
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://abnormal.ai/careers/jobs/8032052003?gh_jid=8032052003)
+🕐 Updated: `2026-10-29T13:04:10-04:00` &nbsp;|&nbsp; ID: `8032052003`
+
+---
+
 ## 📅 Run: 2026-10-29 15:36 UTC
 
 ### 🔄 Client Platform Security Engineer
