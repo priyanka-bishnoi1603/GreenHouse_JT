@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-10-30 18:22 UTC
+
+### 🔄 Cloud Security Intern
+**tanium** · Engineering - Shared Services
+📍 Durham, NC (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/tanium/jobs/8176398)
+🕐 Updated: `2026-10-30T12:32:41-04:00` &nbsp;|&nbsp; ID: `8176398`
+
+---
+### 🔄 Threat Intelligence Platform Engineer
+**coinbase** · Engineering - Security
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8177619?gh_jid=8177619)
+🕐 Updated: `2026-10-30T11:06:11-04:00` &nbsp;|&nbsp; ID: `8177619`
+
+---
+
 ## 📅 Run: 2026-10-30 06:09 UTC
 
 ### 🆕 Threat Intelligence Platform Engineer
