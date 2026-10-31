@@ -1,34 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-10-30": 6
-  },
-  "8032052003": {
-    "first_seen": "2026-10-23T22:39:11.705236+00:00",
-    "updated_at": "2026-10-29T13:04:10-04:00",
-    "title": "Threat Researcher",
-    "company": "abnormalsecurity",
-    "alerted": true
-  },
-  "4690064006": {
-    "first_seen": "2026-10-23T22:39:14.636710+00:00",
-    "updated_at": "2026-10-12T18:04:39-04:00",
-    "title": "Cybersecurity Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "4728513005": {
-    "first_seen": "2026-10-23T22:39:15.310468+00:00",
-    "updated_at": "2026-10-20T12:21:38-04:00",
-    "title": "Application Security Engineer",
-    "company": "gleanwork",
-    "alerted": true
-  },
-  "8233889": {
-    "first_seen": "2026-10-23T22:39:16.457524+00:00",
-    "updated_at": "2026-10-29T10:42:09-04:00",
-    "title": "Offensive Security Engineer",
-    "company": "stripe",
-    "alerted": true
+    "2026-10-31": 4
   },
   "8843577002": {
     "first_seen": "2026-10-24T05:50:22.822575+00:00",
@@ -273,6 +245,34 @@
     "updated_at": "2026-10-19T10:53:45-04:00",
     "title": "Cyber Threat Intelligence Analyst",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "8032052003": {
+    "first_seen": "2026-10-31T01:48:33.299687+00:00",
+    "updated_at": "2026-10-29T13:04:10-04:00",
+    "title": "Threat Researcher",
+    "company": "abnormalsecurity",
+    "alerted": true
+  },
+  "4690064006": {
+    "first_seen": "2026-10-31T01:48:35.166689+00:00",
+    "updated_at": "2026-10-12T18:04:39-04:00",
+    "title": "Cybersecurity Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4728513005": {
+    "first_seen": "2026-10-31T01:48:35.629015+00:00",
+    "updated_at": "2026-10-20T12:21:38-04:00",
+    "title": "Application Security Engineer",
+    "company": "gleanwork",
+    "alerted": true
+  },
+  "8233889": {
+    "first_seen": "2026-10-31T01:48:36.500672+00:00",
+    "updated_at": "2026-10-29T10:42:09-04:00",
+    "title": "Offensive Security Engineer",
+    "company": "stripe",
     "alerted": true
   }
 }
