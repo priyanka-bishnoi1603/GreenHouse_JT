@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-10-31": 5
-  },
-  "7832743003": {
-    "first_seen": "2026-10-24T17:25:42.123634+00:00",
-    "updated_at": "2026-10-20T17:21:02-04:00",
-    "title": "Application Security Engineer II",
-    "company": "abnormalsecurity",
-    "alerted": true
+    "2026-10-31": 6
   },
   "8319487": {
     "first_seen": "2026-10-26T17:21:38.165395+00:00",
@@ -273,6 +266,13 @@
     "updated_at": "2026-10-09T23:16:13-04:00",
     "title": "Product Design New Grad (2027 Start)",
     "company": "databricks",
+    "alerted": true
+  },
+  "7832743003": {
+    "first_seen": "2026-10-31T18:40:24.797630+00:00",
+    "updated_at": "2026-10-20T17:21:02-04:00",
+    "title": "Application Security Engineer II",
+    "company": "abnormalsecurity",
     "alerted": true
   }
 }
