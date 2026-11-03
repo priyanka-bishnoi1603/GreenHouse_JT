@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-11-03 22:00 UTC
+
+### 🆕 Autonomous Systems Security Engineer
+**anthropic** · Security
+📍 Remote-Friendly (Travel Required) | San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5462972008)
+🕐 Updated: `2026-10-27T16:42:45-04:00` &nbsp;|&nbsp; ID: `5462972008`
+
+---
+
 ## 📅 Run: 2026-11-03 08:33 UTC
 
 ### 🆕 Cybersecurity Engineer
