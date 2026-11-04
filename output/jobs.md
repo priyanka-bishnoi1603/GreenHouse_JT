@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-11-04 09:08 UTC
+
+### 🆕 Cloud Security Intern
+**tanium** · Engineering - Shared Services
+📍 Durham, NC (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/tanium/jobs/8176398)
+🕐 Updated: `2026-10-30T15:57:54-04:00` &nbsp;|&nbsp; ID: `8176398`
+
+---
+### 🆕 Incident Response Engineer
+**accenturefederalservices** · 56219060 - AFS Cyber Strategy Risk and Architecture
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4678524006?gh_jid=4678524006)
+🕐 Updated: `2026-10-12T18:04:39-04:00` &nbsp;|&nbsp; ID: `4678524006`
+
+---
+### 🆕 Observability Engineer (Splunk)
+**accenturefederalservices** · 60024445 - AFS Cyber Mission
+📍 Arlington, VA; Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4717563006?gh_jid=4717563006)
+🕐 Updated: `2026-10-12T18:04:39-04:00` &nbsp;|&nbsp; ID: `4717563006`
+
+---
+### 🆕 Cloud Security Engineer
+**stripe** · 8614 Office of the CISO & Partnership
+📍 Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7867389)
+🕐 Updated: `2026-10-29T10:42:09-04:00` &nbsp;|&nbsp; ID: `7867389`
+
+---
+
 ## 📅 Run: 2026-11-04 02:06 UTC
 
 ### 🆕 Cloud Security Specialist
