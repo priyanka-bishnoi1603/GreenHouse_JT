@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-11-04 22:38 UTC
+
+### 🆕 Cloud Security Engineer Mid
+**accenturefederalservices** · 60038769 - AFS Secure Digital Core
+📍 Leesburg, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4721880006?gh_jid=4721880006)
+🕐 Updated: `2026-10-21T14:04:02-04:00` &nbsp;|&nbsp; ID: `4721880006`
+
+---
+### 🆕 Security Engineer, Offensive Security
+**anthropic** · Security
+📍 Remote-Friendly, United States; San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5418977008)
+🕐 Updated: `2026-09-10T14:01:17-04:00` &nbsp;|&nbsp; ID: `5418977008`
+
+---
+### 🆕 3D Print Optimization Engineer - June 2027 New Grads
+**formlabs** · Materials Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.formlabs.com/job/8331440/apply/?gh_jid=8331440)
+🕐 Updated: `2026-11-04T14:11:32-05:00` &nbsp;|&nbsp; ID: `8331440`
+
+---
+### 🔄 Splunk Infrastructure Engineer 
+**okta** · Tech Ops-610
+📍 Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7658254?gh_jid=7658254)
+🕐 Updated: `2026-11-04T14:19:08-05:00` &nbsp;|&nbsp; ID: `7658254`
+
+---
+
 ## 📅 Run: 2026-11-04 17:13 UTC
 
 ### 🆕 IAM Engineer

@@ -1,34 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-11-04": 7
-  },
-  "4721880006": {
-    "first_seen": "2026-10-28T18:58:13.942832+00:00",
-    "updated_at": "2026-10-21T14:04:02-04:00",
-    "title": "Cloud Security Engineer Mid",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "5418977008": {
-    "first_seen": "2026-10-28T18:58:14.371363+00:00",
-    "updated_at": "2026-09-10T14:01:17-04:00",
-    "title": "Security Engineer, Offensive Security",
-    "company": "anthropic",
-    "alerted": true
-  },
-  "8331440": {
-    "first_seen": "2026-10-28T18:58:20.771969+00:00",
-    "updated_at": "2026-10-28T13:07:57-04:00",
-    "title": "3D Print Optimization Engineer - June 2027 New Grads",
-    "company": "formlabs",
-    "alerted": true
-  },
-  "8331442": {
-    "first_seen": "2026-10-28T18:58:20.772055+00:00",
-    "updated_at": "2026-10-28T13:08:00-04:00",
-    "title": "3D Print Optimization Engineer - June 2027 New Grads",
-    "company": "formlabs",
-    "alerted": false
+    "2026-11-04": 10
   },
   "7743188003": {
     "first_seen": "2026-10-28T23:00:22.630677+00:00",
@@ -165,7 +137,7 @@
   },
   "7658254": {
     "first_seen": "2026-11-03T01:33:57.198553+00:00",
-    "updated_at": "2026-10-26T19:49:19-04:00",
+    "updated_at": "2026-11-04T14:19:08-05:00",
     "title": "Splunk Infrastructure Engineer ",
     "company": "okta",
     "alerted": true
@@ -267,5 +239,33 @@
     "title": "Security Engineer - Threat Intel",
     "company": "anthropic",
     "alerted": true
+  },
+  "4721880006": {
+    "first_seen": "2026-11-04T22:37:59.465333+00:00",
+    "updated_at": "2026-10-21T14:04:02-04:00",
+    "title": "Cloud Security Engineer Mid",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "5418977008": {
+    "first_seen": "2026-11-04T22:37:59.877351+00:00",
+    "updated_at": "2026-09-10T14:01:17-04:00",
+    "title": "Security Engineer, Offensive Security",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "8331440": {
+    "first_seen": "2026-11-04T22:38:07.214018+00:00",
+    "updated_at": "2026-11-04T14:11:32-05:00",
+    "title": "3D Print Optimization Engineer - June 2027 New Grads",
+    "company": "formlabs",
+    "alerted": true
+  },
+  "8331442": {
+    "first_seen": "2026-11-04T22:38:07.214112+00:00",
+    "updated_at": "2026-11-04T14:11:32-05:00",
+    "title": "3D Print Optimization Engineer - June 2027 New Grads",
+    "company": "formlabs",
+    "alerted": false
   }
 }
