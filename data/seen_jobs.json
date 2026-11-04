@@ -1,41 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-11-04": 5
-  },
-  "4691258006": {
-    "first_seen": "2026-10-28T13:19:21.781530+00:00",
-    "updated_at": "2026-10-12T18:04:39-04:00",
-    "title": "IAM Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "5195705008": {
-    "first_seen": "2026-10-28T13:19:22.239808+00:00",
-    "updated_at": "2026-09-01T15:05:47-04:00",
-    "title": "Security Engineer - Threat Intel",
-    "company": "anthropic",
-    "alerted": true
-  },
-  "7808464": {
-    "first_seen": "2026-10-28T13:19:25.811183+00:00",
-    "updated_at": "2026-10-27T12:20:59-04:00",
-    "title": "Global Security Operations Center Operator",
-    "company": "twilio",
-    "alerted": true
-  },
-  "8241503": {
-    "first_seen": "2026-10-28T13:19:27.452807+00:00",
-    "updated_at": "2026-09-29T18:02:37-04:00",
-    "title": "3D Print Optimization Engineer - June 2027 New Grads",
-    "company": "formlabs",
-    "alerted": true
-  },
-  "8241504": {
-    "first_seen": "2026-10-28T13:19:27.452949+00:00",
-    "updated_at": "2026-09-29T18:02:51-04:00",
-    "title": "3D Print Optimization Engineer - June 2027 New Grads",
-    "company": "formlabs",
-    "alerted": false
+    "2026-11-04": 7
   },
   "4721880006": {
     "first_seen": "2026-10-28T18:58:13.942832+00:00",
@@ -287,6 +252,20 @@
     "updated_at": "2026-10-29T10:42:09-04:00",
     "title": "Cloud Security Engineer",
     "company": "stripe",
+    "alerted": true
+  },
+  "4691258006": {
+    "first_seen": "2026-11-04T17:12:52.421858+00:00",
+    "updated_at": "2026-10-12T18:04:39-04:00",
+    "title": "IAM Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "5195705008": {
+    "first_seen": "2026-11-04T17:12:52.923305+00:00",
+    "updated_at": "2026-09-01T15:05:47-04:00",
+    "title": "Security Engineer - Threat Intel",
+    "company": "anthropic",
     "alerted": true
   }
 }

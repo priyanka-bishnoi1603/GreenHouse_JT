@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-11-04 17:13 UTC
+
+### 🆕 IAM Engineer
+**accenturefederalservices** · 60035741 - AFS Identity and Trust
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4691258006?gh_jid=4691258006)
+🕐 Updated: `2026-10-12T18:04:39-04:00` &nbsp;|&nbsp; ID: `4691258006`
+
+---
+### 🆕 Security Engineer - Threat Intel
+**anthropic** · Security
+📍 New York City, NY; Remote-Friendly (Travel-Required) | San Francisco, CA | Washington, DC; San Francisco, CA | New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5195705008)
+🕐 Updated: `2026-09-01T15:05:47-04:00` &nbsp;|&nbsp; ID: `5195705008`
+
+---
+
 ## 📅 Run: 2026-11-04 09:08 UTC
 
 ### 🆕 Cloud Security Intern
