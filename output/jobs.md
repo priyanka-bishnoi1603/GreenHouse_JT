@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-11-04 02:06 UTC
+
+### 🆕 Cloud Security Specialist
+**accenturefederalservices** · 60038769 - AFS Secure Digital Core
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4726812006?gh_jid=4726812006)
+🕐 Updated: `2026-11-03T19:43:14-05:00` &nbsp;|&nbsp; ID: `4726812006`
+
+---
+
 ## 📅 Run: 2026-11-03 22:00 UTC
 
 ### 🆕 Autonomous Systems Security Engineer
