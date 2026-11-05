@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-11-05 02:47 UTC
+
+### 🆕 Security Operations Analyst - West Coast Shift 
+**huntress** · Security Analysis
+📍 Remote US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7743188003)
+🕐 Updated: `2026-10-26T14:28:33-04:00` &nbsp;|&nbsp; ID: `7743188003`
+
+---
+### 🆕 Security Engineer, Detect & Respond 
+**betterment** · Platform Engineering 
+📍 Betterment HQ - New York City &nbsp;|&nbsp; 🔗 [Apply Here](https://www.betterment.com/careers/current-openings/job?gh_jid=8211928&gh_jid=8211928)
+🕐 Updated: `2026-10-01T15:54:47-04:00` &nbsp;|&nbsp; ID: `8211928`
+
+---
+
 ## 📅 Run: 2026-11-04 22:38 UTC
 
 ### 🆕 Cloud Security Engineer Mid
