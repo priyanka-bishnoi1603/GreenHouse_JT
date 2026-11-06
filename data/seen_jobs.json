@@ -1,34 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-11-06": 2
-  },
-  "4720662006": {
-    "first_seen": "2026-10-30T22:32:47.249808+00:00",
-    "updated_at": "2026-10-23T14:54:30-04:00",
-    "title": "Application Security Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "4722595006": {
-    "first_seen": "2026-10-30T22:32:47.249861+00:00",
-    "updated_at": "2026-10-16T10:32:58-04:00",
-    "title": "Application Security Engineer ",
-    "company": "accenturefederalservices",
-    "alerted": false
-  },
-  "4726144006": {
-    "first_seen": "2026-10-30T22:32:47.255481+00:00",
-    "updated_at": "2026-10-30T14:44:23-04:00",
-    "title": "Cyber Security Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "4720525006": {
-    "first_seen": "2026-10-30T22:32:47.255518+00:00",
-    "updated_at": "2026-10-19T10:53:45-04:00",
-    "title": "Cyber Threat Intelligence Analyst",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-11-06": 7
   },
   "8032052003": {
     "first_seen": "2026-10-31T01:48:33.299687+00:00",
@@ -200,21 +172,21 @@
   },
   "8331440": {
     "first_seen": "2026-11-04T22:38:07.214018+00:00",
-    "updated_at": "2026-11-04T14:11:32-05:00",
+    "updated_at": "2026-11-06T15:46:35-05:00",
     "title": "3D Print Optimization Engineer - June 2027 New Grads",
     "company": "formlabs",
     "alerted": true
   },
   "8331442": {
     "first_seen": "2026-11-04T22:38:07.214112+00:00",
-    "updated_at": "2026-11-04T14:11:32-05:00",
+    "updated_at": "2026-11-06T15:46:35-05:00",
     "title": "3D Print Optimization Engineer - June 2027 New Grads",
     "company": "formlabs",
     "alerted": false
   },
   "7743188003": {
     "first_seen": "2026-11-05T02:47:20.047717+00:00",
-    "updated_at": "2026-10-26T14:28:33-04:00",
+    "updated_at": "2026-11-06T15:34:51-05:00",
     "title": "Security Operations Analyst - West Coast Shift ",
     "company": "huntress",
     "alerted": true
@@ -252,6 +224,48 @@
     "updated_at": "2026-10-30T11:06:11-04:00",
     "title": "Threat Intelligence Platform Engineer",
     "company": "coinbase",
+    "alerted": true
+  },
+  "4720662006": {
+    "first_seen": "2026-11-06T23:24:26.456420+00:00",
+    "updated_at": "2026-10-23T14:54:30-04:00",
+    "title": "Application Security Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4722595006": {
+    "first_seen": "2026-11-06T23:24:26.456502+00:00",
+    "updated_at": "2026-10-16T10:32:58-04:00",
+    "title": "Application Security Engineer ",
+    "company": "accenturefederalservices",
+    "alerted": false
+  },
+  "4726144006": {
+    "first_seen": "2026-11-06T23:24:26.466409+00:00",
+    "updated_at": "2026-10-30T14:44:23-04:00",
+    "title": "Cyber Security Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4720525006": {
+    "first_seen": "2026-11-06T23:24:26.466534+00:00",
+    "updated_at": "2026-10-19T10:53:45-04:00",
+    "title": "Cyber Threat Intelligence Analyst",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "8348189": {
+    "first_seen": "2026-11-06T23:24:29.541998+00:00",
+    "updated_at": "2026-11-06T16:12:18-05:00",
+    "title": "Security Operations Analyst",
+    "company": "gusto",
+    "alerted": true
+  },
+  "8357913": {
+    "first_seen": "2026-11-06T23:24:31.687988+00:00",
+    "updated_at": "2026-11-06T18:13:33-05:00",
+    "title": "Security Engineer",
+    "company": "mixpanel",
     "alerted": true
   }
 }
