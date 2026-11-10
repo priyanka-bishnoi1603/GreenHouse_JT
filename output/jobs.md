@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-11-10 15:47 UTC
+
+### 🔄 Cyber Threat Intelligence Analyst
+**accenturefederalservices** · 60024449 - AFS Cyber Resilience and Defense
+📍 Lorton, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4725690006?gh_jid=4725690006)
+🕐 Updated: `2026-11-10T08:26:27-05:00` &nbsp;|&nbsp; ID: `4725690006`
+
+---
+
 ## 📅 Run: 2026-11-10 07:36 UTC
 
 ### 🆕 Splunk Infrastructure Engineer 
