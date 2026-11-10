@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-11-10 21:37 UTC
+
+### 🆕 Security Engineer, RF and Technical Surveillance Countermeasures
+**anthropic** · Security
+📍 San Francisco, CA | New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5476579008)
+🕐 Updated: `2026-11-10T14:30:58-05:00` &nbsp;|&nbsp; ID: `5476579008`
+
+---
+
 ## 📅 Run: 2026-11-10 15:47 UTC
 
 ### 🔄 Cyber Threat Intelligence Analyst

@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-11-10": 7
+    "2026-11-10": 8
   },
   "5462972008": {
     "first_seen": "2026-11-03T22:00:19.048130+00:00",
@@ -259,6 +259,13 @@
     "updated_at": "2026-11-02T17:08:43-05:00",
     "title": "Offensive Security Engineer",
     "company": "robinhood",
+    "alerted": true
+  },
+  "5476579008": {
+    "first_seen": "2026-11-10T21:37:21.958729+00:00",
+    "updated_at": "2026-11-10T14:30:58-05:00",
+    "title": "Security Engineer, RF and Technical Surveillance Countermeasures",
+    "company": "anthropic",
     "alerted": true
   }
 }
