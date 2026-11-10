@@ -2,6 +2,51 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-11-10 07:36 UTC
+
+### 🆕 Splunk Infrastructure Engineer 
+**okta** · Tech Ops-610
+📍 Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7658254?gh_jid=7658254)
+🕐 Updated: `2026-11-04T14:19:08-05:00` &nbsp;|&nbsp; ID: `7658254`
+
+---
+### 🆕 Cloud Security Engineer
+**accenturefederalservices** · 60024449 - AFS Cyber Resilience and Defense
+📍 Chantilly, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4728481006?gh_jid=4728481006)
+🕐 Updated: `2026-11-09T20:47:49-05:00` &nbsp;|&nbsp; ID: `4728481006`
+
+---
+### 🆕 Cyber Incident Response Analyst
+**accenturefederalservices** · 60024449 - AFS Cyber Resilience and Defense
+📍 Leesburg, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4721038006?gh_jid=4721038006)
+🕐 Updated: `2026-10-16T15:17:10-04:00` &nbsp;|&nbsp; ID: `4721038006`
+
+---
+### 🆕 Cyber Threat Intelligence Analyst
+**accenturefederalservices** · 60024449 - AFS Cyber Resilience and Defense
+📍 Lorton, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4725690006?gh_jid=4725690006)
+🕐 Updated: `2026-11-02T15:00:43-05:00` &nbsp;|&nbsp; ID: `4725690006`
+
+---
+### 🆕 Information Systems Security Engineer (ISSE)
+**accenturefederalservices** · 60038769 - AFS Secure Digital Core
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4719692006?gh_jid=4719692006)
+🕐 Updated: `2026-10-12T18:04:39-04:00` &nbsp;|&nbsp; ID: `4719692006`
+
+---
+### 🆕 Platform Security Engineer
+**gleanwork** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4728507005)
+🕐 Updated: `2026-10-29T03:25:45-04:00` &nbsp;|&nbsp; ID: `4728507005`
+
+---
+### 🆕 Offensive Security Engineer
+**robinhood** · Security Division
+📍 Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7460167?t=gh_src=&gh_jid=7460167)
+🕐 Updated: `2026-11-02T17:08:43-05:00` &nbsp;|&nbsp; ID: `7460167`
+
+---
+
 ## 📅 Run: 2026-11-10 00:26 UTC
 
 ### 🔄 Cloud Security Specialist
