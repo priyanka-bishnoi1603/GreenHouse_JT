@@ -2,6 +2,39 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-11-11 22:40 UTC
+
+### 🆕 Cloud Security Engineer Mid
+**accenturefederalservices** · 60038769 - AFS Secure Digital Core
+📍 Leesburg, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4721880006?gh_jid=4721880006)
+🕐 Updated: `2026-10-21T14:04:02-04:00` &nbsp;|&nbsp; ID: `4721880006`
+
+---
+### 🆕 IAM Engineer
+**accenturefederalservices** · 60035741 - AFS Identity and Trust
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4691258006?gh_jid=4691258006)
+🕐 Updated: `2026-10-12T18:04:39-04:00` &nbsp;|&nbsp; ID: `4691258006`
+
+---
+### 🆕 Security Engineer, Offensive Security
+**anthropic** · Security
+📍 Remote-Friendly, United States; San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5418977008)
+🕐 Updated: `2026-09-10T14:01:17-04:00` &nbsp;|&nbsp; ID: `5418977008`
+
+---
+### 🆕 Security Engineer - Threat Intel
+**anthropic** · Security
+📍 New York City, NY; Remote-Friendly (Travel-Required) | San Francisco, CA | Washington, DC; San Francisco, CA | New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5195705008)
+🕐 Updated: `2026-09-01T15:05:47-04:00` &nbsp;|&nbsp; ID: `5195705008`
+
+---
+### 🆕 3D Print Optimization Engineer - June 2027 New Grads
+**formlabs** · Materials Engineering
+📍 Somerville, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.formlabs.com/job/8331442/apply/?gh_jid=8331442)
+🕐 Updated: `2026-11-06T15:46:35-05:00` &nbsp;|&nbsp; ID: `8331442`
+
+---
+
 ## 📅 Run: 2026-11-11 16:09 UTC
 
 ### 🆕 Cloud Security Intern
