@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-11-12": 3
+    "2026-11-12": 4
   },
   "4719910006": {
     "first_seen": "2026-11-05T23:37:26.394905+00:00",
@@ -286,6 +286,13 @@
     "first_seen": "2026-11-12T11:38:07.186486+00:00",
     "updated_at": "2026-10-12T18:04:39-04:00",
     "title": "Information System Security Engineer ",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4726020006": {
+    "first_seen": "2026-11-12T19:07:41.520912+00:00",
+    "updated_at": "2026-11-12T12:35:23-05:00",
+    "title": "Personnel Security Analyst",
     "company": "accenturefederalservices",
     "alerted": true
   }

@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-11-12 19:07 UTC
+
+### 🆕 Personnel Security Analyst
+**accenturefederalservices** · 58282650 - AFS Personnel Security
+📍 San Antonio, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4726020006?gh_jid=4726020006)
+🕐 Updated: `2026-11-12T12:35:23-05:00` &nbsp;|&nbsp; ID: `4726020006`
+
+---
+
 ## 📅 Run: 2026-11-12 11:38 UTC
 
 ### 🆕 Information System Security Engineer 
