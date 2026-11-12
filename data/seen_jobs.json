@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-11-11": 13
-  },
-  "7743188003": {
-    "first_seen": "2026-11-05T02:47:20.047717+00:00",
-    "updated_at": "2026-11-06T15:34:51-05:00",
-    "title": "Security Operations Analyst - West Coast Shift ",
-    "company": "huntress",
-    "alerted": true
-  },
-  "8211928": {
-    "first_seen": "2026-11-05T02:47:25.784970+00:00",
-    "updated_at": "2026-10-01T15:54:47-04:00",
-    "title": "Security Engineer, Detect & Respond ",
-    "company": "betterment",
-    "alerted": true
+    "2026-11-12": 2
   },
   "4688933006": {
     "first_seen": "2026-11-05T10:16:05.816078+00:00",
@@ -288,5 +274,19 @@
     "title": "3D Print Optimization Engineer - June 2027 New Grads",
     "company": "formlabs",
     "alerted": false
+  },
+  "7743188003": {
+    "first_seen": "2026-11-12T03:22:05.754731+00:00",
+    "updated_at": "2026-11-06T15:34:51-05:00",
+    "title": "Security Operations Analyst - West Coast Shift ",
+    "company": "huntress",
+    "alerted": true
+  },
+  "8211928": {
+    "first_seen": "2026-11-12T03:22:10.775420+00:00",
+    "updated_at": "2026-10-01T15:54:47-04:00",
+    "title": "Security Engineer, Detect & Respond ",
+    "company": "betterment",
+    "alerted": true
   }
 }
