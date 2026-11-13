@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-11-13 21:28 UTC
+
+### 🔄 Security Operations Analyst - West Coast/Mountain Shift 
+**huntress** · Security Analysis
+📍 Remote US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7743188003)
+🕐 Updated: `2026-11-13T12:04:30-05:00` &nbsp;|&nbsp; ID: `7743188003`
+
+---
+### 🔄 Product Design New Grad (2027 Start)
+**databricks** · University Recruiting - Product
+📍 San Francisco, California; Seattle, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8843577002)
+🕐 Updated: `2026-11-13T15:13:15-05:00` &nbsp;|&nbsp; ID: `8843577002`
+
+---
+
 ## 📅 Run: 2026-11-13 15:22 UTC
 
 ### 🆕 Threat Intelligence Platform Engineer
