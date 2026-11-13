@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-11-13 00:19 UTC
+
+### 🆕 Information Systems Security Engineer (ISSE)
+**accenturefederalservices** · 56219060 - AFS Cyber Strategy Risk and Architecture
+📍 Colorado Springs, CO &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4719910006?gh_jid=4719910006)
+🕐 Updated: `2026-10-15T13:48:05-04:00` &nbsp;|&nbsp; ID: `4719910006`
+
+---
+### 🔄 3D Print Optimization Engineer - June 2027 New Grads
+**formlabs** · Materials Engineering
+📍 Somerville, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.formlabs.com/job/8331442/apply/?gh_jid=8331442)
+🕐 Updated: `2026-11-12T17:21:52-05:00` &nbsp;|&nbsp; ID: `8331442`
+
+---
+### 🔄 3D Print Optimization Engineer - June 2027 New Grads
+**formlabs** · Materials Engineering
+📍 Boston, MA &nbsp;|&nbsp; 🔗 [Apply Here](https://careers.formlabs.com/job/8331440/apply/?gh_jid=8331440)
+🕐 Updated: `2026-11-12T17:21:52-05:00` &nbsp;|&nbsp; ID: `8331440`
+
+---
+
 ## 📅 Run: 2026-11-12 19:07 UTC
 
 ### 🆕 Personnel Security Analyst

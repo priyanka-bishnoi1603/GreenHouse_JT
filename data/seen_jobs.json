@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-11-12": 4
-  },
-  "4719910006": {
-    "first_seen": "2026-11-05T23:37:26.394905+00:00",
-    "updated_at": "2026-10-15T13:48:05-04:00",
-    "title": "Information Systems Security Engineer (ISSE)",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-11-13": 1
   },
   "4982193008": {
     "first_seen": "2026-11-06T03:39:55.627279+00:00",
@@ -256,14 +249,14 @@
   },
   "8331442": {
     "first_seen": "2026-11-11T22:40:48.529915+00:00",
-    "updated_at": "2026-11-06T15:46:35-05:00",
+    "updated_at": "2026-11-12T17:21:52-05:00",
     "title": "3D Print Optimization Engineer - June 2027 New Grads",
     "company": "formlabs",
     "alerted": true
   },
   "8331440": {
     "first_seen": "2026-11-11T22:40:48.530018+00:00",
-    "updated_at": "2026-11-06T15:46:35-05:00",
+    "updated_at": "2026-11-12T17:21:52-05:00",
     "title": "3D Print Optimization Engineer - June 2027 New Grads",
     "company": "formlabs",
     "alerted": false
@@ -293,6 +286,13 @@
     "first_seen": "2026-11-12T19:07:41.520912+00:00",
     "updated_at": "2026-11-12T12:35:23-05:00",
     "title": "Personnel Security Analyst",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4719910006": {
+    "first_seen": "2026-11-13T00:19:04.262635+00:00",
+    "updated_at": "2026-10-15T13:48:05-04:00",
+    "title": "Information Systems Security Engineer (ISSE)",
     "company": "accenturefederalservices",
     "alerted": true
   }
