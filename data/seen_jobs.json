@@ -1,34 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-11-14": 5
-  },
-  "8032052003": {
-    "first_seen": "2026-11-07T02:59:24.821961+00:00",
-    "updated_at": "2026-10-29T13:04:10-04:00",
-    "title": "Threat Researcher",
-    "company": "abnormalsecurity",
-    "alerted": true
-  },
-  "4690064006": {
-    "first_seen": "2026-11-07T02:59:28.389316+00:00",
-    "updated_at": "2026-10-12T18:04:39-04:00",
-    "title": "Cybersecurity Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "4728513005": {
-    "first_seen": "2026-11-07T02:59:28.993687+00:00",
-    "updated_at": "2026-10-20T12:21:38-04:00",
-    "title": "Application Security Engineer",
-    "company": "gleanwork",
-    "alerted": true
-  },
-  "8233889": {
-    "first_seen": "2026-11-07T02:59:30.185108+00:00",
-    "updated_at": "2026-10-29T10:42:09-04:00",
-    "title": "Offensive Security Engineer",
-    "company": "stripe",
-    "alerted": true
+    "2026-11-14": 9
   },
   "8843577002": {
     "first_seen": "2026-11-07T09:52:17.283673+00:00",
@@ -294,6 +266,34 @@
     "updated_at": "2026-11-10T17:20:00-05:00",
     "title": "Security Engineer",
     "company": "mixpanel",
+    "alerted": true
+  },
+  "8032052003": {
+    "first_seen": "2026-11-14T08:00:17.420082+00:00",
+    "updated_at": "2026-10-29T13:04:10-04:00",
+    "title": "Threat Researcher",
+    "company": "abnormalsecurity",
+    "alerted": true
+  },
+  "4690064006": {
+    "first_seen": "2026-11-14T08:00:21.050924+00:00",
+    "updated_at": "2026-10-12T18:04:39-04:00",
+    "title": "Cybersecurity Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4728513005": {
+    "first_seen": "2026-11-14T08:00:21.776493+00:00",
+    "updated_at": "2026-10-20T12:21:38-04:00",
+    "title": "Application Security Engineer",
+    "company": "gleanwork",
+    "alerted": true
+  },
+  "8233889": {
+    "first_seen": "2026-11-14T08:00:23.084708+00:00",
+    "updated_at": "2026-10-29T10:42:09-04:00",
+    "title": "Offensive Security Engineer",
+    "company": "stripe",
     "alerted": true
   }
 }
