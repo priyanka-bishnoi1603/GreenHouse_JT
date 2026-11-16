@@ -2,6 +2,27 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-11-16 19:51 UTC
+
+### 🔄 Splunk Infrastructure Engineer 
+**okta** · Tech Ops-610
+📍 Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://www.okta.com/company/careers/opportunity/7658254?gh_jid=7658254)
+🕐 Updated: `2026-11-16T11:00:55-05:00` &nbsp;|&nbsp; ID: `7658254`
+
+---
+### 🔄 Product Design New Grad (2027 Start)
+**databricks** · University Recruiting - Product
+📍 San Francisco, California; Seattle, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8843577002)
+🕐 Updated: `2026-11-16T09:15:59-05:00` &nbsp;|&nbsp; ID: `8843577002`
+
+---
+### 🔄 Security Engineer
+**mixpanel** · Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8357913)
+🕐 Updated: `2026-11-16T14:21:49-05:00` &nbsp;|&nbsp; ID: `8357913`
+
+---
+
 ## 📅 Run: 2026-11-16 09:38 UTC
 
 ### 🔄 Security Operations Analyst
