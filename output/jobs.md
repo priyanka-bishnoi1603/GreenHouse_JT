@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-11-16 09:38 UTC
+
+### 🔄 Security Operations Analyst
+**gusto** · Security
+📍 Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8348189)
+🕐 Updated: `2026-11-16T03:02:14-05:00` &nbsp;|&nbsp; ID: `8348189`
+
+---
+
 ## 📅 Run: 2026-11-14 23:36 UTC
 
 ### 🆕 Application Security Engineer II
