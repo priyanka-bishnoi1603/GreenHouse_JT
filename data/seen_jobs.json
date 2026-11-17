@@ -1,10 +1,10 @@
 {
   "__daily_alerts__": {
-    "2026-11-14": 11
+    "2026-11-17": 1
   },
   "7658254": {
     "first_seen": "2026-11-10T07:36:41.727572+00:00",
-    "updated_at": "2026-11-16T11:00:55-05:00",
+    "updated_at": "2026-11-16T18:26:55-05:00",
     "title": "Splunk Infrastructure Engineer ",
     "company": "okta",
     "alerted": true
@@ -284,7 +284,7 @@
   },
   "8843577002": {
     "first_seen": "2026-11-14T15:02:07.347427+00:00",
-    "updated_at": "2026-11-16T09:15:59-05:00",
+    "updated_at": "2026-11-16T17:44:11-05:00",
     "title": "Product Design New Grad (2027 Start)",
     "company": "databricks",
     "alerted": true
@@ -294,6 +294,13 @@
     "updated_at": "2026-10-20T17:21:02-04:00",
     "title": "Application Security Engineer II",
     "company": "abnormalsecurity",
+    "alerted": true
+  },
+  "8394654": {
+    "first_seen": "2026-11-17T02:44:24.218922+00:00",
+    "updated_at": "2026-11-16T20:13:58-05:00",
+    "title": "Product Security Engineer, Offensive Security",
+    "company": "coinbase",
     "alerted": true
   }
 }
