@@ -1,41 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-11-18": 4
-  },
-  "8176398": {
-    "first_seen": "2026-11-11T16:09:45.716510+00:00",
-    "updated_at": "2026-10-30T15:57:54-04:00",
-    "title": "Cloud Security Intern",
-    "company": "tanium",
-    "alerted": true
-  },
-  "4678524006": {
-    "first_seen": "2026-11-11T16:09:47.966599+00:00",
-    "updated_at": "2026-10-12T18:04:39-04:00",
-    "title": "Incident Response Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "4717563006": {
-    "first_seen": "2026-11-11T16:09:47.972476+00:00",
-    "updated_at": "2026-10-12T18:04:39-04:00",
-    "title": "Observability Engineer (Splunk)",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "7867389": {
-    "first_seen": "2026-11-11T16:09:49.587650+00:00",
-    "updated_at": "2026-10-29T10:42:09-04:00",
-    "title": "Cloud Security Engineer",
-    "company": "stripe",
-    "alerted": true
-  },
-  "8371261": {
-    "first_seen": "2026-11-11T16:09:52.591538+00:00",
-    "updated_at": "2026-11-11T04:25:28-05:00",
-    "title": "Application Security Engineer",
-    "company": "intercom",
-    "alerted": true
+    "2026-11-18": 8
   },
   "4721880006": {
     "first_seen": "2026-11-11T22:40:42.750244+00:00",
@@ -158,7 +123,7 @@
   },
   "8348189": {
     "first_seen": "2026-11-14T01:38:53.195356+00:00",
-    "updated_at": "2026-11-16T03:02:14-05:00",
+    "updated_at": "2026-11-18T13:37:01-05:00",
     "title": "Security Operations Analyst",
     "company": "gusto",
     "alerted": true
@@ -200,7 +165,7 @@
   },
   "8843577002": {
     "first_seen": "2026-11-14T15:02:07.347427+00:00",
-    "updated_at": "2026-11-17T17:59:38-05:00",
+    "updated_at": "2026-11-18T10:44:34-05:00",
     "title": "Product Design New Grad (2027 Start)",
     "company": "databricks",
     "alerted": true
@@ -301,6 +266,34 @@
     "updated_at": "2026-11-09T13:30:06-05:00",
     "title": "Cloud Security Specialist",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "8176398": {
+    "first_seen": "2026-11-18T18:50:13.059694+00:00",
+    "updated_at": "2026-10-30T15:57:54-04:00",
+    "title": "Cloud Security Intern",
+    "company": "tanium",
+    "alerted": true
+  },
+  "4716511006": {
+    "first_seen": "2026-11-18T18:50:38.551756+00:00",
+    "updated_at": "2026-11-18T13:30:05-05:00",
+    "title": "Multi-Cloud Security & Compliance Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "7867389": {
+    "first_seen": "2026-11-18T18:50:40.453784+00:00",
+    "updated_at": "2026-10-29T10:42:09-04:00",
+    "title": "Cloud Security Engineer",
+    "company": "stripe",
+    "alerted": true
+  },
+  "8371261": {
+    "first_seen": "2026-11-18T18:50:45.807378+00:00",
+    "updated_at": "2026-11-11T04:25:28-05:00",
+    "title": "Application Security Engineer",
+    "company": "intercom",
     "alerted": true
   }
 }

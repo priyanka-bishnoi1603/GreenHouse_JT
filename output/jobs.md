@@ -2,6 +2,45 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-11-18 18:50 UTC
+
+### 🆕 Cloud Security Intern
+**tanium** · Engineering - Shared Services
+📍 Durham, NC (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/tanium/jobs/8176398)
+🕐 Updated: `2026-10-30T15:57:54-04:00` &nbsp;|&nbsp; ID: `8176398`
+
+---
+### 🆕 Multi-Cloud Security & Compliance Engineer
+**accenturefederalservices** · 54589947 - AFS Cloud Platform Engineering
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4716511006?gh_jid=4716511006)
+🕐 Updated: `2026-11-18T13:30:05-05:00` &nbsp;|&nbsp; ID: `4716511006`
+
+---
+### 🆕 Cloud Security Engineer
+**stripe** · 8614 Office of the CISO & Partnership
+📍 Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7867389)
+🕐 Updated: `2026-10-29T10:42:09-04:00` &nbsp;|&nbsp; ID: `7867389`
+
+---
+### 🆕 Application Security Engineer
+**intercom** · Engineering
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/8371261)
+🕐 Updated: `2026-11-11T04:25:28-05:00` &nbsp;|&nbsp; ID: `8371261`
+
+---
+### 🔄 Product Design New Grad (2027 Start)
+**databricks** · University Recruiting - Product
+📍 San Francisco, California; Seattle, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8843577002)
+🕐 Updated: `2026-11-18T10:44:34-05:00` &nbsp;|&nbsp; ID: `8843577002`
+
+---
+### 🔄 Security Operations Analyst
+**gusto** · Security
+📍 Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8348189)
+🕐 Updated: `2026-11-18T13:37:01-05:00` &nbsp;|&nbsp; ID: `8348189`
+
+---
+
 ## 📅 Run: 2026-11-18 10:06 UTC
 
 ### 🆕 Cloud Security Specialist
