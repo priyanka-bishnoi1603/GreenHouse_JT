@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-11-18 02:01 UTC
+
+### 🆕 Autonomous Systems Security Engineer
+**anthropic** · Security
+📍 Remote-Friendly (Travel Required) | San Francisco, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5462972008)
+🕐 Updated: `2026-10-27T16:42:45-04:00` &nbsp;|&nbsp; ID: `5462972008`
+
+---
+### 🆕 Security Engineer, RF and Technical Surveillance Countermeasures
+**anthropic** · Security
+📍 San Francisco, CA | New York City, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/anthropic/jobs/5476579008)
+🕐 Updated: `2026-11-10T14:30:58-05:00` &nbsp;|&nbsp; ID: `5476579008`
+
+---
+### 🆕 Security Engineer, Product Security
+**flexport** · Engineering, Security
+📍 U.S. Remote &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/flexport/jobs/8375181)
+🕐 Updated: `2026-11-10T19:06:55-05:00` &nbsp;|&nbsp; ID: `8375181`
+
+---
+### 🔄 Product Design New Grad (2027 Start)
+**databricks** · University Recruiting - Product
+📍 San Francisco, California; Seattle, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8843577002)
+🕐 Updated: `2026-11-17T17:59:38-05:00` &nbsp;|&nbsp; ID: `8843577002`
+
+---
+
 ## 📅 Run: 2026-11-17 11:12 UTC
 
 ### 🆕 Splunk Infrastructure Engineer 
