@@ -1,48 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-11-18": 8
-  },
-  "4721880006": {
-    "first_seen": "2026-11-11T22:40:42.750244+00:00",
-    "updated_at": "2026-10-21T14:04:02-04:00",
-    "title": "Cloud Security Engineer Mid",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "4691258006": {
-    "first_seen": "2026-11-11T22:40:42.760962+00:00",
-    "updated_at": "2026-10-12T18:04:39-04:00",
-    "title": "IAM Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "5418977008": {
-    "first_seen": "2026-11-11T22:40:43.236338+00:00",
-    "updated_at": "2026-09-10T14:01:17-04:00",
-    "title": "Security Engineer, Offensive Security",
-    "company": "anthropic",
-    "alerted": true
-  },
-  "5195705008": {
-    "first_seen": "2026-11-11T22:40:43.236538+00:00",
-    "updated_at": "2026-09-01T15:05:47-04:00",
-    "title": "Security Engineer - Threat Intel",
-    "company": "anthropic",
-    "alerted": true
-  },
-  "8331442": {
-    "first_seen": "2026-11-11T22:40:48.529915+00:00",
-    "updated_at": "2026-11-12T17:21:52-05:00",
-    "title": "3D Print Optimization Engineer - June 2027 New Grads",
-    "company": "formlabs",
-    "alerted": true
-  },
-  "8331440": {
-    "first_seen": "2026-11-11T22:40:48.530018+00:00",
-    "updated_at": "2026-11-12T17:21:52-05:00",
-    "title": "3D Print Optimization Engineer - June 2027 New Grads",
-    "company": "formlabs",
-    "alerted": false
+    "2026-11-19": 5
   },
   "7743188003": {
     "first_seen": "2026-11-12T03:22:05.754731+00:00",
@@ -165,7 +123,7 @@
   },
   "8843577002": {
     "first_seen": "2026-11-14T15:02:07.347427+00:00",
-    "updated_at": "2026-11-18T10:44:34-05:00",
+    "updated_at": "2026-11-18T17:50:10-05:00",
     "title": "Product Design New Grad (2027 Start)",
     "company": "databricks",
     "alerted": true
@@ -295,5 +253,47 @@
     "title": "Application Security Engineer",
     "company": "intercom",
     "alerted": true
+  },
+  "8335066": {
+    "first_seen": "2026-11-19T00:56:33.133095+00:00",
+    "updated_at": "2026-11-18T17:20:42-05:00",
+    "title": "Security Engineer",
+    "company": "tanium",
+    "alerted": true
+  },
+  "4721880006": {
+    "first_seen": "2026-11-19T00:56:34.895807+00:00",
+    "updated_at": "2026-10-21T14:04:02-04:00",
+    "title": "Cloud Security Engineer Mid",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4691258006": {
+    "first_seen": "2026-11-19T00:56:34.903593+00:00",
+    "updated_at": "2026-10-12T18:04:39-04:00",
+    "title": "IAM Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "5418977008": {
+    "first_seen": "2026-11-19T00:56:35.267405+00:00",
+    "updated_at": "2026-09-10T14:01:17-04:00",
+    "title": "Security Engineer, Offensive Security",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "8331440": {
+    "first_seen": "2026-11-19T00:56:39.229817+00:00",
+    "updated_at": "2026-11-12T17:21:52-05:00",
+    "title": "3D Print Optimization Engineer - June 2027 New Grads",
+    "company": "formlabs",
+    "alerted": true
+  },
+  "8331442": {
+    "first_seen": "2026-11-19T00:56:39.229925+00:00",
+    "updated_at": "2026-11-12T17:21:52-05:00",
+    "title": "3D Print Optimization Engineer - June 2027 New Grads",
+    "company": "formlabs",
+    "alerted": false
   }
 }
