@@ -2,6 +2,33 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-11-19 23:50 UTC
+
+### 🆕 Personnel Security Analyst
+**accenturefederalservices** · 58282650 - AFS Personnel Security
+📍 San Antonio, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4726020006?gh_jid=4726020006)
+🕐 Updated: `2026-11-12T12:35:23-05:00` &nbsp;|&nbsp; ID: `4726020006`
+
+---
+### 🔄 Security Engineer
+**tanium** · Engineering - Cloud Operations
+📍 Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/tanium/jobs/8335066)
+🕐 Updated: `2026-11-19T17:29:51-05:00` &nbsp;|&nbsp; ID: `8335066`
+
+---
+### 🔄 Product Design New Grad (2027 Start)
+**databricks** · University Recruiting - Product
+📍 San Francisco, California; Seattle, Washington &nbsp;|&nbsp; 🔗 [Apply Here](https://databricks.com/company/careers/open-positions/job?gh_jid=8843577002)
+🕐 Updated: `2026-11-19T16:47:39-05:00` &nbsp;|&nbsp; ID: `8843577002`
+
+---
+### 🔄 Security Engineer
+**mixpanel** · Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8357913)
+🕐 Updated: `2026-11-19T13:21:17-05:00` &nbsp;|&nbsp; ID: `8357913`
+
+---
+
 ## 📅 Run: 2026-11-19 17:31 UTC
 
 ### 🆕 Information System Security Engineer 
