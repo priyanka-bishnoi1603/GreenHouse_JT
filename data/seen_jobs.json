@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-11-19": 6
-  },
-  "4688933006": {
-    "first_seen": "2026-11-12T11:38:07.186486+00:00",
-    "updated_at": "2026-10-12T18:04:39-04:00",
-    "title": "Information System Security Engineer ",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-11-19": 7
   },
   "4726020006": {
     "first_seen": "2026-11-12T19:07:41.520912+00:00",
@@ -102,14 +95,14 @@
   },
   "8233889": {
     "first_seen": "2026-11-14T08:00:23.084708+00:00",
-    "updated_at": "2026-10-29T10:42:09-04:00",
+    "updated_at": "2026-11-19T12:12:27-05:00",
     "title": "Offensive Security Engineer",
     "company": "stripe",
     "alerted": true
   },
   "8843577002": {
     "first_seen": "2026-11-14T15:02:07.347427+00:00",
-    "updated_at": "2026-11-18T17:50:10-05:00",
+    "updated_at": "2026-11-19T08:02:56-05:00",
     "title": "Product Design New Grad (2027 Start)",
     "company": "databricks",
     "alerted": true
@@ -228,7 +221,7 @@
   },
   "7867389": {
     "first_seen": "2026-11-18T18:50:40.453784+00:00",
-    "updated_at": "2026-10-29T10:42:09-04:00",
+    "updated_at": "2026-11-19T12:12:20-05:00",
     "title": "Cloud Security Engineer",
     "company": "stripe",
     "alerted": true
@@ -287,6 +280,13 @@
     "updated_at": "2026-11-13T12:04:30-05:00",
     "title": "Security Operations Analyst - West Coast/Mountain Shift ",
     "company": "huntress",
+    "alerted": true
+  },
+  "4688933006": {
+    "first_seen": "2026-11-19T17:31:16.822254+00:00",
+    "updated_at": "2026-10-12T18:04:39-04:00",
+    "title": "Information System Security Engineer ",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }
