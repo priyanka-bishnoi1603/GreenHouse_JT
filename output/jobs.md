@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-11-19 08:24 UTC
+
+### 🆕 Security Operations Analyst - West Coast/Mountain Shift 
+**huntress** · Security Analysis
+📍 Remote US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/huntress/jobs/7743188003)
+🕐 Updated: `2026-11-13T12:04:30-05:00` &nbsp;|&nbsp; ID: `7743188003`
+
+---
+
 ## 📅 Run: 2026-11-19 00:56 UTC
 
 ### 🆕 Security Engineer
