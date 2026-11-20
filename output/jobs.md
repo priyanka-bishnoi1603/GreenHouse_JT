@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-11-20 21:54 UTC
+
+### 🆕 Threat Intelligence Platform Engineer
+**coinbase** · Engineering - Security
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8177619?gh_jid=8177619)
+🕐 Updated: `2026-10-30T11:06:11-04:00` &nbsp;|&nbsp; ID: `8177619`
+
+---
+### 🔄 Application Security Engineer
+**intercom** · Engineering
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/8371261)
+🕐 Updated: `2026-11-20T16:16:39-05:00` &nbsp;|&nbsp; ID: `8371261`
+
+---
+
 ## 📅 Run: 2026-11-20 14:21 UTC
 
 ### 🆕 Security Engineer, Detection & Response
