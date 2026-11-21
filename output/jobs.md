@@ -2,6 +2,39 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-11-21 02:57 UTC
+
+### 🆕 Application Security Engineer
+**accenturefederalservices** · 60024445 - AFS Cyber Mission
+📍 Leesburg, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4720662006?gh_jid=4720662006)
+🕐 Updated: `2026-10-23T14:54:30-04:00` &nbsp;|&nbsp; ID: `4720662006`
+
+---
+### 🆕 Cyber Security Engineer
+**accenturefederalservices** · 60024449 - AFS Cyber Resilience and Defense
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4726144006?gh_jid=4726144006)
+🕐 Updated: `2026-10-30T14:44:23-04:00` &nbsp;|&nbsp; ID: `4726144006`
+
+---
+### 🆕 Cyber Threat Intelligence Analyst
+**accenturefederalservices** · 60024449 - AFS Cyber Resilience and Defense
+📍 Leesburg, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4720525006?gh_jid=4720525006)
+🕐 Updated: `2026-10-19T10:53:45-04:00` &nbsp;|&nbsp; ID: `4720525006`
+
+---
+### 🆕 Security Operations Analyst
+**gusto** · Security
+📍 Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8348189)
+🕐 Updated: `2026-11-18T13:37:01-05:00` &nbsp;|&nbsp; ID: `8348189`
+
+---
+### 🆕 Security Engineer
+**mixpanel** · Engineering
+📍 San Francisco &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/mixpanel/jobs/8357913)
+🕐 Updated: `2026-11-19T13:21:17-05:00` &nbsp;|&nbsp; ID: `8357913`
+
+---
+
 ## 📅 Run: 2026-11-20 21:54 UTC
 
 ### 🆕 Threat Intelligence Platform Engineer
