@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-11-23 13:58 UTC
+
+### 🔄 Cloud Security Intern
+**tanium** · Engineering - Shared Services
+📍 Durham, NC (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/tanium/jobs/8176398)
+🕐 Updated: `2026-11-23T08:29:17-05:00` &nbsp;|&nbsp; ID: `8176398`
+
+---
+### 🔄 Security Engineer
+**tanium** · Engineering - Cloud Operations
+📍 Remote, US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/tanium/jobs/8335066)
+🕐 Updated: `2026-11-23T08:05:08-05:00` &nbsp;|&nbsp; ID: `8335066`
+
+---
+
 ## 📅 Run: 2026-11-22 02:40 UTC
 
 ### 🆕 Application Security Engineer II
