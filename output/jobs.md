@@ -2,6 +2,117 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-11-24 11:36 UTC
+
+### 🆕 Cloud Security Engineer
+**accenturefederalservices** · 60024449 - AFS Cyber Resilience and Defense
+📍 Chantilly, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4728481006?gh_jid=4728481006)
+🕐 Updated: `2026-11-23T22:13:55-05:00` &nbsp;|&nbsp; ID: `4728481006`
+
+---
+### 🆕 Cyber Incident Response Analyst
+**accenturefederalservices** · 60024449 - AFS Cyber Resilience and Defense
+📍 Leesburg, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4721038006?gh_jid=4721038006)
+🕐 Updated: `2026-11-23T22:13:55-05:00` &nbsp;|&nbsp; ID: `4721038006`
+
+---
+### 🆕 Cyber Threat Intelligence Analyst
+**accenturefederalservices** · 60024449 - AFS Cyber Resilience and Defense
+📍 Lorton, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4725690006?gh_jid=4725690006)
+🕐 Updated: `2026-11-23T22:13:55-05:00` &nbsp;|&nbsp; ID: `4725690006`
+
+---
+### 🆕 Information Systems Security Engineer (ISSE)
+**accenturefederalservices** · 60038769 - AFS Secure Digital Core
+📍 Arlington, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4719692006?gh_jid=4719692006)
+🕐 Updated: `2026-11-23T22:13:55-05:00` &nbsp;|&nbsp; ID: `4719692006`
+
+---
+### 🆕 Platform Security Engineer
+**gleanwork** · Engineering
+📍 Remote - US &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4728507005)
+🕐 Updated: `2026-10-29T03:25:45-04:00` &nbsp;|&nbsp; ID: `4728507005`
+
+---
+### 🆕 Product Security Engineer, Offensive Security
+**coinbase** · Security & Privacy
+📍 Remote - USA &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8394654?gh_jid=8394654)
+🕐 Updated: `2026-11-16T20:13:58-05:00` &nbsp;|&nbsp; ID: `8394654`
+
+---
+### 🆕 Offensive Security Engineer
+**robinhood** · Security Division
+📍 Bellevue, WA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/robinhood/jobs/7460167?t=gh_src=&gh_jid=7460167)
+🕐 Updated: `2026-11-02T17:08:43-05:00` &nbsp;|&nbsp; ID: `7460167`
+
+---
+### 🔄 Application Security Engineer
+**accenturefederalservices** · 60024445 - AFS Cyber Mission
+📍 Leesburg, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4720662006?gh_jid=4720662006)
+🕐 Updated: `2026-11-23T22:13:55-05:00` &nbsp;|&nbsp; ID: `4720662006`
+
+---
+### 🔄 Application Security Engineer 
+**accenturefederalservices** · 60038769 - AFS Secure Digital Core
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4722595006?gh_jid=4722595006)
+🕐 Updated: `2026-11-23T22:13:55-05:00` &nbsp;|&nbsp; ID: `4722595006`
+
+---
+### 🔄 Cloud Security Engineer Mid
+**accenturefederalservices** · 60038769 - AFS Secure Digital Core
+📍 Leesburg, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4721880006?gh_jid=4721880006)
+🕐 Updated: `2026-11-23T22:13:55-05:00` &nbsp;|&nbsp; ID: `4721880006`
+
+---
+### 🔄 Cloud Security Specialist
+**accenturefederalservices** · 60038769 - AFS Secure Digital Core
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4726812006?gh_jid=4726812006)
+🕐 Updated: `2026-11-23T22:13:55-05:00` &nbsp;|&nbsp; ID: `4726812006`
+
+---
+### 🔄 Cybersecurity Engineer
+**accenturefederalservices** · 60024445 - AFS Cyber Mission
+📍 San Diego, CA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4690064006?gh_jid=4690064006)
+🕐 Updated: `2026-11-23T22:13:55-05:00` &nbsp;|&nbsp; ID: `4690064006`
+
+---
+### 🔄 Cyber Security Engineer
+**accenturefederalservices** · 60024449 - AFS Cyber Resilience and Defense
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4726144006?gh_jid=4726144006)
+🕐 Updated: `2026-11-23T22:13:55-05:00` &nbsp;|&nbsp; ID: `4726144006`
+
+---
+### 🔄 Cyber Threat Intelligence Analyst
+**accenturefederalservices** · 60024449 - AFS Cyber Resilience and Defense
+📍 Leesburg, VA &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4720525006?gh_jid=4720525006)
+🕐 Updated: `2026-11-23T22:13:55-05:00` &nbsp;|&nbsp; ID: `4720525006`
+
+---
+### 🔄 IAM Engineer
+**accenturefederalservices** · 60035741 - AFS Identity and Trust
+📍 Washington, DC &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4691258006?gh_jid=4691258006)
+🕐 Updated: `2026-11-23T22:13:55-05:00` &nbsp;|&nbsp; ID: `4691258006`
+
+---
+### 🔄 Information System Security Engineer 
+**accenturefederalservices** · 56219060 - AFS Cyber Strategy Risk and Architecture
+📍 Colorado Springs, CO &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4688933006?gh_jid=4688933006)
+🕐 Updated: `2026-11-23T22:13:55-05:00` &nbsp;|&nbsp; ID: `4688933006`
+
+---
+### 🔄 Information Systems Security Engineer (ISSE)
+**accenturefederalservices** · 56219060 - AFS Cyber Strategy Risk and Architecture
+📍 Colorado Springs, CO &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4719910006?gh_jid=4719910006)
+🕐 Updated: `2026-11-23T22:13:55-05:00` &nbsp;|&nbsp; ID: `4719910006`
+
+---
+### 🔄 Personnel Security Analyst
+**accenturefederalservices** · 58282650 - AFS Personnel Security
+📍 San Antonio, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4726020006?gh_jid=4726020006)
+🕐 Updated: `2026-11-23T22:13:55-05:00` &nbsp;|&nbsp; ID: `4726020006`
+
+---
+
 ## 📅 Run: 2026-11-24 01:36 UTC
 
 ### 🆕 Intermediate Security Engineer, Security Incident Response Team (SIRT)
