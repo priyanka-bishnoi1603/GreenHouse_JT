@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-11-24 01:36 UTC
+
+### 🆕 Intermediate Security Engineer, Security Incident Response Team (SIRT)
+**gitlab** · Security Operations
+📍 Remote, United States &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gitlab/jobs/8950027002)
+🕐 Updated: `2026-11-23T13:15:55-05:00` &nbsp;|&nbsp; ID: `8950027002`
+
+---
+### 🔄 Security Operations Analyst
+**gusto** · Security
+📍 Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8348189)
+🕐 Updated: `2026-11-23T12:27:43-05:00` &nbsp;|&nbsp; ID: `8348189`
+
+---
+
 ## 📅 Run: 2026-11-23 13:58 UTC
 
 ### 🔄 Cloud Security Intern

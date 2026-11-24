@@ -1,6 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-11-22": 1
+    "2026-11-24": 1
   },
   "8394654": {
     "first_seen": "2026-11-17T02:44:24.218922+00:00",
@@ -235,7 +235,7 @@
   },
   "8348189": {
     "first_seen": "2026-11-21T02:57:40.694283+00:00",
-    "updated_at": "2026-11-18T13:37:01-05:00",
+    "updated_at": "2026-11-23T12:27:43-05:00",
     "title": "Security Operations Analyst",
     "company": "gusto",
     "alerted": true
@@ -287,6 +287,13 @@
     "updated_at": "2026-10-20T17:21:02-04:00",
     "title": "Application Security Engineer II",
     "company": "abnormalsecurity",
+    "alerted": true
+  },
+  "8950027002": {
+    "first_seen": "2026-11-24T01:36:26.672180+00:00",
+    "updated_at": "2026-11-23T13:15:55-05:00",
+    "title": "Intermediate Security Engineer, Security Incident Response Team (SIRT)",
+    "company": "gitlab",
     "alerted": true
   }
 }
