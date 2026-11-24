@@ -123,7 +123,7 @@
   },
   "4726020006": {
     "first_seen": "2026-11-19T23:50:01.622828+00:00",
-    "updated_at": "2026-11-23T22:13:55-05:00",
+    "updated_at": "2026-11-24T11:23:48-05:00",
     "title": "Personnel Security Analyst",
     "company": "accenturefederalservices",
     "alerted": true
@@ -277,7 +277,7 @@
   },
   "8394654": {
     "first_seen": "2026-11-24T11:36:52.508658+00:00",
-    "updated_at": "2026-11-16T20:13:58-05:00",
+    "updated_at": "2026-11-24T16:24:04-05:00",
     "title": "Product Security Engineer, Offensive Security",
     "company": "coinbase",
     "alerted": true

@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-11-24 21:31 UTC
+
+### 🔄 Personnel Security Analyst
+**accenturefederalservices** · 58282650 - AFS Personnel Security
+📍 San Antonio, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4726020006?gh_jid=4726020006)
+🕐 Updated: `2026-11-24T11:23:48-05:00` &nbsp;|&nbsp; ID: `4726020006`
+
+---
+### 🔄 Product Security Engineer, Offensive Security
+**coinbase** · Security & Privacy
+📍 Dallas, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8394654?gh_jid=8394654)
+🕐 Updated: `2026-11-24T16:24:04-05:00` &nbsp;|&nbsp; ID: `8394654`
+
+---
+
 ## 📅 Run: 2026-11-24 11:36 UTC
 
 ### 🆕 Cloud Security Engineer
