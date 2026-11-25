@@ -1,34 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-11-24": 8
-  },
-  "5462972008": {
-    "first_seen": "2026-11-18T02:01:46.055560+00:00",
-    "updated_at": "2026-10-27T16:42:45-04:00",
-    "title": "Autonomous Systems Security Engineer",
-    "company": "anthropic",
-    "alerted": true
-  },
-  "5476579008": {
-    "first_seen": "2026-11-18T02:01:46.072070+00:00",
-    "updated_at": "2026-11-10T14:30:58-05:00",
-    "title": "Security Engineer, RF and Technical Surveillance Countermeasures",
-    "company": "anthropic",
-    "alerted": true
-  },
-  "8375181": {
-    "first_seen": "2026-11-18T02:01:51.988245+00:00",
-    "updated_at": "2026-11-10T19:06:55-05:00",
-    "title": "Security Engineer, Product Security",
-    "company": "flexport",
-    "alerted": true
-  },
-  "8375179": {
-    "first_seen": "2026-11-18T02:01:51.988319+00:00",
-    "updated_at": "2026-11-10T19:13:37-05:00",
-    "title": "Security Engineer, Product Security",
-    "company": "flexport",
-    "alerted": false
+    "2026-11-25": 3
   },
   "4726812006": {
     "first_seen": "2026-11-18T10:06:46.630713+00:00",
@@ -288,5 +260,33 @@
     "title": "Offensive Security Engineer",
     "company": "robinhood",
     "alerted": true
+  },
+  "5462972008": {
+    "first_seen": "2026-11-25T04:35:35.132880+00:00",
+    "updated_at": "2026-10-27T16:42:45-04:00",
+    "title": "Autonomous Systems Security Engineer",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "5476579008": {
+    "first_seen": "2026-11-25T04:35:35.150305+00:00",
+    "updated_at": "2026-11-10T14:30:58-05:00",
+    "title": "Security Engineer, RF and Technical Surveillance Countermeasures",
+    "company": "anthropic",
+    "alerted": true
+  },
+  "8375181": {
+    "first_seen": "2026-11-25T04:35:43.200388+00:00",
+    "updated_at": "2026-11-10T19:06:55-05:00",
+    "title": "Security Engineer, Product Security",
+    "company": "flexport",
+    "alerted": true
+  },
+  "8375179": {
+    "first_seen": "2026-11-25T04:35:43.200470+00:00",
+    "updated_at": "2026-11-10T19:13:37-05:00",
+    "title": "Security Engineer, Product Security",
+    "company": "flexport",
+    "alerted": false
   }
 }
