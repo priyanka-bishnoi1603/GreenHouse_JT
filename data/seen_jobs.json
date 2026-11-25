@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-11-25": 3
-  },
-  "4726812006": {
-    "first_seen": "2026-11-18T10:06:46.630713+00:00",
-    "updated_at": "2026-11-23T22:13:55-05:00",
-    "title": "Cloud Security Specialist",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-11-25": 4
   },
   "8176398": {
     "first_seen": "2026-11-18T18:50:13.059694+00:00",
@@ -288,5 +281,12 @@
     "title": "Security Engineer, Product Security",
     "company": "flexport",
     "alerted": false
+  },
+  "4726812006": {
+    "first_seen": "2026-11-25T14:57:59.575794+00:00",
+    "updated_at": "2026-11-23T22:13:55-05:00",
+    "title": "Cloud Security Specialist",
+    "company": "accenturefederalservices",
+    "alerted": true
   }
 }
