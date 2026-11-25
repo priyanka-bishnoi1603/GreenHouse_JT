@@ -1,34 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-11-25": 4
-  },
-  "8176398": {
-    "first_seen": "2026-11-18T18:50:13.059694+00:00",
-    "updated_at": "2026-11-23T08:29:17-05:00",
-    "title": "Cloud Security Intern",
-    "company": "tanium",
-    "alerted": true
-  },
-  "4716511006": {
-    "first_seen": "2026-11-18T18:50:38.551756+00:00",
-    "updated_at": "2026-11-18T13:30:05-05:00",
-    "title": "Multi-Cloud Security & Compliance Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "7867389": {
-    "first_seen": "2026-11-18T18:50:40.453784+00:00",
-    "updated_at": "2026-11-19T12:12:20-05:00",
-    "title": "Cloud Security Engineer",
-    "company": "stripe",
-    "alerted": true
-  },
-  "8371261": {
-    "first_seen": "2026-11-18T18:50:45.807378+00:00",
-    "updated_at": "2026-11-20T16:16:39-05:00",
-    "title": "Application Security Engineer",
-    "company": "intercom",
-    "alerted": true
+    "2026-11-25": 8
   },
   "8335066": {
     "first_seen": "2026-11-19T00:56:33.133095+00:00",
@@ -144,7 +116,7 @@
   },
   "8348189": {
     "first_seen": "2026-11-21T02:57:40.694283+00:00",
-    "updated_at": "2026-11-23T12:27:43-05:00",
+    "updated_at": "2026-11-25T12:16:17-05:00",
     "title": "Security Operations Analyst",
     "company": "gusto",
     "alerted": true
@@ -287,6 +259,34 @@
     "updated_at": "2026-11-23T22:13:55-05:00",
     "title": "Cloud Security Specialist",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "8176398": {
+    "first_seen": "2026-11-25T23:29:19.330023+00:00",
+    "updated_at": "2026-11-23T08:29:17-05:00",
+    "title": "Cloud Security Intern",
+    "company": "tanium",
+    "alerted": true
+  },
+  "7867389": {
+    "first_seen": "2026-11-25T23:29:24.618636+00:00",
+    "updated_at": "2026-11-19T12:12:20-05:00",
+    "title": "Cloud Security Engineer",
+    "company": "stripe",
+    "alerted": true
+  },
+  "8415869": {
+    "first_seen": "2026-11-25T23:29:24.779994+00:00",
+    "updated_at": "2026-11-25T16:43:19-05:00",
+    "title": "Security Engineer Intern",
+    "company": "coinbase",
+    "alerted": true
+  },
+  "8371261": {
+    "first_seen": "2026-11-25T23:29:29.399030+00:00",
+    "updated_at": "2026-11-20T16:16:39-05:00",
+    "title": "Application Security Engineer",
+    "company": "intercom",
     "alerted": true
   }
 }

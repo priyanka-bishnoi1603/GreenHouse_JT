@@ -2,6 +2,39 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-11-25 23:29 UTC
+
+### 🆕 Cloud Security Intern
+**tanium** · Engineering - Shared Services
+📍 Durham, NC (Hybrid) &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/tanium/jobs/8176398)
+🕐 Updated: `2026-11-23T08:29:17-05:00` &nbsp;|&nbsp; ID: `8176398`
+
+---
+### 🆕 Cloud Security Engineer
+**stripe** · 8614 Office of the CISO & Partnership
+📍 Seattle &nbsp;|&nbsp; 🔗 [Apply Here](https://stripe.com/jobs/search?gh_jid=7867389)
+🕐 Updated: `2026-11-19T12:12:20-05:00` &nbsp;|&nbsp; ID: `7867389`
+
+---
+### 🆕 Security Engineer Intern
+**coinbase** · Internships & Emerging Talent Positions
+📍 Hybrid - New York, NY &nbsp;|&nbsp; 🔗 [Apply Here](https://www.coinbase.com/careers/positions/8415869?gh_jid=8415869)
+🕐 Updated: `2026-11-25T16:43:19-05:00` &nbsp;|&nbsp; ID: `8415869`
+
+---
+### 🆕 Application Security Engineer
+**intercom** · Engineering
+📍 Chicago, Illinois &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/intercom/jobs/8371261)
+🕐 Updated: `2026-11-20T16:16:39-05:00` &nbsp;|&nbsp; ID: `8371261`
+
+---
+### 🔄 Security Operations Analyst
+**gusto** · Security
+📍 Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid &nbsp;|&nbsp; 🔗 [Apply Here](https://job-boards.greenhouse.io/gusto/jobs/8348189)
+🕐 Updated: `2026-11-25T12:16:17-05:00` &nbsp;|&nbsp; ID: `8348189`
+
+---
+
 ## 📅 Run: 2026-11-25 14:58 UTC
 
 ### 🆕 Cloud Security Specialist
