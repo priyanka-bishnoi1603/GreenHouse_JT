@@ -1,20 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-11-26": 6
-  },
-  "4688933006": {
-    "first_seen": "2026-11-19T17:31:16.822254+00:00",
-    "updated_at": "2026-11-23T22:13:55-05:00",
-    "title": "Information System Security Engineer ",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "4726020006": {
-    "first_seen": "2026-11-19T23:50:01.622828+00:00",
-    "updated_at": "2026-11-24T11:23:48-05:00",
-    "title": "Personnel Security Analyst",
-    "company": "accenturefederalservices",
-    "alerted": true
+    "2026-11-26": 8
   },
   "4719910006": {
     "first_seen": "2026-11-20T05:30:34.267239+00:00",
@@ -287,6 +273,20 @@
     "updated_at": "2026-11-13T12:04:30-05:00",
     "title": "Security Operations Analyst - West Coast/Mountain Shift ",
     "company": "huntress",
+    "alerted": true
+  },
+  "4688933006": {
+    "first_seen": "2026-11-26T23:59:46.423835+00:00",
+    "updated_at": "2026-11-23T22:13:55-05:00",
+    "title": "Information System Security Engineer ",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4726020006": {
+    "first_seen": "2026-11-26T23:59:46.430438+00:00",
+    "updated_at": "2026-11-24T11:23:48-05:00",
+    "title": "Personnel Security Analyst",
+    "company": "accenturefederalservices",
     "alerted": true
   }
 }

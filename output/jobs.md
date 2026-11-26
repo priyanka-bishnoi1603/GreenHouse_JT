@@ -2,6 +2,21 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-11-26 23:59 UTC
+
+### 🆕 Information System Security Engineer 
+**accenturefederalservices** · 56219060 - AFS Cyber Strategy Risk and Architecture
+📍 Colorado Springs, CO &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4688933006?gh_jid=4688933006)
+🕐 Updated: `2026-11-23T22:13:55-05:00` &nbsp;|&nbsp; ID: `4688933006`
+
+---
+### 🆕 Personnel Security Analyst
+**accenturefederalservices** · 58282650 - AFS Personnel Security
+📍 San Antonio, TX &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4726020006?gh_jid=4726020006)
+🕐 Updated: `2026-11-24T11:23:48-05:00` &nbsp;|&nbsp; ID: `4726020006`
+
+---
+
 ## 📅 Run: 2026-11-26 15:33 UTC
 
 ### 🆕 Security Operations Analyst - West Coast/Mountain Shift 
