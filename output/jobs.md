@@ -2,6 +2,15 @@
 _Filtered: USA/Remote · Cybersecurity & SOC roles only_
 
 
+## 📅 Run: 2026-11-27 08:02 UTC
+
+### 🆕 Information Systems Security Engineer (ISSE)
+**accenturefederalservices** · 56219060 - AFS Cyber Strategy Risk and Architecture
+📍 Colorado Springs, CO &nbsp;|&nbsp; 🔗 [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4719910006?gh_jid=4719910006)
+🕐 Updated: `2026-11-23T22:13:55-05:00` &nbsp;|&nbsp; ID: `4719910006`
+
+---
+
 ## 📅 Run: 2026-11-26 23:59 UTC
 
 ### 🆕 Information System Security Engineer 
