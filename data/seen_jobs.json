@@ -1,13 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-11-27": 1
-  },
-  "4982193008": {
-    "first_seen": "2026-11-20T14:21:47.888301+00:00",
-    "updated_at": "2026-08-21T12:49:45-04:00",
-    "title": "Security Engineer, Detection & Response",
-    "company": "anthropic",
-    "alerted": true
+    "2026-11-27": 2
   },
   "8177619": {
     "first_seen": "2026-11-20T21:54:22.738028+00:00",
@@ -287,6 +280,13 @@
     "updated_at": "2026-11-23T22:13:55-05:00",
     "title": "Information Systems Security Engineer (ISSE)",
     "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4982193008": {
+    "first_seen": "2026-11-27T18:09:45.196173+00:00",
+    "updated_at": "2026-08-21T12:49:45-04:00",
+    "title": "Security Engineer, Detection & Response",
+    "company": "anthropic",
     "alerted": true
   }
 }
