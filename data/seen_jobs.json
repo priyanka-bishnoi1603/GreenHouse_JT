@@ -1,48 +1,6 @@
 {
   "__daily_alerts__": {
-    "2026-11-28": 1
-  },
-  "4720662006": {
-    "first_seen": "2026-11-21T02:57:36.744412+00:00",
-    "updated_at": "2026-11-23T22:13:55-05:00",
-    "title": "Application Security Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "4722595006": {
-    "first_seen": "2026-11-21T02:57:36.744507+00:00",
-    "updated_at": "2026-11-23T22:13:55-05:00",
-    "title": "Application Security Engineer ",
-    "company": "accenturefederalservices",
-    "alerted": false
-  },
-  "4726144006": {
-    "first_seen": "2026-11-21T02:57:36.753890+00:00",
-    "updated_at": "2026-11-23T22:13:55-05:00",
-    "title": "Cyber Security Engineer",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "4720525006": {
-    "first_seen": "2026-11-21T02:57:36.754012+00:00",
-    "updated_at": "2026-11-23T22:13:55-05:00",
-    "title": "Cyber Threat Intelligence Analyst",
-    "company": "accenturefederalservices",
-    "alerted": true
-  },
-  "8348189": {
-    "first_seen": "2026-11-21T02:57:40.694283+00:00",
-    "updated_at": "2026-11-25T12:16:17-05:00",
-    "title": "Security Operations Analyst",
-    "company": "gusto",
-    "alerted": true
-  },
-  "8357913": {
-    "first_seen": "2026-11-21T02:57:44.627019+00:00",
-    "updated_at": "2026-11-19T13:21:17-05:00",
-    "title": "Security Engineer",
-    "company": "mixpanel",
-    "alerted": true
+    "2026-11-28": 6
   },
   "8032052003": {
     "first_seen": "2026-11-21T10:44:35.730482+00:00",
@@ -287,6 +245,48 @@
     "updated_at": "2026-10-30T11:06:11-04:00",
     "title": "Threat Intelligence Platform Engineer",
     "company": "coinbase",
+    "alerted": true
+  },
+  "4720662006": {
+    "first_seen": "2026-11-28T09:11:20.267023+00:00",
+    "updated_at": "2026-11-23T22:13:55-05:00",
+    "title": "Application Security Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4722595006": {
+    "first_seen": "2026-11-28T09:11:20.267107+00:00",
+    "updated_at": "2026-11-23T22:13:55-05:00",
+    "title": "Application Security Engineer ",
+    "company": "accenturefederalservices",
+    "alerted": false
+  },
+  "4726144006": {
+    "first_seen": "2026-11-28T09:11:20.276713+00:00",
+    "updated_at": "2026-11-23T22:13:55-05:00",
+    "title": "Cyber Security Engineer",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "4720525006": {
+    "first_seen": "2026-11-28T09:11:20.276843+00:00",
+    "updated_at": "2026-11-23T22:13:55-05:00",
+    "title": "Cyber Threat Intelligence Analyst",
+    "company": "accenturefederalservices",
+    "alerted": true
+  },
+  "8348189": {
+    "first_seen": "2026-11-28T09:11:23.808964+00:00",
+    "updated_at": "2026-11-25T12:16:17-05:00",
+    "title": "Security Operations Analyst",
+    "company": "gusto",
+    "alerted": true
+  },
+  "8357913": {
+    "first_seen": "2026-11-28T09:11:27.358892+00:00",
+    "updated_at": "2026-11-19T13:21:17-05:00",
+    "title": "Security Engineer",
+    "company": "mixpanel",
     "alerted": true
   }
 }
